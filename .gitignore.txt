@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+.DS_Store
+chrome-mac-arm64/
+*.pyc
