@@ -1,6 +1,5 @@
 name: Generate all RSS feeds
   run: PYTHONPATH=. python generate_all.py
-
 on:
   schedule:
     - cron:  '0 * * * *'
