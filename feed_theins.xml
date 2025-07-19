@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Расследования" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Jul 2025 18:55:58 +0000</lastBuildDate>
-    <item>
-      <title>Водочки нам принеси. Как чекисты, глава РПЦ, олигархи, дети Шойгу и Мишустина летают за границу под видом дипломатов</title>
-      <link>https://theins.ru/inv/276163</link>
-      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 19 Jul 2025 14:29:10 +0000</lastBuildDate>
     <item>
       <title>Золотые происки. Как Россия в обход санкций вывозит через Армению золото на миллиарды долларов</title>
       <link>https://theins.ru/inv/276309</link>
@@ -186,6 +181,11 @@
       <title>Не «отжали», а подарили: как лидеру Подольской ОПГ Лучку достался бизнес изгнанных из России иностранцев</title>
       <link>https://theins.ru/inv/282983</link>
       <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Парижский консильери: директор французской компании, продающей оружие ВСУ, летает в Москву и управляет деньгами «кремлевского общака»</title>
+      <link>https://theins.ru/inv/2832344</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
