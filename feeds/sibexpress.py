@@ -9,9 +9,10 @@ MONTHS = {
     'июл': 7, 'авг': 8, 'сен': 9, 'окт': 10, 'ноя': 11, 'дек': 12
 }
 
-def parse_date(date_str: str) -> datetime:
+def parse_date(date_str: str) -> datetime | None:
     """
     Преобразует '17 июл 2025, 15:01' в datetime с UTC.
+    Возвращает None, если дата не распознана.
     """
     try:
         match = re.match(r"(\d{1,2}) (\w{3}) (\d{4}), (\d{2}):(\d{2})", date_str.strip())
@@ -21,7 +22,7 @@ def parse_date(date_str: str) -> datetime:
             return datetime(int(year), int(month), int(day), int(hour), int(minute), tzinfo=timezone.utc)
     except Exception:
         pass
-    return datetime.now(timezone.utc)
+    return None
 
 def generate():
     url = 'https://sib.express/'
@@ -48,6 +49,11 @@ def generate():
             date_tag = a.select_one('.announce-3-in-line-block__date')
             date_str = date_tag.get_text(strip=True) if date_tag else ''
             pub_date = parse_date(date_str)
+
+            # Если не удалось распознать дату — не добавляем эту новость
+            if not (title and link and pub_date):
+                continue
+
             image_tag = a.select_one('.announce-3-in-line-block__image')
             image_url = ''
             if image_tag and 'background-image' in image_tag.attrs.get('style', ''):
@@ -56,11 +62,8 @@ def generate():
                 if m:
                     image_url = m.group(1)
 
-            if not (title and link):
-                continue
-
             fe = fg.add_entry()
-            fe.id(link)  # Явно задаём guid!
+            fe.id(link)
             fe.title(title)
             fe.link(href=link)
             fe.pubDate(pub_date)
@@ -75,16 +78,18 @@ def generate():
             link = 'https://sib.express' + link
         title_tag = photo_post.select_one('.index-photo-post__title')
         title = title_tag.get_text(strip=True) if title_tag else None
-        # --- Дата для фото-поста ---
         date_tag = photo_post.select_one('.announce-3-in-line-block__date')
         date_str = date_tag.get_text(strip=True) if date_tag else ''
-        pub_date = parse_date(date_str) if date_str else datetime.now(timezone.utc)
-        # --- Картинка для фото-поста ---
-        style = photo_post.attrs.get('style', '')
-        m = re.search(r'url\(\'(.*?)\'\)', style)
-        image_url = m.group(1) if m else ''
+        pub_date = parse_date(date_str)
 
-        if title and link:
+        # Если не удалось распознать дату — не добавляем фото-пост
+        if not (title and link and pub_date):
+            pass  # Не добавляем ничего
+        else:
+            style = photo_post.attrs.get('style', '')
+            m = re.search(r'url\(\'(.*?)\'\)', style)
+            image_url = m.group(1) if m else ''
+
             fe = fg.add_entry()
             fe.id(link)
             fe.title(title)
