@@ -21,6 +21,13 @@ def get_article_date(article_url):
         print(f"Ошибка при получении даты из {article_url}: {e}")
     return datetime.now(timezone.utc)
 
+def is_valid_article(href, title):
+    # Не добавлять мобильное приложение и другие мусорные ссылки
+    if '/mobileapp' in href or 'мобильное приложение' in title.lower():
+        return False
+    # Можно добавить и другие фильтры по необходимости
+    return True
+
 def generate():
     r = requests.get(START_URL)
     r.encoding = 'utf-8'
@@ -41,13 +48,18 @@ def generate():
         href = a['href']
         if not href.startswith('http'):
             href = BASE + href
-        if href in seen_links:
-            continue
-        seen_links.add(href)
 
         # Заголовок
         title_tag = li.select_one('h4')
         title = title_tag.get_text(strip=True) if title_tag else a.get('title', a.get_text(strip=True))
+
+        # --- ФИЛЬТРАЦИЯ НЕСТАТЕЙ ---
+        if not is_valid_article(href, title):
+            continue
+
+        if href in seen_links:
+            continue
+        seen_links.add(href)
 
         # Картинка (ищем <img> внутри .thumb)
         img = ''
@@ -63,6 +75,7 @@ def generate():
 
         # Добавляем в RSS
         fe = fg.add_entry()
+        fe.id(href)  # <--- Явно задаём guid!
         fe.title(title)
         fe.link(href=href)
         fe.pubDate(pub_date)
