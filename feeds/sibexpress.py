@@ -60,27 +60,33 @@ def generate():
                 continue
 
             fe = fg.add_entry()
+            fe.id(link)  # Явно задаём guid!
             fe.title(title)
             fe.link(href=link)
             fe.pubDate(pub_date)
             if image_url:
                 fe.enclosure(image_url, 0, 'image/jpeg')
 
-    # Фото-пост, который идёт отдельным блоком (опционально, можно закомментировать)
+    # Фото-пост, который идёт отдельным блоком
     photo_post = soup.select_one('.index-photo-post__link')
     if photo_post:
         link = photo_post['href']
         if not link.startswith('http'):
             link = 'https://sib.express' + link
-        title = photo_post.select_one('.index-photo-post__title')
-        title = title.get_text(strip=True) if title else None
+        title_tag = photo_post.select_one('.index-photo-post__title')
+        title = title_tag.get_text(strip=True) if title_tag else None
+        # --- Дата для фото-поста ---
+        date_tag = photo_post.select_one('.announce-3-in-line-block__date')
+        date_str = date_tag.get_text(strip=True) if date_tag else ''
+        pub_date = parse_date(date_str) if date_str else datetime.now(timezone.utc)
+        # --- Картинка для фото-поста ---
         style = photo_post.attrs.get('style', '')
         m = re.search(r'url\(\'(.*?)\'\)', style)
         image_url = m.group(1) if m else ''
-        pub_date = datetime.now(timezone.utc)
 
         if title and link:
             fe = fg.add_entry()
+            fe.id(link)
             fe.title(title)
             fe.link(href=link)
             fe.pubDate(pub_date)
