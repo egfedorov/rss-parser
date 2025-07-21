@@ -3,8 +3,6 @@ from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 from datetime import datetime, timezone
 import re
-import requests
-from bs4 import BeautifulSoup
 from dateutil import parser as dateparser
 
 def generate():
@@ -24,7 +22,6 @@ def generate():
         title_tag = item.select_one('.b-material__head')
         link_tag = item.select_one('a.b-material__txt')
         description_tag = item.select_one('.b-material__lead')
-        date_tag = item.select_one('time.b-material__date')
 
         if not (title_tag and link_tag and description_tag):
             continue
@@ -33,28 +30,29 @@ def generate():
         link = link_tag['href']
         description = description_tag.get_text(strip=True)
 
-        # По умолчанию ставим текущую дату
-        pub_date = datetime.now(timezone.utc)  # по умолчанию
+        pub_date = None
 
-        # 1. Пробуем вытащить дату из URL
-        date_match = re.search(r'/(\d{4})/(\d{2})/', link)
-        if date_match:
-            year, month = map(int, date_match.groups())
-            pub_date = datetime(year, month, 1, tzinfo=timezone.utc)
+        # 1. Пытаемся получить дату публикации из самой статьи (<time datetime=...>)
+        try:
+            article_response = requests.get(link, timeout=5)
+            article_soup = BeautifulSoup(article_response.text, 'html.parser')
+            time_tag = article_soup.select_one('time[datetime]')
+            if time_tag and time_tag.has_attr('datetime'):
+                parsed = dateparser.parse(time_tag['datetime'])
+                if parsed.tzinfo is None:
+                    parsed = parsed.replace(tzinfo=timezone.utc)
+                pub_date = parsed.astimezone(timezone.utc)
+        except Exception as e:
+            print(f"⚠️ Не удалось получить дату из {link}: {e}")
 
-        else:
-            # 2. Пробуем открыть статью и найти <time datetime="...">
-            try:
-                article_response = requests.get(link, timeout=5)
-                article_soup = BeautifulSoup(article_response.text, 'html.parser')
-                time_tag = article_soup.select_one('time[datetime]')
-                if time_tag and time_tag.has_attr('datetime'):
-                    parsed = dateparser.parse(time_tag['datetime'])
-                    if parsed.tzinfo is None:
-                        parsed = parsed.replace(tzinfo=timezone.utc)
-                    pub_date = parsed.astimezone(timezone.utc)
-            except Exception as e:
-                print(f"⚠️ Не удалось получить дату из {link}: {e}")
+        # 2. Если не нашли дату в статье — пробуем взять её из url (год/месяц)
+        if not pub_date:
+            date_match = re.search(r'/(\d{4})/(\d{2})/', link)
+            if date_match:
+                year, month = map(int, date_match.groups())
+                pub_date = datetime(year, month, 1, tzinfo=timezone.utc)
+            else:
+                pub_date = datetime.now(timezone.utc)  # fallback
 
         fe = fg.add_entry()
         fe.title(title)
@@ -63,3 +61,6 @@ def generate():
         fe.pubDate(pub_date)
 
     fg.rss_file('takiedela.xml')
+
+if __name__ == '__main__':
+    generate()
