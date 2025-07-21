@@ -35,7 +35,7 @@ def generate():
     fg.description('Новости Сиб.Экспресс')
     fg.language('ru')
 
-    # Блоки с новостями
+    # Все карточки новостей
     for announce in soup.select('.announce-3-in-line'):
         for div in announce.select('div'):
             a = div.find('a', class_='announce-3-in-line-block__link')
@@ -50,7 +50,7 @@ def generate():
             date_str = date_tag.get_text(strip=True) if date_tag else ''
             pub_date = parse_date(date_str)
 
-            # Если не удалось распознать дату — не добавляем эту новость
+            # Критически: если нет даты — пропускаем!
             if not (title and link and pub_date):
                 continue
 
@@ -64,6 +64,7 @@ def generate():
 
             fe = fg.add_entry()
             fe.id(link)
+            fe.guid(link, permalink=False)
             fe.title(title)
             fe.link(href=link)
             fe.pubDate(pub_date)
@@ -78,13 +79,19 @@ def generate():
             link = 'https://sib.express' + link
         title_tag = photo_post.select_one('.index-photo-post__title')
         title = title_tag.get_text(strip=True) if title_tag else None
-        date_tag = photo_post.select_one('.announce-3-in-line-block__date')
-        date_str = date_tag.get_text(strip=True) if date_tag else ''
-        pub_date = parse_date(date_str)
 
-        # Если не удалось распознать дату — не добавляем фото-пост
+        # Дата у фото-поста теперь есть только внутри самого фото-поста
+        # Можно не добавлять если не находим на главной
+        pub_date = None
+        # Попробуем найти дату в родительском блоке
+        photo_post_parent = photo_post.find_parent(class_='index-photo-post')
+        if photo_post_parent:
+            date_tag = photo_post_parent.select_one('.announce-3-in-line-block__date')
+            date_str = date_tag.get_text(strip=True) if date_tag else ''
+            pub_date = parse_date(date_str)
+        # Если даты нет — не добавляем
         if not (title and link and pub_date):
-            pass  # Не добавляем ничего
+            pass
         else:
             style = photo_post.attrs.get('style', '')
             m = re.search(r'url\(\'(.*?)\'\)', style)
@@ -92,6 +99,7 @@ def generate():
 
             fe = fg.add_entry()
             fe.id(link)
+            fe.guid(link, permalink=False)
             fe.title(title)
             fe.link(href=link)
             fe.pubDate(pub_date)
