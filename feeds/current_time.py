@@ -9,18 +9,15 @@ def parse_article_date(article_url):
     response = requests.get(article_url)
     response.encoding = 'utf-8'
     soup = BeautifulSoup(response.text, 'html.parser')
-    # Попробуем два типовых варианта:
     # 1. <time> с датой
     time_tag = soup.find('time')
     if time_tag and time_tag.has_attr('datetime'):
-        # ISO формат
         try:
             return datetime.fromisoformat(time_tag['datetime']).astimezone(timezone.utc)
         except Exception:
             pass
     # 2. Просто текст вида "15 июля 2024"
     text = ''
-    # Встречается ли дата в явном виде?
     for el in soup.find_all(string=re.compile(r'\d{1,2}\s+\w+\s+\d{4}')):
         text = el.strip()
         break
@@ -35,7 +32,6 @@ def parse_article_date(article_url):
             month = MONTHS.get(match.group(2).lower(), 1)
             year = int(match.group(3))
             return datetime(year, month, day, 12, 0, tzinfo=timezone.utc)
-    # По дефолту — сейчас
     return datetime.now(timezone.utc)
 
 def generate():
@@ -47,23 +43,41 @@ def generate():
     fg = FeedGenerator()
     fg.title('Настоящее Время — Лонгриды')
     fg.link(href=url, rel='alternate')
-    fg.description('Все лонгриды с сайта Настоящее Время')
+    fg.description('Лонгриды на сайте Настоящее Время')
     fg.language('ru')
 
-    # Парсим лонгриды из списка <li>
-    for card in soup.select('div.media-block-wrap ul > li'):
-        link_tag = card.select_one('a.img-wrap')
-        title_tag = card.select_one('h4.media-block__title')
+    # Найти <div class="row"><ul>...</ul></div>
+    news_list = soup.select_one('div.row ul')
+    if not news_list:
+        print('❌ Не найден основной блок с материалами!')
+        return
 
-        link = urljoin(url, link_tag['href']) if link_tag else None
-        title = title_tag.text.strip() if title_tag else None
+    for li in news_list.select('li.fui-bob-grid'):
+        link_tag = li.select_one('a.img-wrap')
+        title_tag = li.select_one('h4.media-block__title')
 
-        if title and link:
-            pub_date = parse_article_date(link)
-            fe = fg.add_entry()
-            fe.title(title)
-            fe.link(href=link)
-            fe.pubDate(pub_date)
+        if not link_tag or not title_tag:
+            continue
+
+        link = urljoin(url, link_tag['href'])
+        title = title_tag.text.strip()
+        
+        # Описание — опционально
+        desc = title_tag['title'] if title_tag.has_attr('title') else ''
+        # Картинка — опционально
+        img_tag = li.select_one('img.enhanced')
+        image = img_tag['src'] if img_tag and img_tag.has_attr('src') else None
+
+        pub_date = parse_article_date(link)
+
+        fe = fg.add_entry()
+        fe.title(title)
+        fe.link(href=link)
+        fe.pubDate(pub_date)
+        if desc:
+            fe.description(desc)
+        if image:
+            fe.enclosure(image, 0, 'image/jpeg')
 
     fg.rss_file('current_time.xml')
 
