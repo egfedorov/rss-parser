@@ -5,22 +5,31 @@ from urllib.parse import urljoin
 from datetime import datetime, timezone
 import re
 
-def parse_article_date(link, fallback_html=None):
-    # Пробуем вытащить дату из ссылки: /2025/06/18/kryktytau
+def parse_article_date(link):
+    # Сначала пробуем вытащить дату из url вида /2025/06/18/kryktytau
     m = re.search(r'/(\d{4})/(\d{2})/(\d{2})/', link)
     if m:
         year, month, day = map(int, m.groups())
         return datetime(year, month, day, 12, 0, tzinfo=timezone.utc)
-    # Если что — идём внутрь самой статьи (опционально)
-    if fallback_html is not None:
-        soup = BeautifulSoup(fallback_html, 'html.parser')
-        # Например: <span class="date-display-single" ...>18.06.2025</span>
+    # Если не вышло — идём в саму статью и ищем <time datetime="...">
+    try:
+        resp = requests.get(link, timeout=7)
+        resp.encoding = 'utf-8'
+        soup = BeautifulSoup(resp.text, 'html.parser')
+        time_tag = soup.find('time', attrs={'datetime': True})
+        if time_tag and time_tag.has_attr('datetime'):
+            dt_str = time_tag['datetime']
+            # Попробуем iso-формат
+            return datetime.fromisoformat(dt_str)
+        # Fallback: .date-display-single 18.06.2025
         date_tag = soup.find(class_=re.compile(r'date-display-single'))
         if date_tag:
             match = re.search(r'(\d{2})\.(\d{2})\.(\d{4})', date_tag.text)
             if match:
                 day, month, year = map(int, match.groups())
                 return datetime(year, month, day, 12, 0, tzinfo=timezone.utc)
+    except Exception as e:
+        print(f"⚠️ Не удалось получить дату для {link}: {e}")
     # Если совсем ничего нет
     return datetime.now(timezone.utc)
 
@@ -37,24 +46,24 @@ def generate():
     fg.description('Все статьи с сайта ОВД-Инфо')
     fg.language('ru')
 
-    # Парсим первые 20 статей с главной страницы /articles
-    for card in soup.select('.views-row .media-anons-cont'):
-        title_tag = card.select_one('.media-title')
-        link_tag = title_tag if title_tag and title_tag.has_attr('href') else card.find('a', href=True)
-        desc_tag = card.select_one('.media-text-more-media-text')
-        title = title_tag.text.strip() if title_tag else None
-        link = urljoin(base_url, link_tag['href']) if link_tag else None
-        description = desc_tag.text.strip() if desc_tag else None
-
-        if not (title and link):
+    # Корректный селектор к статьям!
+    for card in soup.select('div.view-content > div.views-row'):
+        a_tag = card.select_one('a.media-title')
+        if not a_tag:
             continue
+        link = a_tag['href']
+        if not link.startswith('http'):
+            link = urljoin(base_url, link)
+        title = a_tag.get_text(strip=True)
+        desc_tag = card.select_one('span.material-text-more-media-text')
+        description = desc_tag.get_text(strip=True) if desc_tag else title
 
         pub_date = parse_article_date(link)
+
         fe = fg.add_entry()
         fe.title(title)
         fe.link(href=link)
-        if description:
-            fe.description(description)
+        fe.description(description)
         fe.pubDate(pub_date)
 
     fg.rss_file('ovd_texts.xml')
