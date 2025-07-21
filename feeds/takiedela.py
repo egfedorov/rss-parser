@@ -4,6 +4,7 @@ from feedgen.feed import FeedGenerator
 from datetime import datetime, timezone
 import re
 from dateutil import parser as dateparser
+from urllib.parse import urljoin
 
 def generate():
     url = 'https://takiedela.ru/stories/'
@@ -27,32 +28,33 @@ def generate():
             continue
 
         title = title_tag.get_text(strip=True)
-        link = link_tag['href']
+        link = urljoin(url, link_tag['href'])
         description = description_tag.get_text(strip=True)
 
         pub_date = None
 
-        # 1. Пытаемся получить дату публикации из самой статьи (<time datetime=...>)
+        # Открываем статью и ищем дату по строгому селектору
         try:
             article_response = requests.get(link, timeout=5)
             article_soup = BeautifulSoup(article_response.text, 'html.parser')
-            time_tag = article_soup.select_one('time[datetime]')
+            # Жёстко: time внутри article > div:nth-child(1) > div > time
+            # Иногда встречаются небольшие различия, поэтому можно взять просто:
+            # article > div > div > time
+            time_tag = article_soup.select_one('article > div > div > time')
             if time_tag and time_tag.has_attr('datetime'):
                 parsed = dateparser.parse(time_tag['datetime'])
                 if parsed.tzinfo is None:
                     parsed = parsed.replace(tzinfo=timezone.utc)
                 pub_date = parsed.astimezone(timezone.utc)
+            else:
+                print(f"‼️ Не найден <time> для {link}")
         except Exception as e:
             print(f"⚠️ Не удалось получить дату из {link}: {e}")
 
-        # 2. Если не нашли дату в статье — пробуем взять её из url (год/месяц)
+        # Если не нашли дату — пропускаем материал
         if not pub_date:
-            date_match = re.search(r'/(\d{4})/(\d{2})/', link)
-            if date_match:
-                year, month = map(int, date_match.groups())
-                pub_date = datetime(year, month, 1, tzinfo=timezone.utc)
-            else:
-                pub_date = datetime.now(timezone.utc)  # fallback
+            print(f"‼️ Не удалось определить дату для {link}, пропускаем")
+            continue
 
         fe = fg.add_entry()
         fe.title(title)
