@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Tue, 22 Jul 2025 10:35:37 +0000</lastBuildDate><item><title>Чем торгуют в книжных магазинах</title><link>https://gorky.media/context/cem-torguiut-v-kniznyx-magazinax</link><description>Борис Куприянов — об утрате смысла печатного слова
-
-07.07.2025</description><pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate></item><item><title>Пирамиды из пыли у текучих вод</title><link>https://gorky.media/context/piramidy-iz-pyli-u-tekucix-vod</link><description>Беседа с Михаилом Строгановым и Еленой Милюгиной о гениальном дилетанте XVIII века Николае Львове
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Tue, 22 Jul 2025 11:28:04 +0000</lastBuildDate><item><title>Пирамиды из пыли у текучих вод</title><link>https://gorky.media/context/piramidy-iz-pyli-u-tekucix-vod</link><description>Беседа с Михаилом Строгановым и Еленой Милюгиной о гениальном дилетанте XVIII века Николае Львове
 
 08.07.2025</description><pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate></item><item><title>«Мы ощутили себя швамбранами»</title><link>https://gorky.media/context/my-oshhutili-sebia-svambranami</link><description>К 120-летию со дня рождения Льва Кассиля
 
@@ -22,5 +20,7 @@
 18.07.2025</description><pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate></item><item><title>Благодарственное слово покупателям</title><link>https://gorky.media/context/blagodarstvennoe-slovo-pokupateliam</link><description>Борис Куприянов — о последствиях одного там судебного решения
 
 21.07.2025</description><pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate></item><item><title>«Органическая филология» Сергея Бочарова</title><link>https://gorky.media/context/organiceskaia-filologiia-sergeia-bocarova</link><description>Интервью с Ириной Сурат
+
+22.07.2025</description><pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate></item><item><title>«Ты миф в дверь — а он в окно»</title><link>https://gorky.media/context/ty-mif-v-dver-a-on-v-okno</link><description>Интервью с гебраистом Михаилом Вогманом
 
 22.07.2025</description><pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate></item></channel></rss>
