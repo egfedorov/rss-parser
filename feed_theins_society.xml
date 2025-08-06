@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Aug 2025 13:05:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 14:02:13 +0000</lastBuildDate>
     <item>
       <title>Узники без совести. Каких террористов отпускает Израиль в обмен на заложников</title>
       <link>https://theins.ru/obshestvo/278512</link>
@@ -118,7 +118,7 @@
       <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Выхода нет: как в России массово фабрикуют новые уголовные дела против уже осужденных политзаключенных</title>
+      <title>Выхода нет. Как в России массово фабрикуют новые уголовные дела против уже осужденных политзаключенных</title>
       <link>https://theins.ru/obshestvo/28208666</link>
       <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
     </item>
