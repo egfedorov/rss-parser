@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Aug 2025 05:38:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2025 06:48:20 +0000</lastBuildDate>
     <item>
       <title>Узники без совести. Каких террористов отпускает Израиль в обмен на заложников</title>
       <link>https://theins.ru/obshestvo/278512</link>
@@ -178,7 +178,7 @@
       <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Осел — последняя надежда: как животные помогают жителям сектора Газа пережить гуманитарную катастрофу</title>
+      <title>Осел — последняя надежда. Как животные помогают жителям сектора Газа пережить гуманитарную катастрофу</title>
       <link>https://theins.ru/obshestvo/283593</link>
       <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
     </item>
