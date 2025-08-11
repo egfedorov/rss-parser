@@ -15,7 +15,8 @@ def generate():
     fg.link(href=base_url, rel="alternate")
     fg.description("Свежие статьи из раздела Meduza: Хроника")
 
-    for item in data.get("documents", []):
+    documents = data.get("documents", {})
+    for doc_id, item in documents.items():
         try:
             title = item.get("title", "").strip()
             slug = item.get("slug", "")
@@ -32,6 +33,6 @@ def generate():
             print("⚠️ Ошибка:", e)
             continue
 
-    fg.rss_file("meduza_articles.xml")
+    fg.rss_file("meduza.xml")
 
 generate()
