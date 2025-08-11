@@ -16,13 +16,15 @@ def main():
         try:
             module = importlib.import_module(f'{feeds_dir}.{modname}')
             if hasattr(module, 'generate'):
-                print(f'Generating feed: {modname}')
+                print(f'⚙️  Generating via generate(): {modname}')
                 module.generate()
+            elif hasattr(module, 'main'):
+                print(f'⚙️  Generating via main(): {modname}')
+                module.main()
             else:
-                print(f'⚠️  {modname}: нет функции generate()')
+                print(f'⚠️  {modname}: нет функций generate() или main()')
         except Exception as e:
             print(f'❌ Ошибка при генерации {modname}: {e}')
 
 if __name__ == '__main__':
     main()
-    
