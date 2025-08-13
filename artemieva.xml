@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 13 Aug 2025 09:52:33 +0000</lastBuildDate>
-    <item>
-      <title>Осенний марафон цензуры — После летних отпусков РКН одним махом объявил вредными пять книжных сайтов, пять книг и четыре статьи. За что?</title>
-      <link>https://novayagazeta.ru/articles/2024/09/03/osennii-marafon-tsenzury</link>
-      <description>После летних отпусков РКН одним махом объявил вредными пять книжных сайтов, пять книг и четыре статьи. За что?</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/09/03/osennii-marafon-tsenzury</guid>
-      <pubDate>Tue, 03 Sep 2024 12:13:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Aug 2025 10:35:01 +0000</lastBuildDate>
     <item>
       <title>Ярмарка усталости — О прошедшей Московской книжной ярмарке и о том, как изменились за год стихи Z-поэтов</title>
       <link>https://novayagazeta.ru/articles/2024/09/10/iarmarka-ustalosti</link>
@@ -287,6 +280,13 @@
       <description>Разговор с Константином Пахалюком* о русской древности, региональной политике памяти и о том, почему на Россию пора перестать смотреть из столиц</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/02/gde-russkii-dukh-i-chem-pakhnet-v-stolitsakh</guid>
       <pubDate>Sat, 02 Aug 2025 07:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Я мыслю — следовательно, я не боюсь — Четыре компонента банального зла. Рецензия на книгу Михаила Немцева «Я тоже»</title>
+      <link>https://novayagazeta.ru/articles/2025/08/13/ia-mysliu-sledovatelno-ia-ne-boius</link>
+      <description>Четыре компонента банального зла. Рецензия на книгу Михаила Немцева «Я тоже»</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/13/ia-mysliu-sledovatelno-ia-ne-boius</guid>
+      <pubDate>Wed, 13 Aug 2025 10:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
