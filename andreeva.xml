@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 13 Aug 2025 13:45:41 +0000</lastBuildDate>
-    <item>
-      <title>«Наверное, они думают, что нога отрастет» — Как складывается жизнь ветерана СВО, тяжело раненного на Донбассе. Он — из бывших заключенных</title>
-      <link>https://novayagazeta.ru/articles/2024/04/04/navernoe-oni-dumaiut-chto-noga-otrastet</link>
-      <description>Как складывается жизнь ветерана СВО, тяжело раненного на Донбассе. Он — из бывших заключенных</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/04/04/navernoe-oni-dumaiut-chto-noga-otrastet</guid>
-      <pubDate>Thu, 04 Apr 2024 10:13:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Aug 2025 14:31:37 +0000</lastBuildDate>
     <item>
       <title>Не верь, не бойся, спроси, переспроси — Что вынуждены делать с книгами популярных авторов, объявленных «врагами народа», бедные российские библиотекари</title>
       <link>https://novayagazeta.ru/articles/2024/04/16/chitaiu-liubliu-i-ne-broshu</link>
@@ -287,6 +280,13 @@
       <description>Как хозяйка магазина в степном селе стала хранительницей старинной кирхи и надеется дать ей вторую жизнь</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/11/komu-zvonit-kolokol</guid>
       <pubDate>Mon, 11 Aug 2025 10:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Дубровном закончились дети — Как живет небольшое российское село, в котором нет ни газа, ни дороги, ни медпункта, ни почты, ни магазина. И даже детей теперь нет</title>
+      <link>https://novayagazeta.ru/articles/2025/08/13/v-dubrovnom-zakonchilis-deti</link>
+      <description>Как живет небольшое российское село, в котором нет ни газа, ни дороги, ни медпункта, ни почты, ни магазина. И даже детей теперь нет</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/13/v-dubrovnom-zakonchilis-deti</guid>
+      <pubDate>Wed, 13 Aug 2025 14:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
