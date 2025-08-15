@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Расследования" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Aug 2025 02:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 03:43:09 +0000</lastBuildDate>
     <item>
       <title>«В свободные выходные всегда улетаю в Европу» — создательница пропагандистских ток-шоу избежала санкций и скупает недвижимость в России и ЕС</title>
       <link>https://theins.ru/inv/278499</link>
