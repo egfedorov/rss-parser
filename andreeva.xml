@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 22 Aug 2025 07:44:59 +0000</lastBuildDate>
-    <item>
-      <title>Не верь, не бойся, спроси, переспроси — Что вынуждены делать с книгами популярных авторов, объявленных «врагами народа», бедные российские библиотекари</title>
-      <link>https://novayagazeta.ru/articles/2024/04/16/chitaiu-liubliu-i-ne-broshu</link>
-      <description>Что вынуждены делать с книгами популярных авторов, объявленных «врагами народа», бедные российские библиотекари</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/04/16/chitaiu-liubliu-i-ne-broshu</guid>
-      <pubDate>Tue, 16 Apr 2024 15:38:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Aug 2025 08:38:09 +0000</lastBuildDate>
     <item>
       <title>«Я поняла, что надо бежать» — В Саратове начался суд над участником СВО, который, приехав в отпуск, избил соседей</title>
       <link>https://novayagazeta.ru/articles/2024/04/23/ia-poniala-chto-nado-bezhat</link>
@@ -287,6 +280,13 @@
       <description>Как живет небольшое российское село, в котором нет ни газа, ни дороги, ни медпункта, ни почты, ни магазина. И даже детей теперь нет</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/13/v-dubrovnom-zakonchilis-deti</guid>
       <pubDate>Wed, 13 Aug 2025 14:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Дети оккупации» — История Элеоноры Дюпуи из Австрии, которая 30 лет пытается найти своего папу-красноармейца</title>
+      <link>https://novayagazeta.ru/articles/2025/08/22/deti-okkupatsii</link>
+      <description>История Элеоноры Дюпуи из Австрии, которая 30 лет пытается найти своего папу-красноармейца</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/22/deti-okkupatsii</guid>
+      <pubDate>Fri, 22 Aug 2025 08:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
