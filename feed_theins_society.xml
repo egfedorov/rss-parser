@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Aug 2025 06:36:30 +0000</lastBuildDate>
-    <item>
-      <title>«На вопрос, что рассказывать, я получал новый разряд тока». Как Россия превращает украинских военнопленных в «террористов»</title>
-      <link>https://theins.ru/obshestvo/279235</link>
-      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 23 Aug 2025 07:25:33 +0000</lastBuildDate>
     <item>
       <title>Погромы, избиения, угрозы. Европу захлестнула невиданная со Второй мировой волна антисемитизма</title>
       <link>https://theins.ru/obshestvo/279342</link>
@@ -186,6 +181,11 @@
       <title>Искусители престола. Почему католическая церковь не спешит бороться с педофилией в своих рядах</title>
       <link>https://theins.ru/obshestvo/283016</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Вся надежда только на дождь». Как жители Донецкой области переживают кризис водоснабжения. Репортаж The Insider</title>
+      <link>https://theins.ru/obshestvo/284192</link>
+      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
