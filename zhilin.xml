@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 23 Aug 2025 15:24:58 +0000</lastBuildDate>
-    <item>
-      <title>«Я не просила учить моего ребенка нажимать на курок» — Мама отказалась отправлять сына-школьника на военные сборы. Ее осудили за «дискредитацию армии»</title>
-      <link>https://novayagazeta.ru/articles/2024/10/15/ia-ne-prosila-chtoby-moego-rebenka-uchili-nazhimat-na-kurok</link>
-      <description>Мама отказалась отправлять сына-школьника на военные сборы. Ее осудили за «дискредитацию армии»</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/10/15/ia-ne-prosila-chtoby-moego-rebenka-uchili-nazhimat-na-kurok</guid>
-      <pubDate>Tue, 15 Oct 2024 07:08:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 23 Aug 2025 15:42:03 +0000</lastBuildDate>
     <item>
       <title>«Поставок нет и не будет» — Владельцы домашних животных в России жалуются на исчезновение качественных кормов и мошенничество с лекарствами. Что происходит</title>
       <link>https://novayagazeta.ru/articles/2024/10/24/postavok-net-i-ne-budet</link>
@@ -156,17 +149,17 @@
       <pubDate>Mon, 26 May 2025 07:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Шли все, как в компьютерной игре» — История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</title>
-      <link>https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</link>
-      <description>История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</guid>
-      <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Раненый говорит: “Пошлите, пошлите”. А мы просто рядом сидим» — История военного медика с позывным «Амулет», который считает, что мир примут все</title>
       <link>https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</link>
       <description>История военного медика с позывным «Амулет», который считает, что мир примут все</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</guid>
+      <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Шли все, как в компьютерной игре» — История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</title>
+      <link>https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</link>
+      <description>История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</guid>
       <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
     </item>
     <item>
@@ -287,6 +280,13 @@
       <description>Развитие туризма на Алтае оказалось проклятьем для местных жителей. В республике — многотысячные протесты</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/07/my-na-grani-togo-chto-nas-vyseliat-otsiuda</guid>
       <pubDate>Thu, 07 Aug 2025 07:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Не-не, брат, снимать не надо, мы хотим спокойно поскорбеть» — Репортаж с места крушения самолета с основателями ЧВК «Вагнер» Пригожиным и Уткиным во вторую годовщину их гибели</title>
+      <link>https://novayagazeta.ru/articles/2025/08/23/ne-ne-brat-snimat-ne-nado-my-khotim-spokoino-poskorbet</link>
+      <description>Репортаж с места крушения самолета с основателями ЧВК «Вагнер» Пригожиным и Уткиным во вторую годовщину их гибели</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/23/ne-ne-brat-snimat-ne-nado-my-khotim-spokoino-poskorbet</guid>
+      <pubDate>Sat, 23 Aug 2025 15:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
