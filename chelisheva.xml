@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 28 Aug 2025 07:42:31 +0000</lastBuildDate>
-    <item>
-      <title>«Собеседник» доставляется в Кремль и в Ново-Огарево» — Разговор с главным редактором газеты, ставшей лауреатом премии «Камертон» имени Анны Политковской, Олегом Ролдугиным</title>
-      <link>https://novayagazeta.ru/articles/2024/09/06/sobesednik-dostavliaetsia-v-kreml-i-v-novo-ogarevo</link>
-      <description>Разговор с главным редактором газеты, ставшей лауреатом премии «Камертон» имени Анны Политковской, Олегом Ролдугиным</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/09/06/sobesednik-dostavliaetsia-v-kreml-i-v-novo-ogarevo</guid>
-      <pubDate>Fri, 06 Sep 2024 15:41:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 Aug 2025 08:34:20 +0000</lastBuildDate>
     <item>
       <title>«Главной аудиторией была его совесть» — Политик Юлия Галямина* о погибшем в колонии музыканте Павле Кушнире и о том, почему никто ничего не знал</title>
       <link>https://novayagazeta.ru/videos/2024/09/14/glavnoi-auditoriei-byla-ego-sovest</link>
@@ -287,6 +280,13 @@
       <description>Осенью Дума может принять закон о круглогодичном призыве в армию. Рассказываем, что это за закон и каковы его последствия</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/07/30/chtoby-iz-nor-ne-vylezali</guid>
       <pubDate>Wed, 30 Jul 2025 08:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Как выжигают «скверну» — Государство наказывает за неправильное почитание монументов</title>
+      <link>https://novayagazeta.ru/articles/2025/08/28/kak-vyzhigaiut-skvernu</link>
+      <description>Государство наказывает за неправильное почитание монументов</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/28/kak-vyzhigaiut-skvernu</guid>
+      <pubDate>Thu, 28 Aug 2025 07:51:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
