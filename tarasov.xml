@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 29 Aug 2025 13:36:03 +0000</lastBuildDate>
-    <item>
-      <title>Мы — щепки, с нами лес — С нашими мертвецами сводят счеты. Они лежат ровно и не могут дать сдачи — но это иллюзия. И это сублимация гражданской войны</title>
-      <link>https://novayagazeta.ru/articles/2024/10/30/my-shchepki-s-nami-les</link>
-      <description>С нашими мертвецами сводят счеты. Они лежат ровно и не могут дать сдачи — но это иллюзия. И это сублимация гражданской войны</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/10/30/my-shchepki-s-nami-les</guid>
-      <pubDate>Wed, 30 Oct 2024 06:56:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Aug 2025 14:27:09 +0000</lastBuildDate>
     <item>
       <title>«Писем пишут все больше, их география расширяется» — Как безусловные рефлексы и конкретика мышления побеждают зло. Продолжаем разговор с политзэком Михаилом Афанасьевым о тюрьме и воле</title>
       <link>https://novayagazeta.ru/articles/2024/11/13/pisem-pishut-vse-bolshe-ikh-geografiia-rasshiriaetsia</link>
@@ -287,6 +280,13 @@
       <description>Американская дипломатия подводит Кремль к неожиданной мысли, что кроме Украины есть еще Россия. Есть Сибирь и Арктика</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/14/nazad-i-v-budushchee</guid>
       <pubDate>Thu, 14 Aug 2025 08:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Отдыхая от смерти — Беглецы из армий Второй мировой и СВО. Сравнительный анализ — как встречала родина дезертиров тогда и сейчас</title>
+      <link>https://novayagazeta.ru/articles/2025/08/29/otdykhaia-ot-smerti</link>
+      <description>Беглецы из армий Второй мировой и СВО. Сравнительный анализ — как встречала родина дезертиров тогда и сейчас</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/29/otdykhaia-ot-smerti</guid>
+      <pubDate>Fri, 29 Aug 2025 14:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
