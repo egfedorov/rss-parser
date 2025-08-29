@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 29 Aug 2025 10:27:35 +0000</lastBuildDate>
-    <item>
-      <title>«Тюрьма не терпит масок и вранья» — История инструктора по верховой езде Евгении Конфоркиной, которую обвинили в госизмене. Она написала нам из СИЗО</title>
-      <link>https://novayagazeta.ru/articles/2025/01/17/tiurma-ne-terpit-masok-i-vrania</link>
-      <description>История инструктора по верховой езде Евгении Конфоркиной, которую обвинили в госизмене. Она написала нам из СИЗО</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/01/17/tiurma-ne-terpit-masok-i-vrania</guid>
-      <pubDate>Fri, 17 Jan 2025 08:37:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Aug 2025 10:45:15 +0000</lastBuildDate>
     <item>
       <title>17, 16, 14 — теперь это возраст «террористов» в РФ — Силовики активно ловят подростков, получивших инструкции анонимных телефонных кураторов. Подборка за декабрь</title>
       <link>https://novayagazeta.ru/articles/2025/01/18/17-16-14-teper-eto-vozrast-terroristov-v-rf</link>
@@ -287,6 +280,13 @@
       <description>Политзека Горинова месяц держат в пыточных условиях в ШИЗО. Поводы для продления— оставленные очки и письма на тумбочке</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/25/ruki-za-spinu</guid>
       <pubDate>Mon, 25 Aug 2025 07:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Не страшно, когда бьют и угрожают. Страшно, когда ничего не можешь с этим сделать» — Письма фигурантов «Тюменского дела» в третий год заключения: о страхе, злости, надежде и стойкости</title>
+      <link>https://novayagazeta.ru/articles/2025/08/29/ne-strashno-kogda-biut-i-ugrozhaiut-strashno-kogda-nichego-ne-mozhesh-s-etim-sdelat</link>
+      <description>Письма фигурантов «Тюменского дела» в третий год заключения: о страхе, злости, надежде и стойкости</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/29/ne-strashno-kogda-biut-i-ugrozhaiut-strashno-kogda-nichego-ne-mozhesh-s-etim-sdelat</guid>
+      <pubDate>Fri, 29 Aug 2025 10:27:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
