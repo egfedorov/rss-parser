@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 04 Sep 2025 06:36:33 +0000</lastBuildDate>
-    <item>
-      <title>Пишу работу о криостате и мессбауэровских спектрах — Мы получили письмо из СИЗО от сотрудника Института ядерной физики Дмитрия Богмута, арестованного за «фейки»</title>
-      <link>https://novayagazeta.ru/articles/2025/01/22/pishu-rabotu-o-kriostate-i-messbauerovskikh-spektrakh</link>
-      <description>Мы получили письмо из СИЗО от сотрудника Института ядерной физики Дмитрия Богмута, арестованного за «фейки»</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/01/22/pishu-rabotu-o-kriostate-i-messbauerovskikh-spektrakh</guid>
-      <pubDate>Wed, 22 Jan 2025 07:03:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Sep 2025 07:24:03 +0000</lastBuildDate>
     <item>
       <title>«Расправа удалась» — Отец — под домашним арестом за донат в 300 рублей, а сын — в СИЗО за «дискредитацию». 15-летнего парня будут судить за недонесение на друга</title>
       <link>https://novayagazeta.ru/articles/2025/01/25/rasprava-udalas</link>
@@ -287,6 +280,13 @@
       <description>Уголовка за ролик про бабл ти, срок за стихотворение и госизмена — за 400 рублей</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/30/rodina-v-opasnosti-kriticheskii-komment-v-chate</guid>
       <pubDate>Sat, 30 Aug 2025 09:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Обвинение без подлежащего и сказуемого — Дело пожилого врача гоняют по кругу. Ее сын погиб при странных обстоятельствах. На допросы — в инвалидной коляске</title>
+      <link>https://novayagazeta.ru/articles/2025/09/04/obvinenie-bez-podlezhashchego-i-skazuemogo</link>
+      <description>Дело пожилого врача гоняют по кругу. Ее сын погиб при странных обстоятельствах. На допросы — в инвалидной коляске</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/04/obvinenie-bez-podlezhashchego-i-skazuemogo</guid>
+      <pubDate>Thu, 04 Sep 2025 07:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
