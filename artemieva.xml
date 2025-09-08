@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 08 Sep 2025 06:38:48 +0000</lastBuildDate>
-    <item>
-      <title>Ярмарка усталости — О прошедшей Московской книжной ярмарке и о том, как изменились за год стихи Z-поэтов</title>
-      <link>https://novayagazeta.ru/articles/2024/09/10/iarmarka-ustalosti</link>
-      <description>О прошедшей Московской книжной ярмарке и о том, как изменились за год стихи Z-поэтов</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/09/10/iarmarka-ustalosti</guid>
-      <pubDate>Tue, 10 Sep 2024 10:12:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Sep 2025 07:25:12 +0000</lastBuildDate>
     <item>
       <title>Агрессия как стратегия успеха, садизм как комплекс неполноценности — Известный психолог Александр Асмолов о претерпелости к насилию</title>
       <link>https://novayagazeta.ru/articles/2024/09/16/agressiia-kak-strategiia-uspekha-sadizm-kak-kompleks-nepolnotsennosti</link>
@@ -287,6 +280,13 @@
       <description>Четыре компонента банального зла. Рецензия на книгу Михаила Немцева «И я тоже»</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/13/ia-mysliu-sledovatelno-ia-ne-boius</guid>
       <pubDate>Wed, 13 Aug 2025 10:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Имя им — Легион — «Госизменники» из телеграма — как их судят, как пытают и как отличить их от тех, кто действительно завербован Украиной</title>
+      <link>https://novayagazeta.ru/articles/2025/09/08/imia-im-legion</link>
+      <description>«Госизменники» из телеграма — как их судят, как пытают и как отличить их от тех, кто действительно завербован Украиной</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/08/imia-im-legion</guid>
+      <pubDate>Mon, 08 Sep 2025 07:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
