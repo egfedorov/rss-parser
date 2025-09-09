@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 09 Sep 2025 08:38:06 +0000</lastBuildDate>
-    <item>
-      <title>«Поставок нет и не будет» — Владельцы домашних животных в России жалуются на исчезновение качественных кормов и мошенничество с лекарствами. Что происходит</title>
-      <link>https://novayagazeta.ru/articles/2024/10/24/postavok-net-i-ne-budet</link>
-      <description>Владельцы домашних животных в России жалуются на исчезновение качественных кормов и мошенничество с лекарствами. Что происходит</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/10/24/postavok-net-i-ne-budet</guid>
-      <pubDate>Thu, 24 Oct 2024 13:44:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Sep 2025 09:34:13 +0000</lastBuildDate>
     <item>
       <title>Кровь, национализм, недовольство силовиками — Что стало слагаемыми массовых беспорядков со стрельбой в Челябинской области</title>
       <link>https://novayagazeta.ru/articles/2024/10/25/krov-natsionalizm-nedovolstvo-silovikami</link>
@@ -149,17 +142,17 @@
       <pubDate>Mon, 26 May 2025 07:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Раненый говорит: “Пошлите, пошлите”. А мы просто рядом сидим» — История военного медика с позывным «Амулет», который считает, что мир примут все</title>
-      <link>https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</link>
-      <description>История военного медика с позывным «Амулет», который считает, что мир примут все</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</guid>
-      <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Шли все, как в компьютерной игре» — История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</title>
       <link>https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</link>
       <description>История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</guid>
+      <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Раненый говорит: “Пошлите, пошлите”. А мы просто рядом сидим» — История военного медика с позывным «Амулет», который считает, что мир примут все</title>
+      <link>https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</link>
+      <description>История военного медика с позывным «Амулет», который считает, что мир примут все</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</guid>
       <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
     </item>
     <item>
@@ -287,6 +280,13 @@
       <description>Репортаж с места крушения самолета с основателями ЧВК «Вагнер» Пригожиным и Уткиным во вторую годовщину их гибели</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/23/ne-ne-brat-snimat-ne-nado-my-khotim-spokoino-poskorbet</guid>
       <pubDate>Sat, 23 Aug 2025 15:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Инфраструктура канала была многократно взорвана» — Эколог Евгений Симонов* — о нехватке воды в Донбассе и ее загрязненности</title>
+      <link>https://novayagazeta.ru/articles/2025/09/09/infrastruktura-kanala-byla-mnogokratno-vzorvana</link>
+      <description>Эколог Евгений Симонов* — о нехватке воды в Донбассе и ее загрязненности</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/09/infrastruktura-kanala-byla-mnogokratno-vzorvana</guid>
+      <pubDate>Tue, 09 Sep 2025 08:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
