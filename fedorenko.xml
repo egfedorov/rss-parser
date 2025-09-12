@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 12 Sep 2025 11:40:13 +0000</lastBuildDate>
-    <item>
-      <title>«Не запрашивает SOS, не идет на контакт» — Вокруг китайского балкера, который получил пробоины и сел на мель у берегов Сахалина, установили боновые заграждения</title>
-      <link>https://novayagazeta.ru/articles/2025/02/10/ne-zaprashivaet-sos-ne-idet-na-kontakt</link>
-      <description>Вокруг китайского балкера, который получил пробоины и сел на мель у берегов Сахалина, установили боновые заграждения</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/02/10/ne-zaprashivaet-sos-ne-idet-na-kontakt</guid>
-      <pubDate>Mon, 10 Feb 2025 09:41:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Sep 2025 12:49:55 +0000</lastBuildDate>
     <item>
       <title>«Я представляю угрозу нацбезопасности, наверное!» — В Приморье участника СВО сняли с выборов. Он призвал к бойкоту — и тогда к нему домой пришла полиция</title>
       <link>https://novayagazeta.ru/articles/2025/02/15/ia-predstavliaiu-ugrozu-natsbezopasnosti-navernoe</link>
@@ -287,6 +280,13 @@
       <description>Приморцы пережили юбилейный Восточный экономический форум. Что они думают про обещания властей, приезжающих к ним раз в год</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/06/zhdem-kitaitsev-ne-letim-no-mozhet-poplavaem</guid>
       <pubDate>Sat, 06 Sep 2025 09:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Экс-мэра взяли за активы — Имущество семьи бывшего градоначальника Пушкарева обращают в пользу государства. Сам он ушел из тюрьмы на СВО</title>
+      <link>https://novayagazeta.ru/articles/2025/09/12/eks-mera-vziali-za-aktivy</link>
+      <description>Имущество семьи бывшего градоначальника Пушкарева обращают в пользу государства. Сам он ушел из тюрьмы на СВО</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/12/eks-mera-vziali-za-aktivy</guid>
+      <pubDate>Fri, 12 Sep 2025 11:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

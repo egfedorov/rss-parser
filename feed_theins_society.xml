@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Sep 2025 11:43:29 +0000</lastBuildDate>
-    <item>
-      <title>Мировая война правок. Как пропагандисты разных стран искажают статьи Википедии, пользуясь лазейками в ее модели работы</title>
-      <link>https://theins.ru/obshestvo/279913</link>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Sep 2025 12:53:13 +0000</lastBuildDate>
     <item>
       <title>Протест на выжженном поле. Как экоактивисты в России пытаются спасать природу вопреки репрессиям</title>
       <link>https://theins.ru/obshestvo/279734</link>
@@ -186,6 +181,11 @@
       <title>Язык без гостей. Как активисты помогают детям мигрантов, которых государство лишило права на образование из-за незнания русского</title>
       <link>https://theins.ru/obshestvo/284562</link>
       <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Снуют без дела. Как силовики запугивают общество обысками, даже без формального возбуждения уголовных дел</title>
+      <link>https://theins.ru/obshestvo/284595</link>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
