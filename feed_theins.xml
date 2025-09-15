@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Расследования" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Sep 2025 22:41:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 23:21:58 +0000</lastBuildDate>
     <item>
       <title>Невероятное обогащение иностранцев в России. Какие не ушедшие западные компании заработали больше всех благодаря войне</title>
       <link>https://theins.ru/inv/279306</link>
