@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Расследования" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Sep 2025 12:54:11 +0000</lastBuildDate>
-    <item>
-      <title>Операция «Катер» и золотые слитки. Как Иран стал центром российского шпионажа на Ближнем Востоке</title>
-      <link>https://theins.ru/inv/279277</link>
-      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Sep 2025 13:32:02 +0000</lastBuildDate>
     <item>
       <title>Невероятное обогащение иностранцев в России. Какие не ушедшие западные компании заработали больше всех благодаря войне</title>
       <link>https://theins.ru/inv/279306</link>
@@ -186,6 +181,11 @@
       <title>Шпионаж, вербовка, распилы и застолья: как работало закрытое Путиным скандальное управление по культурным связям с ближним зарубежьем</title>
       <link>https://theins.ru/inv/284654</link>
       <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Фамильные ценности. Племянник главы ФСБ Дмитрий Бортников оказался связан с коррупционным бизнесом и Ротенбергами</title>
+      <link>https://theins.ru/inv/284773</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
