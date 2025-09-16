@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 16 Sep 2025 07:41:53 +0000</lastBuildDate>
-    <item>
-      <title>Карабах и «антитеррористическая операция» — Главные новости от 19 сентября</title>
-      <link>https://novayagazeta.ru/articles/2023/09/19/karabakh-i-antiterroristicheskaia-operatsiia</link>
-      <description>Главные новости от 19 сентября</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2023/09/19/karabakh-i-antiterroristicheskaia-operatsiia</guid>
-      <pubDate>Tue, 19 Sep 2023 17:11:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Sep 2025 08:35:52 +0000</lastBuildDate>
     <item>
       <title>Без военкомата российского гражданства нет — Светлана Ганнушкина* — о новых поправках в законопроект о мобилизации иностранных граждан</title>
       <link>https://novayagazeta.ru/videos/2023/09/27/bez-voenkomata-rossiiskogo-grazhdanstva-net</link>
@@ -287,6 +280,13 @@
       <description>Суджа. Год. Специальный репортаж «Новой» из Курска</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/10/my-sdali-analizy-dnk-no-etogo-zvonka-ia-nikogda-ne-budu-zhdat</guid>
       <pubDate>Wed, 10 Sep 2025 07:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Мы лет на десять постарели. Даже плакать не получается» — В Подмосковье сгорел склад сервиса «Чердак». Тысячи людей хранили там свое имущество на время ремонта, временного отъезда, эмиграции</title>
+      <link>https://novayagazeta.ru/articles/2025/09/16/my-let-na-desiat-postareli-dazhe-plakat-ne-poluchaetsia</link>
+      <description>В Подмосковье сгорел склад сервиса «Чердак». Тысячи людей хранили там свое имущество на время ремонта, временного отъезда, эмиграции</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/16/my-let-na-desiat-postareli-dazhe-plakat-ne-poluchaetsia</guid>
+      <pubDate>Tue, 16 Sep 2025 08:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

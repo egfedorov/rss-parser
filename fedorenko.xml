@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 16 Sep 2025 07:41:09 +0000</lastBuildDate>
-    <item>
-      <title>С вождями в башке и с наганом в руке — Как политическая мифология управляет массовым сознанием и почему современный человек зачастую склонен к мистике?</title>
-      <link>https://novayagazeta.ru/articles/2025/02/19/s-vozhdiami-v-bashke-i-s-naganom-v-ruke</link>
-      <description>Как политическая мифология управляет массовым сознанием и почему современный человек зачастую склонен к мистике?</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/02/19/s-vozhdiami-v-bashke-i-s-naganom-v-ruke</guid>
-      <pubDate>Wed, 19 Feb 2025 14:48:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Sep 2025 08:34:23 +0000</lastBuildDate>
     <item>
       <title>Репетиция лагерного оркестра — Во Владивостоке за взятки на 9 лет осудили депутата краевого Заксобрания от ЕР. Месяцем ранее тоже за взятки приговорили ее мужа</title>
       <link>https://novayagazeta.ru/articles/2025/02/20/repetitsiia-lagernogo-orkestra</link>
@@ -287,6 +280,13 @@
       <description>Во Владивостоке ФСБ перекрыла трассу из-за «хлопков газового оборудования»</description>
       <guid isPermaLink="true">https://novayagazeta.ru/news/2025/09/16/vo-vladivostoke-fsb-perekryla-trassu-iz-za-khlopkov-gazovogo-oborudovaniia-news</guid>
       <pubDate>Tue, 16 Sep 2025 07:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Во-первых, ты узбек, во-вторых, он русский» — Подростки-националисты избили трудовых мигрантов во Владивостоке</title>
+      <link>https://novayagazeta.ru/articles/2025/09/16/vo-pervykh-ty-uzbek-vo-vtorykh-on-russkii</link>
+      <description>Подростки-националисты избили трудовых мигрантов во Владивостоке</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/16/vo-pervykh-ty-uzbek-vo-vtorykh-on-russkii</guid>
+      <pubDate>Tue, 16 Sep 2025 08:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
