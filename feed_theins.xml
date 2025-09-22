@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Расследования" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Sep 2025 07:42:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 08:35:16 +0000</lastBuildDate>
     <item>
       <title>«Вывезем его на лодке!» Как нанятые по заказу ФСБ болгарские шпионы планировали похищение Христо Грозева и Романа Доброхотова</title>
       <link>https://theins.ru/inv/279015</link>
