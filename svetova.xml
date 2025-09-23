@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 23 Sep 2025 12:52:50 +0000</lastBuildDate>
-    <item>
-      <title>«Я не могу говорить, но вы меня слышите» — Люди с инвалидностью по-прежнему стигматизированы, а еще — на них в эпоху СВО не осталось денег</title>
-      <link>https://novayagazeta.ru/videos/2024/11/29/ia-ne-mogu-govorit-no-vy-menia-slyshite</link>
-      <description>Люди с инвалидностью по-прежнему стигматизированы, а еще — на них в эпоху СВО не осталось денег</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/videos/2024/11/29/ia-ne-mogu-govorit-no-vy-menia-slyshite</guid>
-      <pubDate>Fri, 29 Nov 2024 13:17:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Sep 2025 13:34:41 +0000</lastBuildDate>
     <item>
       <title>«Почему я буду признавать то, чего нет?» — Подробности судебного процесса над педиатром Надеждой Буяновой, вызвавшего небывалый резонанс во врачебном сообществе. И письма читателей «Новой»</title>
       <link>https://novayagazeta.ru/articles/2024/12/04/pochemu-ia-budu-priznavat-to-chego-net</link>
@@ -287,6 +280,13 @@
       <description>Умер Сергей Ходорович — диссидент, распорядитель Фонда Солженицына, художник и друг</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/22/po-prozvishchu-khodor</guid>
       <pubDate>Mon, 22 Sep 2025 13:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Петушинский синдром — Владимирский областной суд утвердил приговор по «делу защитников Навального». Осужденных должны отправить в колонии</title>
+      <link>https://novayagazeta.ru/articles/2025/09/23/petushinskii-sindrom</link>
+      <description>Владимирский областной суд утвердил приговор по «делу защитников Навального». Осужденных должны отправить в колонии</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/23/petushinskii-sindrom</guid>
+      <pubDate>Tue, 23 Sep 2025 13:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
