@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 23 Sep 2025 06:42:25 +0000</lastBuildDate>
-    <item>
-      <title>Жизнь — соль — Репортаж из магазинов: масло взято под охрану, но кто-то ворует продукты прямо из упаковок</title>
-      <link>https://novayagazeta.ru/articles/2024/10/29/zhizn-sol</link>
-      <description>Репортаж из магазинов: масло взято под охрану, но кто-то ворует продукты прямо из упаковок</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/10/29/zhizn-sol</guid>
-      <pubDate>Tue, 29 Oct 2024 08:29:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Sep 2025 07:30:32 +0000</lastBuildDate>
     <item>
       <title>Атмосферу вывернут наизнанку — Инженер-физик Андрей Ожаровский — о сценариях применения ядерного оружия и безопасности АЭС в зоне российско-украинского конфликта</title>
       <link>https://novayagazeta.ru/articles/2024/10/31/atmosferu-vyvernut-naiznanku</link>
@@ -135,17 +128,17 @@
       <pubDate>Mon, 26 May 2025 07:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Шли все, как в компьютерной игре» — История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</title>
-      <link>https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</link>
-      <description>История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</guid>
-      <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Раненый говорит: “Пошлите, пошлите”. А мы просто рядом сидим» — История военного медика с позывным «Амулет», который считает, что мир примут все</title>
       <link>https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</link>
       <description>История военного медика с позывным «Амулет», который считает, что мир примут все</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</guid>
+      <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Шли все, как в компьютерной игре» — История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</title>
+      <link>https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</link>
+      <description>История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</guid>
       <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
     </item>
     <item>
@@ -287,6 +280,13 @@
       <description>Дроны на оптоволокне — новая угроза для животных и новый загрязнитель</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/16/puty</guid>
       <pubDate>Tue, 16 Sep 2025 13:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Игры Ura-патриотов — На Урале приступили к изъятию бизнеса у владельцев официозного издания Ura.ru</title>
+      <link>https://novayagazeta.ru/articles/2025/09/23/igry-ura-patriotov</link>
+      <description>На Урале приступили к изъятию бизнеса у владельцев официозного издания Ura.ru</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/23/igry-ura-patriotov</guid>
+      <pubDate>Tue, 23 Sep 2025 07:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
