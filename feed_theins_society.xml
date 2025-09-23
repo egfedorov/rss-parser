@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Sep 2025 11:44:50 +0000</lastBuildDate>
-    <item>
-      <title>Все видели, ничего не понимали. Почему армия Израиля проспала атаку 7 октября</title>
-      <link>https://theins.ru/obshestvo/280452</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Sep 2025 12:56:29 +0000</lastBuildDate>
     <item>
       <title>Хоккей с мечом. Как российская пропаганда использует нового рекордсмена НХЛ Александра Овечкина</title>
       <link>https://theins.ru/obshestvo/280539</link>
@@ -186,6 +181,11 @@
       <title>«Меня заочно арестовали в России, но суд США решил, что мне на родине ничего не угрожает». Как депортируют россиян</title>
       <link>https://theins.ru/obshestvo/284890</link>
       <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Фальшивые иностранцы, платная массовка и разочарованные Z-зрители: как прошло «Интервидение» — репортаж The Insider</title>
+      <link>https://theins.ru/obshestvo/285148</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
