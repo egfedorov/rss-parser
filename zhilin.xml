@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 24 Sep 2025 08:38:31 +0000</lastBuildDate>
-    <item>
-      <title>Атмосферу вывернут наизнанку — Инженер-физик Андрей Ожаровский — о сценариях применения ядерного оружия и безопасности АЭС в зоне российско-украинского конфликта</title>
-      <link>https://novayagazeta.ru/articles/2024/10/31/atmosferu-vyvernut-naiznanku</link>
-      <description>Инженер-физик Андрей Ожаровский — о сценариях применения ядерного оружия и безопасности АЭС в зоне российско-украинского конфликта</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/10/31/atmosferu-vyvernut-naiznanku</guid>
-      <pubDate>Thu, 31 Oct 2024 07:28:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Sep 2025 09:31:55 +0000</lastBuildDate>
     <item>
       <title>Ушел на фронт и не вернулся — Отец 14 детей ушел на СВО. И погиб</title>
       <link>https://novayagazeta.ru/videos/2024/12/09/ushel-na-front-i-ne-vernulsia</link>
@@ -128,17 +121,17 @@
       <pubDate>Mon, 26 May 2025 07:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Раненый говорит: “Пошлите, пошлите”. А мы просто рядом сидим» — История военного медика с позывным «Амулет», который считает, что мир примут все</title>
-      <link>https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</link>
-      <description>История военного медика с позывным «Амулет», который считает, что мир примут все</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</guid>
-      <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Шли все, как в компьютерной игре» — История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</title>
       <link>https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</link>
       <description>История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</guid>
+      <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Раненый говорит: “Пошлите, пошлите”. А мы просто рядом сидим» — История военного медика с позывным «Амулет», который считает, что мир примут все</title>
+      <link>https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</link>
+      <description>История военного медика с позывным «Амулет», который считает, что мир примут все</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</guid>
       <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
     </item>
     <item>
@@ -287,6 +280,13 @@
       <description>На Урале приступили к изъятию бизнеса у владельцев официозного издания Ura.ru</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/23/igry-ura-patriotov</guid>
       <pubDate>Tue, 23 Sep 2025 07:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Провокация чистой воды — Чиновники говорят, что Черное море очищено от мазута — это неправда. Людям, которые спасают побережье в Анапе, все еще нужна помощь</title>
+      <link>https://novayagazeta.ru/articles/2025/09/24/provokatsiia-chistoi-vody</link>
+      <description>Чиновники говорят, что Черное море очищено от мазута — это неправда. Людям, которые спасают побережье в Анапе, все еще нужна помощь</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/24/provokatsiia-chistoi-vody</guid>
+      <pubDate>Wed, 24 Sep 2025 08:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
