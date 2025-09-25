@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 25 Sep 2025 13:39:36 +0000</lastBuildDate>
-    <item>
-      <title>Репетиция лагерного оркестра — Во Владивостоке за взятки на 9 лет осудили депутата краевого Заксобрания от ЕР. Месяцем ранее тоже за взятки приговорили ее мужа</title>
-      <link>https://novayagazeta.ru/articles/2025/02/20/repetitsiia-lagernogo-orkestra</link>
-      <description>Во Владивостоке за взятки на 9 лет осудили депутата краевого Заксобрания от ЕР. Месяцем ранее тоже за взятки приговорили ее мужа</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/02/20/repetitsiia-lagernogo-orkestra</guid>
-      <pubDate>Thu, 20 Feb 2025 09:21:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Sep 2025 14:30:22 +0000</lastBuildDate>
     <item>
       <title>Миграция на фронт — Приморские власти рассказали о десятках мигрантов, которые ушли на СВО, чтобы легализоваться</title>
       <link>https://novayagazeta.ru/articles/2025/02/21/migratsiia-na-front</link>
@@ -287,6 +280,13 @@
       <description>Подростки-националисты избили трудовых мигрантов во Владивостоке</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/16/vo-pervykh-ty-uzbek-vo-vtorykh-on-russkii</guid>
       <pubDate>Tue, 16 Sep 2025 08:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Против мира и человечества» — Зампреда регионального отделения «Яблока» в Приморье судят за поздравление с Днем Победы</title>
+      <link>https://novayagazeta.ru/articles/2025/09/25/protiv-mira-i-chelovechestva</link>
+      <description>Зампреда регионального отделения «Яблока» в Приморье судят за поздравление с Днем Победы</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/25/protiv-mira-i-chelovechestva</guid>
+      <pubDate>Thu, 25 Sep 2025 14:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
