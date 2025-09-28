@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Sep 2025 09:25:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 09:43:00 +0000</lastBuildDate>
     <item>
       <title>Мигрантский навет. Откуда взялся миф о том, что миграция ведет к росту преступности, и что на самом деле говорит статистика</title>
       <link>https://theins.ru/obshestvo/280590</link>
