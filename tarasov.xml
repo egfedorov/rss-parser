@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 30 Sep 2025 07:27:31 +0000</lastBuildDate>
-    <item>
-      <title>Виктор Астафьев: «Пишут от имени народа. Мы, народ, тебя четвертуем» — Нападки на писателя красноярцы расценивают как пренебрежение Сибирью. Чем грозит усердие столичных патриотов</title>
-      <link>https://novayagazeta.ru/articles/2024/11/23/viktor-astafev-pishut-ot-imeni-vsego-naroda-my-narod-tebia-chetvertuem</link>
-      <description>Нападки на писателя красноярцы расценивают как пренебрежение Сибирью. Чем грозит усердие столичных патриотов</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/11/23/viktor-astafev-pishut-ot-imeni-vsego-naroda-my-narod-tebia-chetvertuem</guid>
-      <pubDate>Sat, 23 Nov 2024 07:17:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Sep 2025 07:44:10 +0000</lastBuildDate>
     <item>
       <title>Восьмерики и ананасы — Те, по кому не заплачут. Как воюют сироты, окончившие коррекционные школы</title>
       <link>https://novayagazeta.ru/articles/2024/11/26/vosmeriki-i-ananasy</link>
@@ -287,6 +280,13 @@
       <description>Как меняет Сибирь и сибиряков сближение с Китаем. И зависимость от него</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/08/gospodi-pomogi-nam-vyzhit-v-etoi-smertnoi-liubvi</guid>
       <pubDate>Mon, 08 Sep 2025 09:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Красноярске задержали известную журналистку Светлану Хустик по делу о военных «фейках»</title>
+      <link>https://novayagazeta.ru/news/2025/09/30/v-krasnoiarske-zaderzhali-izvestnuiu-zhurnalistku-svetlanu-khustik-po-delu-o-voennykh-feikakh-news</link>
+      <description>В Красноярске задержали известную журналистку Светлану Хустик по делу о военных «фейках»</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/news/2025/09/30/v-krasnoiarske-zaderzhali-izvestnuiu-zhurnalistku-svetlanu-khustik-po-delu-o-voennykh-feikakh-news</guid>
+      <pubDate>Tue, 30 Sep 2025 07:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
