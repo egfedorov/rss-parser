@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 01 Oct 2025 10:48:47 +0000</lastBuildDate>
-    <item>
-      <title>«Почему я буду признавать то, чего нет?» — Подробности судебного процесса над педиатром Надеждой Буяновой, вызвавшего небывалый резонанс во врачебном сообществе. И письма читателей «Новой»</title>
-      <link>https://novayagazeta.ru/articles/2024/12/04/pochemu-ia-budu-priznavat-to-chego-net</link>
-      <description>Подробности судебного процесса над педиатром Надеждой Буяновой, вызвавшего небывалый резонанс во врачебном сообществе. И письма читателей «Новой»</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/12/04/pochemu-ia-budu-priznavat-to-chego-net</guid>
-      <pubDate>Wed, 04 Dec 2024 08:23:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Oct 2025 11:25:32 +0000</lastBuildDate>
     <item>
       <title>«Люди выжили, отпечатали мемуары за свой счет и принесли нам» — Борис Беленкин — о том, как собиралась уникальная библиотека «Мемориала»*, лишившаяся дома</title>
       <link>https://novayagazeta.ru/articles/2024/12/06/liudi-vyzhili-otpechatali-memuary-za-svoi-schet-i-prinesli-nam</link>
@@ -287,6 +280,13 @@
       <description>Суд утвердил приговор по «делу защитников Навального». Осужденных должны отправить в колонии</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/23/petushinskii-sindrom</guid>
       <pubDate>Tue, 23 Sep 2025 13:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Провоцируя творчество — Вышла книга Михаила Угарова «Постановка взгляда. О театре, в котором не играют. Лекции, семинары, интервью»</title>
+      <link>https://novayagazeta.ru/articles/2025/10/01/provotsiruia-tvorchestvo</link>
+      <description>Вышла книга Михаила Угарова «Постановка взгляда. О театре, в котором не играют. Лекции, семинары, интервью»</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/01/provotsiruia-tvorchestvo</guid>
+      <pubDate>Wed, 01 Oct 2025 11:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

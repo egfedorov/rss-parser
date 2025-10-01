@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Wed, 01 Oct 2025 10:47:20 +0000</lastBuildDate><item><title>«Книг у него должно было быть больше»</title><link>https://gorky.media/context/knig-u-nego-dolzhno-bylo-byt-bolshe</link><description>Интервью с Алексеем Дьячковым — составителем сборника избранных стихотворений Виктора Iванiва
-
-17.09.2025</description><pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate></item><item><title>Глянец для научной коммуникации</title><link>https://gorky.media/context/glyanets-dlya-nauchnoi-kommunikatsii</link><description>Егор Быковский о том, как сделать ученого кумиром для зумеров, а научпоп — бестселлером
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Wed, 01 Oct 2025 11:23:49 +0000</lastBuildDate><item><title>Глянец для научной коммуникации</title><link>https://gorky.media/context/glyanets-dlya-nauchnoi-kommunikatsii</link><description>Егор Быковский о том, как сделать ученого кумиром для зумеров, а научпоп — бестселлером
 
 18.09.2025</description><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate></item><item><title>Заповедник исповеданий</title><link>https://gorky.media/context/zapovednik-ispovedanii</link><description>Интервью с Сергеем Михайловым — исследователем подмосковного старообрядчества
 
@@ -22,5 +20,7 @@
 29.09.2025</description><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate></item><item><title>Неуловимый призрак американского писателя</title><link>https://gorky.media/context/neulovimyi-prizrak-amerikanskogo-pisatelya</link><description>Денис Захаров — о книге Лейлы Геррьеро «В поисках Трумена Капоте»
 
 30.09.2025</description><pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate></item><item><title>«Антрополог — всегда гость, отношение к нему скидочное»</title><link>https://gorky.media/context/antropolog-vsegda-gost-otnoshenie-k-nemu-skidochnoe</link><description>Интервью с Федором Корандеем и Ильей Абрамовым
+
+01.10.2025</description><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate></item><item><title>«Главное, чтобы текст не попал к стукачу»</title><link>https://gorky.media/context/glavnoe-chtoby-tekst-ne-popal-k-stukachu</link><description>Инструкция по выживанию от Владимира Сорокина
 
 01.10.2025</description><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate></item></channel></rss>
