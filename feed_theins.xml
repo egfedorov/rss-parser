@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Расследования" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Oct 2025 10:46:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 11:23:23 +0000</lastBuildDate>
     <item>
       <title>На нефть и суда есть. Как российский нефтяной экспорт пробивает ценовой потолок и кто в Европе этому помогает</title>
       <link>https://theins.ru/inv/279352</link>
