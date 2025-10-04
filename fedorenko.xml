@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 04 Oct 2025 06:38:49 +0000</lastBuildDate>
-    <item>
-      <title>Но зачем нужны люди? — Разработчик моделей ИИ объясняет, в чем плюсы и минусы нейросетей. А что об этом думает ChatGPT по имени Чатик?</title>
-      <link>https://novayagazeta.ru/articles/2025/02/27/no-zachem-nuzhny-liudi</link>
-      <description>Разработчик моделей ИИ объясняет, в чем плюсы и минусы нейросетей. А что об этом думает ChatGPT по имени Чатик?</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/02/27/no-zachem-nuzhny-liudi</guid>
-      <pubDate>Thu, 27 Feb 2025 13:11:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Oct 2025 07:24:31 +0000</lastBuildDate>
     <item>
       <title>«Просто всё в огне!» — После череды малоснежных зим в Приморье раньше привычного начался сезон пожаров</title>
       <link>https://novayagazeta.ru/articles/2025/03/03/prosto-vsio-v-ogne</link>
@@ -287,6 +280,13 @@
       <description>Здание энерготехникума частично обрушилось утром во Владивостоке. В этом отсеке проходят занятия по основам защиты Родины</description>
       <guid isPermaLink="true">https://novayagazeta.ru/news/2025/10/03/zdanie-energotekhnikuma-chastichno-obrushilos-utrom-vo-vladivostoke-v-etom-otseke-prokhodiat-zaniatiia-po-osnovam-zashchity-rodiny-news</guid>
       <pubDate>Fri, 03 Oct 2025 08:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Главное теперь, не разбить! — Потребительская корзина обзавелась доступными яйцами. Надолго ли?</title>
+      <link>https://novayagazeta.ru/articles/2025/10/04/glavnoe-teper-ne-razbit</link>
+      <description>Потребительская корзина обзавелась доступными яйцами. Надолго ли?</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/04/glavnoe-teper-ne-razbit</guid>
+      <pubDate>Sat, 04 Oct 2025 07:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
