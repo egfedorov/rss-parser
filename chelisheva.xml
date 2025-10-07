@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 07 Oct 2025 06:40:17 +0000</lastBuildDate>
-    <item>
-      <title>«Главной аудиторией была его совесть» — Политик Юлия Галямина* о погибшем в колонии музыканте Павле Кушнире и о том, почему никто ничего не знал</title>
-      <link>https://novayagazeta.ru/videos/2024/09/14/glavnoi-auditoriei-byla-ego-sovest</link>
-      <description>Политик Юлия Галямина* о погибшем в колонии музыканте Павле Кушнире и о том, почему никто ничего не знал</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/videos/2024/09/14/glavnoi-auditoriei-byla-ego-sovest</guid>
-      <pubDate>Sat, 14 Sep 2024 09:51:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Oct 2025 07:27:43 +0000</lastBuildDate>
     <item>
       <title>«На первом этапе люстрация может коснуться трех-пяти тысяч судей»&amp;nbsp; — Юрист Николай Бобринский — о переходном правосудии</title>
       <link>https://novayagazeta.ru/videos/2024/09/20/na-pervom-etape-liustratsiia-mozhet-kosnutsia-trekh-piati-tysiach-sudei</link>
@@ -287,6 +280,13 @@
       <description>Государство наказывает за неправильное почитание монументов</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/28/kak-vyzhigaiut-skvernu</guid>
       <pubDate>Thu, 28 Aug 2025 07:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«У меня уже 13-е ШИЗО» — История журналистки и просто неравнодушного человека Марии Пономаренко, которую сегодня уничтожают в колонии</title>
+      <link>https://novayagazeta.ru/articles/2025/10/07/u-menia-uzhe-13-e-shizo</link>
+      <description>История журналистки и просто неравнодушного человека Марии Пономаренко, которую сегодня уничтожают в колонии</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/07/u-menia-uzhe-13-e-shizo</guid>
+      <pubDate>Tue, 07 Oct 2025 07:11:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
