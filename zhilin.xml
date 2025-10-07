@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 07 Oct 2025 08:36:03 +0000</lastBuildDate>
-    <item>
-      <title>«Идеальный мужчина» — История Авраама Мэлеха, или Владимира Голубя — отца 14 детей, погибшего на спецоперации</title>
-      <link>https://novayagazeta.ru/articles/2024/12/16/idealnyi-muzhchina</link>
-      <description>История Авраама Мэлеха, или Владимира Голубя — отца 14 детей, погибшего на спецоперации</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/12/16/idealnyi-muzhchina</guid>
-      <pubDate>Mon, 16 Dec 2024 06:57:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Oct 2025 09:29:32 +0000</lastBuildDate>
     <item>
       <title>«Такие древние суда нельзя выпускать в море» — Крушение танкеров с мазутом в Керченском проливе — крупнейшая экокатастрофа со времен Норильска. А причина у них одна</title>
       <link>https://novayagazeta.ru/articles/2024/12/18/takie-drevnie-suda-nelzia-vypuskat-v-more</link>
@@ -114,17 +107,17 @@
       <pubDate>Mon, 26 May 2025 07:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Раненый говорит: “Пошлите, пошлите”. А мы просто рядом сидим» — История военного медика с позывным «Амулет», который считает, что мир примут все</title>
-      <link>https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</link>
-      <description>История военного медика с позывным «Амулет», который считает, что мир примут все</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</guid>
-      <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Шли все, как в компьютерной игре» — История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</title>
       <link>https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</link>
       <description>История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</guid>
+      <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Раненый говорит: “Пошлите, пошлите”. А мы просто рядом сидим» — История военного медика с позывным «Амулет», который считает, что мир примут все</title>
+      <link>https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</link>
+      <description>История военного медика с позывным «Амулет», который считает, что мир примут все</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</guid>
       <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
     </item>
     <item>
@@ -287,6 +280,13 @@
       <description>Можно ли найти новый смысл для города, который был столицей лагерей? Репортаж из уральского Ивделя</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/06/osnovoi-i-kormilitsei-zdes-vsegda-byla-zona</guid>
       <pubDate>Mon, 06 Oct 2025 07:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Перезапуск Запорожской АЭС может привести к беде» — Физик Андрей Ожаровский — о ситуации с атомными электростанциями в зоне боевых действий</title>
+      <link>https://novayagazeta.ru/articles/2025/10/07/perezapusk-zaporozhskoi-aes-mozhet-privesti-k-bede</link>
+      <description>Физик Андрей Ожаровский — о ситуации с атомными электростанциями в зоне боевых действий</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/07/perezapusk-zaporozhskoi-aes-mozhet-privesti-k-bede</guid>
+      <pubDate>Tue, 07 Oct 2025 09:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
