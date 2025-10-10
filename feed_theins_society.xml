@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Oct 2025 22:27:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 22:44:22 +0000</lastBuildDate>
     <item>
       <title>Пациент Белого дома. Почему психиатры встревожены ухудшением состояния Дональда Трампа</title>
       <link>https://theins.ru/obshestvo/281336</link>
