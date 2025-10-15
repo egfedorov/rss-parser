@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 05:29:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 05:46:47 +0000</lastBuildDate>
     <item>
       <title>Бедный президент — богатый Уругвай. Как левый революционер привел свою страну к процветанию</title>
       <link>https://theins.ru/obshestvo/281437</link>
