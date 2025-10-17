@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 17 Oct 2025 06:39:42 +0000</lastBuildDate>
-    <item>
-      <title>«На первом этапе люстрация может коснуться трех-пяти тысяч судей»&amp;nbsp; — Юрист Николай Бобринский — о переходном правосудии</title>
-      <link>https://novayagazeta.ru/videos/2024/09/20/na-pervom-etape-liustratsiia-mozhet-kosnutsia-trekh-piati-tysiach-sudei</link>
-      <description>Юрист Николай Бобринский — о переходном правосудии</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/videos/2024/09/20/na-pervom-etape-liustratsiia-mozhet-kosnutsia-trekh-piati-tysiach-sudei</guid>
-      <pubDate>Fri, 20 Sep 2024 13:08:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Oct 2025 07:27:52 +0000</lastBuildDate>
     <item>
       <title>«Церковь — она для меня, как родина…» — Алексей Уминский — о священниках-диссидентах и о том, как изменилась РПЦ за тридцать лет</title>
       <link>https://novayagazeta.ru/videos/2024/09/27/tserkov-ona-dlia-menia-kak-rodina</link>
@@ -287,6 +280,13 @@
       <description>История журналистки и просто неравнодушного человека Марии Пономаренко, которую сегодня уничтожают в колонии</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/07/u-menia-uzhe-13-e-shizo</guid>
       <pubDate>Tue, 07 Oct 2025 07:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Не сотвори себя кумиру — «Новая газета» вспоминает имена и рассказывает истории тех, кто был осужден за финансовую помощь ФБК*, но сам от ФБК никакой помощи не получил</title>
+      <link>https://novayagazeta.ru/articles/2025/10/17/ne-sotvori-sebia-kumiru</link>
+      <description>«Новая газета» вспоминает имена и рассказывает истории тех, кто был осужден за финансовую помощь ФБК*, но сам от ФБК никакой помощи не получил</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/17/ne-sotvori-sebia-kumiru</guid>
+      <pubDate>Fri, 17 Oct 2025 07:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
