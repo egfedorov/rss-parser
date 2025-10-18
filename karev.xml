@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 18 Oct 2025 11:41:04 +0000</lastBuildDate>
-    <item>
-      <title>Инсульт как следственное действие — Силовики преследуют врача Ирину Осипову после доноса. Ее задержали в поликлинике, держали в ОВД, где она чуть не умерла</title>
-      <link>https://novayagazeta.ru/articles/2025/04/04/insult-kak-sledstvennoe-deistvie</link>
-      <description>Силовики преследуют врача Ирину Осипову после доноса. Ее задержали в поликлинике, держали в ОВД, где она чуть не умерла</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/04/04/insult-kak-sledstvennoe-deistvie</guid>
-      <pubDate>Fri, 04 Apr 2025 13:14:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Oct 2025 12:49:30 +0000</lastBuildDate>
     <item>
       <title>«Занятие независимой журналистикой приравнено к экстремизму» — На закрытом судебном процессе по «делу журналистов» прокурор озвучил сроки и прозвучали «последние слова»</title>
       <link>https://novayagazeta.ru/articles/2025/04/10/zaniatie-nezavisimoi-zhurnalistikoi-priravneno-k-ekstremizmu</link>
@@ -287,6 +280,13 @@
       <description>Беременную москвичку, ставшую жертвой мошенников на 7 млн рублей, приговорили к реальному сроку. Настоящие преступники остались на свободе</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/15/nakazanie-s-otsrochkoi</guid>
       <pubDate>Wed, 15 Oct 2025 07:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Госизмена повседневности — От шеф-повара до доктора философских наук — «враги» кругом</title>
+      <link>https://novayagazeta.ru/articles/2025/10/18/gosizmena-povsednevnosti</link>
+      <description>От шеф-повара до доктора философских наук — «враги» кругом</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/18/gosizmena-povsednevnosti</guid>
+      <pubDate>Sat, 18 Oct 2025 12:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
