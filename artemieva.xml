@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 18 Oct 2025 14:41:00 +0000</lastBuildDate>
-    <item>
-      <title>«Любимовка». Эмиграция — В Варшаве прошел фестиваль «Эхо Любимовки». О пьесах, прозвучавших там, и о том, как драматурги изобретают новый язык, называющий вещи своими именами</title>
-      <link>https://novayagazeta.ru/articles/2024/10/08/liubimovka-emigratsiia</link>
-      <description>В Варшаве прошел фестиваль «Эхо Любимовки». О пьесах, прозвучавших там, и о том, как драматурги изобретают новый язык, называющий вещи своими именами</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/10/08/liubimovka-emigratsiia</guid>
-      <pubDate>Tue, 08 Oct 2024 08:28:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Oct 2025 15:22:53 +0000</lastBuildDate>
     <item>
       <title>Списанные-2 — Писатели-«иноагенты»: рассуждения о том, зачем их включали в список и что пошло не так</title>
       <link>https://novayagazeta.ru/articles/2024/10/12/spisannye-2</link>
@@ -287,6 +280,13 @@
       <description>Как работает государственная политика памяти на примере того, кого помнит и кого не помнит Ростов-на-Дону</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/19/belym-po-belomu</guid>
       <pubDate>Fri, 19 Sep 2025 13:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Как будто ничего не произошло — О «Светотени» Даниэля Кельмана, «Эйзене» Гузели Яхиной и ответственности художника за контекст, в котором он живет</title>
+      <link>https://novayagazeta.ru/articles/2025/10/18/kak-budto-nichego-ne-proizoshlo</link>
+      <description>О «Светотени» Даниэля Кельмана, «Эйзене» Гузели Яхиной и ответственности художника за контекст, в котором он живет</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/18/kak-budto-nichego-ne-proizoshlo</guid>
+      <pubDate>Sat, 18 Oct 2025 14:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
