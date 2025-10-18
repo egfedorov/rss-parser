@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 18 Oct 2025 08:30:46 +0000</lastBuildDate>
-    <item>
-      <title>Масло под сигналкой и китайский «Москвич» — Российские реалии оказались непредсказуемы для ИИ</title>
-      <link>https://novayagazeta.ru/articles/2025/01/13/maslo-pod-signalkoi-i-kitaiskii-moskvich</link>
-      <description>Российские реалии оказались непредсказуемы для ИИ</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/01/13/maslo-pod-signalkoi-i-kitaiskii-moskvich</guid>
-      <pubDate>Mon, 13 Jan 2025 13:55:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Oct 2025 09:24:11 +0000</lastBuildDate>
     <item>
       <title>Дорога к бункеру — На реновацию бомбоубежищ в России тратят около миллиарда в год. При этом 95% объектов непригодны для использования, их ремонт займет десятилетия</title>
       <link>https://novayagazeta.ru/articles/2025/01/14/doroga-k-bunkeru</link>
@@ -287,6 +280,13 @@
       <description>На СВО теперь агитируют не только деньгами. Рекрутеры обещают добровольцам помочь избежать штурмов</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/10/vtoraia-liniia-oborony</guid>
       <pubDate>Fri, 10 Oct 2025 07:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пусть поют «Веночек» — Кто такой депутат Романов, настучавший на питерскую певицу Диану Логинову и музыкантов «Стоптайм»</title>
+      <link>https://novayagazeta.ru/articles/2025/10/18/pust-poiut-venochek</link>
+      <description>Кто такой депутат Романов, настучавший на питерскую певицу Диану Логинову и музыкантов «Стоптайм»</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/18/pust-poiut-venochek</guid>
+      <pubDate>Sat, 18 Oct 2025 09:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
