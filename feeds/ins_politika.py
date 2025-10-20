@@ -21,7 +21,7 @@ def parse_date(date_str):
 def generate():
     BASE_URL = 'https://theins.ru'
     URL = f'{BASE_URL}/politika'
-    OUTPUT_FILE = 'feed_theins_politika.xml'
+    OUTPUT_FILE = 'ins_politika.xml'
     headers = {'User-Agent': 'Mozilla/5.0'}
 
     resp = requests.get(URL, headers=headers)
@@ -55,4 +55,4 @@ def generate():
         fe.pubDate(pub_date)
 
     fg.rss_file(OUTPUT_FILE, pretty=True)
-    print("✅ theins_society: сгенерирован feed_theins_politika.xml")
+    print("✅ ins_politika: сгенерирован ins_politika.xml")
