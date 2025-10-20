@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 20 Oct 2025 12:55:05 +0000</lastBuildDate>
-    <item>
-      <title>Дорога к бункеру — На реновацию бомбоубежищ в России тратят около миллиарда в год. При этом 95% объектов непригодны для использования, их ремонт займет десятилетия</title>
-      <link>https://novayagazeta.ru/articles/2025/01/14/doroga-k-bunkeru</link>
-      <description>На реновацию бомбоубежищ в России тратят около миллиарда в год. При этом 95% объектов непригодны для использования, их ремонт займет десятилетия</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/01/14/doroga-k-bunkeru</guid>
-      <pubDate>Tue, 14 Jan 2025 09:29:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Oct 2025 13:35:53 +0000</lastBuildDate>
     <item>
       <title>Гонки кибер-батюшек, русофобы против Лермонтова и секс через «Госуслуги» — Топ-10 январской дури</title>
       <link>https://novayagazeta.ru/articles/2025/02/04/gonki-kiber-batiushek-rusofoby-protiv-lermontova-i-seks-cherez-gosuslugi</link>
@@ -287,6 +280,13 @@
       <description>Кто такой депутат Романов, настучавший на питерскую певицу Диану Логинову и музыкантов «Стоптайм»</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/18/pust-poiut-venochek</guid>
       <pubDate>Sat, 18 Oct 2025 09:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Это по любви — Как патриотизм помогает не обеднеть самому богатому депутату Мурманска</title>
+      <link>https://novayagazeta.ru/articles/2025/10/20/eto-po-liubvi</link>
+      <description>Как патриотизм помогает не обеднеть самому богатому депутату Мурманска</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/20/eto-po-liubvi</guid>
+      <pubDate>Mon, 20 Oct 2025 12:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
