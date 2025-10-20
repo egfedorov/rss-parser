@@ -60,7 +60,7 @@ def main():
         if pub_dt:
             fe.pubDate(pub_dt)
 
-    fg.rss_file("tarasov.xml", pretty=True)
+    fg.rss_file("tumakova.xml", pretty=True)
     print(f"✅ Записей: {len(records)}")
 
 if __name__ == "__main__":
