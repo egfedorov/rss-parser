@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 21 Oct 2025 09:50:24 +0000</lastBuildDate>
-    <item>
-      <title>«Вы привезли меня сюда, как чемодан без ручки» — Педагог Дима Зицер — о детях в эмиграции, детях, переживших военные действия, и о том, что никто никого воспитать не может</title>
-      <link>https://novayagazeta.ru/articles/2024/12/13/vy-privezli-menia-siuda-kak-chemodan-bez-ruchki</link>
-      <description>Педагог Дима Зицер — о детях в эмиграции, детях, переживших военные действия, и о том, что никто никого воспитать не может</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/12/13/vy-privezli-menia-siuda-kak-chemodan-bez-ruchki</guid>
-      <pubDate>Fri, 13 Dec 2024 15:59:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Oct 2025 10:33:01 +0000</lastBuildDate>
     <item>
       <title>Каждому из адвокатов Навального — Кобзеву, Липцеру и Сергунину — прокурор запросил по 5 с лишним лет колонии</title>
       <link>https://novayagazeta.ru/news/2024/12/17/kazhdomu-iz-advokatov-navalnogo-kobzevu-liptseru-i-serguninu-prokuror-zaprosil-po-5-s-lishnim-let-kolonii-news</link>
@@ -287,6 +280,13 @@
       <description>Осужденная на 12 лет за госизмену Нина Слободчикова ответила на письмо «Новой» перед отправкой на этап</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/06/ia-poprosila-u-tatiany-moskalkovoi-vesy</guid>
       <pubDate>Mon, 06 Oct 2025 12:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Новых сказок дочке я не писал, но рисую ей те приключения, которые у нас будут» — Журналист Сергей Карелин ответил «Новой» из СИЗО «Матросская тишина»</title>
+      <link>https://novayagazeta.ru/articles/2025/10/21/novykh-skazok-dochke-ia-ne-pisal-no-risuiu-ei-te-prikliucheniia-kotorye-u-nas-budut</link>
+      <description>Журналист Сергей Карелин ответил «Новой» из СИЗО «Матросская тишина»</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/21/novykh-skazok-dochke-ia-ne-pisal-no-risuiu-ei-te-prikliucheniia-kotorye-u-nas-budut</guid>
+      <pubDate>Tue, 21 Oct 2025 09:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
