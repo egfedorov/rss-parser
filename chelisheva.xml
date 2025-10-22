@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 22 Oct 2025 11:44:27 +0000</lastBuildDate>
-    <item>
-      <title>«Церковь — она для меня, как родина…» — Алексей Уминский — о священниках-диссидентах и о том, как изменилась РПЦ за тридцать лет</title>
-      <link>https://novayagazeta.ru/videos/2024/09/27/tserkov-ona-dlia-menia-kak-rodina</link>
-      <description>Алексей Уминский — о священниках-диссидентах и о том, как изменилась РПЦ за тридцать лет</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/videos/2024/09/27/tserkov-ona-dlia-menia-kak-rodina</guid>
-      <pubDate>Fri, 27 Sep 2024 13:54:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Oct 2025 13:00:51 +0000</lastBuildDate>
     <item>
       <title>«Уровень зверств, который продемонстрировал ХАМАС, не поддается осмыслению» — Аркадий и Давид Майофисы — о том, почему стал возможен теракт 7 октября, арабском вопросе и движении Free Palestine</title>
       <link>https://novayagazeta.ru/videos/2024/10/04/uroven-zverstv-kotoryi-prodemonstriroval-khamas-ne-poddaetsia-osmysleniiu</link>
@@ -287,6 +280,13 @@
       <description>«Новая газета» вспоминает имена и рассказывает истории тех, кто был осужден за финансовую помощь ФБК*, но сам от ФБК никакой помощи не получил</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/17/ne-sotvori-sebia-kumiru</guid>
       <pubDate>Fri, 17 Oct 2025 07:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Страсбург, который мы потеряли — Счётчик компенсаций: кто заплатит за отказ России от правосудия. Интервью с сотрудницами «Команды против пыток»*</title>
+      <link>https://novayagazeta.ru/videos/2025/10/22/strasburg-kotoryi-my-poteriali</link>
+      <description>Счётчик компенсаций: кто заплатит за отказ России от правосудия. Интервью с сотрудницами «Команды против пыток»*</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/videos/2025/10/22/strasburg-kotoryi-my-poteriali</guid>
+      <pubDate>Wed, 22 Oct 2025 12:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
