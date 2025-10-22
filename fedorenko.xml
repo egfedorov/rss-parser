@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 22 Oct 2025 08:41:48 +0000</lastBuildDate>
-    <item>
-      <title>Врачи на шестидневке — дети на улице — Амбулаториям в Приморье добавляют шестой рабочий день. Некоторые медработники увольняются</title>
-      <link>https://novayagazeta.ru/articles/2025/03/18/vrachi-na-shestidnevke-deti-na-ulitse</link>
-      <description>Амбулаториям в Приморье добавляют шестой рабочий день. Некоторые медработники увольняются</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/03/18/vrachi-na-shestidnevke-deti-na-ulitse</guid>
-      <pubDate>Tue, 18 Mar 2025 09:05:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Oct 2025 09:34:04 +0000</lastBuildDate>
     <item>
       <title>«Вообще многие уходят» — Письмо в «Новую» от приморского политзэка, коммуниста Артема Самсонова: о мэрах з/к, подписавших контракт, и тюремной больнице</title>
       <link>https://novayagazeta.ru/articles/2025/03/31/voobshche-mnogie-ukhodiat</link>
@@ -287,6 +280,13 @@
       <description>Сотни приморцев вышли на митинг против утильсбора — власти его согласовали</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/11/ne-umeiut-delat-mashiny-pust-delaiut-skovorodki</guid>
       <pubDate>Sat, 11 Oct 2025 12:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Самая большая в мире пробка — На фоне ажиотажа из-за повышения утильсбора на Уссурийской таможне выстроились километровые очереди автовозов</title>
+      <link>https://novayagazeta.ru/articles/2025/10/22/samaia-bolshaia-v-mire-probka</link>
+      <description>На фоне ажиотажа из-за повышения утильсбора на Уссурийской таможне выстроились километровые очереди автовозов</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/22/samaia-bolshaia-v-mire-probka</guid>
+      <pubDate>Wed, 22 Oct 2025 08:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
