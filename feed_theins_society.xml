@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Oct 2025 11:25:30 +0000</lastBuildDate>
-    <item>
-      <title>Лицензия на убийство. Как законопроект об умерщвлении бродячих животных мобилизовал зоозащитное движение России</title>
-      <link>https://theins.ru/obshestvo/281394</link>
-      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Oct 2025 11:44:33 +0000</lastBuildDate>
     <item>
       <title>Отбери у ближнего. Как Россия возвращает церковную собственность за рубежом вопреки санкциям</title>
       <link>https://theins.ru/obshestvo/281588</link>
@@ -186,6 +181,11 @@
       <title>«Переехали меня дважды». Как военные безнаказанно устраивают ДТП в приграничных регионах России</title>
       <link>https://theins.ru/obshestvo/285850</link>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Счастливый финал. Почему всë больше стран мира разрешают эвтаназию и как это устроено</title>
+      <link>https://theins.ru/obshestvo/285945</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
