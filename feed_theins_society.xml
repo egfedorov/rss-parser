@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Oct 2025 07:44:34 +0000</lastBuildDate>
-    <item>
-      <title>Отбери у ближнего. Как Россия возвращает церковную собственность за рубежом вопреки санкциям</title>
-      <link>https://theins.ru/obshestvo/281588</link>
-      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Oct 2025 08:38:09 +0000</lastBuildDate>
     <item>
       <title>Призрак города. Как на самом деле живет Мариуполь спустя три года с начала оккупации</title>
       <link>https://theins.ru/obshestvo/281802</link>
@@ -186,6 +181,11 @@
       <title>Счастливый финал. Почему всë больше стран мира разрешают эвтаназию и как это устроено</title>
       <link>https://theins.ru/obshestvo/285945</link>
       <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Они меня били, но я уже ничего не чувствовал». Как выжили в плену ХАМАС последние израильские заложники</title>
+      <link>https://theins.ru/obshestvo/286103</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
