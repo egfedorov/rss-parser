@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 24 Oct 2025 06:40:29 +0000</lastBuildDate>
-    <item>
-      <title>Гонки кибер-батюшек, русофобы против Лермонтова и секс через «Госуслуги» — Топ-10 январской дури</title>
-      <link>https://novayagazeta.ru/articles/2025/02/04/gonki-kiber-batiushek-rusofoby-protiv-lermontova-i-seks-cherez-gosuslugi</link>
-      <description>Топ-10 январской дури</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/02/04/gonki-kiber-batiushek-rusofoby-protiv-lermontova-i-seks-cherez-gosuslugi</guid>
-      <pubDate>Tue, 04 Feb 2025 08:28:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Oct 2025 07:29:04 +0000</lastBuildDate>
     <item>
       <title>Молотки — Как меняются карьеры судей после жестоких приговоров</title>
       <link>https://novayagazeta.ru/articles/2025/02/10/molotki</link>
@@ -287,6 +280,13 @@
       <description>Как патриотизм помогает не обеднеть самому богатому депутату Мурманска</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/20/eto-po-liubvi</guid>
       <pubDate>Mon, 20 Oct 2025 12:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Деньги под «ковром» — За три года авиабилеты подорожали вдвое. Государство переложило расходы компаний на плечи пассажиров</title>
+      <link>https://novayagazeta.ru/articles/2025/10/24/dengi-pod-kovrom</link>
+      <description>За три года авиабилеты подорожали вдвое. Государство переложило расходы компаний на плечи пассажиров</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/24/dengi-pod-kovrom</guid>
+      <pubDate>Fri, 24 Oct 2025 07:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
