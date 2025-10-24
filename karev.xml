@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 24 Oct 2025 08:38:39 +0000</lastBuildDate>
-    <item>
-      <title>«Занятие независимой журналистикой приравнено к экстремизму» — На закрытом судебном процессе по «делу журналистов» прокурор озвучил сроки и прозвучали «последние слова»</title>
-      <link>https://novayagazeta.ru/articles/2025/04/10/zaniatie-nezavisimoi-zhurnalistikoi-priravneno-k-ekstremizmu</link>
-      <description>На закрытом судебном процессе по «делу журналистов» прокурор озвучил сроки и прозвучали «последние слова»</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/04/10/zaniatie-nezavisimoi-zhurnalistikoi-priravneno-k-ekstremizmu</guid>
-      <pubDate>Thu, 10 Apr 2025 16:48:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Oct 2025 09:32:12 +0000</lastBuildDate>
     <item>
       <title>«Сначала подключали электроды к пальцам» — Карцер за шутку о Путине, штраф за кавычки, арест после избиений и пыток, опять осужденные дети</title>
       <link>https://novayagazeta.ru/articles/2025/04/12/snachala-podkliuchali-elektrody-k-paltsam</link>
@@ -287,6 +280,13 @@
       <description>От шеф-повара до доктора философских наук — «враги» кругом</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/18/gosizmena-povsednevnosti</guid>
       <pubDate>Sat, 18 Oct 2025 12:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Полтора месяца тишины — Политзаключенная Ольга Комлева рассказала в своем письме, как она потеряла голос после унизительного «обыска»</title>
+      <link>https://novayagazeta.ru/articles/2025/10/24/poltora-mesiatsa-tishiny</link>
+      <description>Политзаключенная Ольга Комлева рассказала в своем письме, как она потеряла голос после унизительного «обыска»</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/24/poltora-mesiatsa-tishiny</guid>
+      <pubDate>Fri, 24 Oct 2025 08:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
