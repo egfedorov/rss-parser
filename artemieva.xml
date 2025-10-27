@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 27 Oct 2025 07:45:35 +0000</lastBuildDate>
-    <item>
-      <title>Списанные-2 — Писатели-«иноагенты»: рассуждения о том, зачем их включали в список и что пошло не так</title>
-      <link>https://novayagazeta.ru/articles/2024/10/12/spisannye-2</link>
-      <description>Писатели-«иноагенты»: рассуждения о том, зачем их включали в список и что пошло не так</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/10/12/spisannye-2</guid>
-      <pubDate>Sat, 12 Oct 2024 09:41:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Oct 2025 08:38:53 +0000</lastBuildDate>
     <item>
       <title>Травма политкорректности — Нобелевка по литературе: взгляд из России и Америки</title>
       <link>https://novayagazeta.ru/articles/2024/10/16/travma-politkorrektnosti</link>
@@ -287,6 +280,13 @@
       <description>О «Светотени» Даниэля Кельмана, «Эйзене» Гузели Яхиной и ответственности художника за контекст, в котором он живет</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/18/kak-budto-nichego-ne-proizoshlo</guid>
       <pubDate>Sat, 18 Oct 2025 14:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Слепая подпись — «Папина радость, мамино счастье». Часть 2. Продолжаем рассказ о скинхедах, обвиненных в покушении на Симоньян</title>
+      <link>https://novayagazeta.ru/articles/2025/10/27/slepaia-podpis</link>
+      <description>«Папина радость, мамино счастье». Часть 2. Продолжаем рассказ о скинхедах, обвиненных в покушении на Симоньян</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/27/slepaia-podpis</guid>
+      <pubDate>Mon, 27 Oct 2025 08:14:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
