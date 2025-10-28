@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 28 Oct 2025 08:40:00 +0000</lastBuildDate>
-    <item>
-      <title>«Вообще многие уходят» — Письмо в «Новую» от приморского политзэка, коммуниста Артема Самсонова: о мэрах з/к, подписавших контракт, и тюремной больнице</title>
-      <link>https://novayagazeta.ru/articles/2025/03/31/voobshche-mnogie-ukhodiat</link>
-      <description>Письмо в «Новую» от приморского политзэка, коммуниста Артема Самсонова: о мэрах з/к, подписавших контракт, и тюремной больнице</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/03/31/voobshche-mnogie-ukhodiat</guid>
-      <pubDate>Mon, 31 Mar 2025 13:47:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Oct 2025 09:33:24 +0000</lastBuildDate>
     <item>
       <title>«В целях возможной гибели» — Сирот обманом женили и заставляли идти на украинский фронт, чтобы поделить их денежное довольствие и выплаты в случае гибели</title>
       <link>https://novayagazeta.ru/articles/2025/04/02/v-tseliakh-vozmozhnoi-gibeli</link>
@@ -287,6 +280,13 @@
       <description>На фоне ажиотажа из-за повышения утильсбора на Уссурийской таможне выстроились километровые очереди автовозов</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/22/samaia-bolshaia-v-mire-probka</guid>
       <pubDate>Wed, 22 Oct 2025 08:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Сахалине более 100 тысяч человек остались без света. Это почти четверть жителей</title>
+      <link>https://novayagazeta.ru/news/2025/10/28/na-sakhaline-bolee-100-tysiach-chelovek-ostalis-bez-sveta-eto-pochti-chetvert-zhitelei-news</link>
+      <description>На Сахалине более 100 тысяч человек остались без света. Это почти четверть жителей</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/news/2025/10/28/na-sakhaline-bolee-100-tysiach-chelovek-ostalis-bez-sveta-eto-pochti-chetvert-zhitelei-news</guid>
+      <pubDate>Tue, 28 Oct 2025 08:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
