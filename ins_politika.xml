@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 09:33:35 +0000</lastBuildDate>
-    <item>
-      <title>Плод вооружения: рост оборонных расходов Европы укрепит безопасность, но для ряда стран станет ударом по экономике</title>
-      <link>https://theins.ru/politika/2825111</link>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Oct 2025 09:50:56 +0000</lastBuildDate>
     <item>
       <title>Полгода без Асада. Как старые раны Сирии мешают национальному примирению</title>
       <link>https://theins.ru/politika/282310</link>
@@ -186,6 +181,11 @@
       <title>Фильтруй и властвуй. Как устроена российская система похищений и пыток на оккупированных территориях Украины</title>
       <link>https://theins.ru/politika/285668</link>
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>МАГА против Трампа: почему многие правые инфлюенсеры развернули орудия против свого лидера</title>
+      <link>https://theins.ru/politika/285982</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
