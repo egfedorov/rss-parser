@@ -6,6 +6,186 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 15:36:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 15:53:30 +0000</lastBuildDate>
+    <item>
+      <title>Полгода без Асада. Как старые раны Сирии мешают национальному примирению</title>
+      <link>https://theins.ru/politika/282310</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кто здесь власть. Каким будет управление Палестиной после изгнания ХАМАС из Газы</title>
+      <link>https://theins.ru/politika/282513</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>С чувством глубокого проникновения. Каковы на самом деле результаты военной кампании Израиля и США в Иране</title>
+      <link>https://theins.ru/politika/282534</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Серб молод: как сербские студенты бросили вызов 13-летнему правлению Вучича</title>
+      <link>https://theins.ru/politika/282875</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Этот джихад у кого надо джихад. Как Израиль пытается заменить ХАМАС на «своих» исламистов в Газе</title>
+      <link>https://theins.ru/politika/282846</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Азербайджанская вендетта: как облава на «этническую ОПГ» на Урале разбилась о связи задержанных с Путиным</title>
+      <link>https://theins.ru/politika/282974</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Путин лишний. Россия не смогла помешать Турции примирить Азербайджан с Арменией</title>
+      <link>https://theins.ru/politika/283015</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Шах королю: нарастающие протесты под лозунгами No Kings! предвещают республиканцам потерю большинства в Конгрессе</title>
+      <link>https://theins.ru/politika/283144</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Радужная революция. Как Виктор Орбан погорел на борьбе с ЛГБТ и чем это может кончиться для его всевластия</title>
+      <link>https://theins.ru/politika/283244</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Это новое 7 октября!» Как израильские друзы пришли на помощь сирийским</title>
+      <link>https://theins.ru/politika/283391</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Взятки не гладки. Почему Зеленский пытался лишить независимости борцов с коррупцией</title>
+      <link>https://theins.ru/politika/283565</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cлоны на распутье. Как политика Трампа расшатывает республиканскую партию</title>
+      <link>https://theins.ru/politika/283402</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Конец всего авианесущего. Что для ВМФ России означает списание «Адмирала Кузнецова»</title>
+      <link>https://theins.ru/politika/283290</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Мир без Путина: как Армения и Азербайджан примирились через посредничество Вашингтона</title>
+      <link>https://theins.ru/politika/283936</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Из президента в арестанты. Как прокремлевский лидер Республики Сербской заигрался в сепаратизм и лишился власти</title>
+      <link>https://theins.ru/politika/283961</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Краматорск преткновения. Почему требование Путина отдать Донбасс — мечта, которой не суждено сбыться</title>
+      <link>https://theins.ru/politika/284064</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нарезай и властвуй: как республиканцы пытаются перекроить в свою пользу электоральную карту США</title>
+      <link>https://theins.ru/politika/284195</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Разъединение Германии. Сто дней Мерца ФРГ встречает в состоянии глубокого политического и ценностного кризиса</title>
+      <link>https://theins.ru/politika/284358</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Враг будет и дальше топтать нашу землю, но мы не сможем стрелять в него?» Украинцы хотят мира, но не ценой территориальных уступок</title>
+      <link>https://theins.ru/politika/283974</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Картельная федерация. Как криминальные группировки де-факто управляют Мексикой</title>
+      <link>https://theins.ru/politika/284378</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Застрявшие в «Паутине». Как атака на аэродромы стратегической авиации кардинально усложнила ситуацию для ВС РФ</title>
+      <link>https://theins.ru/politika/284601</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Самый непопулярный политик на планете. Как президент Перу Дина Болуарте прославилась на весь мир из-за всеобщей ненависти избирателей</title>
+      <link>https://theins.ru/politika/284659</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Война без границ. Удар Израиля по ХАМАС на территории Катара изменил правила игры на Ближнем Востоке</title>
+      <link>https://theins.ru/politika/285009</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пуля как аргумент. Почему политически мотивированное насилие стало главной темой в США при Трампе</title>
+      <link>https://theins.ru/politika/284983</link>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Итальянцы из Абхазии и друзья «ЛДНР»: прокремлевские наблюдатели массово аккредитуются на парламентские выборы в Молдове</title>
+      <link>https://theins.ru/politika/285206</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Президентская рать: как Трамп использует военных для «наведения порядка» в США и почему это плохо для самой армии</title>
+      <link>https://theins.ru/politika/285337</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Последний премьер Макрона. Франция снова в глубоком политическом кризисе</title>
+      <link>https://theins.ru/politika/285254</link>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Россия не за горами: грузинские власти, копируя методы Кремля, оказываются под все большим влиянием Москвы</title>
+      <link>https://theins.ru/politika/285367</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Декартелизация и демадуризация. Какие предлоги США используют для начала операции в Венесуэле и обернется ли она войной</title>
+      <link>https://theins.ru/politika/285037</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Возвращение «черного интернационала». Каких неонацистов собрал в Петербурге «православный» мошенник-миллиардер Малофеев</title>
+      <link>https://theins.ru/politika/285474</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Адьос, Моралес. Боливия прощается с эпохой жевателей листьев коки у власти</title>
+      <link>https://theins.ru/politika/285847</link>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вторая иранская. После соглашения по Газе Тегеран может стать следующим в очереди на «принуждение к миру»</title>
+      <link>https://theins.ru/politika/285844</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Еще не демократия. Сирия избрала новый парламент, но его легитимность под вопросом</title>
+      <link>https://theins.ru/politika/285913</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Россия лишняя. Почему вопреки многолетним усилиям Москва потеряла статус медиатора на Ближнем Востоке</title>
+      <link>https://theins.ru/politika/285943</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Фильтруй и властвуй. Как устроена российская система похищений и пыток на оккупированных территориях Украины</title>
+      <link>https://theins.ru/politika/285668</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>МАГА против Трампа: почему многие правые инфлюенсеры развернули орудия против своего лидера</title>
+      <link>https://theins.ru/politika/285982</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>
