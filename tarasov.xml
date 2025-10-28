@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 28 Oct 2025 06:42:28 +0000</lastBuildDate>
-    <item>
-      <title>Задымление Рождества — Как превратить обывателя, жаждущего отдыха и праздника душе, в городского партизана</title>
-      <link>https://novayagazeta.ru/articles/2025/01/10/zadymlenie-rozhdestva</link>
-      <description>Как превратить обывателя, жаждущего отдыха и праздника душе, в городского партизана</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/01/10/zadymlenie-rozhdestva</guid>
-      <pubDate>Fri, 10 Jan 2025 14:32:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Oct 2025 07:27:18 +0000</lastBuildDate>
     <item>
       <title>Со льдом, пожалуйста — Смотритель Байкала Алексей Никифоров: замерзнет ли славное море этой зимой, заберет ли Китай турбизнес и что с традиционным марафоном</title>
       <link>https://novayagazeta.ru/articles/2025/01/18/so-ldom-pozhaluista</link>
@@ -287,6 +280,13 @@
       <description>Экспансия животных в города — фейки и реальность, причины и будущее</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/20/rossiia-pod-medvedem</guid>
       <pubDate>Mon, 20 Oct 2025 07:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ной жив, или Бонус от старшего сына — Из семейного альбома, обращенного к моим детям. Но там нет секретов, и, может, это придаст сил еще кому-то</title>
+      <link>https://novayagazeta.ru/articles/2025/10/28/noi-zhiv-ili-bonus-ot-starshego-syna</link>
+      <description>Из семейного альбома, обращенного к моим детям. Но там нет секретов, и, может, это придаст сил еще кому-то</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/28/noi-zhiv-ili-bonus-ot-starshego-syna</guid>
+      <pubDate>Tue, 28 Oct 2025 07:14:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
