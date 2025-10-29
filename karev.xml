@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 29 Oct 2025 08:40:06 +0000</lastBuildDate>
-    <item>
-      <title>«Сначала подключали электроды к пальцам» — Карцер за шутку о Путине, штраф за кавычки, арест после избиений и пыток, опять осужденные дети</title>
-      <link>https://novayagazeta.ru/articles/2025/04/12/snachala-podkliuchali-elektrody-k-paltsam</link>
-      <description>Карцер за шутку о Путине, штраф за кавычки, арест после избиений и пыток, опять осужденные дети</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/04/12/snachala-podkliuchali-elektrody-k-paltsam</guid>
-      <pubDate>Sat, 12 Apr 2025 07:02:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Oct 2025 09:31:43 +0000</lastBuildDate>
     <item>
       <title>«Я лишился всего. Умерла мама, сгорел мой дом» — Политзаключенному Александру Мартынову, осужденному за военные «фейки», требуется медицинская помощь. В заключении он потерял все зубы</title>
       <link>https://novayagazeta.ru/articles/2025/04/15/ia-lishilsia-vsego-umerla-mama-sgorel-moi-dom</link>
@@ -287,6 +280,13 @@
       <description>Политзаключенная Ольга Комлева рассказала в своем письме, как она потеряла голос после унизительного «обыска»</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/24/poltora-mesiatsa-tishiny</guid>
       <pubDate>Fri, 24 Oct 2025 08:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Кухня русской тюрьмы» — Как быть свободными в несвободной стране: рецепты от Павла и Ольги Сюткиных</title>
+      <link>https://novayagazeta.ru/articles/2025/10/29/kukhnia-russkoi-tiurmy</link>
+      <description>Как быть свободными в несвободной стране: рецепты от Павла и Ольги Сюткиных</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/29/kukhnia-russkoi-tiurmy</guid>
+      <pubDate>Wed, 29 Oct 2025 09:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

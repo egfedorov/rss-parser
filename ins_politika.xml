@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 08:40:16 +0000</lastBuildDate>
-    <item>
-      <title>Полгода без Асада. Как старые раны Сирии мешают национальному примирению</title>
-      <link>https://theins.ru/politika/282310</link>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Oct 2025 09:31:52 +0000</lastBuildDate>
     <item>
       <title>Кто здесь власть. Каким будет управление Палестиной после изгнания ХАМАС из Газы</title>
       <link>https://theins.ru/politika/282513</link>
@@ -186,6 +181,11 @@
       <title>МАГА против Трампа: почему многие правые инфлюенсеры развернули орудия против своего лидера</title>
       <link>https://theins.ru/politika/285982</link>
       <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Глубже, чаще, мощнее! Украинская стратегия DeepStrike грозит серьезными перебоями с топливом в России к 2026 году</title>
+      <link>https://theins.ru/politika/286058</link>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
