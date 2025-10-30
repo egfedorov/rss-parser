@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Oct 2025 10:33:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 10:53:09 +0000</lastBuildDate>
     <item>
       <title>Кто здесь власть. Каким будет управление Палестиной после изгнания ХАМАС из Газы</title>
       <link>https://theins.ru/politika/282513</link>
