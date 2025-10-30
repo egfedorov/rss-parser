@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Oct 2025 14:31:39 +0000</lastBuildDate>
-    <item>
-      <title>Кто здесь власть. Каким будет управление Палестиной после изгнания ХАМАС из Газы</title>
-      <link>https://theins.ru/politika/282513</link>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Oct 2025 14:52:55 +0000</lastBuildDate>
     <item>
       <title>С чувством глубокого проникновения. Каковы на самом деле результаты военной кампании Израиля и США в Иране</title>
       <link>https://theins.ru/politika/282534</link>
@@ -186,6 +181,11 @@
       <title>Глубже, чаще, мощнее! Украинская стратегия DeepStrike грозит серьезными перебоями с топливом в России к 2026 году</title>
       <link>https://theins.ru/politika/286058</link>
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Возмущают, но выигрывают: партия Милея победила на выборах в Аргентине, несмотря на массовое недовольство результатами реформ</title>
+      <link>https://theins.ru/politika/286279</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
