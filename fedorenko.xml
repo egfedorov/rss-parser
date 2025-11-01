@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 01 Nov 2025 11:44:57 +0000</lastBuildDate>
-    <item>
-      <title>Стая «правых» и злых — Во Владивостоке подростки били ножом и подожгли человека. Полиция задержала злодеев, похожих на скинхедов, только после окрика от прокуроров</title>
-      <link>https://novayagazeta.ru/articles/2025/04/05/staia-pravykh-i-zlykh</link>
-      <description>Во Владивостоке подростки били ножом и подожгли человека. Полиция задержала злодеев, похожих на скинхедов, только после окрика от прокуроров</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/04/05/staia-pravykh-i-zlykh</guid>
-      <pubDate>Sat, 05 Apr 2025 07:57:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Nov 2025 12:53:00 +0000</lastBuildDate>
     <item>
       <title>Террорист-колясочник — На Сахалине судят 86-летнего правозащитника-инвалида «за призывы к терроризму»</title>
       <link>https://novayagazeta.ru/articles/2025/04/11/terrorist-koliasochnik</link>
@@ -287,6 +280,13 @@
       <description>Прокуратура проверила геологоразведку в охранной зоне крупнейшего тигриного заповедника в Приморье. Стоит вопрос об отзыве лицензии у золоторудной компании</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/31/tigry-na-ves-zolota</guid>
       <pubDate>Fri, 31 Oct 2025 10:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дроны ведут на посадку — В Приморье всем, кроме властей, запретили рассказывать о налетах беспилотников, которых тут никто не видел</title>
+      <link>https://novayagazeta.ru/articles/2025/11/01/drony-vedut-na-posadku</link>
+      <description>В Приморье всем, кроме властей, запретили рассказывать о налетах беспилотников, которых тут никто не видел</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/01/drony-vedut-na-posadku</guid>
+      <pubDate>Sat, 01 Nov 2025 11:51:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
