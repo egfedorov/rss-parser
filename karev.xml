@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 01 Nov 2025 06:39:18 +0000</lastBuildDate>
-    <item>
-      <title>«Сотрудник ФСБ представился мне сотрудником СБУ» — Служил во ФСИН, собирался в «Вагнер»: история первого фигуранта по делу о конфиденциальном сотрудничестве с иностранной разведкой</title>
-      <link>https://novayagazeta.ru/articles/2025/04/17/sotrudnik-fsb-predstavilsia-mne-sotrudnikom-sbu</link>
-      <description>Служил во ФСИН, собирался в «Вагнер»: история первого фигуранта по делу о конфиденциальном сотрудничестве с иностранной разведкой</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/04/17/sotrudnik-fsb-predstavilsia-mne-sotrudnikom-sbu</guid>
-      <pubDate>Thu, 17 Apr 2025 08:19:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Nov 2025 07:27:33 +0000</lastBuildDate>
     <item>
       <title>Без шансов на оправдание — Год колонии за беседу в курилке, пытки током при обыске и уголовка за татуировку</title>
       <link>https://novayagazeta.ru/articles/2025/04/26/bez-shansov-na-opravdanie</link>
@@ -287,6 +280,13 @@
       <description>Музыкант Владимир Болоболов рассказал о пытках током. После подачи заявления в полицию — оказался в СИЗО</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/31/telo-vygibalos-ot-razriadov</guid>
       <pubDate>Fri, 31 Oct 2025 09:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>За слова. За тишину. Всех подряд — Отмена приговора без освобождения, голос, которого не слышно, и снежок, за который сажают</title>
+      <link>https://novayagazeta.ru/articles/2025/11/01/za-slova-za-tishinu-vsekh-podriad</link>
+      <description>Отмена приговора без освобождения, голос, которого не слышно, и снежок, за который сажают</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/01/za-slova-za-tishinu-vsekh-podriad</guid>
+      <pubDate>Sat, 01 Nov 2025 07:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
