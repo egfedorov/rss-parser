@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 03 Nov 2025 08:39:44 +0000</lastBuildDate>
-    <item>
-      <title>Этот возраст в огне — Три истории подростков, подозреваемых в поджогах «стратегических» объектов. И одна общая история ответной неадекватности государства</title>
-      <link>https://novayagazeta.ru/articles/2024/12/02/etot-vozrast-v-ogne</link>
-      <description>Три истории подростков, подозреваемых в поджогах «стратегических» объектов. И одна общая история ответной неадекватности государства</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/12/02/etot-vozrast-v-ogne</guid>
-      <pubDate>Mon, 02 Dec 2024 08:03:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Nov 2025 09:35:22 +0000</lastBuildDate>
     <item>
       <title>Что не так на картинке? — О пьесе Тома Стоппарда «Берег утопии»</title>
       <link>https://novayagazeta.ru/articles/2024/12/16/chto-ne-tak-na-kartinke</link>
@@ -287,6 +280,13 @@
       <description>Как живут и как умирают в Донецке. Репортаж из Республиканского центра травматологии</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/31/grad-obrechennyi</guid>
       <pubDate>Fri, 31 Oct 2025 07:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Большая элегия чужому дому — О ветхом жилье, старых шкафах, золотых табличках, ценностях и любви</title>
+      <link>https://novayagazeta.ru/articles/2025/11/03/bolshaia-elegiia-chuzhomu-domu</link>
+      <description>О ветхом жилье, старых шкафах, золотых табличках, ценностях и любви</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/03/bolshaia-elegiia-chuzhomu-domu</guid>
+      <pubDate>Mon, 03 Nov 2025 08:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
