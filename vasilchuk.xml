@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 05 Nov 2025 06:42:45 +0000</lastBuildDate>
-    <item>
-      <title>Быстро. Тихо. Без поддержки — Как в пятницу вечером арестовали адвокатов Навального — за то, что они делали свою работу</title>
-      <link>https://novayagazeta.ru/articles/2023/10/14/bystro-tikho-bez-podderzhki</link>
-      <description>Как в пятницу вечером арестовали адвокатов Навального — за то, что они делали свою работу</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2023/10/14/bystro-tikho-bez-podderzhki</guid>
-      <pubDate>Sat, 14 Oct 2023 08:16:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Nov 2025 07:29:29 +0000</lastBuildDate>
     <item>
       <title>«Мы не просим — мы просто информируем» — Десятиклассников отправляют на военно-полевые сборы — как от них отказаться</title>
       <link>https://novayagazeta.ru/articles/2023/10/25/my-ne-prosim-my-prosto-informiruem</link>
@@ -287,6 +280,13 @@
       <description>Суджа. Год. Воспоминания из оккупации</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/13/my-moralno-umerli-khodit-prosit-net-sil</guid>
       <pubDate>Mon, 13 Oct 2025 07:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Погибшие — теперь статистика» — Всю осень Белгород под обстрелами, за сентябрь в области погибло 22 человека, раненых — больше 180. Три раза за неделю город был обесточен</title>
+      <link>https://novayagazeta.ru/articles/2025/11/05/pogibshie-teper-statistika</link>
+      <description>Всю осень Белгород под обстрелами, за сентябрь в области погибло 22 человека, раненых — больше 180. Три раза за неделю город был обесточен</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/05/pogibshie-teper-statistika</guid>
+      <pubDate>Wed, 05 Nov 2025 07:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
