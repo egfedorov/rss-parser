@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 07 Nov 2025 11:46:06 +0000</lastBuildDate>
-    <item>
-      <title>Террорист-колясочник — На Сахалине судят 86-летнего правозащитника-инвалида «за призывы к терроризму»</title>
-      <link>https://novayagazeta.ru/articles/2025/04/11/terrorist-koliasochnik</link>
-      <description>На Сахалине судят 86-летнего правозащитника-инвалида «за призывы к терроризму»</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/04/11/terrorist-koliasochnik</guid>
-      <pubDate>Fri, 11 Apr 2025 13:23:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Nov 2025 12:58:32 +0000</lastBuildDate>
     <item>
       <title>Погода — лётная. Для крыш! — Первый крупный ураган года в Приморье оставил без света тысячи жителей края</title>
       <link>https://novayagazeta.ru/articles/2025/04/14/pogoda-liotnaia-dlia-krysh</link>
@@ -287,6 +280,13 @@
       <description>В Приморье всем, кроме властей, запретили рассказывать о налетах беспилотников, которых тут никто не видел</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/01/drony-vedut-na-posadku</guid>
       <pubDate>Sat, 01 Nov 2025 11:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Протест — в утиль — Организаторам митинга против утильсбора во Владивостоке власти вновь отказали, прикрывшись любовью к России и Дедом Морозом</title>
+      <link>https://novayagazeta.ru/articles/2025/11/07/protest-v-util</link>
+      <description>Организаторам митинга против утильсбора во Владивостоке власти вновь отказали, прикрывшись любовью к России и Дедом Морозом</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/07/protest-v-util</guid>
+      <pubDate>Fri, 07 Nov 2025 12:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
