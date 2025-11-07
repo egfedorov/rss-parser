@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 07 Nov 2025 14:29:40 +0000</lastBuildDate>
-    <item>
-      <title>Что не так на картинке? — О пьесе Тома Стоппарда «Берег утопии»</title>
-      <link>https://novayagazeta.ru/articles/2024/12/16/chto-ne-tak-na-kartinke</link>
-      <description>О пьесе Тома Стоппарда «Берег утопии»</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/12/16/chto-ne-tak-na-kartinke</guid>
-      <pubDate>Mon, 16 Dec 2024 13:02:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Nov 2025 14:48:25 +0000</lastBuildDate>
     <item>
       <title>Жизнь за поджог — Сегодня огласят приговоры четверым подросткам, которых обвиняют в терроризме за поджоги релейных шкафов. Им грозит до 18 лет</title>
       <link>https://novayagazeta.ru/articles/2024/12/25/zhizn-za-podzhog</link>
@@ -287,6 +280,13 @@
       <description>О ветхом жилье, старых шкафах, золотых табличках, ценностях и любви</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/03/bolshaia-elegiia-chuzhomu-domu</guid>
       <pubDate>Mon, 03 Nov 2025 08:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Всех мертвых мертвей — Журналист «Новой» Виктория Артемьева — о странной тяге оживлять «нужных мертвых» с помощью ИИ</title>
+      <link>https://novayagazeta.ru/videos/2025/11/07/vsekh-mertvykh-mertvei</link>
+      <description>Журналист «Новой» Виктория Артемьева — о странной тяге оживлять «нужных мертвых» с помощью ИИ</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/videos/2025/11/07/vsekh-mertvykh-mertvei</guid>
+      <pubDate>Fri, 07 Nov 2025 14:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
