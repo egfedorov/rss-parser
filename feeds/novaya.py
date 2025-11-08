@@ -20,29 +20,31 @@ def generate():
     fg.description("Публикации из раздела «Сюжеты» на сайте novayagazeta.eu")
     fg.language("ru")
 
-    # Блоки статей
     articles = soup.select("div.alCK3")
 
-    for article in articles[:20]:
-        # Ссылка
+    seen_links = set()  # чтобы не добавлять повторяющиеся статьи
+
+    for article in articles:
         link_tag = article.select_one("a.APpOT, a.TJM_G")
-        link = urljoin(base_url, link_tag.get("href")) if link_tag else None
-        if not link:
+        if not link_tag or not link_tag.get("href"):
             continue
 
-        # Заголовок
+        link = urljoin(base_url, link_tag["href"])
+
+        # пропускаем, если уже добавляли эту ссылку
+        if link in seen_links:
+            continue
+        seen_links.add(link)
+
         title_tag = article.select_one("h2.FTuaH")
         title = title_tag.get_text(strip=True) if title_tag else "Без названия"
 
-        # Краткое описание
         desc_tag = article.select_one("span.tkJ0o")
         description = desc_tag.get_text(strip=True) if desc_tag else ""
 
-        # Автор
         author_tag = article.select_one("a.CObzH")
         author = author_tag.get_text(strip=True) if author_tag else "Новая газета Европа"
 
-        # Дата публикации
         time_tag = article.select_one("article-time[date-time]")
         if time_tag and time_tag.get("date-time"):
             try:
@@ -53,11 +55,9 @@ def generate():
         else:
             pub_date = datetime.now(timezone.utc)
 
-        # Изображение
         img_tag = article.select_one("img")
         img_url = img_tag["src"] if img_tag and img_tag.get("src") else None
 
-        # Добавляем запись
         fe = fg.add_entry()
         fe.id(link)
         fe.title(title)
@@ -69,6 +69,6 @@ def generate():
             fe.enclosure(img_url, 0, "image/jpeg")
 
     fg.rss_file("feed_novaya.xml")
-   
+
 if __name__ == "__main__":
     generate()
