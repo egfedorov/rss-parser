@@ -25,23 +25,28 @@ def generate():
             continue
         link = link_tag.get("href").strip()
 
-        # Заголовок и подзаголовок
+        # --- Заголовок и подзаголовок ---
         title_tag = a.select_one("h2.e7vUH")
         subtitle_tag = a.select_one("span.hIDBK")
-        title = title_tag.get_text(strip=True) if title_tag else ""
+
+        if title_tag:
+            subtitle_inside = title_tag.select_one("span.hIDBK")
+            if subtitle_inside:
+                subtitle_inside.extract()
+            title = title_tag.get_text(strip=True)
+        else:
+            title = ""
+
         subtitle = subtitle_tag.get_text(strip=True) if subtitle_tag else ""
         full_title = f"{title}: {subtitle}" if subtitle else title
+        # --------------------------------
 
-        # Категории и рубрики
         category_tag = a.select_one("span.xK9Tb")
         section_tag = a.select_one("span.Rai3O")
         category = category_tag.get_text(strip=True) if category_tag else ""
         section = section_tag.get_text(strip=True) if section_tag else ""
-
-        # Автор (фиксируем — это страница автора)
         author = "Алеся Соколова"
 
-        # Дата публикации
         time_tag = a.select_one("article-time[date-time]")
         if time_tag and time_tag.get("date-time"):
             try:
@@ -52,11 +57,9 @@ def generate():
         else:
             pub_date = datetime.now(timezone.utc)
 
-        # Картинка
         img_tag = a.select_one("img")
         img_url = img_tag["src"] if img_tag and img_tag.get("src") else None
 
-        # Добавляем в RSS
         fe = fg.add_entry()
         fe.id(link)
         fe.title(full_title)
