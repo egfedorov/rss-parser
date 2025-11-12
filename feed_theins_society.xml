@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Nov 2025 10:34:22 +0000</lastBuildDate>
-    <item>
-      <title>Призрак города. Как на самом деле живет Мариуполь спустя три года с начала оккупации</title>
-      <link>https://theins.ru/obshestvo/281802</link>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Nov 2025 10:54:13 +0000</lastBuildDate>
     <item>
       <title>Алгоритм ненависти. Как социальные сети приводят к радикализации общества</title>
       <link>https://theins.ru/obshestvo/281765</link>
@@ -186,6 +181,11 @@
       <title>«Они меня били, но я уже ничего не чувствовал». Как выжили в плену ХАМАС последние израильские заложники</title>
       <link>https://theins.ru/obshestvo/286103</link>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Антинаучная революция. Как политика Трампа ударила по американскому научному миру и чем это грозит</title>
+      <link>https://theins.ru/obshestvo/286541</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
