@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Nov 2025 11:46:02 +0000</lastBuildDate>
-    <item>
-      <title>«Это новое 7 октября!» Как израильские друзы пришли на помощь сирийским</title>
-      <link>https://theins.ru/politika/283391</link>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Nov 2025 13:00:02 +0000</lastBuildDate>
     <item>
       <title>Взятки не гладки. Почему Зеленский пытался лишить независимости борцов с коррупцией</title>
       <link>https://theins.ru/politika/283565</link>
@@ -88,7 +83,7 @@
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Президентская рать: как Трамп использует военных для «наведения порядка» в США и почему это плохо для самой армии</title>
+      <title>Президентская рать. Как Трамп использует военных для «наведения порядка» в США и почему это плохо для самой армии</title>
       <link>https://theins.ru/politika/285337</link>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
     </item>
@@ -138,7 +133,7 @@
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>МАГА против Трампа: почему многие правые инфлюенсеры развернули орудия против своего лидера</title>
+      <title>МАГА против Трампа. Почему многие правые инфлюенсеры развернули орудия против своего лидера</title>
       <link>https://theins.ru/politika/285982</link>
       <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
     </item>
@@ -186,6 +181,11 @@
       <title>Кто, если не террористы. Альтернатив ХАМАС в секторе Газа все еще нет, и непонятно, появятся ли</title>
       <link>https://theins.ru/politika/286605</link>
       <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дело мести. Как администрация Дональда Трампа заводит уголовные дела против его критиков</title>
+      <link>https://theins.ru/politika/286480</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
