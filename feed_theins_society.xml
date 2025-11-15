@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Nov 2025 12:53:33 +0000</lastBuildDate>
-    <item>
-      <title>Алгоритм ненависти. Как социальные сети приводят к радикализации общества</title>
-      <link>https://theins.ru/obshestvo/281765</link>
-      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Nov 2025 13:33:40 +0000</lastBuildDate>
     <item>
       <title>Выхода нет. Как в России массово фабрикуют новые уголовные дела против уже осужденных политзаключенных</title>
       <link>https://theins.ru/obshestvo/28208666</link>
@@ -186,6 +181,11 @@
       <title>Антинаучная революция. Как политика Трампа ударила по американскому научному миру и чем это грозит</title>
       <link>https://theins.ru/obshestvo/286541</link>
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Приказали долго жить: почему надеждам Путина и Си продлить жизнь до 150 лет не суждено сбыться</title>
+      <link>https://theins.ru/obshestvo/286472</link>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
