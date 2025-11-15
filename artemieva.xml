@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 15 Nov 2025 13:32:55 +0000</lastBuildDate>
-    <item>
-      <title>Жизнь за поджог — Сегодня огласят приговоры четверым подросткам, которых обвиняют в терроризме за поджоги релейных шкафов. Им грозит до 18 лет</title>
-      <link>https://novayagazeta.ru/articles/2024/12/25/zhizn-za-podzhog</link>
-      <description>Сегодня огласят приговоры четверым подросткам, которых обвиняют в терроризме за поджоги релейных шкафов. Им грозит до 18 лет</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/12/25/zhizn-za-podzhog</guid>
-      <pubDate>Wed, 25 Dec 2024 08:26:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Nov 2025 13:46:46 +0000</lastBuildDate>
     <item>
       <title>Фаренгейт-лист. Обновленная версия — Реестр книг, авторов и издательств, которых власти считают нежелательными. Впервые опубликован в июне и за полгода сильно подрос</title>
       <link>https://novayagazeta.ru/articles/2025/01/08/farengeit-list-obnovlennaia-versiia</link>
@@ -287,6 +280,13 @@
       <description>Журналист «Новой» Виктория Артемьева — о странной тяге оживлять «нужных мертвых» с помощью ИИ</description>
       <guid isPermaLink="true">https://novayagazeta.ru/videos/2025/11/07/vsekh-mertvykh-mertvei</guid>
       <pubDate>Fri, 07 Nov 2025 14:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Москва ничего не говорит — К столетию со дня рождения Юлия Даниэля. О повести, в которой рассказывается о госпразднике «День открытых убийств»</title>
+      <link>https://novayagazeta.ru/articles/2025/11/15/moskva-nichego-ne-govorit</link>
+      <description>К столетию со дня рождения Юлия Даниэля. О повести, в которой рассказывается о госпразднике «День открытых убийств»</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/15/moskva-nichego-ne-govorit</guid>
+      <pubDate>Sat, 15 Nov 2025 13:42:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
