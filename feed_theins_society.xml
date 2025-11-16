@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Nov 2025 09:28:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 09:45:09 +0000</lastBuildDate>
     <item>
       <title>Выхода нет. Как в России массово фабрикуют новые уголовные дела против уже осужденных политзаключенных</title>
       <link>https://theins.ru/obshestvo/28208666</link>
