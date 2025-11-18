@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 18 Nov 2025 06:41:15 +0000</lastBuildDate>
-    <item>
-      <title>Возможно ли повалить неваляшку? — Звездные войны художника Слонова: очередной эпизод с участием судебной системы РФ представлен широкой публике. Репортаж из зала суда</title>
-      <link>https://novayagazeta.ru/articles/2025/01/23/vozmozhno-li-povalit-nevaliashku</link>
-      <description>Звездные войны художника Слонова: очередной эпизод с участием судебной системы РФ представлен широкой публике. Репортаж из зала суда</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/01/23/vozmozhno-li-povalit-nevaliashku</guid>
-      <pubDate>Thu, 23 Jan 2025 14:59:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Nov 2025 07:29:04 +0000</lastBuildDate>
     <item>
       <title>Что радует стабильностью — так это сода — Собственные корреспонденты «Новой» измерили «народную инфляцию» и посмотрели, насколько выросли ценники в регионах России после Нового года</title>
       <link>https://novayagazeta.ru/articles/2025/02/04/chto-raduet-stabilnostiu-tak-eto-soda</link>
@@ -287,6 +280,13 @@
       <description>На какие продукты выросли цены за минувший месяц. И как дорожает сфера услуг. Мониторинг «Новой»</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/15/sama-sebe-manikiur-i-fitness</guid>
       <pubDate>Sat, 15 Nov 2025 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Обедая с дьяволом, пользуйся длинной ложкой — Если выпало среди людоедов родиться: наброски к несостоявшемуся разговору со студентами</title>
+      <link>https://novayagazeta.ru/articles/2025/11/18/obedaia-s-diavolom-polzuisia-dlinnoi-lozhkoi</link>
+      <description>Если выпало среди людоедов родиться: наброски к несостоявшемуся разговору со студентами</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/18/obedaia-s-diavolom-polzuisia-dlinnoi-lozhkoi</guid>
+      <pubDate>Tue, 18 Nov 2025 07:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
