@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 09:52:37 +0000</lastBuildDate>
-    <item>
-      <title>«Жабры пока не отросли!» Несмотря на разлив мазута и экологическое бедствие, на пляжах Анапы неофициально открылся пляжный сезон — репортаж</title>
-      <link>https://theins.ru/obshestvo/282461</link>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Nov 2025 10:34:20 +0000</lastBuildDate>
     <item>
       <title>Партизаны тамиздата. Как в условиях цензуры выживает российское книгоиздание внутри страны и в эмиграции</title>
       <link>https://theins.ru/obshestvo/282231</link>
@@ -186,6 +181,11 @@
       <title>Элитное полуразрушенное: цены на жилье на Донбассе взлетели до небес, несмотря на разруху, обстрелы и проблемы с водой</title>
       <link>https://theins.ru/obshestvo/285105</link>
       <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вирусократия. Как антиваксерство превратилось из маргинальной идеи в часть политической идеологии</title>
+      <link>https://theins.ru/obshestvo/286228</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
