@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 21 Nov 2025 07:02:31 +0000</lastBuildDate>
-    <item>
-      <title>«Да, я буйная» — «Иноагентом» доярка и многодетная мать Елена Агафонова* из Тульской области стала полтора года назад. Что изменилось за это время в ее жизни?</title>
-      <link>https://novayagazeta.ru/articles/2025/01/09/da-ia-buinaia</link>
-      <description>«Иноагентом» доярка и многодетная мать Елена Агафонова* из Тульской области стала полтора года назад. Что изменилось за это время в ее жизни?</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/01/09/da-ia-buinaia</guid>
-      <pubDate>Thu, 09 Jan 2025 07:31:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Nov 2025 07:32:41 +0000</lastBuildDate>
     <item>
       <title>Газ перекрыт, на очереди нефть — К чему приведет прекращение транзита российских углеводородов через Украину, объясняет нефтегазовый аналитик Михаил Крутихин*</title>
       <link>https://novayagazeta.ru/articles/2025/01/10/gaz-perekryt-na-ocheredi-neft</link>
@@ -287,6 +280,13 @@
       <description>Седьмое октября 2023 года: что увидели волонтеры, первыми вошедшие в убитые террористами дома</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/24/na-stene-krov-i-sledy-ot-ruki-rebenka</guid>
       <pubDate>Fri, 24 Oct 2025 09:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Игра в санкции — это всерьез и надолго» — Как будут работать нефтегазовые ограничения, введенные США, объясняет нефтегазовый аналитик Сергей Вакуленко</title>
+      <link>https://novayagazeta.ru/articles/2025/11/21/igra-v-sanktsii-eto-vserez-i-nadolgo</link>
+      <description>Как будут работать нефтегазовые ограничения, введенные США, объясняет нефтегазовый аналитик Сергей Вакуленко</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/21/igra-v-sanktsii-eto-vserez-i-nadolgo</guid>
+      <pubDate>Fri, 21 Nov 2025 07:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
