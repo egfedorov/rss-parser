@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 26 Nov 2025 09:00:37 +0000</lastBuildDate>
-    <item>
-      <title>«Я не знаю, как с этим жить» — Завотделением НИИ Склифософского столкнулась с мошенниками, подделывавшими документы. Но судят за это не мошенников, а врача в инвалидной коляске</title>
-      <link>https://novayagazeta.ru/articles/2025/05/27/ia-ne-znaiu-kak-s-etim-zhit</link>
-      <description>Завотделением НИИ Склифософского столкнулась с мошенниками, подделывавшими документы. Но судят за это не мошенников, а врача в инвалидной коляске</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/27/ia-ne-znaiu-kak-s-etim-zhit</guid>
-      <pubDate>Tue, 27 May 2025 07:06:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Nov 2025 09:37:00 +0000</lastBuildDate>
     <item>
       <title>«Что потеряю еще впереди — неизвестно» — Об этапе и первом месяце в колонии рассказал в своем письме москвич Юрий Коховец, осужденный за участие в уличном опросе</title>
       <link>https://novayagazeta.ru/articles/2025/05/27/chto-poteriaiu-eshche-vperedi-neizvestno</link>
@@ -287,6 +280,13 @@
       <description>От публикаций десятилетней давности до статусов в мессенджере: срок начинается там, где заканчивается здравый смысл</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/22/kogda-dostatochno-odnogo-klika</guid>
       <pubDate>Sat, 22 Nov 2025 07:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Прошу, не убивайте меня» — Протоколы — под копирку, реальность — за скобками. Последнее слово москвича Солима Камины и приговор</title>
+      <link>https://novayagazeta.ru/articles/2025/11/26/proshu-ne-ubivaite-menia</link>
+      <description>Протоколы — под копирку, реальность — за скобками. Последнее слово москвича Солима Камины и приговор</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/26/proshu-ne-ubivaite-menia</guid>
+      <pubDate>Wed, 26 Nov 2025 09:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
