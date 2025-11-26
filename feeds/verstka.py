@@ -10,6 +10,8 @@ def generate():
     resp = requests.get(url, headers=headers)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
+
+    # Новая структура — работает
     items = soup.select("li.wp-block-post")
 
     fg = FeedGenerator()
@@ -19,17 +21,24 @@ def generate():
     fg.language("ru")
 
     for item in items:
-        a_el = item.select_one("h3 a")
+        # Новый главный селектор
+        a_el = item.select_one(".wp-block-post-title a")
         if not a_el:
-            continue
-        title = a_el.text.strip()
+            continue     # пропускаем рекламное видео
+
+        title = a_el.get_text(strip=True)
         link = a_el.get("href")
-        pubdate_el = item.select_one("time")
-        pubdate_str = pubdate_el.get("datetime") if pubdate_el else ""
-        try:
-            pubDate = datetime.fromisoformat(pubdate_str)
-        except:
-            pubDate = datetime.now()
+
+        # дата
+        time_el = item.select_one("time[datetime]")
+        if time_el:
+            dt_raw = time_el["datetime"]
+            try:
+                pubDate = datetime.fromisoformat(dt_raw)
+            except:
+                pubDate = datetime.now(timezone.utc)
+        else:
+            pubDate = datetime.now(timezone.utc)
 
         fe = fg.add_entry()
         fe.title(title)
@@ -37,4 +46,4 @@ def generate():
         fe.description(title)
         fe.pubDate(pubDate)
 
-    fg.rss_file("feed_verstka.xml")
+    fg.rss_file("verstka.xml")
