@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Nov 2025 14:01:35 +0000</lastBuildDate>
-    <item>
-      <title>Партизаны тамиздата. Как в условиях цензуры выживает российское книгоиздание внутри страны и в эмиграции</title>
-      <link>https://theins.ru/obshestvo/282231</link>
-      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Nov 2025 14:34:41 +0000</lastBuildDate>
     <item>
       <title>Пол гражданина: как трансгендеры боролись с дискриминацией в СССР</title>
       <link>https://theins.ru/obshestvo/282114</link>
@@ -186,6 +181,11 @@
       <title>Вирусократия. Как антиваксерство превратилось из маргинальной идеи в часть политической идеологии</title>
       <link>https://theins.ru/obshestvo/286228</link>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Не служить верой. Как Израиль пытается заставить ультраортодоксальных евреев служить в армии наравне с остальными</title>
+      <link>https://theins.ru/obshestvo/287104</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
