@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 27 Nov 2025 06:42:18 +0000</lastBuildDate>
-    <item>
-      <title>«Как только прекратится огонь, надо освобождать всех» — Правозащитники России и Украины потребовали взаимного освобождения пленных и политзэков</title>
-      <link>https://novayagazeta.ru/articles/2025/03/05/kak-tolko-prekratitsia-ogon-nado-osvobozhdat-vsekh</link>
-      <description>Правозащитники России и Украины потребовали взаимного освобождения пленных и политзэков</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/03/05/kak-tolko-prekratitsia-ogon-nado-osvobozhdat-vsekh</guid>
-      <pubDate>Wed, 05 Mar 2025 08:02:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Nov 2025 07:32:03 +0000</lastBuildDate>
     <item>
       <title>На Севере — жуть — Как живет город, претендующий на звание «столицы Арктики»</title>
       <link>https://novayagazeta.ru/articles/2025/03/11/na-severe-zhut</link>
@@ -287,6 +280,13 @@
       <description>Репрессии против ЛГБТ* в России оказались жестче, чем при СССР</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/06/boius-chto-okazhus-pod-sapogom</guid>
       <pubDate>Thu, 06 Nov 2025 07:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Долг — Родине — Регионы снижают выплаты военным, но обещают им списание кредитов</title>
+      <link>https://novayagazeta.ru/articles/2025/11/27/dolg-rodine</link>
+      <description>Регионы снижают выплаты военным, но обещают им списание кредитов</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/27/dolg-rodine</guid>
+      <pubDate>Thu, 27 Nov 2025 07:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
