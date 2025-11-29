@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Nov 2025 17:27:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 17:53:17 +0000</lastBuildDate>
     <item>
       <title>Краматорск преткновения. Почему требование Путина отдать Донбасс — мечта, которой не суждено сбыться</title>
       <link>https://theins.ru/politika/284064</link>
