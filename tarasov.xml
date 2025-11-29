@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 29 Nov 2025 06:57:21 +0000</lastBuildDate>
-    <item>
-      <title>Поле боя и поле боли — О заключенных России, которые мало кому известны. И о ныне закрашенной надписи «Свобода», что была на скале 125 лет, пережив всех тиранов</title>
-      <link>https://novayagazeta.ru/articles/2025/02/06/pole-boia-i-pole-boli</link>
-      <description>О заключенных России, которые мало кому известны. И о ныне закрашенной надписи «Свобода», что была на скале 125 лет, пережив всех тиранов</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/02/06/pole-boia-i-pole-boli</guid>
-      <pubDate>Thu, 06 Feb 2025 08:07:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Nov 2025 07:26:43 +0000</lastBuildDate>
     <item>
       <title>Юность на три буквы: ЕГЭ, АУЕ*, СВО — Политзэку Никите Уварову ужесточают условия в колонии, и книг в штрафном изоляторе он добивается только через голодовку</title>
       <link>https://novayagazeta.ru/articles/2025/02/22/iunost-na-tri-bukvy-ege-aue-svo</link>
@@ -287,6 +280,13 @@
       <description>Из семейного альбома, обращенного к моим детям. Но там нет секретов, и, может, это придаст сил еще кому-то</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/28/noi-zhiv-ili-bonus-ot-starshego-syna</guid>
       <pubDate>Thu, 20 Nov 2025 08:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Не важно, поставят ли бюст Сталину, ситуация не изменится. Мы уже глубоко упали» — О том, как противостоять большинству, невежеству и забвению. Разговор с историком репрессий Алексеем Бабием</title>
+      <link>https://novayagazeta.ru/articles/2025/11/29/ne-vazhno-postaviat-li-biust-stalinu-situatsiia-ne-izmenitsia-my-uzhe-gluboko-upali</link>
+      <description>О том, как противостоять большинству, невежеству и забвению. Разговор с историком репрессий Алексеем Бабием</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/29/ne-vazhno-postaviat-li-biust-stalinu-situatsiia-ne-izmenitsia-my-uzhe-gluboko-upali</guid>
+      <pubDate>Sat, 29 Nov 2025 07:14:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
