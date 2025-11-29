@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 29 Nov 2025 15:27:55 +0000</lastBuildDate>
-    <item>
-      <title>Гарри Поттер и большая политика — Диалог двух читателей из Америки и России о том, что значит Джоан Роулинг и ее книги для их стран, и о том, отвечает ли творение за творца</title>
-      <link>https://novayagazeta.ru/articles/2025/01/13/garri-potter-i-bolshaia-politika</link>
-      <description>Диалог двух читателей из Америки и России о том, что значит Джоан Роулинг и ее книги для их стран, и о том, отвечает ли творение за творца</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/01/13/garri-potter-i-bolshaia-politika</guid>
-      <pubDate>Mon, 13 Jan 2025 12:23:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Nov 2025 15:51:22 +0000</lastBuildDate>
     <item>
       <title>Невидимый в конце туннеля свет — О российских доносах на книги зарубежных писателей Тилар Маццео и Энтони Дорра</title>
       <link>https://novayagazeta.ru/articles/2025/01/14/nevidimyi-v-kontse-tunnelia-svet</link>
@@ -287,6 +280,13 @@
       <description>Четыре аккорда о том, как в России арестовывают уличных музыкантов</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/25/ty-ne-odin</guid>
       <pubDate>Tue, 25 Nov 2025 07:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ИИскусственное искусство — О том, как и для чего используют ИИ в искусстве России и Америки (спойлер: не интеллектуально)</title>
+      <link>https://novayagazeta.ru/articles/2025/11/27/iiskusstvennoe-iskusstvo</link>
+      <description>О том, как и для чего используют ИИ в искусстве России и Америки (спойлер: не интеллектуально)</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/27/iiskusstvennoe-iskusstvo</guid>
+      <pubDate>Sat, 29 Nov 2025 15:36:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
