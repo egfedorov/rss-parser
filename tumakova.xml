@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 02 Dec 2025 08:42:58 +0000</lastBuildDate>
-    <item>
-      <title>Газ перекрыт, на очереди нефть — К чему приведет прекращение транзита российских углеводородов через Украину, объясняет нефтегазовый аналитик Михаил Крутихин*</title>
-      <link>https://novayagazeta.ru/articles/2025/01/10/gaz-perekryt-na-ocheredi-neft</link>
-      <description>К чему приведет прекращение транзита российских углеводородов через Украину, объясняет нефтегазовый аналитик Михаил Крутихин*</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/01/10/gaz-perekryt-na-ocheredi-neft</guid>
-      <pubDate>Fri, 10 Jan 2025 09:14:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Dec 2025 09:05:25 +0000</lastBuildDate>
     <item>
       <title>Что ждать «на следующий день»? — Израиль пошел на соглашение с ХАМАС ради своих заложников. Чем ему приходится жертвовать, объясняет израильский эксперт, профессор Зеэв Ханин</title>
       <link>https://novayagazeta.ru/articles/2025/01/18/chto-zhdat-na-sleduiushchii-den</link>
@@ -287,6 +280,13 @@
       <description>Как будут работать нефтегазовые ограничения, введенные США, объясняет нефтегазовый аналитик Сергей Вакуленко</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/21/igra-v-sanktsii-eto-vserez-i-nadolgo</guid>
       <pubDate>Fri, 21 Nov 2025 07:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Главная тенденция — застой. Краха и кризиса не будет» — Что обещает российской экономике в 2026 году Владислав Иноземцев*</title>
+      <link>https://novayagazeta.ru/articles/2025/12/02/glavnaia-tendentsiia-zastoi-krakha-i-krizisa-ne-budet</link>
+      <description>Что обещает российской экономике в 2026 году Владислав Иноземцев*</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/02/glavnaia-tendentsiia-zastoi-krakha-i-krizisa-ne-budet</guid>
+      <pubDate>Tue, 02 Dec 2025 08:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
