@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Dec 2025 15:37:03 +0000</lastBuildDate>
-    <item>
-      <title>Краматорск преткновения. Почему требование Путина отдать Донбасс — мечта, которой не суждено сбыться</title>
-      <link>https://theins.ru/politika/284064</link>
-      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Dec 2025 15:59:27 +0000</lastBuildDate>
     <item>
       <title>Нарезай и властвуй: как республиканцы пытаются перекроить в свою пользу электоральную карту США</title>
       <link>https://theins.ru/politika/284195</link>
@@ -186,6 +181,11 @@
       <title>ХХХ-Files. Что обнаружилось в «файлах Эпштейна» и как это скажется на рейтинге Трампа</title>
       <link>https://theins.ru/politika/287010</link>
       <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Казнь по национальному признаку. Почему поправки в закон о смертной казни в Израиле вызвали волну критики</title>
+      <link>https://theins.ru/politika/287200</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
