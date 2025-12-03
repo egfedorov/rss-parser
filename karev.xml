@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 03 Dec 2025 13:05:01 +0000</lastBuildDate>
-    <item>
-      <title>«Сокрушаться не стоит» — Письмо петербургской переводчицы Елены Абрамовой из СИЗО. Ей дали два года колонии за пикеты</title>
-      <link>https://novayagazeta.ru/articles/2025/06/05/sokrushatsia-ne-stoit</link>
-      <description>Письмо петербургской переводчицы Елены Абрамовой из СИЗО. Ей дали два года колонии за пикеты</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/06/05/sokrushatsia-ne-stoit</guid>
-      <pubDate>Thu, 05 Jun 2025 16:04:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Dec 2025 13:47:50 +0000</lastBuildDate>
     <item>
       <title>«Каторжные» работы — Об огромном сроке студенту с ДЦП, а также о том, что пора вспоминать Колыму</title>
       <link>https://novayagazeta.ru/articles/2025/06/07/katorzhnye-raboty</link>
@@ -287,6 +280,13 @@
       <description>«Мы доказали, что невиновны». Не признавшие вину фигуранты дела о подрыве Крымского моста получили пожизненные сроки. Суд взыскивает с них 7 миллиардов рублей</description>
       <guid isPermaLink="true">https://novayagazeta.ru/news/2025/11/27/my-dokazali-chto-nevinovny-ne-priznavshie-vinu-figuranty-dela-o-podryve-krymskogo-mosta-poluchili-pozhiznennye-sroki-sud-vzyskivaet-s-nikh-7-milliardov-rublei-news</guid>
       <pubDate>Thu, 27 Nov 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пойманы на чужом сайте — Журналистов «Живого гвоздя» привлекли за «участие» в деятельности нежелательной организации — после того, как их эфиры появились на другом сайте без их согласия</title>
+      <link>https://novayagazeta.ru/articles/2025/12/03/poimany-na-chuzhom-saite</link>
+      <description>Журналистов «Живого гвоздя» привлекли за «участие» в деятельности нежелательной организации — после того, как их эфиры появились на другом сайте без их согласия</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/03/poimany-na-chuzhom-saite</guid>
+      <pubDate>Wed, 03 Dec 2025 13:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
