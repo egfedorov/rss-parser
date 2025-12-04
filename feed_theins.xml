@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Расследования" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Dec 2025 20:58:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 21:31:03 +0000</lastBuildDate>
     <item>
       <title>Мошенники, убийцы, студенты. Из кого ГРУ собрало команду хакеров-провокаторов и почему она провалилась</title>
       <link>https://theins.ru/inv/281701</link>
