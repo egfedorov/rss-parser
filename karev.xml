@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 05 Dec 2025 10:34:33 +0000</lastBuildDate>
-    <item>
-      <title>«Каторжные» работы — Об огромном сроке студенту с ДЦП, а также о том, что пора вспоминать Колыму</title>
-      <link>https://novayagazeta.ru/articles/2025/06/07/katorzhnye-raboty</link>
-      <description>Об огромном сроке студенту с ДЦП, а также о том, что пора вспоминать Колыму</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/06/07/katorzhnye-raboty</guid>
-      <pubDate>Sat, 07 Jun 2025 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Dec 2025 10:56:49 +0000</lastBuildDate>
     <item>
       <title>Разработчик в разработке — Бывший разработчик «Яндекса» вернулся в Россию, не подозревая, что его отправят в «Лефортово»</title>
       <link>https://novayagazeta.ru/articles/2025/06/13/razrabotchik-v-razrabotke</link>
@@ -287,6 +280,13 @@
       <description>Журналистов «Живого гвоздя» привлекли за «участие» в деятельности нежелательной организации — после того, как их эфиры появились на другом сайте без их согласия</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/03/poimany-na-chuzhom-saite</guid>
       <pubDate>Wed, 03 Dec 2025 13:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Капитан неочевидность — Экс-полицейского повторно осудили на 7 лет за случайно записанный личный телефонный разговор про СВО, дело слушали три года</title>
+      <link>https://novayagazeta.ru/articles/2025/12/05/kapitan-neochevidnost</link>
+      <description>Экс-полицейского повторно осудили на 7 лет за случайно записанный личный телефонный разговор про СВО, дело слушали три года</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/05/kapitan-neochevidnost</guid>
+      <pubDate>Fri, 05 Dec 2025 10:36:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
