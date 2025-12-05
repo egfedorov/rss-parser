@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Расследования" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Dec 2025 11:53:00 +0000</lastBuildDate>
-    <item>
-      <title>Мошенники, убийцы, студенты. Из кого ГРУ собрало команду хакеров-провокаторов и почему она провалилась</title>
-      <link>https://theins.ru/inv/281701</link>
-      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Dec 2025 13:00:49 +0000</lastBuildDate>
     <item>
       <title>«Бурановские» дедушки: как хоккейная команда объединила адъютанта Путина, генералов ФСБ, шпиона из ГРУ и тренера-уголовника</title>
       <link>https://theins.ru/inv/281700</link>
@@ -186,6 +181,11 @@
       <title>Тайская пленница. Как «люди-жирафы» помогли ГРУ освободить из рабства дочь своего сослуживца, а пропагандисты нашли «украинский след»</title>
       <link>https://theins.ru/inv/286764</link>
       <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Иностранные реагенты. Российский ВПК критически зависит от импорта химической продукции, в том числе и западной, выяснил The Insider</title>
+      <link>https://theins.ru/inv/287195</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
