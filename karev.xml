@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 06 Dec 2025 06:58:47 +0000</lastBuildDate>
-    <item>
-      <title>Разработчик в разработке — Бывший разработчик «Яндекса» вернулся в Россию, не подозревая, что его отправят в «Лефортово»</title>
-      <link>https://novayagazeta.ru/articles/2025/06/13/razrabotchik-v-razrabotke</link>
-      <description>Бывший разработчик «Яндекса» вернулся в Россию, не подозревая, что его отправят в «Лефортово»</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/06/13/razrabotchik-v-razrabotke</guid>
-      <pubDate>Fri, 13 Jun 2025 10:02:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 06 Dec 2025 07:28:38 +0000</lastBuildDate>
     <item>
       <title>Страну отключили — Власти глушили связь в регионах, объясняя это «угрозами от атак беспилотников». Как россияне адаптировались к жизни офлайн — на личном опыте</title>
       <link>https://novayagazeta.ru/articles/2025/06/19/stranu-otkliuchili</link>
@@ -287,6 +280,13 @@
       <description>Экс-полицейского повторно осудили на 7 лет за случайно записанный личный телефонный разговор про СВО, дело слушали три года</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/05/kapitan-neochevidnost</guid>
       <pubDate>Fri, 05 Dec 2025 10:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Шпиономания общего режима — От переписки и донатов до ученых, подростков и мемов</title>
+      <link>https://novayagazeta.ru/articles/2025/12/06/shpionomaniia-obshchego-rezhima</link>
+      <description>От переписки и донатов до ученых, подростков и мемов</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/06/shpionomaniia-obshchego-rezhima</guid>
+      <pubDate>Sat, 06 Dec 2025 07:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
