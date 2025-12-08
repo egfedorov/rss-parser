@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 08 Dec 2025 11:52:53 +0000</lastBuildDate>
-    <item>
-      <title>Невидимый в конце туннеля свет — О российских доносах на книги зарубежных писателей Тилар Маццео и Энтони Дорра</title>
-      <link>https://novayagazeta.ru/articles/2025/01/14/nevidimyi-v-kontse-tunnelia-svet</link>
-      <description>О российских доносах на книги зарубежных писателей Тилар Маццео и Энтони Дорра</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/01/14/nevidimyi-v-kontse-tunnelia-svet</guid>
-      <pubDate>Tue, 14 Jan 2025 12:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Dec 2025 13:00:14 +0000</lastBuildDate>
     <item>
       <title>Нет, смерть — В России растет количество нападений ультраправых группировок — как и количество самих группировок. Фашизм вернулся на улицы</title>
       <link>https://novayagazeta.ru/articles/2025/01/23/net-smert</link>
@@ -287,6 +280,13 @@
       <description>О том, как и для чего используют ИИ в искусстве России и Америки (спойлер: не интеллектуально)</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/27/iiskusstvennoe-iskusstvo</guid>
       <pubDate>Sat, 29 Nov 2025 15:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Мы разучились ненавидеть смерть» — О непротиворечивом житии противоречивого пастора Бонхёффера, о котором с трудом вышел фильм в российском прокате</title>
+      <link>https://novayagazeta.ru/articles/2025/12/08/my-razuchilis-nenavidet-smert</link>
+      <description>О непротиворечивом житии противоречивого пастора Бонхёффера, о котором с трудом вышел фильм в российском прокате</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/08/my-razuchilis-nenavidet-smert</guid>
+      <pubDate>Mon, 08 Dec 2025 12:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
