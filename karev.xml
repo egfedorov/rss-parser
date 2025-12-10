@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 10 Dec 2025 07:56:17 +0000</lastBuildDate>
-    <item>
-      <title>Страну отключили — Власти глушили связь в регионах, объясняя это «угрозами от атак беспилотников». Как россияне адаптировались к жизни офлайн — на личном опыте</title>
-      <link>https://novayagazeta.ru/articles/2025/06/19/stranu-otkliuchili</link>
-      <description>Власти глушили связь в регионах, объясняя это «угрозами от атак беспилотников». Как россияне адаптировались к жизни офлайн — на личном опыте</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/06/19/stranu-otkliuchili</guid>
-      <pubDate>Thu, 19 Jun 2025 07:14:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Dec 2025 08:42:08 +0000</lastBuildDate>
     <item>
       <title>Киев — шпиону: а что там на монгольской границе? — «Мир» — это вандализм, уголовка за надпись, штраф за переписку в студенческом чате и госизмена за передачу книги</title>
       <link>https://novayagazeta.ru/articles/2025/06/21/kiev-shpionu-a-chto-tam-na-mongolskoi-granitse</link>
@@ -287,6 +280,13 @@
       <description>От переписки и донатов до ученых, подростков и мемов</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/06/shpionomaniia-obshchego-rezhima</guid>
       <pubDate>Sat, 06 Dec 2025 07:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«62 тома — и ни одного доказательства» — Мосгорсуд подтвердил сроки журналистам, признав их профессиональную деятельность как участие в «экстремистской организации» по делу ФБК*</title>
+      <link>https://novayagazeta.ru/articles/2025/12/10/62-toma-i-ni-odnogo-dokazatelstva</link>
+      <description>Мосгорсуд подтвердил сроки журналистам, признав их профессиональную деятельность как участие в «экстремистской организации» по делу ФБК*</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/10/62-toma-i-ni-odnogo-dokazatelstva</guid>
+      <pubDate>Wed, 10 Dec 2025 08:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
