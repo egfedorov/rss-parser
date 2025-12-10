@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 10 Dec 2025 06:44:28 +0000</lastBuildDate>
-    <item>
-      <title>Застрять в «переходном периоде» — Многие донецкие и луганские мобилизованные не могут уволиться из армии по возрасту</title>
-      <link>https://novayagazeta.ru/articles/2025/03/07/zastriat-v-perekhodnom-periode</link>
-      <description>Многие донецкие и луганские мобилизованные не могут уволиться из армии по возрасту</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/03/07/zastriat-v-perekhodnom-periode</guid>
-      <pubDate>Fri, 07 Mar 2025 08:35:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Dec 2025 07:32:08 +0000</lastBuildDate>
     <item>
       <title>«Нет понимания, какую цель преследует этот указ» — Путин потребовал от живущих в России украинцев «легализоваться». Что это значит и что делать, если вы живете в России с украинским паспортом?</title>
       <link>https://novayagazeta.ru/articles/2025/03/27/net-ponimaniia-kakuiu-tsel-presleduet-etot-ukaz</link>
@@ -287,6 +280,13 @@
       <description>Призыв резервистов — итоги месяца: сколько набрали, чем вооружили и могут ли все же отправить на СВО</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/08/deneg-net-a-riski-est</guid>
       <pubDate>Mon, 08 Dec 2025 07:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«У нас нет оправданий» — Репортаж из уральской Ревды, где пьяный участник СВО убил двух школьниц</title>
+      <link>https://novayagazeta.ru/articles/2025/12/10/u-nas-net-opravdanii</link>
+      <description>Репортаж из уральской Ревды, где пьяный участник СВО убил двух школьниц</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/10/u-nas-net-opravdanii</guid>
+      <pubDate>Wed, 10 Dec 2025 07:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
