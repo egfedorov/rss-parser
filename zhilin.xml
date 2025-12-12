@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 12 Dec 2025 06:45:06 +0000</lastBuildDate>
-    <item>
-      <title>«Нет понимания, какую цель преследует этот указ» — Путин потребовал от живущих в России украинцев «легализоваться». Что это значит и что делать, если вы живете в России с украинским паспортом?</title>
-      <link>https://novayagazeta.ru/articles/2025/03/27/net-ponimaniia-kakuiu-tsel-presleduet-etot-ukaz</link>
-      <description>Путин потребовал от живущих в России украинцев «легализоваться». Что это значит и что делать, если вы живете в России с украинским паспортом?</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/03/27/net-ponimaniia-kakuiu-tsel-presleduet-etot-ukaz</guid>
-      <pubDate>Thu, 27 Mar 2025 08:48:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Dec 2025 07:31:35 +0000</lastBuildDate>
     <item>
       <title>Невосполнимо! — Экологический ущерб от разлива мазута в Керченском проливе составил 84,9 млрд рублей. Но платить эти деньги, вероятно, никто не будет</title>
       <link>https://novayagazeta.ru/articles/2025/04/05/nevospolnimo</link>
@@ -287,6 +280,13 @@
       <description>Репортаж из уральской Ревды, где пьяный участник СВО убил двух школьниц</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/10/u-nas-net-opravdanii</guid>
       <pubDate>Wed, 10 Dec 2025 07:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дровосеки — Кто и зачем лоббирует сплошные рубки леса на главном озере мира — Байкале</title>
+      <link>https://novayagazeta.ru/articles/2025/12/12/drovoseki</link>
+      <description>Кто и зачем лоббирует сплошные рубки леса на главном озере мира — Байкале</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/12/drovoseki</guid>
+      <pubDate>Fri, 12 Dec 2025 07:19:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
