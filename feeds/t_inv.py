@@ -2,9 +2,17 @@ import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 from datetime import datetime, timezone
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import re
 
-def parse_russian_date(date_str):
+BASE = "https://t-invariant.org"
+START_URL = BASE + "/texts/"
+
+MAX_ITEMS = 10
+ARTICLE_WORKERS = 3
+TIMEOUT = (3, 6)
+
+def parse_russian_date(date_str: str) -> datetime:
     months = {
         'января': 1, 'февраля': 2, 'марта': 3, 'апреля': 4,
         'мая': 5, 'июня': 6, 'июля': 7, 'августа': 8,
@@ -13,73 +21,101 @@ def parse_russian_date(date_str):
     m = re.match(r'(\d{1,2}) ([а-яё]+) (\d{4})', date_str.strip())
     if m:
         day, month_str, year = m.groups()
-        month = months[month_str]
-        return datetime(int(year), month, int(day), 12, 0, tzinfo=timezone.utc)
-    raise ValueError(f'Не удалось распарсить дату: {date_str}')
+        return datetime(
+            int(year),
+            months[month_str],
+            int(day),
+            12, 0,
+            tzinfo=timezone.utc
+        )
+    return datetime.now(timezone.utc)
 
-def get_pub_date(article_url):
+def get_pub_date(article_url: str, session: requests.Session) -> datetime:
     try:
-        resp = requests.get(article_url, timeout=10)
-        resp.encoding = 'utf-8'
-        soup = BeautifulSoup(resp.text, 'html.parser')
-        author_date_div = soup.select_one('.t-inv-post-author-and-date')
+        r = session.get(article_url, timeout=TIMEOUT)
+        soup = BeautifulSoup(r.text, "html.parser")
+        author_date_div = soup.select_one(".t-inv-post-author-and-date")
         if author_date_div:
-            date_anchors = author_date_div.find_all('a')
-            if date_anchors:
-                date_text = date_anchors[-1].text.strip()
-                return parse_russian_date(date_text)
-        print(f"❌ Не удалось найти дату для {article_url}")
-    except Exception as e:
-        print(f"❌ Ошибка получения даты для {article_url}: {e}")
+            anchors = author_date_div.find_all("a")
+            if anchors:
+                return parse_russian_date(anchors[-1].text)
+    except Exception:
+        pass
     return datetime.now(timezone.utc)
 
 def generate():
-    url = 'https://t-invariant.org/texts/'
-    r = requests.get(url)
-    r.encoding = 'utf-8'
-    soup = BeautifulSoup(r.text, 'html.parser')
+    session = requests.Session()
+    session.headers.update({
+        "User-Agent": "rss-parser/1.0 (+https://github.com/egfedorov/rss-parser)"
+    })
 
-    fg = FeedGenerator()
-    fg.title('T-invariant — Тексты')
-    fg.link(href=url, rel='alternate')
-    fg.description('Главная лента текстов T-invariant')
-    fg.language('ru')
+    r = session.get(START_URL, timeout=TIMEOUT)
+    soup = BeautifulSoup(r.text, "html.parser")
 
-    for block in soup.select('.t-inv-block-posts'):
-        for a in block.select('a[data-wpel-link]'):
-            href = a['href']
-            if not href.startswith('http'):
-                href = 'https://t-invariant.org' + href
+    articles = []
 
-            # Заголовок
-            title_tag = a.select_one('.t-inv-title')
-            title = title_tag.get_text(strip=True) if title_tag else 'Без названия'
+    for block in soup.select(".t-inv-block-posts"):
+        for a in block.select("a[data-wpel-link]"):
+            href = a["href"]
+            if not href.startswith("http"):
+                href = BASE + href
 
-            # Лид (описание)
-            lead_tag = a.select_one('.t-inv-lead')
-            description = lead_tag.get_text(strip=True) if lead_tag else ''
+            title_tag = a.select_one(".t-inv-title")
+            title = title_tag.get_text(strip=True) if title_tag else "Без названия"
 
-            # Картинка (background-image)
-            thumb_tag = a.select_one('.t-inv-thumb')
-            image = ''
-            if thumb_tag and 'style' in thumb_tag.attrs:
-                m = re.search(r'background-image:\s*url\(([^)]+)\)', thumb_tag['style'])
+            lead_tag = a.select_one(".t-inv-lead")
+            description = lead_tag.get_text(strip=True) if lead_tag else ""
+
+            image = ""
+            thumb_tag = a.select_one(".t-inv-thumb")
+            if thumb_tag and "style" in thumb_tag.attrs:
+                m = re.search(r'background-image:\s*url\(([^)]+)\)', thumb_tag["style"])
                 if m:
                     image = m.group(1)
 
-            # Получаем дату публикации из самой статьи
-            pub_date = get_pub_date(href)
+            articles.append({
+                "href": href,
+                "title": title,
+                "description": description,
+                "image": image,
+            })
 
-            fe = fg.add_entry()
-            fe.title(title)
-            fe.link(href=href)
-            fe.pubDate(pub_date)
-            if description:
-                fe.description(description)
-            if image:
-                fe.enclosure(image, 0, 'image/jpeg')
+            if len(articles) >= MAX_ITEMS:
+                break
+        if len(articles) >= MAX_ITEMS:
+            break
 
-    fg.rss_file('t_inv.xml')
+    # --- ПАРАЛЛЕЛЬНО ЗАГРУЖАЕМ ДАТЫ ---
+    with ThreadPoolExecutor(max_workers=ARTICLE_WORKERS) as executor:
+        future_map = {
+            executor.submit(get_pub_date, a["href"], session): a
+            for a in articles
+        }
 
-if __name__ == '__main__':
+        for future in as_completed(future_map):
+            article = future_map[future]
+            try:
+                article["pub_date"] = future.result()
+            except Exception:
+                article["pub_date"] = datetime.now(timezone.utc)
+
+    fg = FeedGenerator()
+    fg.title("T-invariant — Тексты")
+    fg.link(href=START_URL)
+    fg.description("Главная лента текстов T-invariant")
+    fg.language("ru")
+
+    for a in articles:
+        fe = fg.add_entry()
+        fe.title(a["title"])
+        fe.link(href=a["href"])
+        fe.pubDate(a["pub_date"])
+        if a["description"]:
+            fe.description(a["description"])
+        if a["image"]:
+            fe.enclosure(a["image"], 0, "image/jpeg")
+
+    fg.rss_file("t_inv.xml")
+
+if __name__ == "__main__":
     generate()
