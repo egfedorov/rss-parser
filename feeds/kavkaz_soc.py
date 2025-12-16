@@ -30,7 +30,7 @@ def should_exclude(href):
 
 def get_article_date(article_url):
     try:
-        resp = requests.get(article_url, timeout=10)
+        resp = requests.get(article_url, timeout=(3, 5))
         resp.encoding = 'utf-8'
         soup = BeautifulSoup(resp.text, 'html.parser')
         time_tag = soup.select_one("#content time[datetime]")
