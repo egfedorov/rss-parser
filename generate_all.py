@@ -3,7 +3,7 @@ import importlib
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 FEEDS_DIR = "feeds"
-MAX_WORKERS = 6  # оптимум для I/O-bound парсеров
+MAX_WORKERS = 8  # оптимум для I/O-bound парсеров
 
 def run_module(modname: str) -> None:
     module = importlib.import_module(f"{FEEDS_DIR}.{modname}")
