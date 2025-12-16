@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Расследования" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Dec 2025 05:05:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 05:46:52 +0000</lastBuildDate>
     <item>
       <title>Бронеэкспортер: как компании Дерипаски зарабатывают на войне и почему он это скрывает</title>
       <link>https://theins.ru/inv/281816</link>
