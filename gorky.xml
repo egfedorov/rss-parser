@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Tue, 16 Dec 2025 11:52:52 +0000</lastBuildDate><item><title>«Пруст пишет наперегонки со смертью»</title><link>https://gorky.media/context/prust-pishet-naperegonki-so-smertyu</link><description>Интервью с Еленой Баевской, автором нового перевода «В поисках потерянного времени»
-
-25.11.2025</description><pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate></item><item><title>Прогулка по Диагональной аллее</title><link>https://gorky.media/context/progulka-po-diagonalnoi-allee</link><description>К 25-летию «русского» Гарри Поттера
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Tue, 16 Dec 2025 13:03:05 +0000</lastBuildDate><item><title>Прогулка по Диагональной аллее</title><link>https://gorky.media/context/progulka-po-diagonalnoi-allee</link><description>К 25-летию «русского» Гарри Поттера
 
 27.11.2025</description><pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate></item><item><title>Мера человеческой свободы</title><link>https://gorky.media/context/mera-chelovecheskoi-svobody</link><description>Читательская биография поэта Михаила Сухотина
 
@@ -22,5 +20,7 @@
 11.12.2025</description><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate></item><item><title>«Подпольного состояния они не вынесли»</title><link>https://gorky.media/context/podpolnogo-sostoyaniya-oni-ne-vynesli</link><description>Игорь Кузинер — о героях своей книги, старообрядцах-странниках
 
 15.12.2025</description><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate></item><item><title>«Просто родилась гением»</title><link>https://gorky.media/context/prosto-rodilas-geniem</link><description>В чем секрет непреходящей популярности романов Джейн Остен
+
+16.12.2025</description><pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate></item><item><title>Протокоммунист Нерон</title><link>https://gorky.media/context/protokommunist-neron</link><description>О двух комментаторских подходах к пьесе Михаила Кузмина
 
 16.12.2025</description><pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate></item></channel></rss>
