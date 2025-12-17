@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 17 Dec 2025 09:34:18 +0000</lastBuildDate>
-    <item>
-      <title>«Это фактически было похищение» — В Москве полицейские пришли с проверкой в частный детский сад и увезли оттуда в ОВД шестерых малышей</title>
-      <link>https://novayagazeta.ru/articles/2023/11/10/eto-fakticheski-bylo-pokhishchenie</link>
-      <description>В Москве полицейские пришли с проверкой в частный детский сад и увезли оттуда в ОВД шестерых малышей</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2023/11/10/eto-fakticheski-bylo-pokhishchenie</guid>
-      <pubDate>Fri, 10 Nov 2023 16:55:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Dec 2025 09:53:16 +0000</lastBuildDate>
     <item>
       <title>«Как эта логика соотносится с правами человека — большой вопрос» — Финляндия полностью закрыла сухопутную границу с Россией из-за резкого наплыва просителей убежища с Ближнего Востока и из Африки</title>
       <link>https://novayagazeta.ru/articles/2023/11/30/kak-eta-logika-sootnositsia-s-pravami-cheloveka-bolshoi-vopros</link>
@@ -287,6 +280,13 @@
       <description>Путин подписал закон о круглогодичном призыве. Одновременно в России заработал электронный реестр повесток. Как изменилась жизнь призывников и их родителей?</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/06/ranshe-boialis-vesny-i-oseni-teper-vsego-goda</guid>
       <pubDate>Thu, 06 Nov 2025 07:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Собрали отца в пакет. Он лежит в доме» — Страна пережила и забыла Суджу. Выплаты беженцам отменены; возврата домой нет; тела не эвакуируются…</title>
+      <link>https://novayagazeta.ru/articles/2025/12/17/sobrali-ottsa-v-paket-on-lezhit-v-dome</link>
+      <description>Страна пережила и забыла Суджу. Выплаты беженцам отменены; возврата домой нет; тела не эвакуируются…</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/17/sobrali-ottsa-v-paket-on-lezhit-v-dome</guid>
+      <pubDate>Wed, 17 Dec 2025 09:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
