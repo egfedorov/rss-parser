@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Dec 2025 10:52:40 +0000</lastBuildDate>
-    <item>
-      <title>Картельная федерация. Как криминальные группировки де-факто управляют Мексикой</title>
-      <link>https://theins.ru/politika/284378</link>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Dec 2025 11:16:48 +0000</lastBuildDate>
     <item>
       <title>Застрявшие в «Паутине». Как атака на аэродромы стратегической авиации кардинально усложнила ситуацию для ВС РФ</title>
       <link>https://theins.ru/politika/284601</link>
@@ -186,6 +181,11 @@
       <title>Все идет по плану: как команда Трампа реализует скандальный «Проект 2025» правых республиканцев</title>
       <link>https://theins.ru/politika/287524</link>
       <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>За хунту против джихадистов: с кем Трамп собирается воевать в Нигерии</title>
+      <link>https://theins.ru/politika/287836</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
