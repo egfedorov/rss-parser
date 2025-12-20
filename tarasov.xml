@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 20 Dec 2025 13:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 13:46:58 +0000</lastBuildDate>
     <item>
       <title>«Первые» в городе исчезающих детей — Красноярский губернатор готов открыть у себя штаб новой пионерии всей России. А что вообще происходит здесь с детьми</title>
       <link>https://novayagazeta.ru/articles/2025/03/28/pervye-v-gorode-ischezaiushchikh-detei</link>
@@ -177,13 +177,6 @@
       <pubDate>Fri, 29 Aug 2025 14:22:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Господи! Помоги нам выжить в этой смертной любви» — Как меняет Сибирь и сибиряков сближение с Китаем. И зависимость от него</title>
-      <link>https://novayagazeta.ru/articles/2025/09/08/gospodi-pomogi-nam-vyzhit-v-etoi-smertnoi-liubvi</link>
-      <description>Как меняет Сибирь и сибиряков сближение с Китаем. И зависимость от него</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/08/gospodi-pomogi-nam-vyzhit-v-etoi-smertnoi-liubvi</guid>
-      <pubDate>Mon, 08 Sep 2025 09:53:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Известную красноярскую журналистку Светлану Хустик на два месяца отправили в СИЗО по делу о военных «фейках»</title>
       <link>https://novayagazeta.ru/news/2025/09/30/v-krasnoiarske-zaderzhali-izvestnuiu-zhurnalistku-svetlanu-khustik-po-delu-o-voennykh-feikakh-news</link>
       <description>Известную красноярскую журналистку Светлану Хустик на два месяца отправили в СИЗО по делу о военных «фейках»</description>
@@ -287,6 +280,13 @@
       <description>Аэропорт Красноярска становится хабом Поднебесной. Перемену участи сопровождают силовики. Арестован непотопляемый Августинович</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/15/perevod-na-kitaiskii</guid>
       <pubDate>Mon, 15 Dec 2025 09:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Площадь мира — Что будет после СВО? История и тайны четырех гектаров в центре России</title>
+      <link>https://novayagazeta.ru/articles/2025/12/20/ploshchad-mira</link>
+      <description>Что будет после СВО? История и тайны четырех гектаров в центре России</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/20/ploshchad-mira</guid>
+      <pubDate>Sat, 20 Dec 2025 13:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
