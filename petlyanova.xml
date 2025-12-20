@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 20 Dec 2025 15:45:33 +0000</lastBuildDate>
-    <item>
-      <title>Стихи Тараса Шевченко тянут на статью — До пяти лет лишения свободы за «повторную дискредитацию российской армии» грозит 18-летней Дарье Козыревой</title>
-      <link>https://novayagazeta.ru/articles/2024/02/27/stikhi-tarasa-shevchenko-tianut-na-statiu</link>
-      <description>До пяти лет лишения свободы за «повторную дискредитацию российской армии» грозит 18-летней Дарье Козыревой</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/02/27/stikhi-tarasa-shevchenko-tianut-na-statiu</guid>
-      <pubDate>Tue, 27 Feb 2024 18:04:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Dec 2025 16:21:04 +0000</lastBuildDate>
     <item>
       <title>«Легли спать — хорошо, проснулись — еще лучше…» — Как живут сейчас петербуржцы, в чей дом влетел дрон и за которых молится губернатор, уверяющий, что «город надежно защищен»</title>
       <link>https://novayagazeta.ru/articles/2024/03/05/legli-spat-khorosho-prosnulis-eshche-luchshe</link>
@@ -219,17 +212,17 @@
       <pubDate>Mon, 11 Nov 2024 07:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>Дайте коридор!&amp;nbsp; — Наши родные погибают в Судже</title>
-      <link>https://novayagazeta.ru/videos/2024/11/13/daite-koridor</link>
-      <description>Наши родные погибают в Судже</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/videos/2024/11/13/daite-koridor</guid>
-      <pubDate>Wed, 13 Nov 2024 08:35:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Глаза тех, кого пришлось бросить, я не забуду никогда» — Почти две тысячи жителей, по неофициальным данным, остаются сегодня в занятой ВСУ Судже и Суджанском районе</title>
       <link>https://novayagazeta.ru/articles/2024/11/13/glaza-tekh-kogo-prishlos-brosit-ia-ne-zabudu-nikogda</link>
       <description>Почти две тысячи жителей, по неофициальным данным, остаются сегодня в занятой ВСУ Судже и Суджанском районе</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/11/13/glaza-tekh-kogo-prishlos-brosit-ia-ne-zabudu-nikogda</guid>
+      <pubDate>Wed, 13 Nov 2024 08:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дайте коридор!&amp;nbsp; — Наши родные погибают в Судже</title>
+      <link>https://novayagazeta.ru/videos/2024/11/13/daite-koridor</link>
+      <description>Наши родные погибают в Судже</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/videos/2024/11/13/daite-koridor</guid>
       <pubDate>Wed, 13 Nov 2024 08:35:00 +0000</pubDate>
     </item>
     <item>
@@ -287,6 +280,13 @@
       <description>Родители Егора Балазейкина жалуются на неоказание медпомощи в колонии их 18-летнему сыну, страдающему тяжелыми заболеваниями</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/06/30/eto-tiurma-chto-vy-khoteli</guid>
       <pubDate>Mon, 30 Jun 2025 15:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вместе с «храмом» сгорает душа — Нельсон Искандарян, известный уличный художник Петербурга, 15 лет бился за подвальчик. Но едва добился — сожгли</title>
+      <link>https://novayagazeta.ru/articles/2025/12/20/vmeste-s-khramom-sgoraet-dusha</link>
+      <description>Нельсон Искандарян, известный уличный художник Петербурга, 15 лет бился за подвальчик. Но едва добился — сожгли</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/20/vmeste-s-khramom-sgoraet-dusha</guid>
+      <pubDate>Sat, 20 Dec 2025 15:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
