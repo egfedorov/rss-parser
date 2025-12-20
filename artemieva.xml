@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 20 Dec 2025 10:47:57 +0000</lastBuildDate>
-    <item>
-      <title>Нет, смерть — В России растет количество нападений ультраправых группировок — как и количество самих группировок. Фашизм вернулся на улицы</title>
-      <link>https://novayagazeta.ru/articles/2025/01/23/net-smert</link>
-      <description>В России растет количество нападений ультраправых группировок — как и количество самих группировок. Фашизм вернулся на улицы</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/01/23/net-smert</guid>
-      <pubDate>Thu, 23 Jan 2025 07:17:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Dec 2025 11:14:30 +0000</lastBuildDate>
     <item>
       <title>Нефальшивая нота незамеченного поколения — О сборнике эмигрантов первой волны «Обреченные на роль любую», вышедшем в издательстве Éditions Tourgueneff</title>
       <link>https://novayagazeta.ru/articles/2025/02/05/nefalshivaia-nota-nezamechennogo-pokoleniia</link>
@@ -287,6 +280,13 @@
       <description>О непротиворечивом житии противоречивого пастора Бонхёффера, о котором с трудом вышел фильм в российском прокате</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/08/my-razuchilis-nenavidet-smert</guid>
       <pubDate>Mon, 08 Dec 2025 12:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Прохождение прохождения — Про книгу Дмитрия Быкова* «Квартал», про то, зачем нужна культура после февраля, и вообще про смысл жизни</title>
+      <link>https://novayagazeta.ru/articles/2025/12/20/prokhozhdenie-prokhozhdeniia</link>
+      <description>Про книгу Дмитрия Быкова* «Квартал», про то, зачем нужна культура после февраля, и вообще про смысл жизни</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/20/prokhozhdenie-prokhozhdeniia</guid>
+      <pubDate>Sat, 20 Dec 2025 11:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
