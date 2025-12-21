@@ -1,26 +1,2 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Sun, 21 Dec 2025 20:48:02 +0000</lastBuildDate><item><title>Всем дебошам дебош</title><link>https://gorky.media/context/vsem-debosham-debosh</link><description>О романе Роберта Кувера «Открытый дом»
-
-02.12.2025</description><pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate></item><item><title>«Вопрос, что пришло на смену забастовке, до сих пор остается без ответа»</title><link>https://gorky.media/context/vopros-chto-prishlo-na-smenu-zabastovke-do-six-por-ostaetsya-bez-otveta</link><description>Архивное интервью с философом Паоло Вирно, который в ноябре покинул этот мир
-
-02.12.2025</description><pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate></item><item><title>Пушкин: исполняется на шуршальнике</title><link>https://gorky.media/context/pushkin-ispolnyaetsya-na-shurshalnike</link><description>Краткая инструкция по сборке «Черновиков Пушкина» Генриха Сапгира
-
-03.12.2025</description><pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate></item><item><title>Революция, племянники, прием</title><link>https://gorky.media/context/revolyutsiya-plemyanniki-priem</link><description>Лекция Валерия Отяковского «Формальная школа литературоведения»
-
-05.12.2025</description><pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate></item><item><title>Литр вина в портфеле и скачущая современность</title><link>https://gorky.media/context/litr-vina-v-portfele-i-skachushchaya-sovremennost</link><description>Константин Львов — о воскрешении книг Михаила Кузмина и Жана Жироду
-
-09.12.2025</description><pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate></item><item><title>Шерлок Холмс убегает от медведки</title><link>https://gorky.media/context/sherlok-xolms-ubegaet-ot-medvedki</link><description>Ян Ларри и кино: глава из ненаписанной книги
-
-11.12.2025</description><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate></item><item><title>«Подпольного состояния они не вынесли»</title><link>https://gorky.media/context/podpolnogo-sostoyaniya-oni-ne-vynesli</link><description>Игорь Кузинер — о героях своей книги, старообрядцах-странниках
-
-15.12.2025</description><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate></item><item><title>«Просто родилась гением»</title><link>https://gorky.media/context/prosto-rodilas-geniem</link><description>В чем секрет непреходящей популярности романов Джейн Остен
-
-16.12.2025</description><pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate></item><item><title>Протокоммунист Нерон</title><link>https://gorky.media/context/protokommunist-neron</link><description>О двух комментаторских подходах к пьесе Михаила Кузмина
-
-16.12.2025</description><pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate></item><item><title>Не спи — кругом змеи</title><link>https://gorky.media/context/ne-spi-krugom-zmei</link><description>Инструкция по выживанию от индейцев пираха
-
-17.12.2025</description><pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate></item><item><title>Другие берега</title><link>https://gorky.media/context/drugie-berega</link><description>Памяти Тома Стоппарда
-
-19.12.2025</description><pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate></item><item><title>Место, где нет друга</title><link>https://gorky.media/context/mesto-gde-net-druga</link><description>Лекция Александра Осповата о Тынянове-теоретике и Тынянове-практике
-
-19.12.2025</description><pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Sun, 21 Dec 2025 21:18:00 +0000</lastBuildDate></channel></rss>
