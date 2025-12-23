@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 23 Dec 2025 14:52:19 +0000</lastBuildDate>
-    <item>
-      <title>Киев — шпиону: а что там на монгольской границе? — «Мир» — это вандализм, уголовка за надпись, штраф за переписку в студенческом чате и госизмена за передачу книги</title>
-      <link>https://novayagazeta.ru/articles/2025/06/21/kiev-shpionu-a-chto-tam-na-mongolskoi-granitse</link>
-      <description>«Мир» — это вандализм, уголовка за надпись, штраф за переписку в студенческом чате и госизмена за передачу книги</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/06/21/kiev-shpionu-a-chto-tam-na-mongolskoi-granitse</guid>
-      <pubDate>Sat, 21 Jun 2025 08:10:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Dec 2025 15:20:05 +0000</lastBuildDate>
     <item>
       <title>Автозак за кулисами — В Тюмени судят директора драмтеатра и его зама. Их уволили без приговора суда. Артисты театра заступились за своих коллег, они не верят следствию</title>
       <link>https://novayagazeta.ru/articles/2025/06/24/avtozak-za-kulisami</link>
@@ -287,6 +280,13 @@
       <description>Как стихи Маяковского, детские песни, старые картинки и приступ астмы превращаются в повод для ареста</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/19/pust-nikogda-ne-budet-solntsa</guid>
       <pubDate>Sat, 20 Dec 2025 07:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Я же политический. От звонка до звонка» — Верховный суд оставил в силе второй приговор Алексею Горинову. Он встретит Новый год между ШИЗО, болезнями и крысами</title>
+      <link>https://novayagazeta.ru/articles/2025/12/23/ia-zhe-politicheskii-ot-zvonka-do-zvonka</link>
+      <description>Верховный суд оставил в силе второй приговор Алексею Горинову. Он встретит Новый год между ШИЗО, болезнями и крысами</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/23/ia-zhe-politicheskii-ot-zvonka-do-zvonka</guid>
+      <pubDate>Tue, 23 Dec 2025 15:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
