@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Расследования" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Dec 2025 18:55:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 19:14:38 +0000</lastBuildDate>
     <item>
       <title>Заблокированные счета, фальшивые детали и сорванные поставки: арбитражные суды вскрывают правду о катастрофе в российском ВПК</title>
       <link>https://theins.ru/inv/282244</link>
