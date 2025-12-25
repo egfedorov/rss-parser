@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Dec 2025 10:50:44 +0000</lastBuildDate>
-    <item>
-      <title>«Язык стал маркером „свой-чужой“». Как изменилось отношение украинцев к русскому языку за годы войны</title>
-      <link>https://theins.ru/obshestvo/282514</link>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Dec 2025 11:16:32 +0000</lastBuildDate>
     <item>
       <title>Наркологический картель. Как главный нарколог Минздрава Евгений Брюн построил выгодный бизнес на репрессивной наркополитике</title>
       <link>https://theins.ru/obshestvo/282956</link>
@@ -186,6 +181,11 @@
       <title>Рожай обратно! Демографическая яма заставила Китай перейти от ограничения к стимуляции рождаемости, но работает это плохо</title>
       <link>https://theins.ru/obshestvo/287793</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Гипервысылка. Почему в США россияне стали массово сталкиваться с депортациями и отказами в убежище</title>
+      <link>https://theins.ru/obshestvo/288028</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
