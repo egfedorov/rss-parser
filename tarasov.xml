@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 25 Dec 2025 06:58:39 +0000</lastBuildDate>
-    <item>
-      <title>«Первые» в городе исчезающих детей — Красноярский губернатор готов открыть у себя штаб новой пионерии всей России. А что вообще происходит здесь с детьми</title>
-      <link>https://novayagazeta.ru/articles/2025/03/28/pervye-v-gorode-ischezaiushchikh-detei</link>
-      <description>Красноярский губернатор готов открыть у себя штаб новой пионерии всей России. А что вообще происходит здесь с детьми</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/03/28/pervye-v-gorode-ischezaiushchikh-detei</guid>
-      <pubDate>Fri, 28 Mar 2025 06:59:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Dec 2025 07:27:35 +0000</lastBuildDate>
     <item>
       <title>Сибирь штормит, пламя летит — Пока без катастрофических последствий. Но жертвы урагана уже есть, пожары еще не потушены, и ветер окончательно не стих</title>
       <link>https://novayagazeta.ru/articles/2025/04/05/sibir-shtormit-plamia-letit</link>
@@ -287,6 +280,13 @@
       <description>Что будет после СВО? История и тайны четырех гектаров в центре России</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/20/ploshchad-mira</guid>
       <pubDate>Sat, 20 Dec 2025 13:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Констатация смерти, отрицание жизни — Только один месяц. Только хроники семейной жизни. Только те случаи, что получили огласку</title>
+      <link>https://novayagazeta.ru/articles/2025/12/25/konstatatsiia-smerti-otritsanie-zhizni</link>
+      <description>Только один месяц. Только хроники семейной жизни. Только те случаи, что получили огласку</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/25/konstatatsiia-smerti-otritsanie-zhizni</guid>
+      <pubDate>Thu, 25 Dec 2025 07:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
