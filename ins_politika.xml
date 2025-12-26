@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Dec 2025 04:20:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 04:58:31 +0000</lastBuildDate>
     <item>
       <title>Война без границ. Удар Израиля по ХАМАС на территории Катара изменил правила игры на Ближнем Востоке</title>
       <link>https://theins.ru/politika/285009</link>
