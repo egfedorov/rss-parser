@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 26 Dec 2025 11:17:09 +0000</lastBuildDate>
-    <item>
-      <title>Очередной блэкаут — Сотни тысяч человек в южном Приморье на час остались без света из-за аварии на ЛЭП</title>
-      <link>https://novayagazeta.ru/articles/2025/06/26/ocherednoi-blekaut</link>
-      <description>Сотни тысяч человек в южном Приморье на час остались без света из-за аварии на ЛЭП</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/06/26/ocherednoi-blekaut</guid>
-      <pubDate>Thu, 26 Jun 2025 08:51:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Dec 2025 11:46:10 +0000</lastBuildDate>
     <item>
       <title>«Отсутствие денег на макароны я мэру никогда не прощу» — Приморскую журналистку, критикующую местную власть, оштрафовали. Ранее ей угрожали, публично оскорбляли и резали шины</title>
       <link>https://novayagazeta.ru/articles/2025/07/02/otsutstvie-deneg-na-makarony-ia-meru-nikogda-ne-proshchu</link>
@@ -287,6 +280,13 @@
       <description>Во владивостокском микрорайоне на 6000 жителей за 15 лет так и не смогли построить школу</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/22/shkolnoe-bezobrazovanie</guid>
       <pubDate>Mon, 22 Dec 2025 10:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кроме шуток — Создателей юмористических роликов про Виталия Наливкина осудили на 6 лет условно, прокуратура намерена добиться реальных сроков</title>
+      <link>https://novayagazeta.ru/articles/2025/12/26/krome-shutok</link>
+      <description>Создателей юмористических роликов про Виталия Наливкина осудили на 6 лет условно, прокуратура намерена добиться реальных сроков</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/26/krome-shutok</guid>
+      <pubDate>Fri, 26 Dec 2025 11:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

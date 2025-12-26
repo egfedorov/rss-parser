@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Fri, 26 Dec 2025 11:16:57 +0000</lastBuildDate><item><title>«Подпольного состояния они не вынесли»</title><link>https://gorky.media/context/podpolnogo-sostoyaniya-oni-ne-vynesli</link><description>Игорь Кузинер — о героях своей книги, старообрядцах-странниках
-
-15.12.2025</description><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate></item><item><title>«Просто родилась гением»</title><link>https://gorky.media/context/prosto-rodilas-geniem</link><description>В чем секрет непреходящей популярности романов Джейн Остен
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Fri, 26 Dec 2025 11:45:58 +0000</lastBuildDate><item><title>«Просто родилась гением»</title><link>https://gorky.media/context/prosto-rodilas-geniem</link><description>В чем секрет непреходящей популярности романов Джейн Остен
 
 16.12.2025</description><pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate></item><item><title>Протокоммунист Нерон</title><link>https://gorky.media/context/protokommunist-neron</link><description>О двух комментаторских подходах к пьесе Михаила Кузмина
 
@@ -23,4 +21,6 @@
 
 24.12.2025</description><pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate></item><item><title>7 «Собак», 18 «Козликов» и 12 «Веверлеев»</title><link>https://gorky.media/context/7-sobak-18-kozlikov-i-12-veverleev</link><description>К столетию выхода первого издания книги «Парнас дыбом»
 
-25.12.2025</description><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate></item></channel></rss>
+25.12.2025</description><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate></item><item><title>Все есть, в том смысле, что ничего нет</title><link>https://gorky.media/context/vse-est-v-tom-smysle-chto-nichego-net</link><description>Что читали авторы «Горького» в 2025 году. Часть 1
+
+26.12.2025</description><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate></item></channel></rss>
