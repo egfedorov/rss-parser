@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Dec 2025 11:46:29 +0000</lastBuildDate>
-    <item>
-      <title>Война без границ. Удар Израиля по ХАМАС на территории Катара изменил правила игры на Ближнем Востоке</title>
-      <link>https://theins.ru/politika/285009</link>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Dec 2025 12:37:35 +0000</lastBuildDate>
     <item>
       <title>Пуля как аргумент. Почему политически мотивированное насилие стало главной темой в США при Трампе</title>
       <link>https://theins.ru/politika/284983</link>
@@ -186,6 +181,11 @@
       <title>Росфинрепрессинг. Как «список террористов и экстремистов» превратился в инструмент финансовых преследований</title>
       <link>https://theins.ru/politika/287983</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Каста непотопляемых. Как сын нациста и фанат Пиночета пришел к власти в Чили</title>
+      <link>https://theins.ru/politika/287905</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
