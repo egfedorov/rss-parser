@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 27 Dec 2025 13:48:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 14:16:44 +0000</lastBuildDate>
     <item>
       <title>«Национальная идея — это чувство собственного достоинства» — Режиссер Гарри Бардин — о Спичках, заморозке, скандале с Лужковым и купленной интеллигенции</title>
       <link>https://novayagazeta.ru/articles/2024/12/25/natsionalnaia-ideia-eto-chuvstvo-sobstvennogo-dostoinstva</link>
@@ -140,13 +140,6 @@
       <description>На прошлой неделе одной из главных тем для обсуждения в соцсетях стали правила жизни в женских колониях. Рассказываем</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/04/09/spektakl-ne-po-poniatiiam-a-po-pese</guid>
       <pubDate>Wed, 09 Apr 2025 13:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Занятие независимой журналистикой приравнено к экстремизму» — На закрытом судебном процессе по «делу журналистов» прокурор озвучил сроки и прозвучали «последние слова»</title>
-      <link>https://novayagazeta.ru/articles/2025/04/10/zaniatie-nezavisimoi-zhurnalistikoi-priravneno-k-ekstremizmu</link>
-      <description>На закрытом судебном процессе по «делу журналистов» прокурор озвучил сроки и прозвучали «последние слова»</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/04/10/zaniatie-nezavisimoi-zhurnalistikoi-priravneno-k-ekstremizmu</guid>
-      <pubDate>Thu, 10 Apr 2025 16:48:00 +0000</pubDate>
     </item>
     <item>
       <title>«Независимая журналистика идет в сторону анонимизации» — Сергей Смирнов*, главный редактор «Медиазоны»*, — о выживании издания, как ужесточаются суды и тюрьмы и об отсутствии горизонта планирования</title>
@@ -287,6 +280,13 @@
       <description>Пьеса-репортаж для заочного суда в трех действиях</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/18/sud-nad-prizrakami</guid>
       <pubDate>Thu, 18 Dec 2025 08:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Две церкви — два лица и две веры — Вышла первая книга о Русской православной церкви нового времени</title>
+      <link>https://novayagazeta.ru/articles/2025/12/27/dve-tserkvi-dva-litsa-i-dve-very</link>
+      <description>Вышла первая книга о Русской православной церкви нового времени</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/27/dve-tserkvi-dva-litsa-i-dve-very</guid>
+      <pubDate>Sat, 27 Dec 2025 14:11:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
