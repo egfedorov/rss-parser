@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Dec 2025 11:47:39 +0000</lastBuildDate>
-    <item>
-      <title>Наркологический картель. Как главный нарколог Минздрава Евгений Брюн построил выгодный бизнес на репрессивной наркополитике</title>
-      <link>https://theins.ru/obshestvo/282956</link>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Dec 2025 12:39:57 +0000</lastBuildDate>
     <item>
       <title>«Общаемся через старые добрые смс». Как жители российских городов адаптируются во время шатдаунов</title>
       <link>https://theins.ru/obshestvo/283296</link>
@@ -186,6 +181,11 @@
       <title>Гипервысылка. Почему в США россияне стали массово сталкиваться с депортациями и отказами в убежище</title>
       <link>https://theins.ru/obshestvo/288028</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Чужой берег. Почему возникают столкновения между палестинцами и израильскими поселенцами — репортаж</title>
+      <link>https://theins.ru/obshestvo/287822</link>
+      <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
