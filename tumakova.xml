@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 29 Dec 2025 07:50:12 +0000</lastBuildDate>
-    <item>
-      <title>Что ждать «на следующий день»? — Израиль пошел на соглашение с ХАМАС ради своих заложников. Чем ему приходится жертвовать, объясняет израильский эксперт, профессор Зеэв Ханин</title>
-      <link>https://novayagazeta.ru/articles/2025/01/18/chto-zhdat-na-sleduiushchii-den</link>
-      <description>Израиль пошел на соглашение с ХАМАС ради своих заложников. Чем ему приходится жертвовать, объясняет израильский эксперт, профессор Зеэв Ханин</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/01/18/chto-zhdat-na-sleduiushchii-den</guid>
-      <pubDate>Sat, 18 Jan 2025 14:14:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Dec 2025 08:28:36 +0000</lastBuildDate>
     <item>
       <title>«Все враги обезврежены» — Откуда берутся и к чему приведут уголовные дела против ученых в России. Интервью с Ольгой Орловой, главредом T-invariant*</title>
       <link>https://novayagazeta.ru/articles/2025/02/01/vse-vragi-obezvrezheny</link>
@@ -287,6 +280,13 @@
       <description>Что обещает российской экономике в 2026 году Владислав Иноземцев*</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/02/glavnaia-tendentsiia-zastoi-krakha-i-krizisa-ne-budet</guid>
       <pubDate>Tue, 02 Dec 2025 08:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Фрахтенштейн — Как российский ≪теневой флот≫ одолел (или нет?) санкции</title>
+      <link>https://novayagazeta.ru/articles/2025/12/29/frakhtenshtein</link>
+      <description>Как российский ≪теневой флот≫ одолел (или нет?) санкции</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/29/frakhtenshtein</guid>
+      <pubDate>Mon, 29 Dec 2025 08:09:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
