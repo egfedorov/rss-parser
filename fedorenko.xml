@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 30 Dec 2025 13:24:10 +0000</lastBuildDate>
-    <item>
-      <title>«Отсутствие денег на макароны я мэру никогда не прощу» — Приморскую журналистку, критикующую местную власть, оштрафовали. Ранее ей угрожали, публично оскорбляли и резали шины</title>
-      <link>https://novayagazeta.ru/articles/2025/07/02/otsutstvie-deneg-na-makarony-ia-meru-nikogda-ne-proshchu</link>
-      <description>Приморскую журналистку, критикующую местную власть, оштрафовали. Ранее ей угрожали, публично оскорбляли и резали шины</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/07/02/otsutstvie-deneg-na-makarony-ia-meru-nikogda-ne-proshchu</guid>
-      <pubDate>Wed, 02 Jul 2025 06:52:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Dec 2025 13:55:49 +0000</lastBuildDate>
     <item>
       <title>48 погибших — Упавшему близ Тынды самолету было почти 50 лет</title>
       <link>https://novayagazeta.ru/articles/2025/07/24/49-pogibshikh</link>
@@ -287,6 +280,13 @@
       <description>Создателей юмористических роликов про Виталия Наливкина осудили на 6 лет условно, прокуратура намерена добиться реальных сроков</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/26/krome-shutok</guid>
       <pubDate>Fri, 26 Dec 2025 11:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Уроки Тайги — Жители приморского села обратились к Путину с просьбой спасти школу. После этого к ним пришли полицейские</title>
+      <link>https://novayagazeta.ru/articles/2025/12/30/uroki-taigi</link>
+      <description>Жители приморского села обратились к Путину с просьбой спасти школу. После этого к ним пришли полицейские</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/30/uroki-taigi</guid>
+      <pubDate>Tue, 30 Dec 2025 13:39:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
