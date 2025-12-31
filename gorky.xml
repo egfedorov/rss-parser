@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Wed, 31 Dec 2025 07:30:23 +0000</lastBuildDate><item><title>Уход в пустыню</title><link>https://gorky.media/context/uxod-v-pustynyu</link><description>Игорь Перников — о творчестве арабского писателя Ибрагима аль-Куни
-
-22.12.2025</description><pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate></item><item><title>Вместо комических куплетов</title><link>https://gorky.media/context/vmesto-komicheskix-kupletov</link><description>Издатель «Горького» Борис Куприянов — о победе здравого смысла над «бдительным гражданином»
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Wed, 31 Dec 2025 07:48:58 +0000</lastBuildDate><item><title>Вместо комических куплетов</title><link>https://gorky.media/context/vmesto-komicheskix-kupletov</link><description>Издатель «Горького» Борис Куприянов — о победе здравого смысла над «бдительным гражданином»
 
 22.12.2025</description><pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate></item><item><title>«Поэзия — это не для людей»</title><link>https://gorky.media/context/poeziya-eto-ne-dlya-lyudei</link><description>Виталий Кальпиди — о феномене уральской поэтической школы
 
@@ -23,4 +21,6 @@
 
 30.12.2025</description><pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate></item><item><title>Литературный Олимп крюзова творчества старца Рафаила</title><link>https://gorky.media/context/literaturnyi-olimp-kryuzova-tvorchestva-startsa-rafaila</link><description>Что читали в 2025 году авторы «Горького». Часть 4
 
-30.12.2025</description><pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate></item></channel></rss>
+30.12.2025</description><pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate></item><item><title>Сделать пацанов Фредди Крюгерами и вернуть Советский Союз</title><link>https://gorky.media/context/sdelat-patsanov-freddi-kryugerami-i-vernut-sovetskii-soyuz</link><description>О чем дети просили Деда Мороза в конце XX века
+
+31.12.2025</description><pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate></item></channel></rss>
