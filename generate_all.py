@@ -2,10 +2,31 @@ import os
 import importlib
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
+from feedgen.feed import FeedGenerator
 
 FEEDS_DIR = "feeds"
-MAX_WORKERS = 6  # можно менять / выносить в env
-SLOW_THRESHOLD = 10.0  # сек — считаем сайт "медленным"
+MAX_WORKERS = 6
+SLOW_THRESHOLD = 10.0
+
+# ---------------------------------------
+# Создаём каталог output/
+# ---------------------------------------
+Path("output").mkdir(exist_ok=True)
+
+# ---------------------------------------
+# Monkey patch FeedGenerator.rss_file
+# ---------------------------------------
+_original_rss_file = FeedGenerator.rss_file
+
+def patched_rss_file(self, filename, *args, **kwargs):
+    # если путь не содержит папку — подставляем output/
+    if not str(filename).startswith("output/"):
+        filename = f"output/{filename}"
+    return _original_rss_file(self, filename, *args, **kwargs)
+
+FeedGenerator.rss_file = patched_rss_file
+# ---------------------------------------
 
 def run_module(modname: str) -> None:
     start = time.monotonic()
@@ -41,21 +62,16 @@ def main() -> None:
         )
     ]
 
-    print(f"▶️  Запуск {len(modules)} парсеров "
-          f"(max_workers={MAX_WORKERS})")
+    print(f"▶️  Запуск {len(modules)} парсеров (max_workers={MAX_WORKERS})")
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = {
-            executor.submit(run_module, mod): mod
-            for mod in modules
-        }
+        futures = {executor.submit(run_module, mod): mod for mod in modules}
 
         for future in as_completed(futures):
-            # результат уже выведен внутри run_module
             try:
                 future.result()
             except Exception:
-                pass  # на всякий случай, но ошибок тут быть не должно
+                pass
 
     print("🏁 Все парсеры завершены")
 
