@@ -1,10 +1,10 @@
 import asyncio
 from pathlib import Path
-import json
 import requests
 import feedparser
 
 from telegram import send_message
+from diff import load_state, save_state, get_new_entries, update_state
 
 FEEDS_FILE = Path("publisher/feeds.txt")
 STATE_FILE = Path("publisher/state.json")
@@ -12,22 +12,18 @@ STATE_FILE = Path("publisher/state.json")
 MAX_CONCURRENCY = 5
 TIMEOUT = 15
 
-
-def load_state() -> dict:
-    if not STATE_FILE.exists():
-        return {}
-    try:
-        return json.loads(STATE_FILE.read_text())
-    except Exception:
-        return {}
-
-
-def save_state(state: dict):
-    STATE_FILE.write_text(json.dumps(state, indent=2, ensure_ascii=False))
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/125.0.0.0 Safari/537.36"
+    )
+}
 
 
 def fetch_blocking(url: str) -> str:
-    resp = requests.get(url, timeout=TIMEOUT)
+    """Синхронная загрузка RSS (будет вызвана через asyncio.to_thread)."""
+    resp = requests.get(url, timeout=TIMEOUT, headers=HEADERS)
     resp.raise_for_status()
     return resp.text
 
@@ -59,9 +55,10 @@ async def fetch_rss(url: str) -> list:
 
 
 def format_entry(entry: dict) -> str:
-    title = entry["title"]
-    link = entry["link"]
-    summary = entry.get("summary", "")
+    """Формирует текст сообщения."""
+    title = entry["title"].strip()
+    link = entry["link"].strip()
+    summary = entry.get("summary", "").strip()
 
     if summary:
         return f"{title}\n{summary}\n{link}"
@@ -69,39 +66,31 @@ def format_entry(entry: dict) -> str:
 
 
 async def process_feed(url: str, state: dict, sem: asyncio.Semaphore):
+    """Загружает RSS, ищет новые записи, отправляет их и обновляет state."""
+
     async with sem:
         entries = await fetch_rss(url)
 
     if not entries:
         return
 
-    last_id = state.get(url)
-    first_id = entries[0]["id"]
+    # Найти новые записи через diff.py
+    new_entries = get_new_entries(url, entries, state)
 
-    # Первый запуск: просто запоминаем
-    if last_id is None:
-        state[url] = first_id
-        print(f"📌 Первый запуск: {url}")
-        return
-
-    # Собираем новые записи
-    new = []
-    for entry in entries:
-        if entry["id"] == last_id:
-            break
-        new.append(entry)
-
-    if not new:
+    if not new_entries:
         print(f"— Нет новых записей: {url}")
-        state[url] = first_id
+        # Но state всё равно обновляем на самый свежий id
+        update_state(url, entries, state)
         return
 
-    # Отправляем новые записи в правильном порядке
-    for entry in reversed(new):
+    print(f"✨ Новых записей: {len(new_entries)} — {url}")
+
+    # Отправляем в порядке от старых к новым
+    for entry in reversed(new_entries):
         await asyncio.to_thread(send_message, format_entry(entry))
 
-    print(f"✨ Новых записей: {len(new)} — {url}")
-    state[url] = first_id
+    # Обновляем state
+    update_state(url, entries, state)
 
 
 async def main_async():
@@ -111,14 +100,16 @@ async def main_async():
         if line.strip() and not line.startswith("#")
     ]
 
-    state = load_state()
+    print(f"📡 Всего RSS-лент: {len(feeds)}")
+
+    state = load_state(STATE_FILE)
     sem = asyncio.Semaphore(MAX_CONCURRENCY)
 
     tasks = [process_feed(url, state, sem) for url in feeds]
     await asyncio.gather(*tasks)
 
-    save_state(state)
-    print("✅ Готово.")
+    save_state(STATE_FILE, state)
+    print("✅ Готово. Все обновления отправлены.")
 
 
 def main():
