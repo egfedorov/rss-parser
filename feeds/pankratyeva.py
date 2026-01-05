@@ -9,69 +9,79 @@ MONTHS = {
     'июля': 7, 'августа': 8, 'сентября': 9, 'октября': 10, 'ноября': 11, 'декабря': 12,
 }
 
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
+}
+
 def parse_date(date_str: str) -> datetime:
-    """
-    '11 июля, 2025, 17:21' или '11 июля 2025, 17:21' => datetime(2025, 7, 11, 17, 21)
-    """
-    try:
-        # Универсальная регулярка: допускает запятые/пробелы
-        match = re.match(
-            r"(\d{1,2})\s+([а-яА-ЯёЁ]+)[,]?\s*(\d{4})[,]?\s*(\d{1,2}):(\d{2})",
-            date_str.strip()
-        )
-        if match:
-            day = int(match.group(1))
-            month = MONTHS[match.group(2).lower()]
-            year = int(match.group(3))
-            hour = int(match.group(4))
-            minute = int(match.group(5))
-            return datetime(year, month, day, hour, minute, tzinfo=timezone.utc)
-    except Exception:
-        print(f"[WARN] Не удалось распарсить дату: '{date_str}'")
-    return datetime.now(timezone.utc)
+    match = re.search(
+        r"(\d{1,2})\s+([а-яё]+)[,]?\s*(\d{4})[,]?\s*(\d{2}):(\d{2})",
+        date_str.lower()
+    )
+    if not match:
+        raise ValueError(f"Не удалось распарсить дату: {date_str}")
+
+    day, month_str, year, hour, minute = match.groups()
+    return datetime(
+        int(year),
+        MONTHS[month_str],
+        int(day),
+        int(hour),
+        int(minute),
+        tzinfo=timezone.utc
+    )
 
 def generate():
     url = 'https://www.e1.ru/text/author/8531/'
-    response = requests.get(url)
-    response.encoding = 'utf-8'  # Явно задаём
+    response = requests.get(url, headers=HEADERS, timeout=20)
+    response.raise_for_status()
+
     soup = BeautifulSoup(response.text, 'html.parser')
 
+    articles = soup.select('article.wrap_iDuIe')
+    if not articles:
+        print("⚠️  Карточки статей не найдены")
+        return
+
     fg = FeedGenerator()
+    fg.id(url)
     fg.title('E1.ru — Елена Панкратьева')
     fg.link(href=url, rel='alternate')
     fg.description('Публикации автора на E1.ru')
     fg.language('ru')
 
-    articles = soup.select('article.wrap_iDuIe')
-
     for art in articles:
-        link_tag = art.select_one('a.imgBg_iDuIe')
         title_tag = art.select_one('a.header_iDuIe span')
-        date_tag = art.select_one('.cell_eiDCU .text_eiDCU')
+        link_tag = art.select_one('a.header_iDuIe')
+        date_tag = art.select_one('div.statistic_iDuIe span.text_eiDCU')
 
-        title = title_tag.get_text(strip=True) if title_tag else None
-        link = link_tag['href'] if link_tag and link_tag.has_attr('href') else None
-        if link and not link.startswith('http'):
-            link = 'https://e1.ru' + link
-
-        date_str = date_tag.get_text(strip=True) if date_tag else None
-        pub_date = parse_date(date_str) if date_str else datetime.now()
-
-        # Картинка (enclosure)
-        img_tag = art.select_one('picture img')
-        img_url = img_tag['src'] if img_tag and img_tag.has_attr('src') else None
-
-        if not (title and link):
+        if not (title_tag and link_tag and date_tag):
             continue
 
+        title = title_tag.get_text(strip=True)
+        link = link_tag['href']
+
+        date_str = date_tag.get_text(strip=True)
+        try:
+            pub_date = parse_date(date_str)
+        except Exception as e:
+            print(f"[WARN] {e}")
+            continue
+
+        img_tag = art.select_one('picture img')
+        img_url = img_tag['src'] if img_tag else None
+
         fe = fg.add_entry()
+        fe.id(link)
         fe.title(title)
         fe.link(href=link)
-        fe.pubDate(pub_date)
+        fe.published(pub_date)
+
         if img_url:
             fe.enclosure(img_url, 0, 'image/jpeg')
 
     fg.rss_file('pankratyeva.xml', encoding='utf-8')
+    print("✅ RSS успешно сгенерирован")
 
 if __name__ == '__main__':
     generate()
