@@ -10,11 +10,7 @@ FEEDS_FILE = Path("publisher/feeds.txt")
 STATE_FILE = Path("publisher/state.json")
 
 MAX_CONCURRENCY = 5
-TIMEOUT = 20  # немного увеличили для сайтов с Cloudflare
-
-# -------------------------------------------------------------------
-# УСИЛЕННЫЕ HEADERS (маскируют GitHub Actions под настоящий браузер)
-# -------------------------------------------------------------------
+TIMEOUT = 20
 
 HEADERS = {
     "User-Agent": (
@@ -37,43 +33,20 @@ HEADERS = {
 }
 
 
-# -----------------------------
-# DEBUG helper
-# -----------------------------
-def debug_state(title: str, state: dict):
-    print(f"\n🔍 {title}:")
-    print(f"STATE_FILE = {STATE_FILE.absolute()}")
-    print(f"EXISTS = {STATE_FILE.exists()}")
-    try:
-        size = STATE_FILE.stat().st_size
-    except FileNotFoundError:
-        size = 0
-    print(f"FILE SIZE = {size} bytes")
-    print(f"STATE CONTENT = {state}\n")
-
-
 def fetch_blocking(url: str) -> str:
-    """Синхронная загрузка RSS (работает внутри asyncio.to_thread)."""
-
     try:
         resp = requests.get(url, timeout=TIMEOUT, headers=HEADERS)
         resp.raise_for_status()
         return resp.text
-
-    except requests.exceptions.HTTPError as e:
-        print(f"❌ HTTP {e.response.status_code} при загрузке {url}")
-        return ""
     except Exception as e:
         print(f"❌ Ошибка загрузки {url}: {e}")
         return ""
 
 
 async def fetch_rss(url: str) -> list:
-    """Асинхронная загрузка RSS через поток."""
     xml_text = await asyncio.to_thread(fetch_blocking, url)
 
     if not xml_text:
-        print(f"⚠️ DEBUG: xml_text пустой для {url}")
         return []
 
     parsed = feedparser.parse(xml_text)
@@ -83,7 +56,6 @@ async def fetch_rss(url: str) -> list:
         entry_id = item.get("id") or item.get("link")
         if not entry_id:
             continue
-
         entries.append({
             "id": entry_id,
             "title": item.get("title", ""),
@@ -91,12 +63,10 @@ async def fetch_rss(url: str) -> list:
             "summary": item.get("summary", "")
         })
 
-    print(f"📘 DEBUG: {url} → entries: {len(entries)}")
     return entries
 
 
 def format_entry(entry: dict) -> str:
-    """Формирует текст сообщения."""
     title = entry["title"].strip()
     link = entry["link"].strip()
     summary = entry.get("summary", "").strip()
@@ -107,8 +77,6 @@ def format_entry(entry: dict) -> str:
 
 
 async def process_feed(url: str, state: dict, sem: asyncio.Semaphore):
-    """Загружает RSS, ищет новые записи, отправляет их в Telegram."""
-
     async with sem:
         entries = await fetch_rss(url)
 
@@ -118,13 +86,11 @@ async def process_feed(url: str, state: dict, sem: asyncio.Semaphore):
 
     new_entries = get_new_entries(url, entries, state)
 
-    # Нет новых записей
     if not new_entries:
         print(f"— Нет новых записей: {url}")
         update_state(url, entries, state)
         return
 
-    # Отправляем новые записи (от старых к новым)
     print(f"✨ Новых записей: {len(new_entries)} — {url}")
 
     for entry in reversed(new_entries):
@@ -142,21 +108,13 @@ async def main_async():
 
     print(f"📡 Всего RSS-лент: {len(feeds)}")
 
-    # ---------- DEBUG BEFORE ----------
     state = load_state(STATE_FILE)
-    debug_state("Перед запуском", state)
-
     sem = asyncio.Semaphore(MAX_CONCURRENCY)
 
     tasks = [process_feed(url, state, sem) for url in feeds]
     await asyncio.gather(*tasks)
 
     save_state(STATE_FILE, state)
-
-    # ---------- DEBUG AFTER ----------
-    new_state = load_state(STATE_FILE)
-    debug_state("После сохранения", new_state)
-
     print("✅ Готово. Все обновления отправлены.")
 
 
