@@ -10,30 +10,55 @@ FEEDS_FILE = Path("publisher/feeds.txt")
 STATE_FILE = Path("publisher/state.json")
 
 MAX_CONCURRENCY = 5
-TIMEOUT = 15
+TIMEOUT = 20  # немного увеличили для сайтов с Cloudflare
+
+# -------------------------------------------------------------------
+# УСИЛЕННЫЕ HEADERS (маскируют GitHub Actions под настоящий браузер)
+# -------------------------------------------------------------------
 
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/125.0.0.0 Safari/537.36"
-    )
+        "AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15"
+    ),
+    "Accept": (
+        "text/html,application/xhtml+xml,application/xml;"
+        "q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8"
+    ),
+    "Accept-Language": "ru,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Site": "same-origin",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Dest": "document",
+    # Важно: некоторые сайты требуют предпочтение HTML
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache",
 }
 
 
 def fetch_blocking(url: str) -> str:
-    """Синхронная загрузка RSS (будет вызвана через asyncio.to_thread)."""
-    resp = requests.get(url, timeout=TIMEOUT, headers=HEADERS)
-    resp.raise_for_status()
-    return resp.text
+    """Синхронная загрузка RSS (работает внутри asyncio.to_thread)."""
+
+    try:
+        resp = requests.get(url, timeout=TIMEOUT, headers=HEADERS)
+        resp.raise_for_status()
+        return resp.text
+
+    except requests.exceptions.HTTPError as e:
+        print(f"❌ HTTP {e.response.status_code} при загрузке {url}")
+        return ""
+    except Exception as e:
+        print(f"❌ Ошибка загрузки {url}: {e}")
+        return ""
 
 
 async def fetch_rss(url: str) -> list:
     """Асинхронная загрузка RSS через поток."""
-    try:
-        xml_text = await asyncio.to_thread(fetch_blocking, url)
-    except Exception as e:
-        print(f"❌ Ошибка загрузки {url}: {e}")
+    xml_text = await asyncio.to_thread(fetch_blocking, url)
+
+    if not xml_text:
         return []
 
     parsed = feedparser.parse(xml_text)
@@ -66,30 +91,29 @@ def format_entry(entry: dict) -> str:
 
 
 async def process_feed(url: str, state: dict, sem: asyncio.Semaphore):
-    """Загружает RSS, ищет новые записи, отправляет их и обновляет state."""
+    """Загружает RSS, ищет новые записи, отправляет их в Telegram."""
 
     async with sem:
         entries = await fetch_rss(url)
 
     if not entries:
+        print(f"⚠️ Пропущено (нет записей или ошибка): {url}")
         return
 
-    # Найти новые записи через diff.py
     new_entries = get_new_entries(url, entries, state)
 
+    # Нет новых записей
     if not new_entries:
         print(f"— Нет новых записей: {url}")
-        # Но state всё равно обновляем на самый свежий id
         update_state(url, entries, state)
         return
 
+    # Отправляем новые записи (от старых к новым)
     print(f"✨ Новых записей: {len(new_entries)} — {url}")
 
-    # Отправляем в порядке от старых к новым
     for entry in reversed(new_entries):
         await asyncio.to_thread(send_message, format_entry(entry))
 
-    # Обновляем state
     update_state(url, entries, state)
 
 
