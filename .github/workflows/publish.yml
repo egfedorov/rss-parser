@@ -14,6 +14,21 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      # 1. Восстанавливаем предыдущий state.json
+      - name: Download previous state
+        uses: actions/download-artifact@v3
+        with:
+          name: rss-state
+          path: publisher/
+        continue-on-error: true   # если артефакта еще нет — не ошибка
+
+      # 2. Проверяем содержимое (debug)
+      - name: Check state.json
+        run: |
+          echo "state.json content BEFORE:"
+          cat publisher/state.json || echo "(no state.json found)"
+
+      # 3. Python окружение
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -23,8 +38,22 @@ jobs:
         run: |
           pip install feedparser requests
 
+      # 4. Запускаем publisher
       - name: Run publisher
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
         run: python publisher/run.py
+
+      # 5. Проверяем обновлённый state.json
+      - name: Check state.json after run
+        run: |
+          echo "state.json content AFTER:"
+          cat publisher/state.json
+
+      # 6. Сохраняем обновлённый state.json как артефакт
+      - name: Upload updated state.json
+        uses: actions/upload-artifact@v3
+        with:
+          name: rss-state
+          path: publisher/state.json
