@@ -13,9 +13,14 @@ STATE_FILE = Path("publisher/state.json")
 MAX_CONCURRENCY = 5
 TIMEOUT = 20
 
-# ---- НОВОЕ: Однократно отправить последнюю запись по каждой ленте ----
+# Однократная отправка последних записей для всех RSS
 FORCE_SEND_FIRST = True
 
+# Задержка между отправками сообщений в Telegram (иначе 429)
+SEND_DELAY = 0.8
+
+
+# ---------------------- HEADERS ----------------------
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -32,7 +37,8 @@ HEADERS = {
     "Pragma": "no-cache",
 }
 
-# ---- Генерация уникального ID (хеш) ----
+
+# ---------------------- УНИКАЛЬНЫЙ ID ----------------------
 def compute_id(item: dict) -> str:
     raw = (
         (item.get("title") or "") +
@@ -44,6 +50,7 @@ def compute_id(item: dict) -> str:
     return hashlib.sha1(raw).hexdigest()
 
 
+# ---------------------- HTTP ЗАГРУЗКА ----------------------
 def fetch_blocking(url: str) -> str:
     try:
         resp = requests.get(url, timeout=TIMEOUT, headers=HEADERS)
@@ -75,6 +82,7 @@ async def fetch_rss(url: str) -> list:
     return entries
 
 
+# ---------------------- ФОРМАТИРОВАНИЕ СООБЩЕНИЙ ----------------------
 def format_entry(entry: dict) -> str:
     title = entry["title"].strip()
     link = entry["link"].strip()
@@ -85,6 +93,12 @@ def format_entry(entry: dict) -> str:
     return f"{title}\n{link}"
 
 
+async def send_with_rate_limit(text: str):
+    await asyncio.to_thread(send_message, text)
+    await asyncio.sleep(SEND_DELAY)
+
+
+# ---------------------- ОБРАБОТКА ЛЕНТЫ ----------------------
 async def process_feed(url: str, state: dict, sem: asyncio.Semaphore):
     async with sem:
         entries = await fetch_rss(url)
@@ -96,14 +110,14 @@ async def process_feed(url: str, state: dict, sem: asyncio.Semaphore):
     last_id = state.get(url)
     first_id = entries[0]["id"]
 
-    # ---- НОВОЕ: Однократно отправить последнюю запись ----
+    # ---- ОДНОКРАТНАЯ РАССЫЛКА ПОСЛЕДНЕЙ ЗАПИСИ ----
     if last_id is None and FORCE_SEND_FIRST:
         print(f"🚀 Первый запуск: отправляем последнюю запись — {url}")
-        await asyncio.to_thread(send_message, format_entry(entries[0]))
+        await send_with_rate_limit(format_entry(entries[0]))
         state[url] = first_id
         return
 
-    # ---- обычная логика DIFF ----
+    # ---- Обычный режим DIFF ----
     new_entries = get_new_entries(url, entries, state)
 
     if not new_entries:
@@ -113,12 +127,14 @@ async def process_feed(url: str, state: dict, sem: asyncio.Semaphore):
 
     print(f"✨ Новых записей: {len(new_entries)} — {url}")
 
+    # отправляем старые → новые (хронологически)
     for entry in reversed(new_entries):
-        await asyncio.to_thread(send_message, format_entry(entry))
+        await send_with_rate_limit(format_entry(entry))
 
     update_state(url, entries, state)
 
 
+# ---------------------- MAIN ----------------------
 async def main_async():
     feeds = [
         line.strip()
