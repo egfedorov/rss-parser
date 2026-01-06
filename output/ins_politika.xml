@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Jan 2026 11:47:49 +0000</lastBuildDate>
-    <item>
-      <title>Последний премьер Макрона. Франция снова в глубоком политическом кризисе</title>
-      <link>https://theins.ru/politika/285254</link>
-      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 12:40:13 +0000</lastBuildDate>
     <item>
       <title>Россия не за горами. Грузинские власти, копируя методы Кремля, оказываются под все большим влиянием Москвы</title>
       <link>https://theins.ru/politika/285367</link>
@@ -186,6 +181,11 @@
       <title>Фарадж поймал кураж. Как маргинальный популист превратился в лидера самой популярной партии Британии</title>
       <link>https://theins.ru/politika/288059</link>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Совет безответственности. Почему признание Совбезом ООН аннексии Западной Сахары под давлением Трампа — опасный прецедент</title>
+      <link>https://theins.ru/politika/287960</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
