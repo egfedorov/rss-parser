@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 06 Jan 2026 07:50:11 +0000</lastBuildDate>
-    <item>
-      <title>Сибирь штормит, пламя летит — Пока без катастрофических последствий. Но жертвы урагана уже есть, пожары еще не потушены, и ветер окончательно не стих</title>
-      <link>https://novayagazeta.ru/articles/2025/04/05/sibir-shtormit-plamia-letit</link>
-      <description>Пока без катастрофических последствий. Но жертвы урагана уже есть, пожары еще не потушены, и ветер окончательно не стих</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/04/05/sibir-shtormit-plamia-letit</guid>
-      <pubDate>Sat, 05 Apr 2025 15:28:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 08:27:36 +0000</lastBuildDate>
     <item>
       <title>Разбор полетов крыш — Как такое стало возможно над Красноярском и почему кровля летает там, где ее ремонтируют</title>
       <link>https://novayagazeta.ru/articles/2025/04/07/razbor-poletov-krysh</link>
@@ -287,6 +280,13 @@
       <description>Только один месяц. Только хроники семейной жизни. Только те случаи, что получили огласку</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/25/konstatatsiia-smerti-otritsanie-zhizni</guid>
       <pubDate>Thu, 25 Dec 2025 07:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Парамоновы и Некрасовы — Нас никому не победить. Когда-нибудь мы победим себя сами</title>
+      <link>https://novayagazeta.ru/articles/2026/01/06/paramonovy-i-nekrasovy</link>
+      <description>Нас никому не победить. Когда-нибудь мы победим себя сами</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/06/paramonovy-i-nekrasovy</guid>
+      <pubDate>Tue, 06 Jan 2026 08:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
