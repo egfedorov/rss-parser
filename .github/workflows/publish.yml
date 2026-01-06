@@ -1,20 +1,17 @@
 name: Publish RSS updates
 
 on:
-  workflow_run:
-    workflows: ["Generate RSS feeds"]
-    types:
-      - completed
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
 
 jobs:
   publish:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
 
-      # 1. Восстанавливаем предыдущий state.json
       - name: Download previous state
         uses: actions/download-artifact@v4
         with:
@@ -22,14 +19,11 @@ jobs:
           path: publisher/
         continue-on-error: true
 
-      # 2. Debug
-      - name: Check state.json BEFORE
+      - name: Ensure state file exists
         run: |
-          echo "state.json BEFORE:"
-          ls -la publisher/
-          cat publisher/state.json || echo "(no state.json)"
+          mkdir -p publisher
+          [ -f publisher/state.json ] || echo "{}" > publisher/state.json
 
-      # 3. Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -38,21 +32,12 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser requests
 
-      # 4. Run publisher
       - name: Run publisher
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
         run: python publisher/run.py
 
-      # 5. Debug AFTER
-      - name: Check state.json AFTER
-        run: |
-          echo "state.json AFTER:"
-          ls -la publisher/
-          cat publisher/state.json
-
-      # 6. Сохраняем обновленный state.json
       - name: Upload updated state.json
         uses: actions/upload-artifact@v4
         with:
