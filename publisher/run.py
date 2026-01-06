@@ -14,7 +14,7 @@ MAX_CONCURRENCY = 5
 TIMEOUT = 20
 
 # Однократная отправка последних записей для всех RSS
-FORCE_SEND_FIRST = True
+FORCE_SEND_FIRST = False
 
 # Задержка между отправками сообщений в Telegram (иначе 429)
 SEND_DELAY = 0.8
