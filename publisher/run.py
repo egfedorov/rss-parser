@@ -13,9 +13,9 @@ STATE_FILE = Path("publisher/state.json")
 MAX_CONCURRENCY = 5
 TIMEOUT = 20
 
-# -------------------------------------------------------------------
-# УСИЛЕННЫЕ HEADERS (маскируют GitHub Actions под браузер)
-# -------------------------------------------------------------------
+# ---- НОВОЕ: Однократно отправить последнюю запись по каждой ленте ----
+FORCE_SEND_FIRST = True
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -28,27 +28,12 @@ HEADERS = {
     "Accept-Language": "ru,en;q=0.9",
     "Accept-Encoding": "gzip, deflate, br",
     "Connection": "keep-alive",
-    "Upgrade-Insecure-Requests": "1",
-    "Sec-Fetch-Site": "same-origin",
-    "Sec-Fetch-Mode": "navigate",
-    "Sec-Fetch-Dest": "document",
     "Cache-Control": "no-cache",
     "Pragma": "no-cache",
 }
 
-# -------------------------------------------------------------------
-# ГЕНЕРАЦИЯ НАДЁЖНОГО ID, НЕ ЗАВИСИМОГО ОТ RSS GUID
-# -------------------------------------------------------------------
+# ---- Генерация уникального ID (хеш) ----
 def compute_id(item: dict) -> str:
-    """
-    Создаёт уникальный ID для записи:
-    - title
-    - link
-    - published
-    - updated
-    Всё склеивается в строку и хешируется SHA-1.
-    Это даёт стабильный уникальный идентификатор.
-    """
     raw = (
         (item.get("title") or "") +
         (item.get("link") or "") +
@@ -79,10 +64,8 @@ async def fetch_rss(url: str) -> list:
 
     entries = []
     for item in parsed.entries:
-        entry_id = compute_id(item)  # ← НАШ НОВЫЙ ID
-
         entries.append({
-            "id": entry_id,
+            "id": compute_id(item),
             "title": item.get("title", ""),
             "link": item.get("link", ""),
             "summary": item.get("summary", ""),
@@ -110,6 +93,17 @@ async def process_feed(url: str, state: dict, sem: asyncio.Semaphore):
         print(f"⚠️ Пропущено (нет записей или ошибка): {url}")
         return
 
+    last_id = state.get(url)
+    first_id = entries[0]["id"]
+
+    # ---- НОВОЕ: Однократно отправить последнюю запись ----
+    if last_id is None and FORCE_SEND_FIRST:
+        print(f"🚀 Первый запуск: отправляем последнюю запись — {url}")
+        await asyncio.to_thread(send_message, format_entry(entries[0]))
+        state[url] = first_id
+        return
+
+    # ---- обычная логика DIFF ----
     new_entries = get_new_entries(url, entries, state)
 
     if not new_entries:
@@ -119,7 +113,6 @@ async def process_feed(url: str, state: dict, sem: asyncio.Semaphore):
 
     print(f"✨ Новых записей: {len(new_entries)} — {url}")
 
-    # отправляем старые → новые
     for entry in reversed(new_entries):
         await asyncio.to_thread(send_message, format_entry(entry))
 
@@ -142,6 +135,7 @@ async def main_async():
     await asyncio.gather(*tasks)
 
     save_state(STATE_FILE, state)
+
     print("✅ Готово. Все обновления отправлены.")
 
 
