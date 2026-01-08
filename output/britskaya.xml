@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 08 Jan 2026 10:21:55 +0000</lastBuildDate>
-    <item>
-      <title>Ботовселенная — Власть живет в пластмассовом мире: в нем боты хвалят чиновников, ругают оппозицию, голосуют и даже молятся</title>
-      <link>https://novayagazeta.ru/articles/2025/03/29/botovselennaia</link>
-      <description>Власть живет в пластмассовом мире: в нем боты хвалят чиновников, ругают оппозицию, голосуют и даже молятся</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/03/29/botovselennaia</guid>
-      <pubDate>Sat, 29 Mar 2025 06:53:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Jan 2026 10:54:31 +0000</lastBuildDate>
     <item>
       <title>Молитва против коррупции, запрещенка в гробу и охота на ворон — Топ-10 мартовской дури</title>
       <link>https://novayagazeta.ru/articles/2025/04/01/molitva-protiv-korruptsii-zapreshchenka-v-grobu-i-okhota-na-voron</link>
@@ -287,6 +280,13 @@
       <description>В этом году в России нагородили немало дури. Мы собрали топ-10</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/05/severnee-korei</guid>
       <pubDate>Mon, 05 Jan 2026 08:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Здесь снимают маски с палачей — Репортаж из средневекового центра «Э», где по доносам жгли ведьм, а сейчас раскрыли имена тех, кто это делал</title>
+      <link>https://novayagazeta.ru/articles/2026/01/08/zdes-snimaiut-maski-s-palachei</link>
+      <description>Репортаж из средневекового центра «Э», где по доносам жгли ведьм, а сейчас раскрыли имена тех, кто это делал</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/08/zdes-snimaiut-maski-s-palachei</guid>
+      <pubDate>Thu, 08 Jan 2026 10:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
