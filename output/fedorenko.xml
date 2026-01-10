@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 10 Jan 2026 11:45:43 +0000</lastBuildDate>
-    <item>
-      <title>48 погибших — Упавшему близ Тынды самолету было почти 50 лет</title>
-      <link>https://novayagazeta.ru/articles/2025/07/24/49-pogibshikh</link>
-      <description>Упавшему близ Тынды самолету было почти 50 лет</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/07/24/49-pogibshikh</guid>
-      <pubDate>Thu, 24 Jul 2025 12:29:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 10 Jan 2026 12:35:58 +0000</lastBuildDate>
     <item>
       <title>«Винни-Пух» попал под раскулачивание — У семьи пятого мэра Владивостока Владимира Николаева забрали в пользу государства огромный объем недвижимости</title>
       <link>https://novayagazeta.ru/articles/2025/07/29/vinni-pukh-popal-pod-raskulachivanie</link>
@@ -287,6 +280,13 @@
       <description>Жители приморского села обратились к Путину с просьбой спасти школу. После этого к ним пришли полицейские</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/30/uroki-taigi</guid>
       <pubDate>Tue, 30 Dec 2025 13:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Буксуют все! — Метель парализовала Владивосток и выявила гражданских героев</title>
+      <link>https://novayagazeta.ru/articles/2026/01/10/buksuiut-vse</link>
+      <description>Метель парализовала Владивосток и выявила гражданских героев</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/10/buksuiut-vse</guid>
+      <pubDate>Sat, 10 Jan 2026 12:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
