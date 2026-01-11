@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Jan 2026 11:15:49 +0000</lastBuildDate>
-    <item>
-      <title>«Люди в форме следили, как мы заполняем тесты про героев СВО»: как на оккупированных территориях «перевоспитывают» школьников</title>
-      <link>https://theins.ru/obshestvo/283136</link>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Jan 2026 11:45:42 +0000</lastBuildDate>
     <item>
       <title>Осел — последняя надежда. Как животные помогают жителям сектора Газа пережить гуманитарную катастрофу</title>
       <link>https://theins.ru/obshestvo/283593</link>
@@ -186,6 +181,11 @@
       <title>Китайский WeChat, иранская Rubica и российский МAX: как диктатуры навязывают мессенджеры для контроля за населением</title>
       <link>https://theins.ru/obshestvo/288118</link>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Наказание вместо лечения. Почему репрессивные меры Трампа лишь усугубляют проблему бездомных в США</title>
+      <link>https://theins.ru/obshestvo/287293</link>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
