@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 13 Jan 2026 07:00:37 +0000</lastBuildDate>
-    <item>
-      <title>Невосполнимо! — Экологический ущерб от разлива мазута в Керченском проливе составил 84,9 млрд рублей. Но платить эти деньги, вероятно, никто не будет</title>
-      <link>https://novayagazeta.ru/articles/2025/04/05/nevospolnimo</link>
-      <description>Экологический ущерб от разлива мазута в Керченском проливе составил 84,9 млрд рублей. Но платить эти деньги, вероятно, никто не будет</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/04/05/nevospolnimo</guid>
-      <pubDate>Sat, 05 Apr 2025 09:13:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 07:49:27 +0000</lastBuildDate>
     <item>
       <title>«Довольно быстро я понял, что не хочу в этом участвовать» — История мобилизованного Константина Лукьянченко, который отказался выполнять приказ и оказался в тюрьме</title>
       <link>https://novayagazeta.ru/articles/2025/05/16/dovolno-bystro-ia-ponial-chto-ne-khochu-v-etom-uchastvovat</link>
@@ -79,17 +72,17 @@
       <pubDate>Mon, 26 May 2025 07:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Шли все, как в компьютерной игре» — История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</title>
-      <link>https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</link>
-      <description>История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</guid>
-      <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Раненый говорит: “Пошлите, пошлите”. А мы просто рядом сидим» — История военного медика с позывным «Амулет», который считает, что мир примут все</title>
       <link>https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</link>
       <description>История военного медика с позывным «Амулет», который считает, что мир примут все</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</guid>
+      <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Шли все, как в компьютерной игре» — История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</title>
+      <link>https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</link>
+      <description>История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</guid>
       <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
     </item>
     <item>
@@ -287,6 +280,13 @@
       <description>Кто и зачем лоббирует сплошные рубки леса на главном озере мира — Байкале</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/12/drovoseki</guid>
       <pubDate>Fri, 12 Dec 2025 07:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Где хоронят города — Руины кварталов, поля в воронках, отравленная вода — что с этим делать?</title>
+      <link>https://novayagazeta.ru/articles/2026/01/13/gde-khoroniat-goroda</link>
+      <description>Руины кварталов, поля в воронках, отравленная вода — что с этим делать?</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/13/gde-khoroniat-goroda</guid>
+      <pubDate>Tue, 13 Jan 2026 07:17:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
