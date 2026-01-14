@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 14 Jan 2026 10:23:21 +0000</lastBuildDate>
-    <item>
-      <title>«Нет силы, способной лишить права на совесть» — Алексею Горинову снова не дали произнести последнее слово. И отказались отменить приговор</title>
-      <link>https://novayagazeta.ru/articles/2025/04/03/net-sily-sposobnoi-lishit-prava-na-sovest</link>
-      <description>Алексею Горинову снова не дали произнести последнее слово. И отказались отменить приговор</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/04/03/net-sily-sposobnoi-lishit-prava-na-sovest</guid>
-      <pubDate>Thu, 03 Apr 2025 13:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 10:55:45 +0000</lastBuildDate>
     <item>
       <title>Русский Трамп на шпагате — Вологодский губернатор Филимонов — тест на нормальность общества. Результаты неутешительные</title>
       <link>https://novayagazeta.ru/articles/2025/04/05/russkii-tramp-na-shpagate</link>
@@ -287,6 +280,13 @@
       <description>Топ-10 декабрьской дури</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/13/kim-pod-elochkoi-mer-supermen-i-bezdetnaia-femida</guid>
       <pubDate>Tue, 13 Jan 2026 13:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Обмен политзаключенными — С Владимиром Кара-Мурзой* обсуждаем шансы в 2026 году</title>
+      <link>https://novayagazeta.ru/videos/2026/01/14/obmen-politzakliuchennymi</link>
+      <description>С Владимиром Кара-Мурзой* обсуждаем шансы в 2026 году</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/videos/2026/01/14/obmen-politzakliuchennymi</guid>
+      <pubDate>Wed, 14 Jan 2026 10:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
