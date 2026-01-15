@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 15 Jan 2026 15:33:31 +0000</lastBuildDate>
-    <item>
-      <title>«Винни-Пух» попал под раскулачивание — У семьи пятого мэра Владивостока Владимира Николаева забрали в пользу государства огромный объем недвижимости</title>
-      <link>https://novayagazeta.ru/articles/2025/07/29/vinni-pukh-popal-pod-raskulachivanie</link>
-      <description>У семьи пятого мэра Владивостока Владимира Николаева забрали в пользу государства огромный объем недвижимости</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/07/29/vinni-pukh-popal-pod-raskulachivanie</guid>
-      <pubDate>Tue, 29 Jul 2025 08:36:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 16:00:59 +0000</lastBuildDate>
     <item>
       <title>«Радуемся чистому небу над головой и не жужжим» — Красноярцы выживают без мобильного интернета и волнуются за свою работу. Беспокойным советуют идти на СВО</title>
       <link>https://novayagazeta.ru/articles/2025/07/29/raduemsia-chistomu-nebu-nad-golovoi-i-ne-zhuzhzhim</link>
@@ -287,6 +280,13 @@
       <description>Метель парализовала Владивосток и выявила гражданских героев</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/10/buksuiut-vse</guid>
       <pubDate>Sat, 10 Jan 2026 12:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>На Камчатке засыпает города — Стихийное бедствие унесло жизни двух человек, парализовало дороги, оставило тысячи людей без света и продуктов</title>
+      <link>https://novayagazeta.ru/articles/2026/01/15/na-kamchatke-zasypaet-goroda</link>
+      <description>Стихийное бедствие унесло жизни двух человек, парализовало дороги, оставило тысячи людей без света и продуктов</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/15/na-kamchatke-zasypaet-goroda</guid>
+      <pubDate>Thu, 15 Jan 2026 15:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
