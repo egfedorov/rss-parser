@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 17 Jan 2026 06:56:51 +0000</lastBuildDate>
-    <item>
-      <title>«Семь лет жизни взять и выбросить? Мы — семья» — Интервью с женами фигурантов «Тюменского дела»: о трех годах разлуки, поддержке с воли, молчании лучших друзей и регистрации брака в СИЗО</title>
-      <link>https://novayagazeta.ru/articles/2025/07/11/sem-let-zhizni-vziat-i-vybrosit-my-semia</link>
-      <description>Интервью с женами фигурантов «Тюменского дела»: о трех годах разлуки, поддержке с воли, молчании лучших друзей и регистрации брака в СИЗО</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/07/11/sem-let-zhizni-vziat-i-vybrosit-my-semia</guid>
-      <pubDate>Fri, 11 Jul 2025 08:24:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Jan 2026 07:25:44 +0000</lastBuildDate>
     <item>
       <title>Один день в колонии и принудительное лечение за «розыск Путина» — Как суды штампуют приговоры по политическим делам</title>
       <link>https://novayagazeta.ru/articles/2025/07/12/odin-den-v-kolonii-i-prinuditelnoe-lechenie-za-rozysk-putina</link>
@@ -287,6 +280,13 @@
       <description>Письмо 20-летней москвички Евгении Ломаковой из колонии — о смертельной болезни, этапе и суде, который ее не услышал</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/15/ia-ne-znaiu-est-li-smysl-rasschityvat-na-budushchee</guid>
       <pubDate>Thu, 15 Jan 2026 12:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Новогодняя ночь закончилась, проснулись силовики — Задержания, рейды и уголовные дела как главный сюжет первых дней 2026 года</title>
+      <link>https://novayagazeta.ru/articles/2026/01/17/novogodniaia-noch-zakonchilas-prosnulis-siloviki</link>
+      <description>Задержания, рейды и уголовные дела как главный сюжет первых дней 2026 года</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/17/novogodniaia-noch-zakonchilas-prosnulis-siloviki</guid>
+      <pubDate>Sat, 17 Jan 2026 07:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
