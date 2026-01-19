@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Исповедь" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Jan 2026 11:52:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 12:56:58 +0000</lastBuildDate>
     <item>
       <title>«Каждый пытается привлечь бога на свою сторону». Священники о том, как война в Украине расколола РПЦ</title>
       <link>https://theins.ru/confession/265406</link>
