@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 20 Jan 2026 10:59:36 +0000</lastBuildDate>
-    <item>
-      <title>«Радуемся чистому небу над головой и не жужжим» — Красноярцы выживают без мобильного интернета и волнуются за свою работу. Беспокойным советуют идти на СВО</title>
-      <link>https://novayagazeta.ru/articles/2025/07/29/raduemsia-chistomu-nebu-nad-golovoi-i-ne-zhuzhzhim</link>
-      <description>Красноярцы выживают без мобильного интернета и волнуются за свою работу. Беспокойным советуют идти на СВО</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/07/29/raduemsia-chistomu-nebu-nad-golovoi-i-ne-zhuzhzhim</guid>
-      <pubDate>Tue, 29 Jul 2025 13:54:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Jan 2026 11:32:43 +0000</lastBuildDate>
     <item>
       <title>На Камчатке произошло сильнейшее за 70 лет землетрясение. На берег обрушилось цунами, есть разрушения</title>
       <link>https://novayagazeta.ru/news/2025/07/30/na-kamchatke-proizoshlo-silneishee-za-70-let-zemletriasenie-na-bereg-obrushilos-tsunami-est-razrusheniia-news</link>
@@ -287,6 +280,13 @@
       <description>Стихийное бедствие унесло жизни двух человек, парализовало дороги, оставило тысячи людей без света и продуктов</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/15/na-kamchatke-zasypaet-goroda</guid>
       <pubDate>Thu, 15 Jan 2026 15:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Если не террористы, то хотя бы «враги народа» — Приморский чат-бот «Опер пишет» подвел итоги года: бдительные граждане прислали тысячи анонимок</title>
+      <link>https://novayagazeta.ru/articles/2026/01/20/esli-ne-terroristy-to-khotia-by-vragi-naroda</link>
+      <description>Приморский чат-бот «Опер пишет» подвел итоги года: бдительные граждане прислали тысячи анонимок</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/20/esli-ne-terroristy-to-khotia-by-vragi-naroda</guid>
+      <pubDate>Tue, 20 Jan 2026 11:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
