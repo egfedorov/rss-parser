@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 11:31:25 +0000</lastBuildDate>
-    <item>
-      <title>«Вся надежда только на дождь». Как жители Донецкой области переживают кризис водоснабжения. Репортаж The Insider</title>
-      <link>https://theins.ru/obshestvo/284192</link>
-      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Jan 2026 11:52:48 +0000</lastBuildDate>
     <item>
       <title>Превращать воду в войну. Как действия России привели к кризису с водоснабжением Донбасса</title>
       <link>https://theins.ru/obshestvo/284031</link>
@@ -186,6 +181,11 @@
       <title>ИИ-девочка. Как искусственный интеллект постепенно заменяет оффлайн отношения и порносайты</title>
       <link>https://theins.ru/obshestvo/288404</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«В поезд лучше даже не садиться». Как жительницы белгородского приграничья сталкиваются с насилием со стороны военных</title>
+      <link>https://theins.ru/obshestvo/288006</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
