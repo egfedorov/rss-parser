@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 22 Jan 2026 09:04:45 +0000</lastBuildDate>
-    <item>
-      <title>Что такое коллективная память и как на нас воздействует информация — Гости стрима — психолог Александр Асмолов и историк Никита Петров</title>
-      <link>https://novayagazeta.ru/videos/2025/04/10/chto-takoe-kollektivnaia-pamiat-i-kak-na-nas-vozdeistvuet-informatsiia</link>
-      <description>Гости стрима — психолог Александр Асмолов и историк Никита Петров</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/videos/2025/04/10/chto-takoe-kollektivnaia-pamiat-i-kak-na-nas-vozdeistvuet-informatsiia</guid>
-      <pubDate>Thu, 10 Apr 2025 16:12:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Jan 2026 09:49:30 +0000</lastBuildDate>
     <item>
       <title>Как сохранить разум в мире черно-белых нарративов? — Важный разговор с Александром Асмоловым</title>
       <link>https://novayagazeta.ru/videos/2025/04/14/kak-sokhranit-razum-v-mire-cherno-belykh-narrativov</link>
@@ -287,6 +280,13 @@
       <description>Разговор с Борисом Гребенщиковым* накануне выхода нового альбома «Аквариума»</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/15/katastrofa-nuzhna-chtoby-poniat-na-kakoi-my-storone</guid>
       <pubDate>Thu, 15 Jan 2026 11:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нечем дышать — Отсрочку приговора ради ребенка ей не дали. Ребенок с рождения на ИВЛ. Мать вернется к нему только через 12 лет</title>
+      <link>https://novayagazeta.ru/articles/2026/01/22/nechem-dyshat</link>
+      <description>Отсрочку приговора ради ребенка ей не дали. Ребенок с рождения на ИВЛ. Мать вернется к нему только через 12 лет</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/22/nechem-dyshat</guid>
+      <pubDate>Thu, 22 Jan 2026 09:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
