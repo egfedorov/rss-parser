@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 19:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 19:54:34 +0000</lastBuildDate>
     <item>
       <title>Адьос, Моралес. Боливия прощается с эпохой жевателей листьев коки у власти</title>
       <link>https://theins.ru/politika/285847</link>
