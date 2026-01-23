@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jan 2026 09:00:16 +0000</lastBuildDate>
-    <item>
-      <title>Адьос, Моралес. Боливия прощается с эпохой жевателей листьев коки у власти</title>
-      <link>https://theins.ru/politika/285847</link>
-      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Jan 2026 09:40:34 +0000</lastBuildDate>
     <item>
       <title>Вторая иранская. После соглашения по Газе Тегеран может стать следующим в очереди на «принуждение к миру»</title>
       <link>https://theins.ru/politika/285844</link>
@@ -186,6 +181,11 @@
       <title>Спасателей не вызывали: как Трамп пытается бороться с воображаемым геноцидом в ЮАР</title>
       <link>https://theins.ru/politika/287963</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ЦИК уехал, диктаторы остались. Как российский Центризбирком помогает хунте в Мьянме удержаться у власти</title>
+      <link>https://theins.ru/politika/288622</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
