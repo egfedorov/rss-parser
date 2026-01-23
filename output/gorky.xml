@@ -1,26 +1,2 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Fri, 23 Jan 2026 18:38:56 +0000</lastBuildDate><item><title>Корни мандрагоры и топинамбура</title><link>https://gorky.media/context/korni-mandragory-i-topinambura</link><description>Что читали авторы «Горького». Часть 3
-
-29.12.2025</description><pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate></item><item><title>Цвет хохолка какаду</title><link>https://gorky.media/context/tsvet-xoxolka-kakadu</link><description>К 160-летию со дня рождения Редьярда Киплинга
-
-30.12.2025</description><pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate></item><item><title>Литературный Олимп крюзова творчества старца Рафаила</title><link>https://gorky.media/context/literaturnyi-olimp-kryuzova-tvorchestva-startsa-rafaila</link><description>Что читали в 2025 году авторы «Горького». Часть 4
-
-30.12.2025</description><pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate></item><item><title>Сделать пацанов Фредди Крюгерами и вернуть Советский Союз</title><link>https://gorky.media/context/sdelat-patsanov-freddi-kryugerami-i-vernut-sovetskii-soyuz</link><description>О чем дети просили Деда Мороза в конце XX века
-
-31.12.2025</description><pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate></item><item><title>Если предаваться думскроллингу, то такому</title><link>https://gorky.media/context/esli-predavatsya-dumskrollingu-to-takomu</link><description>Что читали авторы «Горького» в 2025 году. Часть 5
-
-31.12.2025</description><pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate></item><item><title>Чудотворец, не творящий чудес</title><link>https://gorky.media/context/chudotvorets-ne-tvoryashchii-chudes</link><description>К 120-летию со дня рождения Даниила Хармса
-
-01.01.2026</description><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate></item><item><title>Насмешить чертей</title><link>https://gorky.media/context/nasmeshit-chertei</link><description>Сооснователь книжного магазина «Фаланстер» — о повышении НДС и снижении порога «упрощенки»
-
-12.01.2026</description><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate></item><item><title>Орден жука, или О чем поет Золушка Евгения Шварца</title><link>https://gorky.media/context/orden-zhuka-ili-o-chem-poet-zolushka-evgeniya-shvartsa</link><description>На вопрос отвечает Виктор Щебень
-
-15.01.2026</description><pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate></item><item><title>Игра иллюзий вместо бога</title><link>https://gorky.media/context/igra-illyuzii-vmesto-boga</link><description>Что такое литература согласно Пьеру Бурдье
-
-16.01.2026</description><pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate></item><item><title>Айсберг для «Титаника»</title><link>https://gorky.media/context/aisberg-dlya-titanika</link><description>О романе Кристофера Мура «Нуар»
-
-19.01.2026</description><pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate></item><item><title>«Ибо смех есть радость, а посему сам по себе — благо»</title><link>https://gorky.media/context/ibo-smex-est-radost-a-posemu-sam-po-sebe-blago</link><description>Интервью с Дмитрием Николаевым
-
-20.01.2026</description><pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate></item><item><title>Трудно Наташе с русскими</title><link>https://gorky.media/context/trudno-natashe-s-russkimi</link><description>О недавно вышедших книгах Наташи Лэнс Рогофф и Элиота Боренштейна
-
-23.01.2026</description><pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Fri, 23 Jan 2026 19:03:30 +0000</lastBuildDate></channel></rss>
