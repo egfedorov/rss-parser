@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jan 2026 07:47:46 +0000</lastBuildDate>
-    <item>
-      <title>Превращать воду в войну. Как действия России привели к кризису с водоснабжением Донбасса</title>
-      <link>https://theins.ru/obshestvo/284031</link>
-      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jan 2026 08:31:19 +0000</lastBuildDate>
     <item>
       <title>Нежелательное образование. Как запрет «Международного бакалавриата» скажется на учениках</title>
       <link>https://theins.ru/obshestvo/284526</link>
@@ -186,6 +181,11 @@
       <title>«В поезд лучше даже не садиться». Как жительницы белгородского приграничья сталкиваются с насилием со стороны военных</title>
       <link>https://theins.ru/obshestvo/288006</link>
       <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Гретые кирпичи в кровати, купленные в складчину генераторы, свечи вместо ламп: как Киев выживает без света и тепла</title>
+      <link>https://theins.ru/obshestvo/288748</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
