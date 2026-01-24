@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 24 Jan 2026 06:58:23 +0000</lastBuildDate>
-    <item>
-      <title>«Легли спать — хорошо, проснулись — еще лучше…» — Как живут сейчас петербуржцы, в чей дом влетел дрон и за которых молится губернатор, уверяющий, что «город надежно защищен»</title>
-      <link>https://novayagazeta.ru/articles/2024/03/05/legli-spat-khorosho-prosnulis-eshche-luchshe</link>
-      <description>Как живут сейчас петербуржцы, в чей дом влетел дрон и за которых молится губернатор, уверяющий, что «город надежно защищен»</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/03/05/legli-spat-khorosho-prosnulis-eshche-luchshe</guid>
-      <pubDate>Tue, 05 Mar 2024 14:32:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jan 2026 07:28:08 +0000</lastBuildDate>
     <item>
       <title>Полтора года лишения свободы за слова и мысли — Как живет семья предпринимателя Дмитрия Скурихина?</title>
       <link>https://novayagazeta.ru/videos/2024/03/13/poltora-goda-lisheniia-svobody-za-slova-i-mysli</link>
@@ -287,6 +280,13 @@
       <description>Нельсон Искандарян, известный уличный художник Петербурга, 15 лет бился за подвальчик. Но едва добился — сожгли</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/20/vmeste-s-khramom-sgoraet-dusha</guid>
       <pubDate>Sat, 20 Dec 2025 15:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Неподъемная корзина — В новый год страна пришла с новыми ценами</title>
+      <link>https://novayagazeta.ru/articles/2026/01/24/nepodemnaia-korzina</link>
+      <description>В новый год страна пришла с новыми ценами</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/24/nepodemnaia-korzina</guid>
+      <pubDate>Sat, 24 Jan 2026 07:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
