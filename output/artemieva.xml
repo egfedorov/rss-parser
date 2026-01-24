@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 24 Jan 2026 13:32:50 +0000</lastBuildDate>
-    <item>
-      <title>Нефальшивая нота незамеченного поколения — О сборнике эмигрантов первой волны «Обреченные на роль любую», вышедшем в издательстве Éditions Tourgueneff</title>
-      <link>https://novayagazeta.ru/articles/2025/02/05/nefalshivaia-nota-nezamechennogo-pokoleniia</link>
-      <description>О сборнике эмигрантов первой волны «Обреченные на роль любую», вышедшем в издательстве Éditions Tourgueneff</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/02/05/nefalshivaia-nota-nezamechennogo-pokoleniia</guid>
-      <pubDate>Wed, 05 Feb 2025 08:37:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jan 2026 13:51:38 +0000</lastBuildDate>
     <item>
       <title>По техническим причинам цензуры — О пьесе «Дело» Сухово-Кобылина, спектакль по которой сняли с репертуара в новосибирском театре</title>
       <link>https://novayagazeta.ru/articles/2025/02/08/po-tekhnicheskim-prichinam-tsenzury</link>
@@ -287,6 +280,13 @@
       <description>Про книгу Дмитрия Быкова* «Квартал», про то, зачем нужна культура после февраля, и вообще про смысл жизни</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/20/prokhozhdenie-prokhozhdeniia</guid>
       <pubDate>Sat, 20 Dec 2025 11:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Игры престолов и родная речь — Почему мы говорим о политике на языке Толкина и Роулинг</title>
+      <link>https://novayagazeta.ru/articles/2026/01/24/igry-prestolov-i-rodnaia-rech</link>
+      <description>Почему мы говорим о политике на языке Толкина и Роулинг</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/24/igry-prestolov-i-rodnaia-rech</guid>
+      <pubDate>Sat, 24 Jan 2026 13:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
