@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 26 Jan 2026 10:57:44 +0000</lastBuildDate>
-    <item>
-      <title>Как сохранить разум в мире черно-белых нарративов? — Важный разговор с Александром Асмоловым</title>
-      <link>https://novayagazeta.ru/videos/2025/04/14/kak-sokhranit-razum-v-mire-cherno-belykh-narrativov</link>
-      <description>Важный разговор с Александром Асмоловым</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/videos/2025/04/14/kak-sokhranit-razum-v-mire-cherno-belykh-narrativov</guid>
-      <pubDate>Mon, 14 Apr 2025 09:26:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Jan 2026 11:29:11 +0000</lastBuildDate>
     <item>
       <title>Коллективная амнезия: как стирают историю репрессий — Памятники палачам, тайные архивы, забытые имена. Разговор с историком Никитой Петровым</title>
       <link>https://novayagazeta.ru/videos/2025/04/18/kollektivnaia-amneziia-kak-stiraiut-istoriiu-repressii</link>
@@ -287,6 +280,13 @@
       <description>Отсрочку приговора ради ребенка ей не дали. Ребенок с рождения на ИВЛ. Мать вернется к нему только через 12 лет</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/22/nechem-dyshat</guid>
       <pubDate>Thu, 22 Jan 2026 09:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Кто эти русские, которым все равно?!» — Как разлюбить и пожалеть Россию во время не-мира</title>
+      <link>https://novayagazeta.ru/articles/2026/01/26/kto-eti-russkie-kotorym-vse-ravno</link>
+      <description>Как разлюбить и пожалеть Россию во время не-мира</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/26/kto-eti-russkie-kotorym-vse-ravno</guid>
+      <pubDate>Mon, 26 Jan 2026 11:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
