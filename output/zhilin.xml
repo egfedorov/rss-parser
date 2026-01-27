@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 27 Jan 2026 11:53:19 +0000</lastBuildDate>
-    <item>
-      <title>«Полицейский офицеру сказал: «Ты давай матери верни сына» — Семьи россиян, пропавших без вести на СВО, ищут их годами. В воинских частях, в моргах и в самой зоне боевых действий. Репортаж «Новой»</title>
-      <link>https://novayagazeta.ru/articles/2025/05/20/politseiskii-ofitseru-skazal-ty-davai-materi-verni-syna</link>
-      <description>Семьи россиян, пропавших без вести на СВО, ищут их годами. В воинских частях, в моргах и в самой зоне боевых действий. Репортаж «Новой»</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/20/politseiskii-ofitseru-skazal-ty-davai-materi-verni-syna</guid>
-      <pubDate>Tue, 20 May 2025 08:14:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Jan 2026 12:57:43 +0000</lastBuildDate>
     <item>
       <title>Вернувшиеся. Фильм «Новой газеты». 18+ — Истории россиян, воевавших в Украине: почему они туда пошли, что увидели и сделали, и как это их изменило</title>
       <link>https://novayagazeta.ru/videos/2025/05/26/vernuvshiesia-film-novoi-gazety-18</link>
@@ -287,6 +280,13 @@
       <description>Приграничье: обстрелы, тьма и надежда. Репортаж из Белгородской области о людях, живущих вблизи фронта</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/22/govoriu-dronu-posmotri-ia-grazhdanskii-v-maike-bez-bronezhileta</guid>
       <pubDate>Thu, 22 Jan 2026 08:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Как живут белгородцы на самой границе с Украиной, где идут боевые действия — Репортаж специальных корреспондентов «Новой» из приграничного села Козинка</title>
+      <link>https://novayagazeta.ru/videos/2026/01/27/kak-zhivut-belgorodtsy-na-samoi-granitse-s-ukrainoi-gde-idut-boevye-deistviia</link>
+      <description>Репортаж специальных корреспондентов «Новой» из приграничного села Козинка</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/videos/2026/01/27/kak-zhivut-belgorodtsy-na-samoi-granitse-s-ukrainoi-gde-idut-boevye-deistviia</guid>
+      <pubDate>Tue, 27 Jan 2026 12:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
