@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 10:40:44 +0000</lastBuildDate>
-    <item>
-      <title>Вторая иранская. После соглашения по Газе Тегеран может стать следующим в очереди на «принуждение к миру»</title>
-      <link>https://theins.ru/politika/285844</link>
-      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Jan 2026 11:34:22 +0000</lastBuildDate>
     <item>
       <title>Еще не демократия. Сирия избрала новый парламент, но его легитимность под вопросом</title>
       <link>https://theins.ru/politika/285913</link>
@@ -186,6 +181,11 @@
       <title>ЦИК уехал, диктаторы остались. Как российский Центризбирком помогает хунте в Мьянме удержаться у власти</title>
       <link>https://theins.ru/politika/288622</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Праздник вместо независимости: как новые сирийские власти пытаются интегрировать курдов</title>
+      <link>https://theins.ru/politika/288709</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
