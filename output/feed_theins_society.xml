@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 14:08:32 +0000</lastBuildDate>
-    <item>
-      <title>Язык без гостей. Как активисты помогают детям мигрантов, которых государство лишило права на образование из-за незнания русского</title>
-      <link>https://theins.ru/obshestvo/284562</link>
-      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Jan 2026 15:01:19 +0000</lastBuildDate>
     <item>
       <title>Снуют без дела. Как силовики запугивают общество обысками, даже без формального возбуждения уголовных дел</title>
       <link>https://theins.ru/obshestvo/284595</link>
@@ -186,6 +181,11 @@
       <title>Всемирный поток. Как глобальное изменение климата заставляет сотни миллионов людей переселяться</title>
       <link>https://theins.ru/obshestvo/288606</link>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Возвращаясь в гнездо кукушки: почему введение принудительной госпитализации в США не решит проблему бездомных и умалишенных</title>
+      <link>https://theins.ru/obshestvo/288666</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
