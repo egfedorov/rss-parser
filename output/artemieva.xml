@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 29 Jan 2026 09:49:36 +0000</lastBuildDate>
-    <item>
-      <title>По техническим причинам цензуры — О пьесе «Дело» Сухово-Кобылина, спектакль по которой сняли с репертуара в новосибирском театре</title>
-      <link>https://novayagazeta.ru/articles/2025/02/08/po-tekhnicheskim-prichinam-tsenzury</link>
-      <description>О пьесе «Дело» Сухово-Кобылина, спектакль по которой сняли с репертуара в новосибирском театре</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/02/08/po-tekhnicheskim-prichinam-tsenzury</guid>
-      <pubDate>Sat, 08 Feb 2025 12:47:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Jan 2026 10:40:36 +0000</lastBuildDate>
     <item>
       <title>Экспонаты — Как куются кадры для новой патриотической культуры и зачем увольняют директоров музеев</title>
       <link>https://novayagazeta.ru/articles/2025/02/12/eksponaty</link>
@@ -287,6 +280,13 @@
       <description>Почему мы говорим о политике на языке Толкина и Роулинг</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/24/igry-prestolov-i-rodnaia-rech</guid>
       <pubDate>Sat, 24 Jan 2026 13:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Купить генератор! Пока не трагедия в трех актах — Как живет Белгород в ожидании конца света — глазами и голосами местных</title>
+      <link>https://novayagazeta.ru/articles/2026/01/29/kupit-generator-poka-ne-tragediia-v-trekh-aktakh</link>
+      <description>Как живет Белгород в ожидании конца света — глазами и голосами местных</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/29/kupit-generator-poka-ne-tragediia-v-trekh-aktakh</guid>
+      <pubDate>Thu, 29 Jan 2026 10:33:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
