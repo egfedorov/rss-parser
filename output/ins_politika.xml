@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Jan 2026 11:45:32 +0000</lastBuildDate>
-    <item>
-      <title>Россия лишняя. Почему вопреки многолетним усилиям Москва потеряла статус медиатора на Ближнем Востоке</title>
-      <link>https://theins.ru/politika/285943</link>
-      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Jan 2026 13:02:47 +0000</lastBuildDate>
     <item>
       <title>Фильтруй и властвуй. Как устроена российская система похищений и пыток на оккупированных территориях Украины</title>
       <link>https://theins.ru/politika/285668</link>
@@ -186,6 +181,11 @@
       <title>«Авраам Линкольн» против аятолл. Смогут ли США сменить иранский режим военным путем</title>
       <link>https://theins.ru/politika/288807</link>
       <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Тихо, хрюшка!» Как Трамп пытается подчинить себе американскую прессу</title>
+      <link>https://theins.ru/politika/288838</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
