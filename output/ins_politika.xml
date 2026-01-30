@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Jan 2026 04:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 05:34:44 +0000</lastBuildDate>
     <item>
       <title>Россия лишняя. Почему вопреки многолетним усилиям Москва потеряла статус медиатора на Ближнем Востоке</title>
       <link>https://theins.ru/politika/285943</link>
