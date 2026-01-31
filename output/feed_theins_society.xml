@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Jan 2026 12:55:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 13:43:04 +0000</lastBuildDate>
     <item>
       <title>Снуют без дела. Как силовики запугивают общество обысками, даже без формального возбуждения уголовных дел</title>
       <link>https://theins.ru/obshestvo/284595</link>
