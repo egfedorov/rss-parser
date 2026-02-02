@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Feb 2026 13:07:33 +0000</lastBuildDate>
-    <item>
-      <title>Фильтруй и властвуй. Как устроена российская система похищений и пыток на оккупированных территориях Украины</title>
-      <link>https://theins.ru/politika/285668</link>
-      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Feb 2026 14:09:50 +0000</lastBuildDate>
     <item>
       <title>МАГА против Трампа. Почему многие правые инфлюенсеры развернули орудия против своего лидера</title>
       <link>https://theins.ru/politika/285982</link>
@@ -186,6 +181,11 @@
       <title>«Тихо, хрюшка!» Как Трамп пытается подчинить себе американскую прессу</title>
       <link>https://theins.ru/politika/288838</link>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Заливная дружба. Как арабские монархи делят регион, ископаемые, медиа и Трампа</title>
+      <link>https://theins.ru/politika/288563</link>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
