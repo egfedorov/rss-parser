@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 03 Feb 2026 06:57:05 +0000</lastBuildDate>
-    <item>
-      <title>«Это химически чистая злоба» — Как в Израиль возвращаются заложники — живые и мертвые, и что будет со сделкой</title>
-      <link>https://novayagazeta.ru/articles/2025/02/24/eto-khimicheski-chistaia-zloba</link>
-      <description>Как в Израиль возвращаются заложники — живые и мертвые, и что будет со сделкой</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/02/24/eto-khimicheski-chistaia-zloba</guid>
-      <pubDate>Mon, 24 Feb 2025 09:54:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Feb 2026 07:48:35 +0000</lastBuildDate>
     <item>
       <title>Не позвонили только из России — О командире Игоре Кшнякине, пилоте Александре Кальянинове и стюардессе Хёкуме Алиевой, которые спасли людей, а сами сгорели</title>
       <link>https://novayagazeta.ru/articles/2025/03/06/ne-pozvonili-tolko-iz-rossii</link>
@@ -287,6 +280,13 @@
       <description>К чему придет иранское восстание, которое начиналось как протест против роста цен</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/15/vse-taki-ne-revoliutsiia</guid>
       <pubDate>Thu, 15 Jan 2026 08:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«До пенсии еще надо дожить» — Куда подевалась накопительная пенсия россиян и на что теперь жить после 65 лет? Объясняет экономист Евгений Гонтмахер</title>
+      <link>https://novayagazeta.ru/articles/2026/02/03/do-pensii-eshche-nado-dozhit</link>
+      <description>Куда подевалась накопительная пенсия россиян и на что теперь жить после 65 лет? Объясняет экономист Евгений Гонтмахер</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/03/do-pensii-eshche-nado-dozhit</guid>
+      <pubDate>Tue, 03 Feb 2026 07:11:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
