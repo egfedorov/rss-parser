@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Feb 2026 11:03:44 +0000</lastBuildDate>
-    <item>
-      <title>Снуют без дела. Как силовики запугивают общество обысками, даже без формального возбуждения уголовных дел</title>
-      <link>https://theins.ru/obshestvo/284595</link>
-      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Feb 2026 11:49:44 +0000</lastBuildDate>
     <item>
       <title>«Меня заочно арестовали в России, но суд США решил, что мне на родине ничего не угрожает». Как депортируют россиян</title>
       <link>https://theins.ru/obshestvo/284890</link>
@@ -138,7 +133,7 @@
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Китайский WeChat, иранская Rubica и российский МAX: как диктатуры навязывают мессенджеры для контроля за населением</title>
+      <title>Китайский WeChat, иранская Rubica и российский МAX. Как диктатуры навязывают мессенджеры для контроля за населением</title>
       <link>https://theins.ru/obshestvo/288118</link>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
     </item>
@@ -186,6 +181,11 @@
       <title>Возвращаясь в гнездо кукушки: почему введение принудительной госпитализации в США не решит проблему бездомных и умалишенных</title>
       <link>https://theins.ru/obshestvo/288666</link>
       <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>В зоне доступа сети сопротивления. Как иранцы оставались на связи во время блокировок интернета и чем этот опыт полезен для россиян</title>
+      <link>https://theins.ru/obshestvo/288946</link>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
