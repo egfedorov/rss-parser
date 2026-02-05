@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 05 Feb 2026 07:11:13 +0000</lastBuildDate>
-    <item>
-      <title>«Купить остров в Тихом океане и жить счастливо» — «Красный губернатор» Приморья вышел из тюрьмы на принудительные работы и дал интервью корреспонденту «Новой газеты»</title>
-      <link>https://novayagazeta.ru/articles/2025/08/12/kupit-ostrov-v-tikhom-okeane-i-zhit-schastlivo</link>
-      <description>«Красный губернатор» Приморья вышел из тюрьмы на принудительные работы и дал интервью корреспонденту «Новой газеты»</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/12/kupit-ostrov-v-tikhom-okeane-i-zhit-schastlivo</guid>
-      <pubDate>Tue, 12 Aug 2025 08:19:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Feb 2026 08:00:30 +0000</lastBuildDate>
     <item>
       <title>Со дна бензобака постучали — Автовладельцы штурмуют приморские АЗС, несмотря на бешеные цены, но бензина — нет. Власти винят туристов и пробки</title>
       <link>https://novayagazeta.ru/articles/2025/08/21/so-dna-benzobaka-postuchali</link>
@@ -287,6 +280,13 @@
       <description>Во Владивостоке слепому со справкой о бессрочной инвалидности прислали повестку. Он даже прошел медкомиссию</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/27/komissar-pozvonil-izvinialsia</guid>
       <pubDate>Tue, 27 Jan 2026 09:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нерудный выбор — В Приморье золотодобытчики собираются строить карьер в сотне метров от крупного заповедника. Добыча там запрещена, но правительство готово «подправить» документы</title>
+      <link>https://novayagazeta.ru/articles/2026/02/05/nerudnyi-vybor</link>
+      <description>В Приморье золотодобытчики собираются строить карьер в сотне метров от крупного заповедника. Добыча там запрещена, но правительство готово «подправить» документы</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/05/nerudnyi-vybor</guid>
+      <pubDate>Thu, 05 Feb 2026 07:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
