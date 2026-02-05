@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Feb 2026 19:53:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 20:38:01 +0000</lastBuildDate>
     <item>
       <title>«Меня заочно арестовали в России, но суд США решил, что мне на родине ничего не угрожает». Как депортируют россиян</title>
       <link>https://theins.ru/obshestvo/284890</link>
