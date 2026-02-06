@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Feb 2026 09:49:31 +0000</lastBuildDate>
-    <item>
-      <title>Не позвонили только из России — О командире Игоре Кшнякине, пилоте Александре Кальянинове и стюардессе Хёкуме Алиевой, которые спасли людей, а сами сгорели</title>
-      <link>https://novayagazeta.ru/articles/2025/03/06/ne-pozvonili-tolko-iz-rossii</link>
-      <description>О командире Игоре Кшнякине, пилоте Александре Кальянинове и стюардессе Хёкуме Алиевой, которые спасли людей, а сами сгорели</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/03/06/ne-pozvonili-tolko-iz-rossii</guid>
-      <pubDate>Thu, 06 Mar 2025 07:06:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Feb 2026 10:43:13 +0000</lastBuildDate>
     <item>
       <title>«Мой номер 54 тысячи какой-то» — Дети репрессированных бьются с государством за положенную им по закону жилплощадь и не могут ничего добиться</title>
       <link>https://novayagazeta.ru/articles/2025/03/21/moi-nomer-54-tysiachi-kakoi-to</link>
@@ -287,6 +280,13 @@
       <description>Куда подевалась накопительная пенсия россиян и на что теперь жить после 65 лет? Объясняет экономист Евгений Гонтмахер</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/03/do-pensii-eshche-nado-dozhit</guid>
       <pubDate>Tue, 03 Feb 2026 07:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Это самая большая в мире армия, которой теперь некому руководить» — Зачем Си Цзиньпин проводит чистки в армейских рядах и к чему они приведут? Объясняет востоковед Темур Умаров</title>
+      <link>https://novayagazeta.ru/articles/2026/02/06/eto-samaia-bolshaia-v-mire-armiia-kotoroi-teper-nekomu-rukovodit</link>
+      <description>Зачем Си Цзиньпин проводит чистки в армейских рядах и к чему они приведут? Объясняет востоковед Темур Умаров</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/06/eto-samaia-bolshaia-v-mire-armiia-kotoroi-teper-nekomu-rukovodit</guid>
+      <pubDate>Fri, 06 Feb 2026 10:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
