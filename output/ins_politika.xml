@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Feb 2026 07:04:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 07:47:36 +0000</lastBuildDate>
     <item>
       <title>Глубже, чаще, мощнее! Украинская стратегия DeepStrike грозит серьезными перебоями с топливом в России к 2026 году</title>
       <link>https://theins.ru/politika/286058</link>
