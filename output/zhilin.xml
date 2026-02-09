@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 09 Feb 2026 11:52:54 +0000</lastBuildDate>
-    <item>
-      <title>«Если сын скажет, что хочет поехать, я ему подзатыльник дам» — История добровольца Рамиля Рахматова, который видел, как собаки едят тела, 18+</title>
-      <link>https://novayagazeta.ru/articles/2025/05/26/esli-syn-skazhet-chto-khochet-poekhat-ia-emu-podzatylnik-dam</link>
-      <description>История добровольца Рамиля Рахматова, который видел, как собаки едят тела, 18+</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/26/esli-syn-skazhet-chto-khochet-poekhat-ia-emu-podzatylnik-dam</guid>
-      <pubDate>Mon, 26 May 2025 06:51:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Feb 2026 13:16:21 +0000</lastBuildDate>
     <item>
       <title>«Я не произвел ни одного выстрела» — История Эдуарда Карпова — офицера-артиллериста, который отказался исполнять приказ и поехал в колонию</title>
       <link>https://novayagazeta.ru/articles/2025/05/26/ia-ne-proizvel-ni-odnogo-vystrela</link>
@@ -51,17 +44,17 @@
       <pubDate>Mon, 26 May 2025 07:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Раненый говорит: “Пошлите, пошлите”. А мы просто рядом сидим» — История военного медика с позывным «Амулет», который считает, что мир примут все</title>
-      <link>https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</link>
-      <description>История военного медика с позывным «Амулет», который считает, что мир примут все</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</guid>
-      <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Шли все, как в компьютерной игре» — История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</title>
       <link>https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</link>
       <description>История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</guid>
+      <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Раненый говорит: “Пошлите, пошлите”. А мы просто рядом сидим» — История военного медика с позывным «Амулет», который считает, что мир примут все</title>
+      <link>https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</link>
+      <description>История военного медика с позывным «Амулет», который считает, что мир примут все</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</guid>
       <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
     </item>
     <item>
@@ -287,6 +280,13 @@
       <description>Село Никольск — редкое для России: оно растет и развивается. Но его могут стереть с карты ради 5 млн рублей</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/04/shkola-vyzhivaniia</guid>
       <pubDate>Wed, 04 Feb 2026 08:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сэкономить на детях — Закрытие сельских школ начали объяснять боевыми действиями</title>
+      <link>https://novayagazeta.ru/videos/2026/02/09/sekonomit-na-detiakh</link>
+      <description>Закрытие сельских школ начали объяснять боевыми действиями</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/videos/2026/02/09/sekonomit-na-detiakh</guid>
+      <pubDate>Mon, 09 Feb 2026 12:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
