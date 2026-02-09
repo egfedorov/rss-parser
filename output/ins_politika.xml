@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Feb 2026 02:33:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 04:51:13 +0000</lastBuildDate>
     <item>
       <title>Возмущают, но выигрывают: партия Милея победила на выборах в Аргентине, несмотря на массовое недовольство результатами реформ</title>
       <link>https://theins.ru/politika/286279</link>
@@ -185,7 +185,7 @@
     <item>
       <title>Агенты не айс. Как иммиграционная служба США превратилась в инструмент силового давления на общество</title>
       <link>https://theins.ru/politika/289105</link>
-      <pubDate>Mon, 09 Feb 2026 02:33:44 +0000</pubDate>
+      <pubDate>Mon, 09 Feb 2026 04:51:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
