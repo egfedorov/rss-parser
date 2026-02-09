@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Mon, 09 Feb 2026 07:34:41 +0000</lastBuildDate><item><title>«Ибо смех есть радость, а посему сам по себе — благо»</title><link>https://gorky.media/context/ibo-smex-est-radost-a-posemu-sam-po-sebe-blago</link><description>Интервью с Дмитрием Николаевым
-
-20.01.2026</description><pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate></item><item><title>Трудно Наташе с русскими</title><link>https://gorky.media/context/trudno-natashe-s-russkimi</link><description>О недавно вышедших книгах Наташи Лэнс Рогофф и Элиота Боренштейна
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Mon, 09 Feb 2026 08:28:07 +0000</lastBuildDate><item><title>Трудно Наташе с русскими</title><link>https://gorky.media/context/trudno-natashe-s-russkimi</link><description>О недавно вышедших книгах Наташи Лэнс Рогофф и Элиота Боренштейна
 
 23.01.2026</description><pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate></item><item><title>Незаконное явление</title><link>https://gorky.media/context/nezakonnoe-yavlenie</link><description>Интервью с Евгением Яблоковым о Михаиле Булгакове
 
@@ -23,4 +21,6 @@
 
 05.02.2026</description><pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate></item><item><title>Монах с железной банкой</title><link>https://gorky.media/context/monax-s-zheleznoi-bankoi</link><description>Дмитрий Лукьянов — о зимнем чтении без маркетингового хюгге
 
-05.02.2026</description><pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate></item></channel></rss>
+05.02.2026</description><pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate></item><item><title>«Здравствуйте, вы Мещеряков-сан?»</title><link>https://gorky.media/context/zdravstvuite-vy-meshcheryakov-san</link><description>Интервью с японистом Александром Мещеряковым
+
+09.02.2026</description><pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate></item></channel></rss>
