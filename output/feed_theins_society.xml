@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Feb 2026 14:32:39 +0000</lastBuildDate>
-    <item>
-      <title>Фальшивые иностранцы, платная массовка и разочарованные Z-зрители: как прошло «Интервидение» — репортаж The Insider</title>
-      <link>https://theins.ru/obshestvo/285148</link>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Feb 2026 15:36:12 +0000</lastBuildDate>
     <item>
       <title>От «переселенца» до «нелегала». Как в странах Запада стигматизируют нелегальных мигрантов и приписывают им рост преступности</title>
       <link>https://theins.ru/obshestvo/284434</link>
@@ -186,6 +181,11 @@
       <title>Олимпийское спокойствие. К концу четвертого года войны МОК все более лоялен к российским спортсменам</title>
       <link>https://theins.ru/obshestvo/289162</link>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Любой выход из квартиры —  смертельный риск»: как ВС РФ устраивают в Херсоне «человеческое сафари» на мирных жителей</title>
+      <link>https://theins.ru/obshestvo/288616</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
