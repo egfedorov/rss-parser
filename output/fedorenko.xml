@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 10 Feb 2026 09:07:40 +0000</lastBuildDate>
-    <item>
-      <title>Со дна бензобака постучали — Автовладельцы штурмуют приморские АЗС, несмотря на бешеные цены, но бензина — нет. Власти винят туристов и пробки</title>
-      <link>https://novayagazeta.ru/articles/2025/08/21/so-dna-benzobaka-postuchali</link>
-      <description>Автовладельцы штурмуют приморские АЗС, несмотря на бешеные цены, но бензина — нет. Власти винят туристов и пробки</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/21/so-dna-benzobaka-postuchali</guid>
-      <pubDate>Thu, 21 Aug 2025 15:56:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Feb 2026 10:14:34 +0000</lastBuildDate>
     <item>
       <title>Не больно «трехсотились» — Десантники из прославленной гвардейской бригады стреляли друг в друга ради выплат и наград, попадая в сюжеты пропагандистских СМИ. Ущерб казне — более 200 млн рублей</title>
       <link>https://novayagazeta.ru/articles/2025/08/23/ne-bolno-trekhsotilis</link>
@@ -287,6 +280,13 @@
       <description>В Приморье золотодобытчики собираются строить карьер в сотне метров от крупного заповедника. Добыча там запрещена, но правительство готово «подправить» документы</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/05/nerudnyi-vybor</guid>
       <pubDate>Thu, 05 Feb 2026 07:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Две коммунальные аварии во Владивостоке за день. Десятки тысяч жителей временно остались без света, тепла и воды — из-за пожара на электроподстанции и аварии на теплосетях</title>
+      <link>https://novayagazeta.ru/news/2026/02/10/dve-kommunalnye-avarii-vo-vladivostoke-za-den-desiatki-tysiach-zhitelei-vremenno-ostalis-bez-sveta-tepla-i-vody-iz-za-pozhara-na-elektropodstantsii-i-avarii-na-teplosetiakh-news</link>
+      <description>Две коммунальные аварии во Владивостоке за день. Десятки тысяч жителей временно остались без света, тепла и воды — из-за пожара на электроподстанции и аварии на теплосетях</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/news/2026/02/10/dve-kommunalnye-avarii-vo-vladivostoke-za-den-desiatki-tysiach-zhitelei-vremenno-ostalis-bez-sveta-tepla-i-vody-iz-za-pozhara-na-elektropodstantsii-i-avarii-na-teplosetiakh-news</guid>
+      <pubDate>Tue, 10 Feb 2026 09:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
