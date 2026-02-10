@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Feb 2026 07:59:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 09:07:41 +0000</lastBuildDate>
     <item>
       <title>Возмущают, но выигрывают: партия Милея победила на выборах в Аргентине, несмотря на массовое недовольство результатами реформ</title>
       <link>https://theins.ru/politika/286279</link>
