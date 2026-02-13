@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 13 Feb 2026 07:03:39 +0000</lastBuildDate>
-    <item>
-      <title>«Национальная идея — это чувство собственного достоинства» — Режиссер Гарри Бардин — о Спичках, заморозке, скандале с Лужковым и купленной интеллигенции</title>
-      <link>https://novayagazeta.ru/articles/2024/12/25/natsionalnaia-ideia-eto-chuvstvo-sobstvennogo-dostoinstva</link>
-      <description>Режиссер Гарри Бардин — о Спичках, заморозке, скандале с Лужковым и купленной интеллигенции</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/12/25/natsionalnaia-ideia-eto-chuvstvo-sobstvennogo-dostoinstva</guid>
-      <pubDate>Wed, 25 Dec 2024 11:04:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Feb 2026 08:00:07 +0000</lastBuildDate>
     <item>
       <title>Даже не глядя… — Как в апелляции «смягчают» сроки. Светлане Петрийчук и Евгении Беркович оставили приговор в целом без изменений</title>
       <link>https://novayagazeta.ru/articles/2024/12/25/dazhe-ne-gliadia</link>
@@ -287,6 +280,13 @@
       <description>Вышла первая книга о Русской православной церкви нового времени</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/27/dve-tserkvi-dva-litsa-i-dve-very</guid>
       <pubDate>Sat, 27 Dec 2025 14:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Непослушники — Дело послушников митрополита Тихона перешло в суде в стадию трагифарса</title>
+      <link>https://novayagazeta.ru/articles/2026/02/13/neposlushniki</link>
+      <description>Дело послушников митрополита Тихона перешло в суде в стадию трагифарса</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/13/neposlushniki</guid>
+      <pubDate>Fri, 13 Feb 2026 07:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
