@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Feb 2026 06:55:47 +0000</lastBuildDate>
-    <item>
-      <title>От «переселенца» до «нелегала». Как в странах Запада стигматизируют нелегальных мигрантов и приписывают им рост преступности</title>
-      <link>https://theins.ru/obshestvo/284434</link>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Feb 2026 07:39:44 +0000</lastBuildDate>
     <item>
       <title>«Летать приходится по бумажным картам». Что происходит с российской гражданской авиацией после вторжения в Украину</title>
       <link>https://theins.ru/obshestvo/285020</link>
@@ -186,6 +181,11 @@
       <title>«Любой выход из квартиры —  смертельный риск»: как ВС РФ устраивают в Херсоне «человеческое сафари» на мирных жителей</title>
       <link>https://theins.ru/obshestvo/288616</link>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Мы проливали кровь не для того, чтобы с ними вели переговоры». Что происходит в Иране после расстрела протестов</title>
+      <link>https://theins.ru/obshestvo/289382</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
