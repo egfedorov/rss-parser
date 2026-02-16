@@ -2,13 +2,23 @@ import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 from datetime import datetime, timezone
-import re
 from dateutil import parser as dateparser
 from urllib.parse import urljoin
 
 def generate():
     url = 'https://takiedela.ru/stories/'
-    response = requests.get(url)
+    # 1. Добавляем заголовки, чтобы сайт не блокировал скрипт
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    }
+    
+    try:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status() # Проверка на ошибки 404/500
+    except Exception as e:
+        print(f"❌ Ошибка загрузки главной страницы: {e}")
+        return
+
     soup = BeautifulSoup(response.text, 'html.parser')
 
     fg = FeedGenerator()
@@ -17,43 +27,47 @@ def generate():
     fg.description('Материалы из раздела «Истории» сайта takiedela.ru')
     fg.language('ru')
 
-    articles = soup.select('ul.b-col-list li.b-col')
+    # Используем более надежный поиск: li с классом b-col внутри списка
+    articles = soup.select('.b-col-list li.b-col')
+    print(f"Найдено статей: {len(articles)}")
 
     for item in articles:
         title_tag = item.select_one('.b-material__head')
         link_tag = item.select_one('a.b-material__txt')
         description_tag = item.select_one('.b-material__lead')
 
-        if not (title_tag and link_tag and description_tag):
+        if not (title_tag and link_tag):
             continue
 
         title = title_tag.get_text(strip=True)
         link = urljoin(url, link_tag['href'])
-        description = description_tag.get_text(strip=True)
+        # Описание может отсутствовать у некоторых типов постов
+        description = description_tag.get_text(strip=True) if description_tag else ""
 
         pub_date = None
 
-        # Открываем статью и ищем дату по строгому селектору
         try:
-            article_response = requests.get(link, timeout=5)
+            # Не забываем про headers и здесь
+            article_response = requests.get(link, headers=headers, timeout=5)
             article_soup = BeautifulSoup(article_response.text, 'html.parser')
-            # Жёстко: time внутри article > div:nth-child(1) > div > time
-            # Иногда встречаются небольшие различия, поэтому можно взять просто:
-            # article > div > div > time
-            time_tag = article_soup.select_one('article > div > div > time')
-            if time_tag and time_tag.has_attr('datetime'):
+            
+            # 2. Упрощаем поиск даты: ищем любой тег <time> с атрибутом datetime
+            time_tag = article_soup.find('time', attrs={'datetime': True})
+            
+            if time_tag:
                 parsed = dateparser.parse(time_tag['datetime'])
                 if parsed.tzinfo is None:
                     parsed = parsed.replace(tzinfo=timezone.utc)
                 pub_date = parsed.astimezone(timezone.utc)
             else:
+                # 3. Фолбэк: если даты нет в теге <time>, можно попробовать поискать в скриптах или мета-тегах
                 print(f"‼️ Не найден <time> для {link}")
+                # Если дата критична — пропускаем, если нет — можно ставить текущую
+                # pub_date = datetime.now(timezone.utc) 
         except Exception as e:
-            print(f"⚠️ Не удалось получить дату из {link}: {e}")
+            print(f"⚠️ Ошибка при парсинге статьи {link}: {e}")
 
-        # Если не нашли дату — пропускаем материал
         if not pub_date:
-            print(f"‼️ Не удалось определить дату для {link}, пропускаем")
             continue
 
         fe = fg.add_entry()
@@ -63,6 +77,7 @@ def generate():
         fe.pubDate(pub_date)
 
     fg.rss_file('takiedela.xml')
+    print("✅ RSS-лента успешно обновлена: takiedela.xml")
 
 if __name__ == '__main__':
     generate()
