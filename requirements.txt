@@ -3,3 +3,4 @@ feedgen
 requests
 selenium
 cloudscraper
+python-dateutil
