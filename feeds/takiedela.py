@@ -59,7 +59,7 @@ def generate():
                 if parsed.tzinfo is None:
                     parsed = parsed.replace(tzinfo=timezone.utc)
                 pub_date = parsed.astimezone(timezone.utc)
-                print(f"✅ Обработано: {title} ({pub_date})")
+                print(f"✅ {title}")
             else:
                 print(f"‼️ Не нашли дату в {link}")
 
