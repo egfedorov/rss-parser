@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Feb 2026 12:04:45 +0000</lastBuildDate>
-    <item>
-      <title>«Летать приходится по бумажным картам». Что происходит с российской гражданской авиацией после вторжения в Украину</title>
-      <link>https://theins.ru/obshestvo/285020</link>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Feb 2026 13:41:34 +0000</lastBuildDate>
     <item>
       <title>Харьковские тигры привыкли к обстрелам: как выживает возрожденный «Фельдман-парк» в окрестностях Харькова</title>
       <link>https://theins.ru/obshestvo/285237</link>
@@ -186,6 +181,11 @@
       <title>«Мы проливали кровь не для того, чтобы с ними вели переговоры». Что происходит в Иране после расстрела протестов</title>
       <link>https://theins.ru/obshestvo/289382</link>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Мигнул и пропал свет, исчез интернет, а на следующее утро — и вода». Как белгородцы живут в условиях блэкаута</title>
+      <link>https://theins.ru/obshestvo/289234</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
