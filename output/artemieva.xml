@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 16 Feb 2026 06:17:01 +0000</lastBuildDate>
-    <item>
-      <title>Экспонаты — Как куются кадры для новой патриотической культуры и зачем увольняют директоров музеев</title>
-      <link>https://novayagazeta.ru/articles/2025/02/12/eksponaty</link>
-      <description>Как куются кадры для новой патриотической культуры и зачем увольняют директоров музеев</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/02/12/eksponaty</guid>
-      <pubDate>Wed, 12 Feb 2025 09:29:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Feb 2026 07:34:00 +0000</lastBuildDate>
     <item>
       <title>Большой эфир «НО.Медиа из России»: Митрохин, Прокофьев и Артемьева — Состояние экономики, бои на культурном фронте и что происходит в партии «Яблоко»</title>
       <link>https://novayagazeta.ru/videos/2025/02/13/bolshoi-efir-no-media-iz-rossii-mitrokhin-prokofev-i-artemeva</link>
@@ -287,6 +280,13 @@
       <description>Как живет Белгород в ожидании конца света — глазами и голосами местных</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/29/kupit-generator-poka-ne-tragediia-v-trekh-aktakh</guid>
       <pubDate>Thu, 29 Jan 2026 10:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ОСВОбождение и наказание — Настает время, когда фронт становится ближе, чем кажется. Как закончилась жизнь Марии Неживых</title>
+      <link>https://novayagazeta.ru/articles/2026/02/16/osvobozhdenie-i-nakazanie</link>
+      <description>Настает время, когда фронт становится ближе, чем кажется. Как закончилась жизнь Марии Неживых</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/16/osvobozhdenie-i-nakazanie</guid>
+      <pubDate>Mon, 16 Feb 2026 07:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
