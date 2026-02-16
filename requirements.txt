@@ -4,3 +4,4 @@ requests
 selenium
 cloudscraper
 python-dateutil
+playwright
