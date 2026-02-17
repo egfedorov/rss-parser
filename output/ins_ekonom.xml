@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Экономика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Feb 2026 10:09:18 +0000</lastBuildDate>
-    <item>
-      <title>Инфляция, девальвация, падение доходов. Какие потрясения ждут Россию из-за падающей нефти</title>
-      <link>https://theins.ru/ekonomika/280503</link>
-      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Feb 2026 11:09:09 +0000</lastBuildDate>
     <item>
       <title>Нелегкая добыча. В России погибает угольная отрасль и к этому никто не готов</title>
       <link>https://theins.ru/ekonomika/280751</link>
@@ -186,6 +181,11 @@
       <title>Рост дефицита, депрессия регионов, вероятное исчерпание резервов ФНБ. Что ждет экономику России в 2026 году</title>
       <link>https://theins.ru/ekonomika/288159</link>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Глобальное поголодание. Как в развитых экономиках снижаетcя качество жизни, несмотря на формальный рост ВВП</title>
+      <link>https://theins.ru/ekonomika/285914</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
