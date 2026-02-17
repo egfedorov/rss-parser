@@ -32,6 +32,8 @@ def parse_date(date_str: str) -> datetime:
     )
 
 def generate():
+    return
+    
     url = 'https://www.e1.ru/text/author/8531/'
     response = requests.get(url, headers=HEADERS, timeout=20)
     response.raise_for_status()
