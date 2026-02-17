@@ -7,6 +7,7 @@ from urllib.parse import urljoin
 import time
 
 def generate():
+    return
     url = 'https://takiedela.ru/stories/'
     
     # Создаем scraper вместо обычного requests
