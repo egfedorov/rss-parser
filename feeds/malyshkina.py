@@ -28,6 +28,8 @@ def parse_date(s):
     return datetime(int(y), MONTHS[mon], int(d), int(h), int(mi), tzinfo=timezone.utc)
 
 def generate():
+    return
+    
     ts = int(time.time() * 1000)
     url = f"https://72.ru/text/author/159611/?_dc={ts}"
 
