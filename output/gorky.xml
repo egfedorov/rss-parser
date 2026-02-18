@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Wed, 18 Feb 2026 07:05:17 +0000</lastBuildDate><item><title>Пустить Сталина в душу</title><link>https://gorky.media/context/pustit-stalina-v-dushu</link><description>Эссе Урсулы Ле Гуин о цензуре, свободе творчества и Евгении Замятине
-
-02.02.2026</description><pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate></item><item><title>Вот эта андеграундинка</title><link>https://gorky.media/context/vot-eta-andegraundinka</link><description>Интервью с Артемом Фаустовым о жизни в независимом книжном магазине
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Wed, 18 Feb 2026 08:01:15 +0000</lastBuildDate><item><title>Вот эта андеграундинка</title><link>https://gorky.media/context/vot-eta-andegraundinka</link><description>Интервью с Артемом Фаустовым о жизни в независимом книжном магазине
 
 02.02.2026</description><pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate></item><item><title>Языки нанизывались, как бусинки на нить</title><link>https://gorky.media/context/yazyki-nanizyvalis-kak-businki-na-nit</link><description>Интервью с переводчиком и полиглотом Вадимом Грушевским
 
@@ -23,4 +21,6 @@
 
 16.02.2026</description><pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate></item><item><title>Премия, или Русские литераторы в ожидании начальства</title><link>https://gorky.media/context/premiya-ili-russkie-literatory-v-ozhidanii-nachalstva</link><description>Издатель «Горького» Борис Куприянов — о бурных дискуссиях в узких кругах
 
-17.02.2026</description><pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate></item></channel></rss>
+17.02.2026</description><pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate></item><item><title>«Вот он — единственный фоновалик с голосом Гумилева»</title><link>https://gorky.media/reviews/vot-on-edinstvennyi-fonovalik-s-golosom-gumileva</link><description>Большое интервью с Юрием Метелкиным — создателем «Старого радио» и «Аудиопедии»
+
+18.02.2026</description><pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate></item></channel></rss>
