@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Расследования" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Feb 2026 16:42:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 17:53:36 +0000</lastBuildDate>
     <item>
       <title>Не «отжали», а подарили: как лидеру Подольской ОПГ Лучку достался бизнес изгнанных из России иностранцев</title>
       <link>https://theins.ru/inv/282983</link>
@@ -183,7 +183,7 @@
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Поставщики смерти. The Insider выявил еще 160 компаний, производящих закупки в интересах российских военных</title>
+      <title>Поставщики смерти. The Insider выявил свыше 300 компаний, производящих закупки в интересах российских военных</title>
       <link>https://theins.ru/inv/288961</link>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
     </item>
