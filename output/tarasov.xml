@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 18 Feb 2026 09:06:48 +0000</lastBuildDate>
-    <item>
-      <title>Трудно быть зэком. Еще труднее — его матерью и женой — Заключенные Никита Уваров и Михаил Афанасьев представляют тюремное пополнение</title>
-      <link>https://novayagazeta.ru/articles/2025/06/03/trudno-byt-zekom-eshche-trudnee-ego-materiu-i-zhenoi</link>
-      <description>Заключенные Никита Уваров и Михаил Афанасьев представляют тюремное пополнение</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/06/03/trudno-byt-zekom-eshche-trudnee-ego-materiu-i-zhenoi</guid>
-      <pubDate>Tue, 03 Jun 2025 07:23:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Feb 2026 10:08:38 +0000</lastBuildDate>
     <item>
       <title>То ли в слове «мэр» две ошибки, то ли в слове «вор» — Начинается подготовка к 400-летию Красноярска. Задержан городской голова Логинов</title>
       <link>https://novayagazeta.ru/articles/2025/06/09/to-li-v-slove-mer-dve-oshibki-to-li-v-slove-vor</link>
@@ -287,6 +280,13 @@
       <description>Против Никиты Уварова, готовившегося в марте выйти на волю, возбуждают новое дело. Тюрьма не отпускает</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/17/cheliusti-ne-razzhimaiutsia</guid>
       <pubDate>Tue, 17 Feb 2026 08:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Они конкретно взялись» — Никите Уварову теперь предъявляют распространение идей АУЕ*</title>
+      <link>https://novayagazeta.ru/articles/2026/02/18/oni-konkretno-vzialis</link>
+      <description>Никите Уварову теперь предъявляют распространение идей АУЕ*</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/18/oni-konkretno-vzialis</guid>
+      <pubDate>Wed, 18 Feb 2026 09:33:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
