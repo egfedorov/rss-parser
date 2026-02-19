@@ -1,13 +1,13 @@
-import cloudscraper
+import os
+import re
+import time
+from datetime import datetime, timezone
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
-from datetime import datetime, timezone
-import time
-import re
+from playwright.sync_api import sync_playwright
 from urllib.parse import urljoin
 
 BASE = "https://72.ru"
-
 MONTHS = {
     'января': 1, 'февраля': 2, 'марта': 3, 'апреля': 4,
     'мая': 5, 'июня': 6, 'июля': 7, 'августа': 8,
@@ -15,66 +15,59 @@ MONTHS = {
 }
 
 def parse_date(s):
-    # Пытаемся найти: Число Месяц Год (опционально) Часы:Минуты
-    # Например: "19 февраля 2026, 18:30" или "19 февраля, 18:30"
     try:
         m = re.search(r'(\d{1,2})\s+([а-яё]+)(?:,?\s*(\d{4}))?,?\s*(\d{1,2}):(\d{2})', s.lower())
         if not m:
             return datetime.now(timezone.utc)
-            
         d, mon, y, h, mi = m.groups()
-        
-        # Если год не указан, берем текущий
-        year = int(y) if y else datetime.now().year
+        year = int(y) if y else datetime.now(timezone.utc).year
         return datetime(year, MONTHS[mon], int(d), int(h), int(mi), tzinfo=timezone.utc)
-    except Exception as e:
-        print(f"[WARN] Ошибка парсинга даты '{s}': {e}")
+    except:
         return datetime.now(timezone.utc)
 
 def generate():
-    # Создаем скрейпер
-    scraper = cloudscraper.create_scraper()
+    url = "https://72.ru/text/author/159611/"
     
-    # Кэш-бастер
-    ts = int(time.time() * 1000)
-    url = f"https://72.ru/text/author/159611/?_dc={ts}"
-
-    print(f"[INFO] Загружаем через cloudscraper: {url}")
-
-    try:
-        # Cloudscraper сам подставит правильные заголовки
-        r = scraper.get(url, timeout=20)
-        r.encoding = "utf-8"
+    with sync_playwright() as p:
+        print(f"[INFO] Запуск Playwright для {url}")
+        # Запускаем браузер
+        browser = p.chromium.launch(headless=True)
+        # Эмулируем обычный Chrome на Windows
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+            viewport={'width': 1920, 'height': 1080}
+        )
+        page = context.new_page()
         
-        if r.status_code != 200:
-            print(f"[ERROR] Не удалось пробить защиту. Статус: {r.status_code}")
+        try:
+            # Переходим и ждем, пока сетевая активность утихнет
+            page.goto(url, wait_until="networkidle", timeout=60000)
+            # Дополнительно ждем появления хотя бы одной статьи
+            page.wait_for_selector("article", timeout=10000)
+            html = page.content()
+            print(f"[INFO] Страница успешно загружена ({len(html)} симв.)")
+        except Exception as e:
+            print(f"[ERROR] Ошибка Playwright: {e}")
+            browser.close()
             return
-            
-    except Exception as e:
-        print(f"[FATAL] Ошибка запроса: {e}")
-        return
+        
+        browser.close()
 
-    soup = BeautifulSoup(r.text, "html.parser")
-    # На 72.ru статьи лежат в блоках с атрибутом data-testid="card-container" или просто в <article>
+    soup = BeautifulSoup(html, "html.parser")
     articles = soup.find_all("article")
-
-    print("[INFO] Найдено статей на странице:", len(articles))
+    print(f"[INFO] Найдено статей: {len(articles)}")
 
     if not articles:
-        print("[FATAL] Статьи не найдены. Возможно, изменилась структура DOM.")
         return
 
     fg = FeedGenerator()
     fg.title("72.ru — Малышкина")
-    fg.link(href="https://72.ru/text/author/159611/", rel="alternate")
+    fg.link(href=url, rel="alternate")
     fg.description("Публикации автора на 72.ru")
-    fg.language("ru")
 
     for art in articles:
-        # Названия классов на 72.ru часто содержат хеши, поэтому ищем по вхождению
         title_tag = art.find("h2") or art.select_one('a[class*="header"]')
         link_tag = art.find("a", href=True)
-        # Дата обычно в span, который содержит текст с временем
         date_tag = art.select_one('time') or art.select_one('span[class*="text"]')
 
         if not (title_tag and link_tag):
@@ -82,12 +75,8 @@ def generate():
 
         title = title_tag.get_text(strip=True)
         link = urljoin(BASE, link_tag["href"])
-        
-        # Извлекаем дату
-        date_text = date_tag.get_text(strip=True) if date_tag else ""
-        pubdate = parse_date(date_text)
+        pubdate = parse_date(date_tag.get_text(strip=True)) if date_tag else datetime.now(timezone.utc)
 
-        # Картинка
         img_tag = art.find("img")
         img = img_tag.get("src") if img_tag else None
 
@@ -98,11 +87,9 @@ def generate():
         fe.pubDate(pubdate)
         if img:
             fe.enclosure(img, 0, "image/jpeg")
-            
-        print(f"✅ Обработано: {title[:40]}...")
 
     fg.rss_file("malyshkina.xml", pretty=True)
-    print("[OK] RSS-фид malyshkina.xml успешно создан")
+    print("[OK] RSS malyshkina.xml обновлен")
 
 if __name__ == "__main__":
     generate()
