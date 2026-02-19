@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 19 Feb 2026 06:01:59 +0000</lastBuildDate>
-    <item>
-      <title>Во Владивостоке открыли памятник Дзержинскому, еще один Феликс может появиться в Находке</title>
-      <link>https://novayagazeta.ru/news/2025/09/01/vo-vladivostoke-otkryli-pamiatnik-dzerzhinskomu-eshche-odin-feliks-mozhet-poiavitsia-v-nakhodke-news</link>
-      <description>Во Владивостоке открыли памятник Дзержинскому, еще один Феликс может появиться в Находке</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/news/2025/09/01/vo-vladivostoke-otkryli-pamiatnik-dzerzhinskomu-eshche-odin-feliks-mozhet-poiavitsia-v-nakhodke-news</guid>
-      <pubDate>Mon, 01 Sep 2025 16:35:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Feb 2026 07:29:22 +0000</lastBuildDate>
     <item>
       <title>Ждем китайцев, не летим, но, может, поплаваем — Приморцы пережили юбилейный Восточный экономический форум. Что они думают про обещания властей, приезжающих к ним раз в год</title>
       <link>https://novayagazeta.ru/articles/2025/09/06/zhdem-kitaitsev-ne-letim-no-mozhet-poplavaem</link>
@@ -287,6 +280,13 @@
       <description>Китаевед — о том, как правильно понимать нашего главного партнера</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/16/kitaitsy-nachali-gorazdo-ranshe-i-ushli-vpered</guid>
       <pubDate>Mon, 16 Feb 2026 09:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FESCO сняли с головы — Бывших топ-менеджеров крупнейшей транспортно-логистической компании страны арестовывают и объявляют в розыск за мошеннические схемы</title>
+      <link>https://novayagazeta.ru/articles/2026/02/19/fesco-sniali-s-golovy</link>
+      <description>Бывших топ-менеджеров крупнейшей транспортно-логистической компании страны арестовывают и объявляют в розыск за мошеннические схемы</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/19/fesco-sniali-s-golovy</guid>
+      <pubDate>Thu, 19 Feb 2026 07:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
