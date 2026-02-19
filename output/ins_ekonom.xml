@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Экономика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Feb 2026 11:57:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 13:25:26 +0000</lastBuildDate>
     <item>
       <title>Нелегкая добыча. В России погибает угольная отрасль и к этому никто не готов</title>
       <link>https://theins.ru/ekonomika/280751</link>
