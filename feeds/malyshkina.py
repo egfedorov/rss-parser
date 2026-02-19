@@ -26,6 +26,8 @@ def parse_date(s):
         return datetime.now(timezone.utc)
 
 def generate():
+    return
+    
     url = "https://72.ru/text/author/159611/"
     
     with sync_playwright() as p:
