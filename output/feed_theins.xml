@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Расследования" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Feb 2026 17:18:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 17:35:30 +0000</lastBuildDate>
     <item>
       <title>Не «отжали», а подарили: как лидеру Подольской ОПГ Лучку достался бизнес изгнанных из России иностранцев</title>
       <link>https://theins.ru/inv/282983</link>
