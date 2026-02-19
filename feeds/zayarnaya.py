@@ -31,6 +31,8 @@ def parse_date(date_str: str) -> datetime:
     return datetime.now(timezone.utc)
 
 def generate():
+    return
+    
     url = 'https://161.ru/text/author/170234/'
     response = requests.get(url)
     response.encoding = 'utf-8'  # Явно задаём
