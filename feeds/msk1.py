@@ -18,6 +18,8 @@ def parse_date_ngs(date_str):
     return datetime.now(timezone.utc)
 
 def generate():
+    return
+    
     url = 'https://msk1.ru/text/format/reportage/'
     r = requests.get(url)
     r.encoding = 'utf-8'
