@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Расследования" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Feb 2026 11:59:20 +0000</lastBuildDate>
-    <item>
-      <title>Не «отжали», а подарили: как лидеру Подольской ОПГ Лучку достался бизнес изгнанных из России иностранцев</title>
-      <link>https://theins.ru/inv/282983</link>
-      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Feb 2026 13:19:59 +0000</lastBuildDate>
     <item>
       <title>Парижский консильери: директор французской компании, продающей оружие ВСУ, летает в Москву и управляет деньгами «кремлевского общака»</title>
       <link>https://theins.ru/inv/2832344</link>
@@ -186,6 +181,11 @@
       <title>Поставщики смерти. The Insider выявил свыше 300 компаний, производящих закупки в интересах российских военных</title>
       <link>https://theins.ru/inv/288961</link>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Это исследовали явно не для лечения»: институт, синтезировавший яд, которым отравили Навального, изучал способы его обнаружения</title>
+      <link>https://theins.ru/inv/289573</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
