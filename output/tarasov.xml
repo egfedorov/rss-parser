@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 20 Feb 2026 14:09:08 +0000</lastBuildDate>
-    <item>
-      <title>То ли в слове «мэр» две ошибки, то ли в слове «вор» — Начинается подготовка к 400-летию Красноярска. Задержан городской голова Логинов</title>
-      <link>https://novayagazeta.ru/articles/2025/06/09/to-li-v-slove-mer-dve-oshibki-to-li-v-slove-vor</link>
-      <description>Начинается подготовка к 400-летию Красноярска. Задержан городской голова Логинов</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/06/09/to-li-v-slove-mer-dve-oshibki-to-li-v-slove-vor</guid>
-      <pubDate>Mon, 09 Jun 2025 09:09:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Feb 2026 15:03:13 +0000</lastBuildDate>
     <item>
       <title>В Енисей вылилось 30 тонн дизеля после ЧП на Казачинских порогах. Введен режим ЧС</title>
       <link>https://novayagazeta.ru/news/2025/06/09/v-enisei-vylilos-30-tonn-dizelia-posle-chp-na-kazachinskikh-porogakh-vveden-rezhim-chs-news</link>
@@ -287,6 +280,13 @@
       <description>Никите Уварову теперь предъявляют распространение идей АУЕ*</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/18/oni-konkretno-vzialis</guid>
       <pubDate>Wed, 18 Feb 2026 09:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Мне сейчас плохо, но я держусь» — Никита Уваров пишет из красноярского СИЗО — первое письмо после возбуждения нового дела</title>
+      <link>https://novayagazeta.ru/articles/2026/02/20/mne-seichas-plokho-no-ia-derzhus</link>
+      <description>Никита Уваров пишет из красноярского СИЗО — первое письмо после возбуждения нового дела</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/20/mne-seichas-plokho-no-ia-derzhus</guid>
+      <pubDate>Fri, 20 Feb 2026 14:59:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
