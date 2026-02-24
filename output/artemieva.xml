@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 24 Feb 2026 08:02:53 +0000</lastBuildDate>
-    <item>
-      <title>Голодные игры в дивном новом мире — Разговор «этих двадцатилетних» из Америки и России о массовом запросе на консерватизм и вине новой этики</title>
-      <link>https://novayagazeta.ru/articles/2025/03/08/golodnye-igry-v-divnom-novom-mire</link>
-      <description>Разговор «этих двадцатилетних» из Америки и России о массовом запросе на консерватизм и вине новой этики</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/03/08/golodnye-igry-v-divnom-novom-mire</guid>
-      <pubDate>Sat, 08 Mar 2025 08:52:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Feb 2026 09:09:53 +0000</lastBuildDate>
     <item>
       <title>Этот возраст в огне — Как подростки в России становятся диверсантами?</title>
       <link>https://novayagazeta.ru/videos/2025/03/19/etot-vozrast-v-ogne</link>
@@ -287,6 +280,13 @@
       <description>Размышления у подъезда дома на Лесной</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/17/vozvrashchenie-imeni</guid>
       <pubDate>Tue, 17 Feb 2026 13:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Двор — История одной семьи, одного дома и одной собаки</title>
+      <link>https://novayagazeta.ru/articles/2026/02/24/dvor</link>
+      <description>История одной семьи, одного дома и одной собаки</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/24/dvor</guid>
+      <pubDate>Tue, 24 Feb 2026 08:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
