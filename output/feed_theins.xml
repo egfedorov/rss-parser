@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Расследования" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Feb 2026 19:11:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 19:56:24 +0000</lastBuildDate>
     <item>
       <title>«Нам запрещают говорить, что это для войны». Как сотни тысяч школьников вовлекли в разработку дронов под видом образовательных кружков</title>
       <link>https://theins.ru/inv/283135</link>
