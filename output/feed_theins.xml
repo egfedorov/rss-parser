@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Расследования" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Feb 2026 13:17:57 +0000</lastBuildDate>
-    <item>
-      <title>Парижский консильери: директор французской компании, продающей оружие ВСУ, летает в Москву и управляет деньгами «кремлевского общака»</title>
-      <link>https://theins.ru/inv/2832344</link>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Feb 2026 14:17:02 +0000</lastBuildDate>
     <item>
       <title>«Нам запрещают говорить, что это для войны». Как сотни тысяч школьников вовлекли в разработку дронов под видом образовательных кружков</title>
       <link>https://theins.ru/inv/283135</link>
@@ -186,6 +181,11 @@
       <title>«Это исследовали явно не для лечения»: институт, синтезировавший яд, которым отравили Навального, изучал способы его обнаружения</title>
       <link>https://theins.ru/inv/289573</link>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Воровство, любовницы и гражданство США: как живут члены IT-комитета Госдумы, строящие «цифровой ГУЛАГ» под предлогом защиты ценностей</title>
+      <link>https://theins.ru/inv/289385</link>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
