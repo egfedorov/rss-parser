@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 25 Feb 2026 11:56:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 13:17:58 +0000</lastBuildDate>
     <item>
       <title>Метеорологические шары и гибридная война. Как устроена контрабанда сигарет из Беларуси в Литву</title>
       <link>https://www.bbc.com/russian/articles/c4g93nxy27zo</link>
@@ -138,19 +138,13 @@
       <title>Видео,«Трамп делает работу по развалу НАТО за СССР». Как Россия влияет на мир в 2026 году? | Би-би-си объясняет, Продолжительность 10,55</title>
       <link>https://www.bbc.com/russian/articles/cly2j7j72mpo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly2j7j72mpo</guid>
-      <pubDate>Wed, 25 Feb 2026 11:56:06 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 13:17:58 +0000</pubDate>
     </item>
     <item>
       <title>Отравление Навального: главные вопросы об эпибатидине, его производстве и продаже в России и за рубежом</title>
       <link>https://www.bbc.com/russian/articles/cvg3p9l1e5ro</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvg3p9l1e5ro</guid>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Принцип действительно личный». Юристка Наталья Морозова — о шансах наказать военных преступников</title>
-      <link>https://www.bbc.com/russian/articles/c77e6j1l8rno</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c77e6j1l8rno</guid>
-      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Как офицеры из Интерпола и США помогли в поисках российского мальчика и что из этого вышло</title>
@@ -193,6 +187,13 @@
       <description>Незадолго до четвертой годовщины полномасштабного российского вторжения президент Украины Владимир Зеленский дал интервью корреспонденту Би-би-си Джереми Боуэну. В числе прочего он рассказал о своем понимании победы в войне, возможности территориальных уступок и отношениях с президентом Трампом.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4g2ey0y4y7o</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Принцип действительно личный». Юристка Наталья Морозова — о шансах наказать военных преступников</title>
+      <link>https://www.bbc.com/russian/articles/c77e6j1l8rno</link>
+      <description>Начинается пятый год полномасштабного российского вторжения в Украину. Есть ли шанс, что виновные в нем когда-либо окажутся на скамье подсудимых? Что действительно считается военным преступлением с точки зрения международного права?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c77e6j1l8rno</guid>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
