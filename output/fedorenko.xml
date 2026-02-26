@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 26 Feb 2026 11:57:21 +0000</lastBuildDate>
-    <item>
-      <title>Во Владивостоке ФСБ перекрыла трассу из-за «хлопков газового оборудования»</title>
-      <link>https://novayagazeta.ru/news/2025/09/16/vo-vladivostoke-fsb-perekryla-trassu-iz-za-khlopkov-gazovogo-oborudovaniia-news</link>
-      <description>Во Владивостоке ФСБ перекрыла трассу из-за «хлопков газового оборудования»</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/news/2025/09/16/vo-vladivostoke-fsb-perekryla-trassu-iz-za-khlopkov-gazovogo-oborudovaniia-news</guid>
-      <pubDate>Tue, 16 Sep 2025 07:19:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Feb 2026 13:26:31 +0000</lastBuildDate>
     <item>
       <title>«Во-первых, ты узбек, во-вторых, он русский» — Подростки-националисты избили трудовых мигрантов во Владивостоке</title>
       <link>https://novayagazeta.ru/articles/2025/09/16/vo-pervykh-ty-uzbek-vo-vtorykh-on-russkii</link>
@@ -287,6 +280,13 @@
       <description>Журналист Валерия Федоренко — о том, как устроена жизнь у самой границы</description>
       <guid isPermaLink="true">https://novayagazeta.ru/videos/2026/02/25/kitai-riadom-chto-proiskhodit-na-dalnem-vostoke</guid>
       <pubDate>Wed, 25 Feb 2026 15:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Завалить на дроны — Вузы Владивостока предлагают студентам-должникам пойти в беспилотные войска</title>
+      <link>https://novayagazeta.ru/articles/2026/02/26/zavalit-na-drony</link>
+      <description>Вузы Владивостока предлагают студентам-должникам пойти в беспилотные войска</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/26/zavalit-na-drony</guid>
+      <pubDate>Thu, 26 Feb 2026 13:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
