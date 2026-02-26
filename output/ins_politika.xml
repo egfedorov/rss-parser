@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 13:26:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 14:33:21 +0000</lastBuildDate>
     <item>
       <title>Война на замерзание. Кремль снова пытается оставить украинцев без электричества зимой</title>
       <link>https://theins.ru/politika/286431</link>
