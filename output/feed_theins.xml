@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Расследования" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 22:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 22:56:05 +0000</lastBuildDate>
     <item>
       <title>Нефтяники, банкиры и госпропагандист-киприот: как сложились судьбы провалившихся в США разведчиков-нелегалов</title>
       <link>https://theins.ru/inv/283378</link>
