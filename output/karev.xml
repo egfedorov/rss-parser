@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 27 Feb 2026 16:44:39 +0000</lastBuildDate>
-    <item>
-      <title>Родина в опасности: критический коммент в чате — Уголовка за ролик про бабл ти, срок за стихотворение и госизмена — за 400 рублей</title>
-      <link>https://novayagazeta.ru/articles/2025/08/30/rodina-v-opasnosti-kriticheskii-komment-v-chate</link>
-      <description>Уголовка за ролик про бабл ти, срок за стихотворение и госизмена — за 400 рублей</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/30/rodina-v-opasnosti-kriticheskii-komment-v-chate</guid>
-      <pubDate>Sat, 30 Aug 2025 09:17:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Feb 2026 17:38:44 +0000</lastBuildDate>
     <item>
       <title>Обвинение без подлежащего и сказуемого — Дело пожилого врача гоняют по кругу. Ее сын погиб при странных обстоятельствах. На допросы — в инвалидной коляске</title>
       <link>https://novayagazeta.ru/articles/2025/09/04/obvinenie-bez-podlezhashchego-i-skazuemogo</link>
@@ -287,6 +280,13 @@
       <description>В России все чаще возят в автозаках тех, кто вчера еще ходил на контрольные и ждал перемен. Их имена засекречены, что с ними происходит в тюрьмах и колониях — неизвестно</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/26/shkolnaia-skamia-podsudimykh</guid>
       <pubDate>Thu, 26 Feb 2026 07:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Неизбежность весны — Как в петербургском горсуде экстремизм собирали из манифеста, комментариев анонима и вовремя не нажатой кнопки «удалить»</title>
+      <link>https://novayagazeta.ru/articles/2026/02/27/neizbezhnost-vesny</link>
+      <description>Как в петербургском горсуде экстремизм собирали из манифеста, комментариев анонима и вовремя не нажатой кнопки «удалить»</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/27/neizbezhnost-vesny</guid>
+      <pubDate>Fri, 27 Feb 2026 16:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
