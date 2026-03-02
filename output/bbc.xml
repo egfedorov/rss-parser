@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 02 Mar 2026 17:55:13 +0000</lastBuildDate>
-    <item>
-      <title>Возврат к базовым настройкам. Какими будут последствия захвата Мадуро для глобального миропорядка?</title>
-      <link>https://www.bbc.com/russian/articles/cz0prkypzxgo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cz0prkypzxgo</guid>
-      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Mar 2026 18:54:20 +0000</lastBuildDate>
     <item>
       <title>Эра Рубио. Как госсекретарь США стал самым влиятельным чиновником кабинета Трампа</title>
       <link>https://www.bbc.com/russian/articles/c1evnzy7x88o</link>
@@ -126,7 +120,7 @@
       <title>Видео,«Трамп делает работу по развалу НАТО за СССР». Как Россия влияет на мир в 2026 году? | Би-би-си объясняет, Продолжительность 10,55</title>
       <link>https://www.bbc.com/russian/articles/cly2j7j72mpo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly2j7j72mpo</guid>
-      <pubDate>Mon, 02 Mar 2026 17:55:13 +0000</pubDate>
+      <pubDate>Mon, 02 Mar 2026 18:54:20 +0000</pubDate>
     </item>
     <item>
       <title>Отравление Навального: главные вопросы об эпибатидине, его производстве и продаже в России и за рубежом</title>
@@ -144,6 +138,12 @@
       <title>«Все дорогое, и нам все это не нравится». Чем обернутся требования локализации такси в России</title>
       <link>https://www.bbc.com/russian/articles/clyzq0g522qo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/clyzq0g522qo</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ракеты в раю. Как Дубай переживает иранские обстрелы</title>
+      <link>https://www.bbc.com/russian/articles/cm2rylr17yvo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm2rylr17yvo</guid>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -182,10 +182,10 @@
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LIVELive,Война США и Израиля с Ираном: Катар и Саудовская Аравия заявили об ударах по энергетике, ПВО Кувейта по ошибке сбила истребители США</title>
+      <title>LIVELive,Война США и Израиля с Ираном: Трамп заявил, что она может продлиться дольше месяца</title>
       <link>https://www.bbc.com/russian/live/cgk2z528k2lt</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/live/cgk2z528k2lt</guid>
-      <pubDate>Mon, 02 Mar 2026 17:55:13 +0000</pubDate>
+      <pubDate>Mon, 02 Mar 2026 18:54:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
