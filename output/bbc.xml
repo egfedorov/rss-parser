@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 03 Mar 2026 06:57:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 07:47:24 +0000</lastBuildDate>
     <item>
       <title>Эра Рубио. Как госсекретарь США стал самым влиятельным чиновником кабинета Трампа</title>
       <link>https://www.bbc.com/russian/articles/c1evnzy7x88o</link>
@@ -120,7 +120,7 @@
       <title>Видео,«Трамп делает работу по развалу НАТО за СССР». Как Россия влияет на мир в 2026 году? | Би-би-си объясняет, Продолжительность 10,55</title>
       <link>https://www.bbc.com/russian/articles/cly2j7j72mpo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly2j7j72mpo</guid>
-      <pubDate>Tue, 03 Mar 2026 06:57:01 +0000</pubDate>
+      <pubDate>Tue, 03 Mar 2026 07:47:24 +0000</pubDate>
     </item>
     <item>
       <title>Отравление Навального: главные вопросы об эпибатидине, его производстве и продаже в России и за рубежом</title>
@@ -135,23 +135,10 @@
       <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Все дорогое, и нам все это не нравится». Чем обернутся требования локализации такси в России</title>
-      <link>https://www.bbc.com/russian/articles/clyzq0g522qo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/clyzq0g522qo</guid>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ракеты в раю. Как Дубай переживает иранские обстрелы</title>
       <link>https://www.bbc.com/russian/articles/cm2rylr17yvo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm2rylr17yvo</guid>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Страх повсюду»: репортаж Би-би-си  из мексиканского города, который превратился в зону боевых действий из-за вражды между наркокартелями</title>
-      <link>https://www.bbc.com/russian/articles/c1kgw4nr1eno</link>
-      <description>Президент Мексики Клаудия Шейнбаум похвалила свои спецподразделения за ликвидацию самого разыскиваемого наркобарона страны Немесио Осегеры Сервантеса. Однако, как выяснила Би-би-си, ликвидация главаря часто приводит к еще большему насилию, от которого страдают тысячи невинных людей.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c1kgw4nr1eno</guid>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Как Гислейн Максвелл втянула Билла Клинтона в орбиту влияния Эпштейна</title>
@@ -182,10 +169,17 @@
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Все дорогое, и нам все это не нравится». Чем обернутся требования локализации такси в России</title>
+      <link>https://www.bbc.com/russian/articles/clyzq0g522qo</link>
+      <description>С 1 марта 2026 года российские такси начали переводить на машины местной сборки. Аналитики рынка, даже проправительственные, сходятся во мнении, что реформа слабо затронет крупные города, но лишит работы сотни тысяч частично занятых водителей в регионах, поднимет тарифы и снизит конкуренцию на рынке.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/clyzq0g522qo</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>LIVELive,Война США и Израиля с Ираном: Израиль наносит новые удары по Тегерану и Бейруту; Госдеп заявил, что самые сильные удары по Ирану еще впереди</title>
       <link>https://www.bbc.com/russian/live/cgk2z528k2lt</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/live/cgk2z528k2lt</guid>
-      <pubDate>Tue, 03 Mar 2026 06:57:01 +0000</pubDate>
+      <pubDate>Tue, 03 Mar 2026 07:47:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
