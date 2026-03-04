@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 04 Mar 2026 06:53:46 +0000</lastBuildDate>
-    <item>
-      <title>«Во-первых, ты узбек, во-вторых, он русский» — Подростки-националисты избили трудовых мигрантов во Владивостоке</title>
-      <link>https://novayagazeta.ru/articles/2025/09/16/vo-pervykh-ty-uzbek-vo-vtorykh-on-russkii</link>
-      <description>Подростки-националисты избили трудовых мигрантов во Владивостоке</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/16/vo-pervykh-ty-uzbek-vo-vtorykh-on-russkii</guid>
-      <pubDate>Tue, 16 Sep 2025 08:05:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Mar 2026 07:39:33 +0000</lastBuildDate>
     <item>
       <title>«Против мира и человечества» — Зампреда регионального отделения «Яблока» в Приморье судят за поздравление с Днем Победы</title>
       <link>https://novayagazeta.ru/articles/2025/09/25/protiv-mira-i-chelovechestva</link>
@@ -287,6 +280,13 @@
       <description>Вузы Владивостока предлагают студентам-должникам пойти в беспилотные войска</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/26/zavalit-na-drony</guid>
       <pubDate>Thu, 26 Feb 2026 13:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Увидеть Хэйхэ и замереть — Перед восточным Новым годом корреспондент «Новой» отправилась в самый близкий к Китаю русский город, чтобы проверить миф о «желтой угрозе»</title>
+      <link>https://novayagazeta.ru/articles/2026/03/04/uvidet-kheikhe-i-zameret</link>
+      <description>Перед восточным Новым годом корреспондент «Новой» отправилась в самый близкий к Китаю русский город, чтобы проверить миф о «желтой угрозе»</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/04/uvidet-kheikhe-i-zameret</guid>
+      <pubDate>Wed, 04 Mar 2026 07:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
