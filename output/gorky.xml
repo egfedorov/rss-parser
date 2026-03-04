@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Wed, 04 Mar 2026 11:48:15 +0000</lastBuildDate><item><title>Четыре элемента хип-хопа</title><link>https://gorky.media/context/chetyre-elementa-xip-xopa</link><description>Иван Щеглов — о мемуарах русских рэперов и про них самих
-
-12.02.2026</description><pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate></item><item><title>«Передать саму атмосферу стиха»</title><link>https://gorky.media/context/peredat-samu-atmosferu-stixa</link><description>Памяти поэта и переводчика Евгения Солоновича
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Wed, 04 Mar 2026 13:04:05 +0000</lastBuildDate><item><title>«Передать саму атмосферу стиха»</title><link>https://gorky.media/context/peredat-samu-atmosferu-stixa</link><description>Памяти поэта и переводчика Евгения Солоновича
 
 13.02.2026</description><pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate></item><item><title>Кудрет-сахат, неумолимый ход судьбы</title><link>https://gorky.media/context/kudret-saxat-neumolimyi-xod-sudby</link><description>Истории, рассказанные литературным музеем Боснии и Герцеговины
 
@@ -23,4 +21,6 @@
 
 02.03.2026</description><pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate></item><item><title>Запреты, или Русские литераторы жаждут начальства</title><link>https://gorky.media/context/zaprety-ili-russkie-literatory-zhazhdut-nachalstva</link><description>Издатель «Горького» Борис Куприянов — о новых ограничениях в книжной торговле
 
-03.03.2026</description><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate></item></channel></rss>
+03.03.2026</description><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate></item><item><title>Рассказать всю свою жизнь</title><link>https://gorky.media/context/rasskazat-vsyu-svoyu-zhizn</link><description>Ответ на реплику Анатолия Рясова о теории повествования Вальтера Беньямина
+
+04.03.2026</description><pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate></item></channel></rss>
