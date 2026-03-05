@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Расследования" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Mar 2026 13:07:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 14:08:39 +0000</lastBuildDate>
     <item>
       <title>Спящий дракон: 5 простых способов, которыми Китай может мгновенно остановить войну в Украине</title>
       <link>https://theins.ru/inv/282699</link>
@@ -183,7 +183,7 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Как могли эти ублюдки построить школу на территории базы КСИР?!» Что жители иранского Минаба говорят об ударе по школе для девочек</title>
+      <title>«Как могли эти ублюдки построить школу на территории базы КСИР?!» Что жители иранского Минаба говорят об ударе по школе</title>
       <link>https://theins.ru/inv/289977</link>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
     </item>
