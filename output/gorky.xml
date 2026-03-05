@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Thu, 05 Mar 2026 11:50:28 +0000</lastBuildDate><item><title>Кудрет-сахат, неумолимый ход судьбы</title><link>https://gorky.media/context/kudret-saxat-neumolimyi-xod-sudby</link><description>Истории, рассказанные литературным музеем Боснии и Герцеговины
-
-16.02.2026</description><pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate></item><item><title>«Я пожил в свое удовольствие, делал то, что считал нужным»</title><link>https://gorky.media/context/ya-pozhil-v-svoe-udovolstvie-delal-to-chto-schital-nuzhnym</link><description>Памяти выдающегося российского синолога Ильи Смирнова
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Thu, 05 Mar 2026 13:07:49 +0000</lastBuildDate><item><title>«Я пожил в свое удовольствие, делал то, что считал нужным»</title><link>https://gorky.media/context/ya-pozhil-v-svoe-udovolstvie-delal-to-chto-schital-nuzhnym</link><description>Памяти выдающегося российского синолога Ильи Смирнова
 
 16.02.2026</description><pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate></item><item><title>Премия, или Русские литераторы в ожидании начальства</title><link>https://gorky.media/context/premiya-ili-russkie-literatory-v-ozhidanii-nachalstva</link><description>Издатель «Горького» Борис Куприянов — о бурных дискуссиях в узких кругах
 
@@ -22,5 +20,7 @@
 03.03.2026</description><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate></item><item><title>Рассказать всю свою жизнь</title><link>https://gorky.media/context/rasskazat-vsyu-svoyu-zhizn</link><description>Ответ на реплику Анатолия Рясова о теории повествования Вальтера Беньямина
 
 04.03.2026</description><pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate></item><item><title>Антиинтервью — экивок антиметамодерну</title><link>https://gorky.media/context/antiintervyu-ekivok-antimetamodernu</link><description>Наталья Рубанова и Алина Витухновская — о себе и обо всем
+
+05.03.2026</description><pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate></item><item><title>Вакцина от вируса сталинизма</title><link>https://gorky.media/context/vaktsina-ot-virusa-stalinizma</link><description>О главной книге историка Роя Медведева
 
 05.03.2026</description><pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate></item></channel></rss>
