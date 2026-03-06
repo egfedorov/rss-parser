@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Mar 2026 19:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 19:50:35 +0000</lastBuildDate>
     <item>
       <title>Провал по всем пунктам. Как Дмитриев и Ушаков попытались выдать свой план за американский</title>
       <link>https://theins.ru/politika/287167</link>
