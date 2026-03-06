@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Mar 2026 05:48:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 06:55:09 +0000</lastBuildDate>
     <item>
       <title>Пчелы против меда. Почему многие бывшие мигранты выступают против новых волн миграции</title>
       <link>https://theins.ru/politika/286290</link>
