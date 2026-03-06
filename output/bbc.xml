@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Mar 2026 11:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 11:46:06 +0000</lastBuildDate>
     <item>
       <title>Между застоем и падением. Чем смелые прогнозы на нефть грозят российской экономике</title>
       <link>https://www.bbc.com/russian/articles/cx20p7djzzpo</link>
@@ -102,7 +102,7 @@
       <title>Видео,«Трамп делает работу по развалу НАТО за СССР». Как Россия влияет на мир в 2026 году? | Би-би-си объясняет, Продолжительность 10,55</title>
       <link>https://www.bbc.com/russian/articles/cly2j7j72mpo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly2j7j72mpo</guid>
-      <pubDate>Fri, 06 Mar 2026 11:15:32 +0000</pubDate>
+      <pubDate>Fri, 06 Mar 2026 11:46:06 +0000</pubDate>
     </item>
     <item>
       <title>Отравление Навального: главные вопросы об эпибатидине, его производстве и продаже в России и за рубежом</title>
@@ -141,12 +141,6 @@
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Безучастный наблюдатель. Почему Россия не поддержала Иран и что значит для нее война на Ближнем Востоке</title>
-      <link>https://www.bbc.com/russian/articles/cj6dd6zx0lwo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cj6dd6zx0lwo</guid>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Как изменился политический расклад в Кыргызстане после смещения друга президента с поста главы госбезопасности</title>
       <link>https://www.bbc.com/russian/articles/c62dnx9eqqdo</link>
       <description>Политический тандем президента Кыргызстана Садыра Жапарова с его ближайшим соратником Камчыбеком Ташиевым распался спустя пять лет после прихода Жапарова к власти.</description>
@@ -179,7 +173,7 @@
       <link>https://www.bbc.com/russian/resources/idt-24f9546d-9bc0-4c0c-a49f-776799a9d5c4</link>
       <description>Белый дом опубликовал четыре фотографии президента Трампа и членов его кабинета в те минуты, когда они следят за ударами США и Израиля по Ирану. Внимательный взгляд на людей и обстановку на этих фотографиях может многое рассказать нам о том, что происходило в этом помещении в тот напряженный момент.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/resources/idt-24f9546d-9bc0-4c0c-a49f-776799a9d5c4</guid>
-      <pubDate>Fri, 06 Mar 2026 11:15:32 +0000</pubDate>
+      <pubDate>Fri, 06 Mar 2026 11:46:06 +0000</pubDate>
     </item>
     <item>
       <title>Первые шесть дней войны США и Израиля против Ирана — в картах</title>
@@ -194,6 +188,12 @@
       <description>Антивоенная позиция влиятельных союзников Трампа может быть более серьезной проблемой для его администрации, чем международное право.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cpd8y7vdwjdo</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Безучастный наблюдатель. Почему Россия не поддержала Иран и что значит для нее война на Ближнем Востоке</title>
+      <link>https://www.bbc.com/russian/articles/cj6dd6zx0lwo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cj6dd6zx0lwo</guid>
+      <pubDate>Fri, 06 Mar 2026 11:46:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
