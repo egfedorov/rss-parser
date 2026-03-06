@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Mar 2026 13:03:30 +0000</lastBuildDate>
-    <item>
-      <title>Здание энерготехникума частично обрушилось утром во Владивостоке. В этом отсеке проходят занятия по основам защиты Родины</title>
-      <link>https://novayagazeta.ru/news/2025/10/03/zdanie-energotekhnikuma-chastichno-obrushilos-utrom-vo-vladivostoke-v-etom-otseke-prokhodiat-zaniatiia-po-osnovam-zashchity-rodiny-news</link>
-      <description>Здание энерготехникума частично обрушилось утром во Владивостоке. В этом отсеке проходят занятия по основам защиты Родины</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/news/2025/10/03/zdanie-energotekhnikuma-chastichno-obrushilos-utrom-vo-vladivostoke-v-etom-otseke-prokhodiat-zaniatiia-po-osnovam-zashchity-rodiny-news</guid>
-      <pubDate>Fri, 03 Oct 2025 08:57:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Mar 2026 14:03:40 +0000</lastBuildDate>
     <item>
       <title>Главное теперь, не разбить! — Потребительская корзина обзавелась доступными яйцами. Надолго ли?</title>
       <link>https://novayagazeta.ru/articles/2025/10/04/glavnoe-teper-ne-razbit</link>
@@ -287,6 +280,13 @@
       <description>С этого года цифры в «жировках» ряда регионов выросли не на обещанные 1,7, а на 12,4%</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/04/ne-do-zhiru</guid>
       <pubDate>Wed, 04 Mar 2026 08:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Не сгорим, так полетаем — В Приморье взяли 3-миллиардный кредит на покрытие дефицита бюджета и урезали расходы на социалку и пожарную безопасность. Дроны — в приоритете</title>
+      <link>https://novayagazeta.ru/articles/2026/03/06/ne-sgorim-tak-poletaem</link>
+      <description>В Приморье взяли 3-миллиардный кредит на покрытие дефицита бюджета и урезали расходы на социалку и пожарную безопасность. Дроны — в приоритете</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/06/ne-sgorim-tak-poletaem</guid>
+      <pubDate>Fri, 06 Mar 2026 14:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
