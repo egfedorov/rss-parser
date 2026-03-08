@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 08 Mar 2026 04:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 05:32:00 +0000</lastBuildDate>
     <item>
       <title>Россия в «черном списке» ЕС. Чем  это грозит ее гражданам?</title>
       <link>https://www.bbc.com/russian/articles/c4g3d558ye7o</link>
@@ -90,7 +90,7 @@
       <title>Видео,«Трамп делает работу по развалу НАТО за СССР». Как Россия влияет на мир в 2026 году? | Би-би-си объясняет, Продолжительность 10,55</title>
       <link>https://www.bbc.com/russian/articles/cly2j7j72mpo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly2j7j72mpo</guid>
-      <pubDate>Sun, 08 Mar 2026 04:25:26 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2026 05:32:00 +0000</pubDate>
     </item>
     <item>
       <title>Отравление Навального: главные вопросы об эпибатидине, его производстве и продаже в России и за рубежом</title>
@@ -141,13 +141,6 @@
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Мы все еще не понимаем, к чему приведет эта война». Обозреватель Би-би-си — о том, на что рассчитывает каждая из враждующих сторон</title>
-      <link>https://www.bbc.com/russian/articles/cpqwyw0wvz0o</link>
-      <description>Прошло лишь несколько дней новой войны Соединенных Штатов и Израиля против Ирана, а она уже успела превратиться в региональную. Сейчас трудно предположить, чем она закончится, пишет обозреватель Би-би-си Джереми Боуэн, но воюющие стороны знают, каким бы они хотели видеть ее конец, ее результат.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cpqwyw0wvz0o</guid>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Как война с Ираном навредит Западу и поможет России, если затронет Ормузский пролив</title>
       <link>https://www.bbc.com/russian/articles/cwy8gx33mxvo</link>
       <description>Перебои в Ормузе обещают проблемы Европе и Америке, однако на руку России, поскольку позволят Кремлю увеличить продажи нефти и заработать миллиарды на войну против Украины.</description>
@@ -159,7 +152,7 @@
       <link>https://www.bbc.com/russian/resources/idt-24f9546d-9bc0-4c0c-a49f-776799a9d5c4</link>
       <description>Белый дом опубликовал четыре фотографии президента Трампа и членов его кабинета в те минуты, когда они следят за ударами США и Израиля по Ирану. Внимательный взгляд на людей и обстановку на этих фотографиях может многое рассказать нам о том, что происходило в этом помещении в тот напряженный момент.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/resources/idt-24f9546d-9bc0-4c0c-a49f-776799a9d5c4</guid>
-      <pubDate>Sun, 08 Mar 2026 04:25:26 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2026 05:32:00 +0000</pubDate>
     </item>
     <item>
       <title>Первые шесть дней войны США и Израиля против Ирана — в картах</title>
@@ -194,6 +187,13 @@
       <link>https://www.bbc.com/russian/articles/c3v76rekrleo</link>
       <description>Военная позиция Ирана в условиях обостряющегося конфликта с Израилем и США свидетельствует о том, что он борется не за победу в традиционном смысле этого слова. Он борется за выживание — на своих собственных условиях, пишет журналист Персидской службы Би-би-си.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3v76rekrleo</guid>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Страны Ближнего Востока хотят закупить украинские  дроны-«антишахеды», но Киев против. Почему?</title>
+      <link>https://www.bbc.com/russian/articles/cdjm7rr77lyo</link>
+      <description>Есть безумный спрос и большой соблазн, говорят производители украинских дронов-перехватчиков. Украинские власти пытаются удержать эту технологию внутри государства или хотя бы получить значительные бонусы за нее.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cdjm7rr77lyo</guid>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
