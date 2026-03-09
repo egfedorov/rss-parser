@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Mon, 09 Mar 2026 11:52:05 +0000</lastBuildDate><item><title>«Вот он — единственный фоновалик с голосом Гумилева»</title><link>https://gorky.media/reviews/vot-on-edinstvennyi-fonovalik-s-golosom-gumileva</link><description>Большое интервью с Юрием Метелкиным — создателем «Старого радио» и «Аудиопедии»
-
-18.02.2026</description><pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate></item><item><title>«Варгас Льоса был привлекателен для культурной дипломатии СССР»</title><link>https://gorky.media/context/vargas-lyosa-byl-privlekatelen-dlya-kulturnoi-diplomatii-sssr</link><description>Интервью с историком Кристиной Буйновой
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Mon, 09 Mar 2026 13:11:23 +0000</lastBuildDate><item><title>«Варгас Льоса был привлекателен для культурной дипломатии СССР»</title><link>https://gorky.media/context/vargas-lyosa-byl-privlekatelen-dlya-kulturnoi-diplomatii-sssr</link><description>Интервью с историком Кристиной Буйновой
 
 20.02.2026</description><pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate></item><item><title>Автономность и аутентичность</title><link>https://gorky.media/context/avtonomnost-i-autentichnost</link><description>Памяти Дмитрия Бавильского
 
@@ -22,5 +20,7 @@
 05.03.2026</description><pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate></item><item><title>«Литература в литературе» Алексея Ремизова</title><link>https://gorky.media/context/literatura-v-literature-alekseya-remizova</link><description>Интервью с составителями книги «Алексей Ремизов глазами современников»
 
 06.03.2026</description><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate></item><item><title>Пропаганда вечных ценностей</title><link>https://gorky.media/context/propaganda-vechnyx-tsennostei</link><description>Беседа с Ольгой Варшавер о детской литературе и идеологии
+
+09.03.2026</description><pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate></item><item><title>Создатель бога боли</title><link>https://gorky.media/reviews/sozdatel-boga-boli</link><description>Памяти Дэна Симмонса
 
 09.03.2026</description><pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate></item></channel></rss>
