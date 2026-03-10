@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 10 Mar 2026 09:03:28 +0000</lastBuildDate>
-    <item>
-      <title>Этот возраст в огне — Как подростки в России становятся диверсантами?</title>
-      <link>https://novayagazeta.ru/videos/2025/03/19/etot-vozrast-v-ogne</link>
-      <description>Как подростки в России становятся диверсантами?</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/videos/2025/03/19/etot-vozrast-v-ogne</guid>
-      <pubDate>Wed, 19 Mar 2025 10:42:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Mar 2026 10:02:28 +0000</lastBuildDate>
     <item>
       <title>«Зачем мне долго?» — Памяти Вадима Жука: подборка стихов из последнего прижизненного сборника «Вдох-выдох»</title>
       <link>https://novayagazeta.ru/articles/2025/03/21/zachem-mne-dolgo</link>
@@ -287,6 +280,13 @@
       <description>История одной семьи, одного дома и одной собаки</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/24/dvor</guid>
       <pubDate>Tue, 24 Feb 2026 08:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Что наша смерть? Игра — «Все люди рождаются свободными, за исключением тех случаев, когда в них нуждается человечество». О книге «Игра Эндера»</title>
+      <link>https://novayagazeta.ru/articles/2026/03/10/chto-nasha-smert-igra</link>
+      <description>«Все люди рождаются свободными, за исключением тех случаев, когда в них нуждается человечество». О книге «Игра Эндера»</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/10/chto-nasha-smert-igra</guid>
+      <pubDate>Tue, 10 Mar 2026 09:14:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
