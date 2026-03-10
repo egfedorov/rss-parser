@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Расследования" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 17:12:08 +0000</lastBuildDate>
-    <item>
-      <title>Кьянти от Медведева, монтепульчано Якунина и мерло от Михалкова. Краткий гид по итальянским винодельням путинской элиты</title>
-      <link>https://theins.ru/inv/283609</link>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Mar 2026 18:04:14 +0000</lastBuildDate>
     <item>
       <title>Генерал песчаных карьеров. Начальник 2-й службы УСБ ФСБ как ни в чем не бывало ведет бизнес с партнерами из Литвы</title>
       <link>https://theins.ru/inv/283745</link>
@@ -186,6 +181,11 @@
       <title>«Самое масштабное сокрытие правды за всю мою взрослую жизнь». Как ЦРУ пыталось замолчать гаванский синдром</title>
       <link>https://theins.ru/inv/290072</link>
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Россию за деньгами. Танцевавшая с Путиным экс-глава МИД Австрии живет на миллионные гонорары от RT</title>
+      <link>https://theins.ru/inv/289262</link>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
