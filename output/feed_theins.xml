@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Расследования" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 08:05:13 +0000</lastBuildDate>
-    <item>
-      <title>Генерал песчаных карьеров. Начальник 2-й службы УСБ ФСБ как ни в чем не бывало ведет бизнес с партнерами из Литвы</title>
-      <link>https://theins.ru/inv/283745</link>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 09:02:50 +0000</lastBuildDate>
     <item>
       <title>Йены не пахнут: с начала полномасштабной войны японская Tsugami в 20 раз нарастила объемы поставок станков в Россию</title>
       <link>https://theins.ru/inv/283838</link>
@@ -186,6 +181,11 @@
       <title>В Россию за деньгами. Танцевавшая с Путиным экс-глава МИД Австрии живет на миллионные гонорары от RT</title>
       <link>https://theins.ru/inv/289262</link>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Insider нашел более 6000 экспортеров, торгующих с санкционированными российскими фирмами и поставщиками ВПК, 4000 из них — из Китая</title>
+      <link>https://theins.ru/inv/289355</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
