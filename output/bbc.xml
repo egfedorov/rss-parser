@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 11 Mar 2026 15:09:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 16:05:53 +0000</lastBuildDate>
     <item>
       <title>Бои за «взятый в кредит» Купянск; российские БПЛА-камикадзе могут лишиться системы Starlink. Что происходит на фронтах в Украине</title>
       <link>https://www.bbc.com/russian/articles/cgk8vmel076o</link>
@@ -72,7 +72,7 @@
       <title>Видео,«Трамп делает работу по развалу НАТО за СССР». Как Россия влияет на мир в 2026 году? | Би-би-си объясняет, Продолжительность 10,55</title>
       <link>https://www.bbc.com/russian/articles/cly2j7j72mpo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly2j7j72mpo</guid>
-      <pubDate>Wed, 11 Mar 2026 15:09:04 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 16:05:53 +0000</pubDate>
     </item>
     <item>
       <title>Отравление Навального: главные вопросы об эпибатидине, его производстве и продаже в России и за рубежом</title>
@@ -135,12 +135,6 @@
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«У нас нет геев, нет секса и нет войны». Как изменилось российское современное искусство за последние четыре года</title>
-      <link>https://www.bbc.com/russian/articles/ckgzpdxqnx5o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckgzpdxqnx5o</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Закат британских тори. Исчезнет ли партия Черчилля и Тэтчер?</title>
       <link>https://www.bbc.com/russian/articles/cgqgnke78eyo</link>
       <description>Консервативная партия Британии, одна из старейших и самых успешных в мире, теряет депутатов и избирателей в борьбе с популистом Найджелом Фараджем.</description>
@@ -174,6 +168,12 @@
       <description>В ближайшие дни в Китае должны принять закон о содействии национальной сплоченности, который наблюдатели связывают с проводимой Си Цзиньпином политикой ассимиляции уйгуров, тибетцев и других этнических меньшинств.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/clyz991e220o</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«У нас нет геев, нет секса и нет войны». Как изменилось российское современное искусство за последние четыре года</title>
+      <link>https://www.bbc.com/russian/articles/ckgzpdxqnx5o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckgzpdxqnx5o</guid>
+      <pubDate>Wed, 11 Mar 2026 16:05:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
