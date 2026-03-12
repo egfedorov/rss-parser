@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 12 Mar 2026 11:45:32 +0000</lastBuildDate>
-    <item>
-      <title>Золотое дерьмо — Или путешествие с полковником КГБ в глубь его страны и души</title>
-      <link>https://novayagazeta.ru/articles/2025/06/21/zolotoe-dermo</link>
-      <description>Или путешествие с полковником КГБ в глубь его страны и души</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/06/21/zolotoe-dermo</guid>
-      <pubDate>Sat, 21 Jun 2025 07:12:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Mar 2026 13:07:41 +0000</lastBuildDate>
     <item>
       <title>Однажды тиран умирает — И стремительно меняется все. И нужное обращается ненужным, незыблемое — еще как зыблемым. Истории стройки 501/503</title>
       <link>https://novayagazeta.ru/articles/2025/06/25/odnazhdy-tiran-umiraet</link>
@@ -287,6 +280,13 @@
       <description>С этого года цифры в «жировках» ряда регионов выросли не на обещанные 1,7, а на 12,4%</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/04/ne-do-zhiru</guid>
       <pubDate>Wed, 04 Mar 2026 08:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Карусели и довески — Теперь Никита Уваров –– дважды взятый под стражу. Через неделю он должен был выйти на волю</title>
+      <link>https://novayagazeta.ru/articles/2026/03/12/karuseli-i-doveski</link>
+      <description>Теперь Никита Уваров –– дважды взятый под стражу. Через неделю он должен был выйти на волю</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/12/karuseli-i-doveski</guid>
+      <pubDate>Thu, 12 Mar 2026 13:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
