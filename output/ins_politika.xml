@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Mar 2026 10:02:45 +0000</lastBuildDate>
-    <item>
-      <title>Казнь по национальному признаку. Почему поправки в закон о смертной казни в Израиле вызвали волну критики</title>
-      <link>https://theins.ru/politika/287200</link>
-      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Mar 2026 11:02:33 +0000</lastBuildDate>
     <item>
       <title>Тест на европейца. Как борьба с нелегальной миграцией затрудняет легальную</title>
       <link>https://theins.ru/politika/287211</link>
@@ -78,7 +73,7 @@
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Спасателей не вызывали: как Трамп пытается бороться с воображаемым геноцидом в ЮАР</title>
+      <title>Спасателей не вызывали. Как Трамп пытается бороться с воображаемым геноцидом в ЮАР</title>
       <link>https://theins.ru/politika/287963</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
     </item>
@@ -186,6 +181,11 @@
       <title>Декларация цифровой независимости: как и почему ЕС пытается защититься от монополии американских интернет-платформ</title>
       <link>https://theins.ru/politika/289473</link>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Националистический интернационал. Как США объединяют европейские правые и пророссийские силы, чтобы ослабить ЕС</title>
+      <link>https://theins.ru/politika/290144</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
