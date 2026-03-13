@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 13 Mar 2026 17:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 18:04:47 +0000</lastBuildDate>
     <item>
       <title>Миллионные потери. Как российские военные откупаются от войны в Украине и кого за это судят</title>
       <link>https://www.bbc.com/russian/articles/c301ev3d16ro</link>
@@ -60,7 +60,7 @@
       <title>Видео,«Трамп делает работу по развалу НАТО за СССР». Как Россия влияет на мир в 2026 году? | Би-би-си объясняет, Продолжительность 10,55</title>
       <link>https://www.bbc.com/russian/articles/cly2j7j72mpo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly2j7j72mpo</guid>
-      <pubDate>Fri, 13 Mar 2026 17:37:37 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 18:04:47 +0000</pubDate>
     </item>
     <item>
       <title>Отравление Навального: главные вопросы об эпибатидине, его производстве и продаже в России и за рубежом</title>
@@ -145,7 +145,7 @@
       <link>https://www.bbc.com/russian/articles/c78xg7877lno</link>
       <description>Как устроен режим Кимов, почему Северная Корея остается устойчивой, как живет ее элита и зачем Ким Чен Ын выводит свою дочь на политическую сцену.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c78xg7877lno</guid>
-      <pubDate>Fri, 13 Mar 2026 17:37:37 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 18:04:47 +0000</pubDate>
     </item>
     <item>
       <title>В Москве неделю не работает мобильный интернет. Это тестирование «белых списков»?</title>
@@ -162,6 +162,13 @@
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Отрубишь одну голову — вырастают новые». Как руководство Ирана построило систему, позволяющую ему удерживать власть</title>
+      <link>https://www.bbc.com/russian/articles/c2lrqegq1jdo</link>
+      <description>Эксперты считают, что «подобная Гидре» структура власти Ирана позволила ей выдержать многочисленные потрясения и вряд ли будет легко свергнута.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c2lrqegq1jdo</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Почему исламский мир не поддержал Иран в его войне с США и Израилем?</title>
       <link>https://www.bbc.com/russian/articles/cjeng5nx0gyo</link>
       <description>Израиль и США бомбят Исламскую Республику Иран уже вторую неделю, а мусульманский мир наблюдает за войной со стороны: некоторые — прежде всего страны Персидского залива — из партера, другие — с галерки. Но ни одно из исламских государств не спешит помогать Ирану, и многие, напротив, видят в нем угрозу. Почему?</description>
@@ -169,10 +176,10 @@
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Отрубишь одну голову — вырастают новые». Как руководство Ирана построило систему, позволяющую ему удерживать власть</title>
-      <link>https://www.bbc.com/russian/articles/c2lrqegq1jdo</link>
-      <description>Эксперты считают, что «подобная Гидре» структура власти Ирана позволила ей выдержать многочисленные потрясения и вряд ли будет легко свергнута.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c2lrqegq1jdo</guid>
+      <title>Выборы в Венгрии: как Виктор Орбан эксплуатирует конфликт с Украиной, пытаясь не проиграть</title>
+      <link>https://www.bbc.com/russian/articles/c9dnwlq9e5go</link>
+      <description>Правящая партия Венгрии во главе с Орбаном за месяц до выборов сильно отстает в опросах от главной оппозиционной партии. Стараясь догнать конкурентов, они внушают избирателю, что Украина хочет сменить власть в Будапеште, а оппозиция — втянуть страну в войну.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c9dnwlq9e5go</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
