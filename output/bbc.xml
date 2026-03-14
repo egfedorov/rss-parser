@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 14 Mar 2026 11:41:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 12:58:51 +0000</lastBuildDate>
     <item>
       <title>Орбан против Киева. Что стоит за обострением отношений Украины и Венгрии?</title>
       <link>https://www.bbc.com/russian/articles/cre2y541y7ro</link>
@@ -54,7 +54,7 @@
       <title>Видео,«Трамп делает работу по развалу НАТО за СССР». Как Россия влияет на мир в 2026 году? | Би-би-си объясняет, Продолжительность 10,55</title>
       <link>https://www.bbc.com/russian/articles/cly2j7j72mpo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly2j7j72mpo</guid>
-      <pubDate>Sat, 14 Mar 2026 11:41:31 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 12:58:51 +0000</pubDate>
     </item>
     <item>
       <title>Отравление Навального: главные вопросы об эпибатидине, его производстве и продаже в России и за рубежом</title>
@@ -129,12 +129,6 @@
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Это послание Москве». Как российских политтехнологов в Анголе обвинили в шпионаже и терроризме</title>
-      <link>https://www.bbc.com/russian/articles/cwygex5nlyyo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwygex5nlyyo</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Грузинским маршрутом. Авиапассажиры заплатят за войну в Иране</title>
       <link>https://www.bbc.com/russian/articles/czr0z10m4xyo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/czr0z10m4xyo</guid>
@@ -151,7 +145,7 @@
       <link>https://www.bbc.com/russian/articles/c78xg7877lno</link>
       <description>Как устроен режим Кимов, почему Северная Корея остается устойчивой, как живет ее элита и зачем Ким Чен Ын выводит свою дочь на политическую сцену.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c78xg7877lno</guid>
-      <pubDate>Sat, 14 Mar 2026 11:41:31 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 12:58:51 +0000</pubDate>
     </item>
     <item>
       <title>В Москве неделю не работает мобильный интернет. Это тестирование «белых списков»?</title>
@@ -194,6 +188,13 @@
       <description>Правящая партия Венгрии во главе с Орбаном за месяц до выборов сильно отстает в опросах от главной оппозиционной партии. Стараясь догнать конкурентов, они внушают избирателю, что Украина хочет сменить власть в Будапеште, а оппозиция — втянуть страну в войну.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c9dnwlq9e5go</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Это послание Москве». Как российских политтехнологов в Анголе обвинили в шпионаже и терроризме</title>
+      <link>https://www.bbc.com/russian/articles/cwygex5nlyyo</link>
+      <description>24 марта в Анголе начнут судить двух россиян, обвиняемых в шпионаже, терроризме и подкупе. Следствие связывает их — и их шестерых коллег, успевших покинуть страну, — с проектом «Африканские политологи», основателем которого был Евгений Пригожин. Би-би-си рассказывает, кто эти люди, в чем именно их обвиняют, почему молчит Россия и как изменились ее отношения с Анголой после «разворота на Запад» этого африканского государства.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwygex5nlyyo</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
