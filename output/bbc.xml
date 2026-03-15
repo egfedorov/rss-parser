@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 15 Mar 2026 03:25:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 05:21:56 +0000</lastBuildDate>
     <item>
       <title>Орбан против Киева. Что стоит за обострением отношений Украины и Венгрии?</title>
       <link>https://www.bbc.com/russian/articles/cre2y541y7ro</link>
@@ -54,7 +54,7 @@
       <title>Видео,«Трамп делает работу по развалу НАТО за СССР». Как Россия влияет на мир в 2026 году? | Би-би-си объясняет, Продолжительность 10,55</title>
       <link>https://www.bbc.com/russian/articles/cly2j7j72mpo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly2j7j72mpo</guid>
-      <pubDate>Sun, 15 Mar 2026 03:25:04 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 05:21:56 +0000</pubDate>
     </item>
     <item>
       <title>Отравление Навального: главные вопросы об эпибатидине, его производстве и продаже в России и за рубежом</title>
@@ -141,19 +141,6 @@
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Почему Азербайджан уже шесть лет держит закрытыми наземные границы?</title>
-      <link>https://www.bbc.com/russian/articles/cx2rzxrkrgeo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx2rzxrkrgeo</guid>
-      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Видео,Китай, военный экспорт, K-pop: как Северная и Южная Корея влияют на мир? | Интервью Андрея Ланькова, Продолжительность 1,27,06</title>
-      <link>https://www.bbc.com/russian/articles/c78xg7877lno</link>
-      <description>Как устроен режим Кимов, почему Северная Корея остается устойчивой, как живет ее элита и зачем Ким Чен Ын выводит свою дочь на политическую сцену.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c78xg7877lno</guid>
-      <pubDate>Sun, 15 Mar 2026 03:25:04 +0000</pubDate>
-    </item>
-    <item>
       <title>«Отрубишь одну голову — вырастают новые». Как руководство Ирана построило систему, позволяющую ему удерживать власть</title>
       <link>https://www.bbc.com/russian/articles/c2lrqegq1jdo</link>
       <description>Эксперты считают, что «подобная Гидре» структура власти Ирана позволила ей выдержать многочисленные потрясения и вряд ли будет легко свергнута.</description>
@@ -189,6 +176,13 @@
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Почему Азербайджан уже шесть лет держит закрытыми наземные границы?</title>
+      <link>https://www.bbc.com/russian/articles/cx2rzxrkrgeo</link>
+      <description>Единственная страна в мире, которая до сих пор держит сухопутные границы закрытыми под предлогом борьбы с коронавирусом, — это Азербайджан. При этом сами власти признают, что это истинная причина — некие внешние силы, которые могут проникнуть в страну. Тем временем десятки тысяч азербайджанцев Грузии годами не видят своих близких.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx2rzxrkrgeo</guid>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Это послание Москве». Как российских политтехнологов в Анголе обвинили в шпионаже и терроризме</title>
       <link>https://www.bbc.com/russian/articles/cwygex5nlyyo</link>
       <description>24 марта в Анголе начнут судить двух россиян, обвиняемых в шпионаже, терроризме и подкупе. Следствие связывает их — и их шестерых коллег, успевших покинуть страну, — с проектом «Африканские политологи», основателем которого был Евгений Пригожин. Би-би-си рассказывает, кто эти люди, в чем именно их обвиняют, почему молчит Россия и как изменились ее отношения с Анголой после «разворота на Запад» этого африканского государства.</description>
@@ -199,7 +193,7 @@
       <title>Остров Харк — нефтяное сердце Ирана. Что будет, если США и Израиль разбомбят его?</title>
       <link>https://www.bbc.com/russian/articles/c9q5r29y349o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c9q5r29y349o</guid>
-      <pubDate>Sun, 15 Mar 2026 03:25:04 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 05:21:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
