@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Политика" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 11:12:09 +0000</lastBuildDate>
-    <item>
-      <title>Не слишком «полезные идиоты»: как Международное движение русофилов замкнуло на себя сети влияния Кремля</title>
-      <link>https://theins.ru/politika/287580</link>
-      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Mar 2026 12:01:54 +0000</lastBuildDate>
     <item>
       <title>Все идет по плану. Как команда Трампа реализует скандальный «Проект 2025» правых республиканцев</title>
       <link>https://theins.ru/politika/287524</link>
@@ -186,6 +181,11 @@
       <title>Ставка на курдов. Как США пытаются использовать курдские силы в Иране против аятолл и почему это сложнее, чем кажется</title>
       <link>https://theins.ru/politika/290195</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Остров в ожидании свободы. Как США добиваются смены режима на Кубе через экономическую блокаду и дипломатическое давление</title>
+      <link>https://theins.ru/politika/289639</link>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
