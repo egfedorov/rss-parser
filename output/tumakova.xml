@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 18 Mar 2026 07:05:30 +0000</lastBuildDate>
-    <item>
-      <title>«Предел достигнут» — Что будет с российской экономикой в случае продолжения боевых действий или достижения мира — объясняет Владислав Иноземцев*</title>
-      <link>https://novayagazeta.ru/articles/2025/05/20/predel-dostignut</link>
-      <description>Что будет с российской экономикой в случае продолжения боевых действий или достижения мира — объясняет Владислав Иноземцев*</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/20/predel-dostignut</guid>
-      <pubDate>Tue, 20 May 2025 09:47:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Mar 2026 08:02:18 +0000</lastBuildDate>
     <item>
       <title>«Если надо делать, то значит надо — и все» — Полярник Виктор Боярский — о том, как теперь Арктику будут осваивать</title>
       <link>https://novayagazeta.ru/articles/2025/05/29/esli-nado-delat-to-znachit-nado-i-vse</link>
@@ -287,6 +280,13 @@
       <description>Что сделал Иран, перекрыв ключевую водную артерию, объясняет эксперт по энергетическому рынку</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/16/takoi-ostanovki-ormuzskogo-proliva-ne-bylo-nikogda</guid>
       <pubDate>Mon, 16 Mar 2026 07:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Можно, но зачем, или Сборочная держава — Тревожная новость: закрывается проект российских лимузинов Aurus. Говорим с экспертом о российском авторынке</title>
+      <link>https://novayagazeta.ru/articles/2026/03/18/mozhno-no-zachem-ili-sborochnaia-derzhava</link>
+      <description>Тревожная новость: закрывается проект российских лимузинов Aurus. Говорим с экспертом о российском авторынке</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/18/mozhno-no-zachem-ili-sborochnaia-derzhava</guid>
+      <pubDate>Wed, 18 Mar 2026 07:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
