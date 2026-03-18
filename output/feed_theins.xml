@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Расследования" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 16:34:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 17:42:55 +0000</lastBuildDate>
     <item>
       <title>Взять за бутылочное горлышко: 9 уязвимых мест, где российская промышленность критически зависит от импорта</title>
       <link>https://theins.ru/inv/283618</link>
