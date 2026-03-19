@@ -6,12 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 11:04:20 +0000</lastBuildDate>
-    <item>
-      <title>Методичь. Как государственная пропаганда захватила российское образование — от детских садов до вузов</title>
-      <link>https://theins.ru/obshestvo/284870</link>
-      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Mar 2026 11:52:52 +0000</lastBuildDate>
     <item>
       <title>Эротические партизаны. Как в России проходят подпольные секс-вечеринки</title>
       <link>https://theins.ru/obshestvo/285724</link>
@@ -186,6 +181,11 @@
       <title>Убийственное решение. Как выход США из Всемирной организации здравоохранения приведет к росту смертности в мире</title>
       <link>https://theins.ru/obshestvo/289681</link>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Они убили все конкурентные преимущества Москвы». Как российская столица перестала быть цифровым городом из-за отключения интернета</title>
+      <link>https://theins.ru/obshestvo/290424</link>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
