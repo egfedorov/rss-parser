@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 19 Mar 2026 18:06:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 19:16:45 +0000</lastBuildDate>
     <item>
       <title>«Психотерапия со скальпелем». Почему молодые девушки в России все чаще делают пластику</title>
       <link>https://www.bbc.com/russian/articles/cm2x2n432dlo</link>
@@ -30,7 +30,7 @@
       <title>Видео,«Трамп делает работу по развалу НАТО за СССР». Как Россия влияет на мир в 2026 году? | Би-би-си объясняет, Продолжительность 10,55</title>
       <link>https://www.bbc.com/russian/articles/cly2j7j72mpo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly2j7j72mpo</guid>
-      <pubDate>Thu, 19 Mar 2026 18:06:33 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 19:16:45 +0000</pubDate>
     </item>
     <item>
       <title>Отравление Навального: главные вопросы об эпибатидине, его производстве и продаже в России и за рубежом</title>
@@ -129,12 +129,6 @@
       <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Проснутся, выйдут во двор и увидят пустоту». Почему в России начали массово убивать коров и свиней?</title>
-      <link>https://www.bbc.com/russian/articles/c98q8678zpdo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c98q8678zpdo</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Нет богословия, это политика». Что стоит за возвращением РПЦ Владимирской и Донской икон Божией Матери</title>
       <link>https://www.bbc.com/russian/articles/cm25nndljdeo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm25nndljdeo</guid>
@@ -152,14 +146,14 @@
       <link>https://www.bbc.com/russian/articles/cwygpqpzp1do</link>
       <description>Журналистка Би-би-си Юлия Джеймс поговорила с Павлом о его новой реальности, съемках фильма, пропаганде в школе и его «отмене» в России.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwygpqpzp1do</guid>
-      <pubDate>Thu, 19 Mar 2026 18:06:33 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 19:16:45 +0000</pubDate>
     </item>
     <item>
       <title>Видео,Зачем Токаев переписал конституцию Казахстана? | Видеоподкаст «Что это было?», Продолжительность 38,04</title>
       <link>https://www.bbc.com/russian/articles/cvg52gy4n9qo</link>
       <description>Зачем Токаев переписал конституцию Казахстана? | Видеоподкаст «Что это было?»</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvg52gy4n9qo</guid>
-      <pubDate>Thu, 19 Mar 2026 18:06:33 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 19:16:45 +0000</pubDate>
     </item>
     <item>
       <title>Умер патриарх всея Грузии Илия II, авторитет и лидер нации</title>
@@ -183,10 +177,17 @@
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Проснутся, выйдут во двор и увидят пустоту». Почему в России начали массово убивать коров и свиней?</title>
+      <link>https://www.bbc.com/russian/articles/c98q8678zpdo</link>
+      <description>В Новосибирской области уже несколько недель продолжается конфликт между фермерами и властями из-за массового уничтожения скота. Власти ссылаются на вспышки пастереллеза и бешенства, но, по словам фермеров, документы не показывают, а животных иногда убивают без анализов и без присутствия хозяев. На этом фоне растут подозрения, что под видом борьбы с этими болезнями власти могут скрывать более серьезную угрозу.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c98q8678zpdo</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Я готов извиниться перед украинцами». Как российский сержант бежал с передовой в Латвию</title>
       <link>https://www.bbc.com/russian/articles/c3v7gqnqvzvo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3v7gqnqvzvo</guid>
-      <pubDate>Thu, 19 Mar 2026 18:06:33 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 19:16:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
