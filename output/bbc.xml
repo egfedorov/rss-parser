@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 20 Mar 2026 07:57:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 08:54:18 +0000</lastBuildDate>
     <item>
       <title>«Психотерапия со скальпелем». Почему молодые девушки в России все чаще делают пластику</title>
       <link>https://www.bbc.com/russian/articles/cm2x2n432dlo</link>
@@ -30,7 +30,7 @@
       <title>Видео,«Трамп делает работу по развалу НАТО за СССР». Как Россия влияет на мир в 2026 году? | Би-би-си объясняет, Продолжительность 10,55</title>
       <link>https://www.bbc.com/russian/articles/cly2j7j72mpo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly2j7j72mpo</guid>
-      <pubDate>Fri, 20 Mar 2026 07:57:44 +0000</pubDate>
+      <pubDate>Fri, 20 Mar 2026 08:54:18 +0000</pubDate>
     </item>
     <item>
       <title>Отравление Навального: главные вопросы об эпибатидине, его производстве и продаже в России и за рубежом</title>
@@ -135,25 +135,11 @@
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Господин Никто и «Оскар» против Путина. Рассылка «Контекст»</title>
-      <link>https://www.bbc.com/russian/articles/cr45geyn4v0o</link>
-      <description>В этом выпуске рассылки «Контекст» поговорим о фильме Павла Таланкина, который получил «Оскар» за лучшее документальное кино. Вспомним, о чем этот фильм, что вызывает критику у журналистов и зрителей и что думают об авторе сами герои фильма.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cr45geyn4v0o</guid>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Видео,«Этого фильма не было и нет». Интервью с режиссером «Господин Никто против Путина» Павлом Таланкиным, Продолжительность 50,52</title>
-      <link>https://www.bbc.com/russian/articles/cwygpqpzp1do</link>
-      <description>Журналистка Би-би-си Юлия Джеймс поговорила с Павлом о его новой реальности, съемках фильма, пропаганде в школе и его «отмене» в России.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwygpqpzp1do</guid>
-      <pubDate>Fri, 20 Mar 2026 07:57:44 +0000</pubDate>
-    </item>
-    <item>
       <title>Видео,Зачем Токаев переписал конституцию Казахстана? | Видеоподкаст «Что это было?», Продолжительность 38,04</title>
       <link>https://www.bbc.com/russian/articles/cvg52gy4n9qo</link>
       <description>Зачем Токаев переписал конституцию Казахстана? | Видеоподкаст «Что это было?»</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvg52gy4n9qo</guid>
-      <pubDate>Fri, 20 Mar 2026 07:57:44 +0000</pubDate>
+      <pubDate>Fri, 20 Mar 2026 08:54:18 +0000</pubDate>
     </item>
     <item>
       <title>Умер патриарх всея Грузии Илия II, авторитет и лидер нации</title>
@@ -186,8 +172,15 @@
     <item>
       <title>«Я готов извиниться перед украинцами». Как российский сержант бежал с передовой в Латвию</title>
       <link>https://www.bbc.com/russian/articles/c3v7gqnqvzvo</link>
+      <description>Корреспонденты Русской службы Би-би-си встретились с Петром Давыдовым в миграционном центре Даугавпилса, чтобы поговорить о том, почему он отправился на войну и как решился ее покинуть.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3v7gqnqvzvo</guid>
-      <pubDate>Fri, 20 Mar 2026 07:57:44 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Европе и миру грозит газовый кризис из-за эскалации войны в Иране. Плохие новости для всех, кроме России</title>
+      <link>https://www.bbc.com/russian/articles/cvglewpnn40o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvglewpnn40o</guid>
+      <pubDate>Fri, 20 Mar 2026 08:54:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
