@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 21 Mar 2026 10:37:38 +0000</lastBuildDate>
-    <item>
-      <title>Неводьба — Рыбалка — это когда окружающее внезапно выпускает из окружения. Делает одолжение: беги</title>
-      <link>https://novayagazeta.ru/articles/2025/06/28/nevodba</link>
-      <description>Рыбалка — это когда окружающее внезапно выпускает из окружения. Делает одолжение: беги</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/06/28/nevodba</guid>
-      <pubDate>Sat, 28 Jun 2025 08:01:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Mar 2026 10:59:07 +0000</lastBuildDate>
     <item>
       <title>Плуг не останавливается из-за мертвецов — Россия — это наша страна. В ней, с ней, вот такой, предстоит жить дальше…</title>
       <link>https://novayagazeta.ru/articles/2025/07/10/plug-ne-ostanavlivaetsia-iz-za-mertvetsov</link>
@@ -287,6 +280,13 @@
       <description>«Лайфхак для пополнения бюджета»: не рисовали — но платить вам</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/20/za-chuzhie-khudozhestva</guid>
       <pubDate>Fri, 20 Mar 2026 07:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Мороприятия — Костры из туш скота отгорают в Сибири. Послесловие</title>
+      <link>https://novayagazeta.ru/articles/2026/03/21/moropriiatiia</link>
+      <description>Костры из туш скота отгорают в Сибири. Послесловие</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/21/moropriiatiia</guid>
+      <pubDate>Sat, 21 Mar 2026 10:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
