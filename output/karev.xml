@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 21 Mar 2026 06:57:59 +0000</lastBuildDate>
-    <item>
-      <title>«ФСБ» на проводе — Москвичка стала жертвой мошенников и сама оказалась на скамье подсудимых</title>
-      <link>https://novayagazeta.ru/articles/2025/09/18/fsb-na-provode</link>
-      <description>Москвичка стала жертвой мошенников и сама оказалась на скамье подсудимых</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/18/fsb-na-provode</guid>
-      <pubDate>Thu, 18 Sep 2025 07:10:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Mar 2026 07:39:08 +0000</lastBuildDate>
     <item>
       <title>Политзеки Горинов и Мифтахов обратились в ООН с жалобами на незаконное лишение свободы</title>
       <link>https://novayagazeta.ru/news/2025/09/22/politzeki-gorinov-i-miftakhov-obratilis-v-oon-s-zhalobami-na-nezakonnoe-lishenie-svobody-news</link>
@@ -287,6 +280,13 @@
       <description>Срок — за слова, уголовка — за донат, арест — за логотип соцсети и штраф — за реакцию в «Одноклассниках»</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/07/ne-tuda-laiknul</guid>
       <pubDate>Sat, 07 Mar 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Мысли под следствием — Как слова, лайки и даже поиски в Гугле могут обернуться наказанием</title>
+      <link>https://novayagazeta.ru/articles/2026/03/21/mysli-pod-sledstviem</link>
+      <description>Как слова, лайки и даже поиски в Гугле могут обернуться наказанием</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/21/mysli-pod-sledstviem</guid>
+      <pubDate>Sat, 21 Mar 2026 07:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
