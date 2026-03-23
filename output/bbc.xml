@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 23 Mar 2026 03:18:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 05:17:33 +0000</lastBuildDate>
     <item>
       <title>Серьезный шаг к «суверенному интернету»: в России применили новый способ блокировки YouTube и WhatsApp и сильно ограничили работу телеграма</title>
       <link>https://www.bbc.com/russian/articles/c5ykggrk4v2o</link>
@@ -18,7 +18,7 @@
       <title>Видео,«Трамп делает работу по развалу НАТО за СССР». Как Россия влияет на мир в 2026 году? | Би-би-си объясняет, Продолжительность 10,55</title>
       <link>https://www.bbc.com/russian/articles/cly2j7j72mpo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly2j7j72mpo</guid>
-      <pubDate>Mon, 23 Mar 2026 03:18:59 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 05:17:33 +0000</pubDate>
     </item>
     <item>
       <title>Отравление Навального: главные вопросы об эпибатидине, его производстве и продаже в России и за рубежом</title>
@@ -169,6 +169,13 @@
       <description>С начала марта курс рубля к доллару быстро ослабевает. Русская служба Би-би-си в 100 и 500 словах рассказывает, как аналитики рынка объясняют изменение курса и что говорят о будущем российской валюты.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8r4x3g603vo</guid>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Почему взрослые увидели угрозу, а дети — нет: казус лондонской «войны красных и синих школ»</title>
+      <link>https://www.bbc.com/russian/articles/cpw0e4rpye2o</link>
+      <description>Родителей лондонских школьников напугали «завирусившиеся» в сетях посты с призывами к массовым дракам. Драк не случилось. Все оказалось несколько сложнее.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cpw0e4rpye2o</guid>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
