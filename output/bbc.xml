@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 23 Mar 2026 18:07:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 19:16:07 +0000</lastBuildDate>
     <item>
       <title>Серьезный шаг к «суверенному интернету»: в России применили новый способ блокировки YouTube и WhatsApp и сильно ограничили работу телеграма</title>
       <link>https://www.bbc.com/russian/articles/c5ykggrk4v2o</link>
@@ -18,7 +18,7 @@
       <title>Видео,«Трамп делает работу по развалу НАТО за СССР». Как Россия влияет на мир в 2026 году? | Би-би-си объясняет, Продолжительность 10,55</title>
       <link>https://www.bbc.com/russian/articles/cly2j7j72mpo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly2j7j72mpo</guid>
-      <pubDate>Mon, 23 Mar 2026 18:07:16 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 19:16:07 +0000</pubDate>
     </item>
     <item>
       <title>Отравление Навального: главные вопросы об эпибатидине, его производстве и продаже в России и за рубежом</title>
@@ -129,12 +129,6 @@
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Спирали молчания». Работает ли пропаганда в школах?</title>
-      <link>https://www.bbc.com/russian/articles/cwyj39yd3wvo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwyj39yd3wvo</guid>
-      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Проснутся, выйдут во двор и увидят пустоту». Почему в России начали массово убивать коров и свиней?</title>
       <link>https://www.bbc.com/russian/articles/c98q8678zpdo</link>
       <description>В Новосибирской области уже несколько недель продолжается конфликт между фермерами и властями из-за массового уничтожения скота. Власти ссылаются на вспышки пастереллеза и бешенства, но, по словам фермеров, документы не показывают, а животных иногда убивают без анализов и без присутствия хозяев. На этом фоне растут подозрения, что под видом борьбы с этими болезнями власти могут скрывать более серьезную угрозу.</description>
@@ -173,7 +167,7 @@
       <title>Это был самый большой айсберг в мире. Теперь он доживает последние недели</title>
       <link>https://www.bbc.com/russian/resources/idt-20f878f1-f4af-4022-9f62-b0515b9f4b20</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/resources/idt-20f878f1-f4af-4022-9f62-b0515b9f4b20</guid>
-      <pubDate>Mon, 23 Mar 2026 18:07:16 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 19:16:07 +0000</pubDate>
     </item>
     <item>
       <title>Замкнутый круг. Почему буксуют переговоры о мире в Украине</title>
@@ -181,6 +175,13 @@
       <description>В переговорах о конце войны в Украине, которые Москва, Киев и Вашингтон ведут с начала этого года, возникла пауза. Публично стороны объясняют это тем, что внимание Белого дома приковано к войне с Ираном. Но, как выяснила Би-би-си, дело не только в этом.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly930lqwj8o</guid>
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Спирали молчания». Работает ли пропаганда в школах?</title>
+      <link>https://www.bbc.com/russian/articles/cwyj39yd3wvo</link>
+      <description>В фильме «Господин Никто против Путина», основанном на съемках уроков «патриотического воспитания» в провинциальной школе, показана картина милитаризации российского образования при кажущемся равнодушии учителей и детей. Но работает ли пропаганда на самом деле и что происходит, когда школьные установки идут вразрез с родительским воспитанием?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwyj39yd3wvo</guid>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
