@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 23 Mar 2026 06:42:34 +0000</lastBuildDate>
-    <item>
-      <title>«Зачем мне долго?» — Памяти Вадима Жука: подборка стихов из последнего прижизненного сборника «Вдох-выдох»</title>
-      <link>https://novayagazeta.ru/articles/2025/03/21/zachem-mne-dolgo</link>
-      <description>Памяти Вадима Жука: подборка стихов из последнего прижизненного сборника «Вдох-выдох»</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/03/21/zachem-mne-dolgo</guid>
-      <pubDate>Fri, 21 Mar 2025 08:32:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Mar 2026 08:03:08 +0000</lastBuildDate>
     <item>
       <title>Карательная несдержанность — О книге «Надзирать и наказывать. Рождение тюрьмы» Мишеля Фуко</title>
       <link>https://novayagazeta.ru/articles/2025/04/02/karatelnaia-nesderzhannost</link>
@@ -287,6 +280,13 @@
       <description>«Все люди рождаются свободными, за исключением тех случаев, когда в них нуждается человечество». О книге «Игра Эндера»</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/10/chto-nasha-smert-igra</guid>
       <pubDate>Tue, 10 Mar 2026 09:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Город Счастье — Тридцать лет одиночества семьи, которая просто хотела жить</title>
+      <link>https://novayagazeta.ru/articles/2026/03/23/gorod-schaste</link>
+      <description>Тридцать лет одиночества семьи, которая просто хотела жить</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/23/gorod-schaste</guid>
+      <pubDate>Mon, 23 Mar 2026 07:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
