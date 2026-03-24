@@ -7,12 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 24 Mar 2026 07:32:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 08:28:01 +0000</lastBuildDate>
     <item>
       <title>Видео,«Трамп делает работу по развалу НАТО за СССР». Как Россия влияет на мир в 2026 году? | Би-би-си объясняет, Продолжительность 10,55</title>
       <link>https://www.bbc.com/russian/articles/cly2j7j72mpo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly2j7j72mpo</guid>
-      <pubDate>Tue, 24 Mar 2026 07:32:23 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 08:28:01 +0000</pubDate>
     </item>
     <item>
       <title>Отравление Навального: главные вопросы об эпибатидине, его производстве и продаже в России и за рубежом</title>
@@ -117,6 +117,24 @@
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Проснутся, выйдут во двор и увидят пустоту». Почему в России начали массово убивать коров и свиней?</title>
+      <link>https://www.bbc.com/russian/articles/c98q8678zpdo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c98q8678zpdo</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Я готов извиниться перед украинцами». Как российский сержант бежал с передовой в Латвию</title>
+      <link>https://www.bbc.com/russian/articles/c3v7gqnqvzvo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3v7gqnqvzvo</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Нет богословия, это политика». Что стоит за возвращением РПЦ Владимирской и Донской икон Божией Матери</title>
+      <link>https://www.bbc.com/russian/articles/cm25nndljdeo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm25nndljdeo</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Российское наступление в Украине резко замедлилось. Почему?</title>
       <link>https://www.bbc.com/russian/articles/cvgv22y6dgvo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgv22y6dgvo</guid>
@@ -127,27 +145,6 @@
       <link>https://www.bbc.com/russian/articles/ckg8gz9mv12o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckg8gz9mv12o</guid>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Проснутся, выйдут во двор и увидят пустоту». Почему в России начали массово убивать коров и свиней?</title>
-      <link>https://www.bbc.com/russian/articles/c98q8678zpdo</link>
-      <description>В Новосибирской области уже несколько недель продолжается конфликт между фермерами и властями из-за массового уничтожения скота. Власти ссылаются на вспышки пастереллеза и бешенства, но, по словам фермеров, документы не показывают, а животных иногда убивают без анализов и без присутствия хозяев. На этом фоне растут подозрения, что под видом борьбы с этими болезнями власти могут скрывать более серьезную угрозу.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c98q8678zpdo</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Нет богословия, это политика». Что стоит за возвращением РПЦ Владимирской и Донской икон Божией Матери</title>
-      <link>https://www.bbc.com/russian/articles/cm25nndljdeo</link>
-      <description>К Пасхе, которую православные в этом году празднуют 12 апреля, Третьяковская галерея в Москве может передать Русской православной церкви две древние иконы Божией Матери — Владимирскую и Донскую. Зачем забирать у музея шедевры и что ждет их на новом месте?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm25nndljdeo</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Я готов извиниться перед украинцами». Как российский сержант бежал с передовой в Латвию</title>
-      <link>https://www.bbc.com/russian/articles/c3v7gqnqvzvo</link>
-      <description>Корреспонденты Русской службы Би-би-си встретились с Петром Давыдовым в миграционном центре Даугавпилса, чтобы поговорить о том, почему он отправился на войну и как решился ее покинуть.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3v7gqnqvzvo</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Почему взрослые увидели угрозу, а дети — нет: казус лондонской «войны красных и синих школ»</title>
@@ -167,7 +164,7 @@
       <title>Это был самый большой айсберг в мире. Теперь он доживает последние недели</title>
       <link>https://www.bbc.com/russian/resources/idt-20f878f1-f4af-4022-9f62-b0515b9f4b20</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/resources/idt-20f878f1-f4af-4022-9f62-b0515b9f4b20</guid>
-      <pubDate>Tue, 24 Mar 2026 07:32:23 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 08:28:01 +0000</pubDate>
     </item>
     <item>
       <title>Замкнутый круг. Почему буксуют переговоры о мире в Украине</title>
@@ -182,6 +179,12 @@
       <description>В фильме «Господин Никто против Путина», основанном на съемках уроков «патриотического воспитания» в провинциальной школе, показана картина милитаризации российского образования при кажущемся равнодушии учителей и детей. Но работает ли пропаганда на самом деле и что происходит, когда школьные установки идут вразрез с родительским воспитанием?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwyj39yd3wvo</guid>
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Барин, вдова и «фейковые» интервью: как в России появляются коммерческие «иноагенты»</title>
+      <link>https://www.bbc.com/russian/articles/cvgjyn07g5po</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgjyn07g5po</guid>
+      <pubDate>Tue, 24 Mar 2026 08:28:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
