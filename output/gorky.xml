@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Tue, 24 Mar 2026 08:28:05 +0000</lastBuildDate><item><title>Вакцина от вируса сталинизма</title><link>https://gorky.media/context/vaktsina-ot-virusa-stalinizma</link><description>О главной книге историка Роя Медведева
-
-05.03.2026</description><pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate></item><item><title>«Литература в литературе» Алексея Ремизова</title><link>https://gorky.media/context/literatura-v-literature-alekseya-remizova</link><description>Интервью с составителями книги «Алексей Ремизов глазами современников»
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Tue, 24 Mar 2026 09:37:12 +0000</lastBuildDate><item><title>«Литература в литературе» Алексея Ремизова</title><link>https://gorky.media/context/literatura-v-literature-alekseya-remizova</link><description>Интервью с составителями книги «Алексей Ремизов глазами современников»
 
 06.03.2026</description><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate></item><item><title>Пропаганда вечных ценностей</title><link>https://gorky.media/context/propaganda-vechnyx-tsennostei</link><description>Беседа с Ольгой Варшавер о детской литературе и идеологии
 
@@ -23,4 +21,6 @@
 
 20.03.2026</description><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate></item><item><title>Формализм на переломе</title><link>https://gorky.media/context/formalizm-na-perelome</link><description>Лекция Валерия Отяковского о формальном методе накануне Сталина и после него
 
-23.03.2026</description><pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate></item></channel></rss>
+23.03.2026</description><pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate></item><item><title>Основательность вместо новизны</title><link>https://gorky.media/context/osnovatelnost-vmesto-novizny</link><description>Артем Юнусов — о книге Дэвида Росса «Аристотель»
+
+24.03.2026</description><pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate></item></channel></rss>
