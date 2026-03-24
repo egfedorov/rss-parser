@@ -7,12 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 24 Mar 2026 12:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 14:02:50 +0000</lastBuildDate>
     <item>
       <title>Видео,«Трамп делает работу по развалу НАТО за СССР». Как Россия влияет на мир в 2026 году? | Би-би-си объясняет, Продолжительность 10,55</title>
       <link>https://www.bbc.com/russian/articles/cly2j7j72mpo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly2j7j72mpo</guid>
-      <pubDate>Tue, 24 Mar 2026 12:33:10 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 14:02:50 +0000</pubDate>
     </item>
     <item>
       <title>Отравление Навального: главные вопросы об эпибатидине, его производстве и продаже в России и за рубежом</title>
@@ -161,10 +161,17 @@
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>От яхт до карликовых кур: как проходит обычный день «няни миллионера»</title>
+      <link>https://www.bbc.com/russian/articles/c98qq4051z3o</link>
+      <description>«Знаете выражение о том, что у всех одинаковое количество времени в сутках — 24 часа? Это неправда, — говорит 31-летняя Джулиана Пассарелли из Сан-Паулу, которая работает личной помощницей миллионера. — У моего босса есть еще мои 24 часа».</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c98qq4051z3o</guid>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Это был самый большой айсберг в мире. Теперь он доживает последние недели</title>
       <link>https://www.bbc.com/russian/resources/idt-20f878f1-f4af-4022-9f62-b0515b9f4b20</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/resources/idt-20f878f1-f4af-4022-9f62-b0515b9f4b20</guid>
-      <pubDate>Tue, 24 Mar 2026 12:33:10 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 14:02:50 +0000</pubDate>
     </item>
     <item>
       <title>Замкнутый круг. Почему буксуют переговоры о мире в Украине</title>
@@ -183,8 +190,9 @@
     <item>
       <title>Барин, вдова и «фейковые» интервью: как в России появляются коммерческие «иноагенты»</title>
       <link>https://www.bbc.com/russian/articles/cvgjyn07g5po</link>
+      <description>Би-би-си рассказывает, как репрессивный механизм применялся в решении коммерческих конфликтов, а для признания людей «иноагентами» использовались статьи в малоизвестных западных медиа.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgjyn07g5po</guid>
-      <pubDate>Tue, 24 Mar 2026 12:33:10 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
