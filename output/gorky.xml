@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Thu, 26 Mar 2026 09:42:34 +0000</lastBuildDate><item><title>Homo Bulla</title><link>https://gorky.media/context/homo-bulla</link><description>Памяти Константина Богданова
-
-10.03.2026</description><pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate></item><item><title>Иногда остается только книга</title><link>https://gorky.media/context/inogda-ostaetsya-tolko-kniga</link><description>Интервью с Вадимом Щербаковым о Константине Миклашевском
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Thu, 26 Mar 2026 10:55:03 +0000</lastBuildDate><item><title>Иногда остается только книга</title><link>https://gorky.media/context/inogda-ostaetsya-tolko-kniga</link><description>Интервью с Вадимом Щербаковым о Константине Миклашевском
 
 11.03.2026</description><pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate></item><item><title>«Стратегия была одна — сохранить веру»</title><link>https://gorky.media/context/strategiya-byla-odna-soxranit-veru</link><description>Андрей Фаст — об истории щучинской общины христиан-баптистов
 
@@ -22,5 +20,7 @@
 24.03.2026</description><pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate></item><item><title>Повседневность веры</title><link>https://gorky.media/context/povsednevnost-very</link><description>Пять книг о «живой религии»
 
 25.03.2026</description><pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate></item><item><title>Ифриты госпожи нашей Анны Иоановны</title><link>https://gorky.media/context/ifrity-gospozhi-nashei-anny-ioanovny</link><description>Об арабском переложении ныне забытого романа Михаила Волконского
+
+26.03.2026</description><pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate></item><item><title>«Мы тихо высиживали рабочие часы, часто в одиночестве, и уезжали домой»</title><link>https://gorky.media/context/my-tixo-vysizhivali-rabochie-chasy-chasto-v-odinochestve-i-uezzhali-domoi</link><description>Печальная история книжного магазина Pipkin
 
 26.03.2026</description><pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate></item></channel></rss>
