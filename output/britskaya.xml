@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 28 Mar 2026 07:02:53 +0000</lastBuildDate>
-    <item>
-      <title>«Донести каждый может — и тюрьма!» — Как живет владелица «бутика» в глухой деревне и почему не верит в «Честный знак». И что думает «Честный знак» о ее работе</title>
-      <link>https://novayagazeta.ru/articles/2025/06/02/donesti-kazhdyi-mozhet-i-tiurma</link>
-      <description>Как живет владелица «бутика» в глухой деревне и почему не верит в «Честный знак». И что думает «Честный знак» о ее работе</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/06/02/donesti-kazhdyi-mozhet-i-tiurma</guid>
-      <pubDate>Mon, 02 Jun 2025 10:39:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Mar 2026 07:55:37 +0000</lastBuildDate>
     <item>
       <title>Наполеон на Первой мировой, неэлегантный Ватикан и магия Конституции — Топ-10 майской дури</title>
       <link>https://novayagazeta.ru/articles/2025/06/03/napoleon-na-pervoi-mirovoi-neelegantnyi-vatikan-i-magiia-konstitutsii</link>
@@ -287,6 +280,13 @@
       <description>Зачем в Мурманске потребовали начать охоту на тюленей</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/27/kolbasa-deputatskaia</guid>
       <pubDate>Fri, 27 Mar 2026 11:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Без пометки "на правах рекламы"» — Рассказываем, сколько власть тратит на «джинсу» в мессенджере, который сама же блокирует</title>
+      <link>https://novayagazeta.ru/articles/2026/03/28/bez-pometki-na-pravakh-reklamy</link>
+      <description>Рассказываем, сколько власть тратит на «джинсу» в мессенджере, который сама же блокирует</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/28/bez-pometki-na-pravakh-reklamy</guid>
+      <pubDate>Sat, 28 Mar 2026 07:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
