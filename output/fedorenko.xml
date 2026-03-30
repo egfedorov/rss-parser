@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 30 Mar 2026 11:30:38 +0000</lastBuildDate>
-    <item>
-      <title>Самая большая в мире пробка — На фоне ажиотажа из-за повышения утильсбора на Уссурийской таможне выстроились километровые очереди автовозов</title>
-      <link>https://novayagazeta.ru/articles/2025/10/22/samaia-bolshaia-v-mire-probka</link>
-      <description>На фоне ажиотажа из-за повышения утильсбора на Уссурийской таможне выстроились километровые очереди автовозов</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/22/samaia-bolshaia-v-mire-probka</guid>
-      <pubDate>Wed, 22 Oct 2025 08:57:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Mar 2026 12:39:07 +0000</lastBuildDate>
     <item>
       <title>На Сахалине более 100 тысяч человек остались без света. Это почти четверть жителей</title>
       <link>https://novayagazeta.ru/news/2025/10/28/na-sakhaline-bolee-100-tysiach-chelovek-ostalis-bez-sveta-eto-pochti-chetvert-zhitelei-news</link>
@@ -287,6 +280,13 @@
       <description>Лидер партии получила судимость по статье о «реабилитации нацизма» за пост пятилетней давности, который отыскался очень кстати — перед выборами</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/24/vlast-gotovitsia-k-vyboram</guid>
       <pubDate>Tue, 24 Mar 2026 09:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нет зачета-автомата — получи пистолет-пулемет — Главный университет Дальнего Востока пытается набрать контрактников из «хвостистов». Пока получается не очень</title>
+      <link>https://novayagazeta.ru/articles/2026/03/30/net-zacheta-avtomata-poluchi-pistolet-pulemet</link>
+      <description>Главный университет Дальнего Востока пытается набрать контрактников из «хвостистов». Пока получается не очень</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/30/net-zacheta-avtomata-poluchi-pistolet-pulemet</guid>
+      <pubDate>Mon, 30 Mar 2026 12:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
