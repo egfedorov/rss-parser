@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 30 Mar 2026 05:28:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 07:09:15 +0000</lastBuildDate>
     <item>
       <title>«Все дорогое, и нам все это не нравится». Чем обернутся требования локализации такси в России</title>
       <link>https://www.bbc.com/russian/articles/clyzq0g522qo</link>
@@ -123,37 +123,22 @@
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Сквозь глушилки и через блокировки. Русская служба Би-би-си отмечает 80-летие</title>
+      <link>https://www.bbc.com/russian/articles/ckg8gz9mv12o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckg8gz9mv12o</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Репродуктивный труд не заканчивается никогда». Как устроено женское старение в России</title>
       <link>https://www.bbc.com/russian/articles/cqj9jg402pxo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqj9jg402pxo</guid>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Барин, вдова и «фейковые» интервью: как в России появляются коммерческие «иноагенты»</title>
-      <link>https://www.bbc.com/russian/articles/cvgjyn07g5po</link>
-      <description>Би-би-си рассказывает, как репрессивный механизм применялся в решении коммерческих конфликтов, а для признания людей «иноагентами» использовались статьи в малоизвестных западных медиа.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgjyn07g5po</guid>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сквозь глушилки и через блокировки. Русская служба Би-би-си отмечает 80-летие</title>
-      <link>https://www.bbc.com/russian/articles/ckg8gz9mv12o</link>
-      <description>Русской службе Би-би-си 80 лет. Примерно половину этого времени она работала, невзирая на противодействие советских властей. И теперь работает — несмотря на усиливающиеся блокировки со стороны российских цензурных органов.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckg8gz9mv12o</guid>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Россиян зовут на митинги за свободный интернет. Кто это делает?</title>
       <link>https://www.bbc.com/russian/articles/cddq6mpdjdeo</link>
       <description>На 29 марта во многих городах России назначен протест против блокировок мессенджеров и отключений интернета. Кто и зачем это предложил, до конца неизвестно, согласовать митинги не удается. Участие в несогласованном протесте несет риски уголовного дела.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cddq6mpdjdeo</guid>
-      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Я обнял человека с бомбой и уговорил его не взрывать больницу»</title>
-      <link>https://www.bbc.com/russian/articles/c80mvx0xve7o</link>
-      <description>Когда 35-летний Нейтан Ньюби пришел на прием к врачу в больнице Сент-Джеймс в Лидсе в 2023 году, он не знал, что уйдет оттуда героем и будет награжден медалью Святого Георгия. В течение двух часов Ньюби убеждал «террориста-одиночку» Мохаммада Фарука отказаться от своего плана напасть на пациентов, и ему это удалось.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c80mvx0xve7o</guid>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -180,8 +165,9 @@
     <item>
       <title>«Артемида-2»: к Луне и обратно</title>
       <link>https://www.bbc.com/russian/resources/idt-86aafe5a-17e2-479c-9e12-3a7a41e10e9e</link>
+      <description>Впервые за более чем полвека человечество возвращается на Луну, планируя послать космический корабль с астронавтами на такое расстояние от Земли, которое ранее никем не преодолевалось.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/resources/idt-86aafe5a-17e2-479c-9e12-3a7a41e10e9e</guid>
-      <pubDate>Mon, 30 Mar 2026 05:28:39 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 07:09:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
