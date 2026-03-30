@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 29 Mar 2026 23:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 02:47:44 +0000</lastBuildDate>
     <item>
       <title>«Все дорогое, и нам все это не нравится». Чем обернутся требования локализации такси в России</title>
       <link>https://www.bbc.com/russian/articles/clyzq0g522qo</link>
@@ -117,15 +117,8 @@
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Все сидели без интернета». Как отключения в Москве повлияли на бизнес</title>
-      <link>https://www.bbc.com/russian/articles/c9d4583v9v3o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c9d4583v9v3o</guid>
-      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Спирали молчания». Работает ли пропаганда в школах?</title>
       <link>https://www.bbc.com/russian/articles/cwyj39yd3wvo</link>
-      <description>В фильме «Господин Никто против Путина», основанном на съемках уроков «патриотического воспитания» в провинциальной школе, показана картина милитаризации российского образования при кажущемся равнодушии учителей и детей. Но работает ли пропаганда на самом деле и что происходит, когда школьные установки идут вразрез с родительским воспитанием?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwyj39yd3wvo</guid>
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
     </item>
@@ -179,10 +172,17 @@
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Все сидели без интернета». Как отключения в Москве повлияли на бизнес</title>
+      <link>https://www.bbc.com/russian/articles/c9d4583v9v3o</link>
+      <description>С начала марта в центре Москвы начали регулярно отключать мобильный интернет. Не работали навигация, терминалы оплаты и даже платные туалеты. Примерно с 24 марта блокировки стали слабее. Русская служба Би-би-си поговорила с предпринимателями о том, как перебои со связью навредили их бизнесу.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c9d4583v9v3o</guid>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Артемида-2»: к Луне и обратно</title>
       <link>https://www.bbc.com/russian/resources/idt-86aafe5a-17e2-479c-9e12-3a7a41e10e9e</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/resources/idt-86aafe5a-17e2-479c-9e12-3a7a41e10e9e</guid>
-      <pubDate>Sun, 29 Mar 2026 23:50:36 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 02:47:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
