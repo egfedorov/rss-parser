@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 02 Apr 2026 10:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 11:12:30 +0000</lastBuildDate>
     <item>
       <title>Законна ли война США и Израиля с Ираном? И другие вопросы к действиям Трампа</title>
       <link>https://www.bbc.com/russian/articles/cpd8y7vdwjdo</link>
@@ -151,7 +151,7 @@
       <link>https://www.bbc.com/russian/resources/idt-86aafe5a-17e2-479c-9e12-3a7a41e10e9e</link>
       <description>Впервые за более чем полвека человечество возвращается на Луну, планируя послать космический корабль с астронавтами на такое расстояние от Земли, которое ранее никем не преодолевалось.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/resources/idt-86aafe5a-17e2-479c-9e12-3a7a41e10e9e</guid>
-      <pubDate>Thu, 02 Apr 2026 10:15:32 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 11:12:30 +0000</pubDate>
     </item>
     <item>
       <title>«Украина», «Киев» и «Зеленский». Репортаж с митинга Орбана, который показывает, чего ожидать от выборов</title>
@@ -182,10 +182,17 @@
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Китай пытается выступить миротворцем в иранском конфликте — удастся ли это?</title>
+      <link>https://www.bbc.com/russian/articles/cq6j9v6r9yno</link>
+      <description>Это резкий поворот в позиции Пекина, официальная реакция которого до сих пор была сдержанной. Почему Китай вмешивается именно сейчас?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq6j9v6r9yno</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Артемида-2»: полет к Луне в спецэфире Би-би-си</title>
       <link>https://www.bbc.com/russian/articles/c4gv755nlg3o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4gv755nlg3o</guid>
-      <pubDate>Thu, 02 Apr 2026 10:15:32 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 11:12:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
