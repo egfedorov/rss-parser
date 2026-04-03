@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 02 Apr 2026 23:52:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 02:39:12 +0000</lastBuildDate>
     <item>
       <title>Законна ли война США и Израиля с Ираном? И другие вопросы к действиям Трампа</title>
       <link>https://www.bbc.com/russian/articles/cpd8y7vdwjdo</link>
@@ -151,14 +151,7 @@
       <link>https://www.bbc.com/russian/resources/idt-86aafe5a-17e2-479c-9e12-3a7a41e10e9e</link>
       <description>Впервые за более чем полвека человечество возвращается на Луну, планируя послать космический корабль с астронавтами на такое расстояние от Земли, которое ранее никем не преодолевалось.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/resources/idt-86aafe5a-17e2-479c-9e12-3a7a41e10e9e</guid>
-      <pubDate>Thu, 02 Apr 2026 23:52:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Украина», «Киев» и «Зеленский». Репортаж с митинга Орбана, который показывает, чего ожидать от выборов</title>
-      <link>https://www.bbc.com/russian/articles/c5yl0nd8877o</link>
-      <description>Хотя опросы сулят Виктору Орбану поражение на выборах, корреспондент Би-би-си, побывавший на его митинге в Пецеле, увидел: списывать Орбана со счетов явно рано.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c5yl0nd8877o</guid>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Apr 2026 02:39:12 +0000</pubDate>
     </item>
     <item>
       <title>Следующая остановка — Марс? Почему лунная миссия «Артемида» настолько важна для NASA</title>
@@ -196,6 +189,13 @@
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Миссия НАСА «Артемида-2» отправилась к Луне: фоторепортаж</title>
+      <link>https://www.bbc.com/russian/articles/c705r425p3go</link>
+      <description>В среду вечером ракета «Артемида-2» устремилась в небо, положив начало первой за последние полвека пилотируемой миссии НАСА на Луну.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c705r425p3go</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Министр войны. Кто такой Пит Хегсет — глава Пентагона и главный «чирлидер» операции в Иране</title>
       <link>https://www.bbc.com/russian/articles/c0lengnddp8o</link>
       <description>За первый месяц войны в Иране одним из главных мировых ньюсмейкеров стал Пит Хегсет — министр обороны США, редко сдерживающий себя в выражениях. Бывший телеведущий Fox News, который называет правила ведения войны «чушью», пришел в Пентагон, обещая встряхнуть ведомство. Он объявил войну «раздутому аппарату», политике инклюзивности и журналистам, но запомнится, скорее всего, войной против Ирана.</description>
@@ -206,7 +206,7 @@
       <title>«Артемида-2»: полет к Луне в спецэфире Би-би-си</title>
       <link>https://www.bbc.com/russian/articles/c4gv755nlg3o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4gv755nlg3o</guid>
-      <pubDate>Thu, 02 Apr 2026 23:52:08 +0000</pubDate>
+      <pubDate>Fri, 03 Apr 2026 02:39:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
