@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 03 Apr 2026 08:33:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 09:36:19 +0000</lastBuildDate>
     <item>
       <title>Как война США и Израиля с Ираном может отразиться на странах Южного Кавказа</title>
       <link>https://www.bbc.com/russian/articles/cx2883v09d7o</link>
@@ -151,7 +151,7 @@
       <link>https://www.bbc.com/russian/resources/idt-86aafe5a-17e2-479c-9e12-3a7a41e10e9e</link>
       <description>Впервые за более чем полвека человечество возвращается на Луну, планируя послать космический корабль с астронавтами на такое расстояние от Земли, которое ранее никем не преодолевалось.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/resources/idt-86aafe5a-17e2-479c-9e12-3a7a41e10e9e</guid>
-      <pubDate>Fri, 03 Apr 2026 08:33:28 +0000</pubDate>
+      <pubDate>Fri, 03 Apr 2026 09:36:19 +0000</pubDate>
     </item>
     <item>
       <title>Следующая остановка — Марс? Почему лунная миссия «Артемида» настолько важна для NASA</title>
@@ -210,10 +210,17 @@
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Из-за чего поспорили Путин и Пашинян? Объясняет политолог Кирилл Кривошеев в подкасте «Что это было»</title>
+      <link>https://www.bbc.com/russian/articles/c62kdd8vzz3o</link>
+      <description>Премьер-министр Армении Никол Пашинян в среду встретился в Москве с Владимиром Путиным. На фоне сложных отношений лидеры двух стран поспорили о предвыборной гонке в Армении и обсудили, не ударит ли по сотрудничеству Еревана и Москвы сближение Армении с ЕС.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c62kdd8vzz3o</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Артемида-2»: полет к Луне в спецэфире Би-би-си</title>
       <link>https://www.bbc.com/russian/articles/c4gv755nlg3o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4gv755nlg3o</guid>
-      <pubDate>Fri, 03 Apr 2026 08:33:28 +0000</pubDate>
+      <pubDate>Fri, 03 Apr 2026 09:36:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
