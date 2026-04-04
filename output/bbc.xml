@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 04 Apr 2026 09:41:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 10:37:16 +0000</lastBuildDate>
     <item>
       <title>Как война США и Израиля с Ираном может отразиться на странах Южного Кавказа</title>
       <link>https://www.bbc.com/russian/articles/cx2883v09d7o</link>
@@ -141,29 +141,8 @@
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Генерал долгой войны. Как развивалась карьера Валерия Герасимова, пятый год воюющего с Украиной</title>
-      <link>https://www.bbc.com/russian/articles/c8ej6g7p3p3o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8ej6g7p3p3o</guid>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Артемида-2»: к Луне и обратно</title>
-      <link>https://www.bbc.com/russian/resources/idt-86aafe5a-17e2-479c-9e12-3a7a41e10e9e</link>
-      <description>Впервые за более чем полвека человечество возвращается на Луну, планируя послать космический корабль с астронавтами на такое расстояние от Земли, которое ранее никем не преодолевалось.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/resources/idt-86aafe5a-17e2-479c-9e12-3a7a41e10e9e</guid>
-      <pubDate>Sat, 04 Apr 2026 09:41:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Следующая остановка — Марс? Почему лунная миссия «Артемида» настолько важна для NASA</title>
-      <link>https://www.bbc.com/russian/articles/c74vn1y801wo</link>
-      <description>Через несколько дней NASA планирует отправить к Луне миссию «Артемида-2». Четыре астронавта отправятся к спутнику Земли и облетят вокруг него. Это должно проложить путь к высадке на Луну и в конечном итоге — к созданию лунной базы.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c74vn1y801wo</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Налог» на VPN. Россиян хотят обязать платить за международный мобильный трафик</title>
       <link>https://www.bbc.com/russian/articles/c5yw2d99lrzo</link>
-      <description>Россиян, вероятно, обяжут платить за превышение международного мобильного трафика. Таким образом государство собирается бороться с тем, что граждане используют VPN для обхода цензуры.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c5yw2d99lrzo</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
@@ -172,20 +151,6 @@
       <link>https://www.bbc.com/russian/articles/c8r4el82n6xo</link>
       <description>Би-би-си ознакомилась с постановлением окружного суда Варшавы, который признал допустимой экстрадицию российского археолога Александра Бутягина в Украину по делу о раскопках в аннексированном Крыму. Би-би-си рассказывает об аргументах польского суда, реакциях Киева и Москвы и мнении эксперта об этом решении.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8r4el82n6xo</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Зачем США стягивают на Ближний Восток спецназ, морпехов и воздушный десант?</title>
-      <link>https://www.bbc.com/russian/articles/c70d51v8dvzo</link>
-      <description>США стягивают в район Персидского залива силы быстрого реагирования. Там уже находится 31-я экспедиционная группа морской пехоты, туда же направляется 11-я группа и части 82-й воздушно-десантной дивизии.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c70d51v8dvzo</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Китай пытается выступить миротворцем в иранском конфликте — удастся ли это?</title>
-      <link>https://www.bbc.com/russian/articles/cq6j9v6r9yno</link>
-      <description>Это резкий поворот в позиции Пекина, официальная реакция которого до сих пор была сдержанной. Почему Китай вмешивается именно сейчас?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq6j9v6r9yno</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -219,8 +184,15 @@
     <item>
       <title>«Артемида-2»: полет к Луне в спецэфире Би-би-си</title>
       <link>https://www.bbc.com/russian/articles/c4gv755nlg3o</link>
+      <description>С космодрома на мысе Канаверал запустили первую за 54 года экспедицию астронавтов к Луне. Пилотируемый космический корабль «Орион» с четырьмя астронавтами на борту успешно выведен на орбиту в рамках миссии «Артемида-2». Мы следили за историческим запуском в прямом видеоэфире на нашем сайте, на канале в YouTube, а также в TikTok.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4gv755nlg3o</guid>
-      <pubDate>Sat, 04 Apr 2026 09:41:57 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Генерал долгой войны. Как развивалась карьера Валерия Герасимова, пятый год воюющего с Украиной</title>
+      <link>https://www.bbc.com/russian/articles/c8ej6g7p3p3o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8ej6g7p3p3o</guid>
+      <pubDate>Sat, 04 Apr 2026 10:37:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
