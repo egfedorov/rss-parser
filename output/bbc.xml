@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 05 Apr 2026 14:02:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 14:55:56 +0000</lastBuildDate>
     <item>
       <title>Как война США и Израиля с Ираном может отразиться на странах Южного Кавказа</title>
       <link>https://www.bbc.com/russian/articles/cx2883v09d7o</link>
@@ -147,13 +147,6 @@
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Что мы знаем об экипаже «Артемиды-2» и что они взяли с собой к Луне?</title>
-      <link>https://www.bbc.com/russian/articles/czexynl1wpeo</link>
-      <description>Весь мир следит за четырьмя астронавтами, которые вылетели к Луне и скоро станут первыми за 50 лет землянами, вышедшими на лунную орбиту. Это выдающиеся пилоты, инженеры и ученые — а еще супруги и родители. Их героическое приключение — это еще и большой риск, как для них, так и для их близких. Что мы знаем о них?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/czexynl1wpeo</guid>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Масоны-силовики, «Моссад» и заказные убийства. В Париже начался процесс над членами ложи «Атанор»</title>
       <link>https://www.bbc.com/russian/articles/cje4welnyn5o</link>
       <description>В понедельник, 30 марта, в Париже начался судебный процесс по делу о «масонской мафии». 22 человека, в том числе несколько членов масонской ложи «Атанор» из парижского пригорода Пюто, подозреваются в целом ряде преступлений — от вымогательства до заказного убийства. На след масонов полиция вышла совершенно случайно.</description>
@@ -189,10 +182,17 @@
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Новый энергетический шок вернул Европе интерес к атомной энергетике. Почему ожидать быстрых результатов не стоит</title>
+      <link>https://www.bbc.com/russian/articles/c8jkp91ykl7o</link>
+      <description>Атомная энергетика вновь выглядит привлекательно для Европы на фоне роста цен на ископаемое топливо, но быстрых результатов она не даст.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8jkp91ykl7o</guid>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Генерал долгой войны. Как развивалась карьера Валерия Герасимова, пятый год воюющего с Украиной</title>
       <link>https://www.bbc.com/russian/articles/c8ej6g7p3p3o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8ej6g7p3p3o</guid>
-      <pubDate>Sun, 05 Apr 2026 14:02:38 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2026 14:55:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
