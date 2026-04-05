@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 05 Apr 2026 09:41:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 10:37:59 +0000</lastBuildDate>
     <item>
       <title>Как война США и Израиля с Ираном может отразиться на странах Южного Кавказа</title>
       <link>https://www.bbc.com/russian/articles/cx2883v09d7o</link>
@@ -147,13 +147,6 @@
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Министр войны. Кто такой Пит Хегсет — глава Пентагона и главный «чирлидер» операции в Иране</title>
-      <link>https://www.bbc.com/russian/articles/c0lengnddp8o</link>
-      <description>За первый месяц войны в Иране одним из главных мировых ньюсмейкеров стал Пит Хегсет — министр обороны США, редко сдерживающий себя в выражениях. Бывший телеведущий Fox News, который называет правила ведения войны «чушью», пришел в Пентагон, обещая встряхнуть ведомство. Он объявил войну «раздутому аппарату», политике инклюзивности и журналистам, но запомнится, скорее всего, войной против Ирана.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0lengnddp8o</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Что мы знаем об экипаже «Артемиды-2» и что они взяли с собой к Луне?</title>
       <link>https://www.bbc.com/russian/articles/czexynl1wpeo</link>
       <description>Весь мир следит за четырьмя астронавтами, которые вылетели к Луне и скоро станут первыми за 50 лет землянами, вышедшими на лунную орбиту. Это выдающиеся пилоты, инженеры и ученые — а еще супруги и родители. Их героическое приключение — это еще и большой риск, как для них, так и для их близких. Что мы знаем о них?</description>
@@ -189,10 +182,17 @@
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Молодежь на войне. Что мы знаем о потерях России в Украине к апрелю 2026 года</title>
+      <link>https://www.bbc.com/russian/articles/cz0e9dj59kro</link>
+      <description>Почти 20 тысяч российских солдат в возрасте до 25 лет погибло в ходе полномасштабного вторжения в Украину, следует из подсчетов Би-би-си, «Медиазоны» и команды волонтеров. Самому молодому установленному погибшему было 18 лет и 31 день.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cz0e9dj59kro</guid>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Генерал долгой войны. Как развивалась карьера Валерия Герасимова, пятый год воюющего с Украиной</title>
       <link>https://www.bbc.com/russian/articles/c8ej6g7p3p3o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8ej6g7p3p3o</guid>
-      <pubDate>Sun, 05 Apr 2026 09:41:49 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2026 10:37:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
