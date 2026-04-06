@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 06 Apr 2026 08:48:55 +0000</lastBuildDate>
-    <item>
-      <title>Поймать анархомарксиста — Дело Antifa United: в Москве судят четырех антифашистов за создание и участие в экстремистском сообществе</title>
-      <link>https://novayagazeta.ru/articles/2025/09/29/poimat-anarkhomarksista</link>
-      <description>Дело Antifa United: в Москве судят четырех антифашистов за создание и участие в экстремистском сообществе</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/29/poimat-anarkhomarksista</guid>
-      <pubDate>Mon, 29 Sep 2025 07:11:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Apr 2026 10:12:12 +0000</lastBuildDate>
     <item>
       <title>Из багажника — в СИЗО — Похищенного блогера Арега Щепихина судят за оскорбление мусульман, его похитители остались на свободе. Репортаж из суда</title>
       <link>https://novayagazeta.ru/articles/2025/09/30/iz-bagazhnika-v-sizo</link>
@@ -287,6 +280,13 @@
       <description>Статью об «иностранном сотрудничестве» вытесняет «госизмена», сроки растут втрое — правозащитники фиксируют новую репрессивную тенденцию</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/04/04/sledstvie-povyshaet-stavki</guid>
       <pubDate>Sat, 04 Apr 2026 07:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Плачу свободой за свои убеждения, но не сломаюсь» — После 11-дневного этапа «Новая» получила письмо от Артема Кригера из колонии</title>
+      <link>https://novayagazeta.ru/articles/2026/04/06/plachu-svobodoi-za-svoi-ubezhdeniia-no-ne-slomaius</link>
+      <description>После 11-дневного этапа «Новая» получила письмо от Артема Кригера из колонии</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/04/06/plachu-svobodoi-za-svoi-ubezhdeniia-no-ne-slomaius</guid>
+      <pubDate>Mon, 06 Apr 2026 09:09:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

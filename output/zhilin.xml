@@ -7,26 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 06 Apr 2026 08:49:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 10:12:22 +0000</lastBuildDate>
     <item>
-      <title>«Понял, что не стоит к кому-то привыкать» — История добровольца с позывным «Малик», цель жизни которого — забрать тела погибших, 18+</title>
-      <link>https://novayagazeta.ru/articles/2025/05/26/ponial-chto-ne-stoit-k-komu-to-privykat</link>
-      <description>История добровольца с позывным «Малик», цель жизни которого — забрать тела погибших, 18+</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/26/ponial-chto-ne-stoit-k-komu-to-privykat</guid>
-      <pubDate>Mon, 26 May 2025 07:11:00 +0000</pubDate>
+      <title>«Шли все, как в компьютерной игре» — История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</title>
+      <link>https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</link>
+      <description>История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</guid>
+      <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
     </item>
     <item>
       <title>«Раненый говорит: “Пошлите, пошлите”. А мы просто рядом сидим» — История военного медика с позывным «Амулет», который считает, что мир примут все</title>
       <link>https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</link>
       <description>История военного медика с позывным «Амулет», который считает, что мир примут все</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</guid>
-      <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Шли все, как в компьютерной игре» — История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</title>
-      <link>https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</link>
-      <description>История Константина Рыбакова с позывным «Кот», который в первом же бою потерял ногу, а его товарищи погибли</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/shli-vse-kak-v-kompiuternoi-igre</guid>
       <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
     </item>
     <item>
@@ -287,6 +280,13 @@
       <description>История Артема Файзулина, который ушел из полиции и больше десяти лет защищает активистов от своих бывших коллег</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/24/tovarishch-kapitan</guid>
       <pubDate>Tue, 24 Mar 2026 07:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Заливу наносят огромный ущерб» — Экологические риски и последствия войны в Иране: черные дожди, ядерная угроза, тонущие суда и опасность для животных</title>
+      <link>https://novayagazeta.ru/articles/2026/04/06/zalivu-nanosiat-ogromnyi-ushcherb</link>
+      <description>Экологические риски и последствия войны в Иране: черные дожди, ядерная угроза, тонущие суда и опасность для животных</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/04/06/zalivu-nanosiat-ogromnyi-ushcherb</guid>
+      <pubDate>Mon, 06 Apr 2026 10:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
