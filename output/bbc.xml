@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 07 Apr 2026 19:41:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 20:52:24 +0000</lastBuildDate>
     <item>
       <title>Как война США и Израиля с Ираном может отразиться на странах Южного Кавказа</title>
       <link>https://www.bbc.com/russian/articles/cx2883v09d7o</link>
@@ -154,13 +154,6 @@
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Молодежь на войне. Что мы знаем о потерях России в Украине к апрелю 2026 года</title>
-      <link>https://www.bbc.com/russian/articles/cz0e9dj59kro</link>
-      <description>Почти 20 тысяч российских солдат в возрасте до 25 лет погибло в ходе полномасштабного вторжения в Украину, следует из подсчетов Би-би-си, «Медиазоны» и команды волонтеров. Самому молодому установленному погибшему было 18 лет и 31 день.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cz0e9dj59kro</guid>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Долина Инда: развитая древняя цивилизация, о которой мы почти ничего не знаем</title>
       <link>https://www.bbc.com/russian/articles/c1eqg01ywv1o</link>
       <description>Древняя цивилизация долины Инда просуществовала тысячи лет и оставила много артефактов — почему мы так мало о ней знаем?</description>
@@ -173,6 +166,13 @@
       <description>Развязанная Россией война c Украиной идет уже пятый год, и все эти годы главой российского Генштаба, а с января 2023 года и командующим всей российской группировкой войск в Украине остается генерал Валерий Герасимов. Русская служба Би-би-си поговорила с военными экспертами о карьере и методах главного российского генерала.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8ej6g7p3p3o</guid>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Соль наступает. Почему питьевая вода по всему миру становится непригодной и можно ли с этим бороться?</title>
+      <link>https://www.bbc.com/russian/articles/c626q1n6z2qo</link>
+      <description>В домах Нового Орлеана из кранов течет вода с соленым привкусом. В Бангладеш фермеры вынуждены превращать прежде плодородные земли в солоноватые пруды для разведения креветок. В Гамбии фермер наблюдает, как его посевы вянут и погибают, пропитанные солью. По всему миру ранее надежные прибрежные источники пресной воды становятся солеными из-за проникновения морской воды.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c626q1n6z2qo</guid>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Как война Трампа с Ираном ускорила электрификацию всей планеты и приблизила конец нефти и газа</title>
