@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Tue, 07 Apr 2026 09:38:38 +0000</lastBuildDate><item><title>Советский мир в «Судьбе барабанщика»</title><link>https://gorky.media/context/sovetskii-mir-v-sudbe-barabanshchika</link><description>Олег Лекманов — об одном из самых популярных произведений Аркадия Гайдара
-
-20.03.2026</description><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate></item><item><title>Формализм на переломе</title><link>https://gorky.media/context/formalizm-na-perelome</link><description>Лекция Валерия Отяковского о формальном методе накануне Сталина и после него
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Tue, 07 Apr 2026 10:40:47 +0000</lastBuildDate><item><title>Формализм на переломе</title><link>https://gorky.media/context/formalizm-na-perelome</link><description>Лекция Валерия Отяковского о формальном методе накануне Сталина и после него
 
 23.03.2026</description><pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate></item><item><title>Основательность вместо новизны</title><link>https://gorky.media/context/osnovatelnost-vmesto-novizny</link><description>Артем Юнусов — о книге Дэвида Росса «Аристотель»
 
@@ -22,5 +20,7 @@
 02.04.2026</description><pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate></item><item><title>В Коньково все спокойно</title><link>https://gorky.media/context/v-konkovo-vse-spokoino</link><description>Как возник и развивался локальный текст отдельно взятого района Москвы
 
 03.04.2026</description><pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate></item><item><title>«Жанр — это постоянные переговоры людей о том, что их волнует»</title><link>https://gorky.media/context/zhanr-eto-postoyannye-peregovory-lyudei-o-tom-chto-ix-volnuet</link><description>Интервью с исследователем научно-фантастической литературы Артемом Зубовым
+
+07.04.2026</description><pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate></item><item><title>Фашизм над Сантьяго</title><link>https://gorky.media/context/fashizm-nad-santyago</link><description>Артур Гранд — памяти Дмитрия Бавильского (и Роберто Боланьо)
 
 07.04.2026</description><pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate></item></channel></rss>
