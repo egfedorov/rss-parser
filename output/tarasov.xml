@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 08 Apr 2026 14:46:15 +0000</lastBuildDate>
-    <item>
-      <title>Плуг не останавливается из-за мертвецов — Россия — это наша страна. В ней, с ней, вот такой, предстоит жить дальше…</title>
-      <link>https://novayagazeta.ru/articles/2025/07/10/plug-ne-ostanavlivaetsia-iz-za-mertvetsov</link>
-      <description>Россия — это наша страна. В ней, с ней, вот такой, предстоит жить дальше…</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/07/10/plug-ne-ostanavlivaetsia-iz-za-mertvetsov</guid>
-      <pubDate>Thu, 10 Jul 2025 11:04:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Apr 2026 16:17:03 +0000</lastBuildDate>
     <item>
       <title>Синий цветок Свободыч — Продолжаем разговоры о главном с коллегой узником Абакана Михаилом Афанасьевым</title>
       <link>https://novayagazeta.ru/articles/2025/07/24/sinii-tsvetok-svobodych</link>
@@ -287,6 +280,13 @@
       <description>Костры из туш скота отгорают в Сибири. Послесловие</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/21/moropriiatiia</guid>
       <pubDate>Sat, 21 Mar 2026 10:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Это не про человечность»&amp;nbsp; — Никите Уварову продлили содержание под стражей. При этом он лишен свиданий и звонков родным, а теперь и вывод к адвокату и врачу стал проблемой</title>
+      <link>https://novayagazeta.ru/articles/2026/04/08/eto-ne-pro-chelovechnost</link>
+      <description>Никите Уварову продлили содержание под стражей. При этом он лишен свиданий и звонков родным, а теперь и вывод к адвокату и врачу стал проблемой</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/04/08/eto-ne-pro-chelovechnost</guid>
+      <pubDate>Wed, 08 Apr 2026 15:31:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
