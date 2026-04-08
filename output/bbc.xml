@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 08 Apr 2026 16:17:06 +0000</lastBuildDate>
-    <item>
-      <title>Как война США и Израиля с Ираном может отразиться на странах Южного Кавказа</title>
-      <link>https://www.bbc.com/russian/articles/cx2883v09d7o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx2883v09d7o</guid>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Apr 2026 17:36:33 +0000</lastBuildDate>
     <item>
       <title>Против режима с автоматом Калашникова. Помогут ли курды США в борьбе с Ираном?</title>
       <link>https://www.bbc.com/russian/articles/c4g441nd3zro</link>
@@ -147,6 +141,12 @@
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
+      <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/clyj48grdnno</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Новый энергетический шок вернул Европе интерес к атомной энергетике. Почему ожидать быстрых результатов не стоит</title>
       <link>https://www.bbc.com/russian/articles/c8jkp91ykl7o</link>
       <description>Атомная энергетика вновь выглядит привлекательно для Европы на фоне роста цен на ископаемое топливо, но быстрых результатов она не даст.</description>
@@ -199,7 +199,7 @@
       <title>Видео,Уроки Украины для США | Военное время, Продолжительность 10,18</title>
       <link>https://www.bbc.com/russian/articles/clye75e9yk5o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/clye75e9yk5o</guid>
-      <pubDate>Wed, 08 Apr 2026 16:17:06 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2026 17:36:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
