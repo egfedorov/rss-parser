@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 08 Apr 2026 11:36:45 +0000</lastBuildDate>
-    <item>
-      <title>Тигры на вес золота — Прокуратура проверила геологоразведку в охранной зоне крупнейшего тигриного заповедника в Приморье. Стоит вопрос об отзыве лицензии у золоторудной компании</title>
-      <link>https://novayagazeta.ru/articles/2025/10/31/tigry-na-ves-zolota</link>
-      <description>Прокуратура проверила геологоразведку в охранной зоне крупнейшего тигриного заповедника в Приморье. Стоит вопрос об отзыве лицензии у золоторудной компании</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/31/tigry-na-ves-zolota</guid>
-      <pubDate>Fri, 31 Oct 2025 10:45:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Apr 2026 12:41:31 +0000</lastBuildDate>
     <item>
       <title>Дроны ведут на посадку — В Приморье всем, кроме властей, запретили рассказывать о налетах беспилотников, которых тут никто не видел</title>
       <link>https://novayagazeta.ru/articles/2025/11/01/drony-vedut-na-posadku</link>
@@ -287,6 +280,13 @@
       <description>В Приморье перевозчики жалуются на многомиллионные штрафы при проезде рамок контроля. Власти проблему отрицают</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/04/03/gruzoviki-vykhodiat-za-ramki</guid>
       <pubDate>Fri, 03 Apr 2026 09:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Атомное «пугало» — Об огромной опасности обстрелов маленькой АЭС «Бушер» в Иране — физик-ядерщик Андрей Ожаровский</title>
+      <link>https://novayagazeta.ru/articles/2026/04/08/atomnoe-pugalo</link>
+      <description>Об огромной опасности обстрелов маленькой АЭС «Бушер» в Иране — физик-ядерщик Андрей Ожаровский</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/04/08/atomnoe-pugalo</guid>
+      <pubDate>Wed, 08 Apr 2026 12:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
