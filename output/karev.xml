@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 08 Apr 2026 09:05:26 +0000</lastBuildDate>
-    <item>
-      <title>Из багажника — в СИЗО — Похищенного блогера Арега Щепихина судят за оскорбление мусульман, его похитители остались на свободе. Репортаж из суда</title>
-      <link>https://novayagazeta.ru/articles/2025/09/30/iz-bagazhnika-v-sizo</link>
-      <description>Похищенного блогера Арега Щепихина судят за оскорбление мусульман, его похитители остались на свободе. Репортаж из суда</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/30/iz-bagazhnika-v-sizo</guid>
-      <pubDate>Tue, 30 Sep 2025 11:26:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Apr 2026 10:32:26 +0000</lastBuildDate>
     <item>
       <title>«У меня на попечении было 16 животных. Их усыпили» — Письмо из СИЗО Арины Ивановой — о потерянной мечте, сломанных планах и пяти годах за один пост</title>
       <link>https://novayagazeta.ru/articles/2025/10/02/u-menia-na-popechenii-bylo-16-zhivotnykh-ikh-usypili</link>
@@ -287,6 +280,13 @@
       <description>После 11-дневного этапа «Новая» получила письмо от Артема Кригера из колонии</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/04/06/plachu-svobodoi-za-svoi-ubezhdeniia-no-ne-slomaius</guid>
       <pubDate>Mon, 06 Apr 2026 09:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бывших активистов «Весны»* отправили в колонию на сроки от 6 до 12 лет. Больше всех получила экс-сотрудница медиаотдела Анна Архипова</title>
+      <link>https://novayagazeta.ru/news/2026/04/08/byvshikh-aktivistov-vesny-otpravili-v-koloniiu-na-sroki-ot-6-do-12-let-news</link>
+      <description>Бывших активистов «Весны»* отправили в колонию на сроки от 6 до 12 лет. Больше всех получила экс-сотрудница медиаотдела Анна Архипова</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/news/2026/04/08/byvshikh-aktivistov-vesny-otpravili-v-koloniiu-na-sroki-ot-6-do-12-let-news</guid>
+      <pubDate>Wed, 08 Apr 2026 09:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
