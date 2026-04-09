@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 09 Apr 2026 12:06:27 +0000</lastBuildDate>
-    <item>
-      <title>Против режима с автоматом Калашникова. Помогут ли курды США в борьбе с Ираном?</title>
-      <link>https://www.bbc.com/russian/articles/c4g441nd3zro</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4g441nd3zro</guid>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Apr 2026 14:17:23 +0000</lastBuildDate>
     <item>
       <title>Безучастный наблюдатель. Почему Россия не поддержала Иран и что значит для нее война на Ближнем Востоке</title>
       <link>https://www.bbc.com/russian/articles/cj6dd6zx0lwo</link>
@@ -147,10 +141,10 @@
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
-      <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/clyj48grdnno</guid>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <title>Дефицит средств ПВО или обходные маршруты: почему объекты в России постоянно подвергаются ударам ВСУ</title>
+      <link>https://www.bbc.com/russian/articles/cg40nz1ln1no</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cg40nz1ln1no</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Соль наступает. Почему питьевая вода по всему миру становится непригодной и можно ли с этим бороться?</title>
@@ -198,7 +192,13 @@
       <title>Видео,Уроки Украины для США | Военное время, Продолжительность 10,18</title>
       <link>https://www.bbc.com/russian/articles/clye75e9yk5o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/clye75e9yk5o</guid>
-      <pubDate>Thu, 09 Apr 2026 12:06:27 +0000</pubDate>
+      <pubDate>Thu, 09 Apr 2026 14:17:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
+      <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/clyj48grdnno</guid>
+      <pubDate>Thu, 09 Apr 2026 14:17:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
