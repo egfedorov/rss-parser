@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 10 Apr 2026 14:32:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 15:30:37 +0000</lastBuildDate>
     <item>
       <title>Безучастный наблюдатель. Почему Россия не поддержала Иран и что значит для нее война на Ближнем Востоке</title>
       <link>https://www.bbc.com/russian/articles/cj6dd6zx0lwo</link>
@@ -153,27 +153,6 @@
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Соль наступает. Почему питьевая вода по всему миру становится непригодной и можно ли с этим бороться?</title>
-      <link>https://www.bbc.com/russian/articles/c626q1n6z2qo</link>
-      <description>В домах Нового Орлеана из кранов течет вода с соленым привкусом. В Бангладеш фермеры вынуждены превращать прежде плодородные земли в солоноватые пруды для разведения креветок. В Гамбии фермер наблюдает, как его посевы вянут и погибают, пропитанные солью. По всему миру ранее надежные прибрежные источники пресной воды становятся солеными из-за проникновения морской воды.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c626q1n6z2qo</guid>
-      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Как война Трампа с Ираном ускорила электрификацию всей планеты и приблизила конец нефти и газа</title>
-      <link>https://www.bbc.com/russian/articles/cew7y87gzz8o</link>
-      <description>Усилиями Трампа — главного противника зеленого будущего — возобновляемая энергетика может одержать окончательную победу над нефтегазовым прошлым.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cew7y87gzz8o</guid>
-      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Путешествие во имя мира».  Лидер тайваньского Гоминьдана приехала в Китай с визитом</title>
-      <link>https://www.bbc.com/russian/articles/c8ejyw9rk60o</link>
-      <description>В Китай с шестидневным официальным визитом приехала глава тайваньской оппозиции Чжэн Ливэнь. Впервые за последние 10 лет  лидер главной оппозиционной партии Тайваня, Гоминьдана, посещает  Китай.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8ejyw9rk60o</guid>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Фейковые полицейские участки и туалет по расписанию. Би-би-си побывала в заброшенном скам-центре на границе Камбоджи и Таиланда</title>
       <link>https://www.bbc.com/russian/articles/cevk19nmrd3o</link>
       <description>Журналисты Би-би-си побывали в камбоджийском городе О'Смач, что на границе с Таиландом, в здании, где раньше располагался скам-центр. Оттуда тысячи иностранцев, нанятые якобы для настоящей работы за хорошую зарплату, пытались втереться в доверие своим жертвам по всему миру, чтобы выманить деньги. Самих работников ожидали суровые наказания, если они не выполняли квоту.</description>
@@ -198,13 +177,20 @@
       <title>Видео,Уроки Украины для США | Военное время, Продолжительность 10,18</title>
       <link>https://www.bbc.com/russian/articles/clye75e9yk5o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/clye75e9yk5o</guid>
-      <pubDate>Fri, 10 Apr 2026 14:32:14 +0000</pubDate>
+      <pubDate>Fri, 10 Apr 2026 15:30:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Шесть причин, по которым мировой кризис продлится дольше войны в Иране</title>
+      <link>https://www.bbc.com/russian/articles/c8ejy2556glo</link>
+      <description>Мир вступает в самый масштабный энергетический кризис в истории. Пока что страдает Азия, но дойдет и до Европы, и до других. Почему даже конец войны не принесет облегчения?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8ejy2556glo</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Отпущение всех грехов, лекарство от всех болезней. Поможет ли Украина победить на выборах Виктору Орбану?</title>
       <link>https://www.bbc.com/russian/articles/cy91prnde01o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy91prnde01o</guid>
-      <pubDate>Fri, 10 Apr 2026 14:32:14 +0000</pubDate>
+      <pubDate>Fri, 10 Apr 2026 15:30:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
