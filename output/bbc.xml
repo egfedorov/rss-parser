@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 11 Apr 2026 00:05:18 +0000</lastBuildDate>
-    <item>
-      <title>Безучастный наблюдатель. Почему Россия не поддержала Иран и что значит для нее война на Ближнем Востоке</title>
-      <link>https://www.bbc.com/russian/articles/cj6dd6zx0lwo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cj6dd6zx0lwo</guid>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 11 Apr 2026 03:22:32 +0000</lastBuildDate>
     <item>
       <title>Закат британских тори. Исчезнет ли партия Черчилля и Тэтчер?</title>
       <link>https://www.bbc.com/russian/articles/cgqgnke78eyo</link>
@@ -153,6 +147,12 @@
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Благоприятные времена». Как РПЦ 30 лет боролась за иконы с Третьяковкой и получила их по приказу Путина</title>
+      <link>https://www.bbc.com/russian/articles/c705970j408o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c705970j408o</guid>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Фейковые полицейские участки и туалет по расписанию. Би-би-си побывала в заброшенном скам-центре на границе Камбоджи и Таиланда</title>
       <link>https://www.bbc.com/russian/articles/cevk19nmrd3o</link>
       <description>Журналисты Би-би-си побывали в камбоджийском городе О'Смач, что на границе с Таиландом, в здании, где раньше располагался скам-центр. Оттуда тысячи иностранцев, нанятые якобы для настоящей работы за хорошую зарплату, пытались втереться в доверие своим жертвам по всему миру, чтобы выманить деньги. Самих работников ожидали суровые наказания, если они не выполняли квоту.</description>
@@ -177,7 +177,7 @@
       <title>Видео,Уроки Украины для США | Военное время, Продолжительность 10,18</title>
       <link>https://www.bbc.com/russian/articles/clye75e9yk5o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/clye75e9yk5o</guid>
-      <pubDate>Sat, 11 Apr 2026 00:05:18 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 03:22:32 +0000</pubDate>
     </item>
     <item>
       <title>Шесть причин, по которым мировой кризис продлится дольше войны в Иране</title>
@@ -187,10 +187,17 @@
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Отпущение всех грехов, лекарство от всех болезней. Поможет ли Украина победить на выборах Виктору Орбану?</title>
+      <link>https://www.bbc.com/russian/articles/cy91prnde01o</link>
+      <description>Би-би-си разбиралась, как Виктору Орбану удалось убедить огромное число венгров в том, что именно Киев является их самой главной проблемой, может ли сыграть эта его ставка, и что будет с переживающими глубочайший кризис украинско-венгерскими отношениями после выборов, кто бы на них ни победил.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy91prnde01o</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Возвращение «Артемиды-2». Спецэфир Русской службы Би-би-си</title>
       <link>https://www.bbc.com/russian/articles/c937weq08x9o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c937weq08x9o</guid>
-      <pubDate>Sat, 11 Apr 2026 00:05:18 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 03:22:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
