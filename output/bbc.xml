@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 11 Apr 2026 11:59:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 13:18:08 +0000</lastBuildDate>
     <item>
       <title>Закат британских тори. Исчезнет ли партия Черчилля и Тэтчер?</title>
       <link>https://www.bbc.com/russian/articles/cgqgnke78eyo</link>
@@ -161,17 +161,17 @@
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Шесть причин, по которым мировой кризис продлится дольше войны в Иране</title>
-      <link>https://www.bbc.com/russian/articles/c8ejy2556glo</link>
-      <description>Мир вступает в самый масштабный энергетический кризис в истории. Пока что страдает Азия, но дойдет и до Европы, и до других. Почему даже конец войны не принесет облегчения?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8ejy2556glo</guid>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Отпущение всех грехов, лекарство от всех болезней. Поможет ли Украина победить на выборах Виктору Орбану?</title>
       <link>https://www.bbc.com/russian/articles/cy91prnde01o</link>
       <description>Би-би-си разбиралась, как Виктору Орбану удалось убедить огромное число венгров в том, что именно Киев является их самой главной проблемой, может ли сыграть эта его ставка, и что будет с переживающими глубочайший кризис украинско-венгерскими отношениями после выборов, кто бы на них ни победил.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy91prnde01o</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Шесть причин, по которым мировой кризис продлится дольше войны в Иране</title>
+      <link>https://www.bbc.com/russian/articles/c8ejy2556glo</link>
+      <description>Мир вступает в самый масштабный энергетический кризис в истории. Пока что страдает Азия, но дойдет и до Европы, и до других. Почему даже конец войны не принесет облегчения?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8ejy2556glo</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -185,7 +185,7 @@
       <title>Возвращение «Артемиды-2». Спецэфир Русской службы Би-би-си</title>
       <link>https://www.bbc.com/russian/articles/c937weq08x9o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c937weq08x9o</guid>
-      <pubDate>Sat, 11 Apr 2026 11:59:10 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 13:18:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
