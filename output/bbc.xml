@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 13 Apr 2026 08:09:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 10:08:12 +0000</lastBuildDate>
     <item>
       <title>Закат британских тори. Исчезнет ли партия Черчилля и Тэтчер?</title>
       <link>https://www.bbc.com/russian/articles/cgqgnke78eyo</link>
@@ -141,19 +141,6 @@
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Благоприятные времена». Как РПЦ 30 лет боролась за иконы с Третьяковкой и получила их по приказу Путина</title>
-      <link>https://www.bbc.com/russian/articles/c705970j408o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c705970j408o</guid>
-      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Фейковые полицейские участки и туалет по расписанию. Би-би-си побывала в заброшенном скам-центре на границе Камбоджи и Таиланда</title>
-      <link>https://www.bbc.com/russian/articles/cevk19nmrd3o</link>
-      <description>Журналисты Би-би-си побывали в камбоджийском городе О'Смач, что на границе с Таиландом, в здании, где раньше располагался скам-центр. Оттуда тысячи иностранцев, нанятые якобы для настоящей работы за хорошую зарплату, пытались втереться в доверие своим жертвам по всему миру, чтобы выманить деньги. Самих работников ожидали суровые наказания, если они не выполняли квоту.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cevk19nmrd3o</guid>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Доказала ли миссия «Артемида-2», что высадка на Луне снова возможна?</title>
       <link>https://www.bbc.com/russian/articles/cvg0mp5zd08o</link>
       <description>На сегодняшний день миссия «Артемида-2» проходит практически без нареканий, но показал ли этот пробный полет, что НАСА готово отправить людей на поверхность Луны?</description>
@@ -182,6 +169,13 @@
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Возвращение «Артемиды-2». Спецэфир Русской службы Би-би-си</title>
+      <link>https://www.bbc.com/russian/articles/c937weq08x9o</link>
+      <description>Первая за 52 года пилотируемая миссия к Луне вернулась на Землю.  Космический корабль НАСА «Орион» с четырьмя астронавтами на борту успешно приводнился в Тихом океане у побережья Калифорнии. Мы следили за возвращением астронавтов на Землю в прямом эфире.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c937weq08x9o</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Почему Россия сменила тактику и массово атакует Украину «шахедами» днем</title>
       <link>https://www.bbc.com/russian/articles/c7059g65554o</link>
       <description>Россия продолжает использовать ударные дроны-камикадзе «шахед» (известные также как «Герань») как основное средство для нанесения массированных ударов вглубь территории Украины. При этом Кремль не только активно разрабатывает новые модификации этого БПЛА, но и экспериментирует с тактикой. Например, запускает сотни дронов в течение дня.</description>
@@ -189,10 +183,11 @@
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Возвращение «Артемиды-2». Спецэфир Русской службы Би-би-си</title>
-      <link>https://www.bbc.com/russian/articles/c937weq08x9o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c937weq08x9o</guid>
-      <pubDate>Mon, 13 Apr 2026 08:09:48 +0000</pubDate>
+      <title>«Благоприятные времена». Как РПЦ 30 лет боролась за иконы с Третьяковкой и получила их по приказу Путина</title>
+      <link>https://www.bbc.com/russian/articles/c705970j408o</link>
+      <description>Третьяковская галерея передала в храм Христа Спасителя Владимирскую и Донскую иконы Божией Матери. Би-би-си рассказывает о тридцатилетней борьбе РПЦ за перемещение из Третьяковки хрупких древних святынь и о том, почему на этот раз, по словам патриарха Кирилла, «мудрое решение президента не подвергалось никакому оспариванию».</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c705970j408o</guid>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
