@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 14 Apr 2026 14:15:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 15:43:49 +0000</lastBuildDate>
     <item>
       <title>Нефть по 100 долларов. Поможет ли война в Иране российскому бюджету?</title>
       <link>https://www.bbc.com/russian/articles/cz0gjdd9080o</link>
@@ -141,12 +141,6 @@
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Обычная иллюзия». Как семьи воюющих в Украине россиян героизируют и «воскрешают» их с помощью ИИ</title>
-      <link>https://www.bbc.com/russian/articles/c0rxj4kq410o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0rxj4kq410o</guid>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Возвращение «Артемиды-2». Спецэфир Русской службы Би-би-си</title>
       <link>https://www.bbc.com/russian/articles/c937weq08x9o</link>
       <description>Первая за 52 года пилотируемая миссия к Луне вернулась на Землю.  Космический корабль НАСА «Орион» с четырьмя астронавтами на борту успешно приводнился в Тихом океане у побережья Калифорнии. Мы следили за возвращением астронавтов на Землю в прямом эфире.</description>
@@ -179,7 +173,7 @@
       <link>https://www.bbc.com/russian/articles/cy41w93wg23o</link>
       <description>Как смена власти в Венгрии повлияет на ее отношения с Россией и Евросоюзом? Интервью с Максимом Саморуковым</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy41w93wg23o</guid>
-      <pubDate>Tue, 14 Apr 2026 14:15:39 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 15:43:49 +0000</pubDate>
     </item>
     <item>
       <title>Принесенный ветром. Кто такой Петер Мадьяр, победивший Виктора Орбана</title>
@@ -187,6 +181,19 @@
       <description>«Весенний ветер» — Tavaszi szél — возможно, самая известная венгерская народная песня. Незатейливую мелодию про пробуждение природы, любовь и печаль можно услышать на школьном празднике, за накрытым столом и на официальном мероприятии.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c393wnengx4o</guid>
       <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Что поражение Орбана на выборах в Венгрии означает для ЕС, России, Украины и правых популистов во всем мире</title>
+      <link>https://www.bbc.com/russian/articles/cwyx99w9vz8o</link>
+      <description>Победу Петера Мадьяра на выборах в Венгрии в европейских столицах и Киеве восприняли как безусловно хорошую новость. Но Мадьяру еще предстоит доказать, способен ли он восстановить венгерскую демократию и насколько далеко готов пойти в поддержке Украины.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwyx99w9vz8o</guid>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Обычная иллюзия». Как семьи воюющих в Украине россиян героизируют и «воскрешают» их с помощью ИИ</title>
+      <link>https://www.bbc.com/russian/articles/c0rxj4kq410o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0rxj4kq410o</guid>
+      <pubDate>Tue, 14 Apr 2026 15:43:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
