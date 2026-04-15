@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 15 Apr 2026 02:48:19 +0000</lastBuildDate>
-    <item>
-      <title>Нефть по 100 долларов. Поможет ли война в Иране российскому бюджету?</title>
-      <link>https://www.bbc.com/russian/articles/cz0gjdd9080o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cz0gjdd9080o</guid>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Apr 2026 05:27:28 +0000</lastBuildDate>
     <item>
       <title>Почему исламский мир не поддержал Иран в его войне с США и Израилем?</title>
       <link>https://www.bbc.com/russian/articles/cjeng5nx0gyo</link>
@@ -141,11 +135,10 @@
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Возвращение «Артемиды-2». Спецэфир Русской службы Би-би-си</title>
-      <link>https://www.bbc.com/russian/articles/c937weq08x9o</link>
-      <description>Первая за 52 года пилотируемая миссия к Луне вернулась на Землю.  Космический корабль НАСА «Орион» с четырьмя астронавтами на борту успешно приводнился в Тихом океане у побережья Калифорнии. Мы следили за возвращением астронавтов на Землю в прямом эфире.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c937weq08x9o</guid>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <title>Итоги выборов в Венгрии: Орбан проиграл, орбанизм — нет</title>
+      <link>https://www.bbc.com/russian/articles/cqxll0dx7gyo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqxll0dx7gyo</guid>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>«Благоприятные времена». Как РПЦ 30 лет боролась за иконы с Третьяковкой и получила их по приказу Путина</title>
@@ -173,7 +166,7 @@
       <link>https://www.bbc.com/russian/articles/cy41w93wg23o</link>
       <description>Как смена власти в Венгрии повлияет на ее отношения с Россией и Евросоюзом? Интервью с Максимом Саморуковым</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy41w93wg23o</guid>
-      <pubDate>Wed, 15 Apr 2026 02:48:19 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2026 05:27:28 +0000</pubDate>
     </item>
     <item>
       <title>Принесенный ветром. Кто такой Петер Мадьяр, победивший Виктора Орбана</title>
@@ -190,10 +183,17 @@
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Орбан проиграл на выборах в Венгрии. Что это значит для России?</title>
+      <link>https://www.bbc.com/russian/articles/cn7815v5r5lo</link>
+      <description>Венгрия Виктора Орбана была если не главным союзником России в Евросоюзе, то точно той страной, которая годами проводила наиболее близкую Москве политику. А сам Орбан и его министры не скрывали своих контактов с Кремлем, объясняя их прагматическими соображениями.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn7815v5r5lo</guid>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Обычная иллюзия». Как семьи воюющих в Украине россиян героизируют и «воскрешают» их с помощью ИИ</title>
       <link>https://www.bbc.com/russian/articles/c0rxj4kq410o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0rxj4kq410o</guid>
-      <pubDate>Wed, 15 Apr 2026 02:48:19 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2026 05:27:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
