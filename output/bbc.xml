@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 16 Apr 2026 09:52:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 11:07:10 +0000</lastBuildDate>
     <item>
       <title>Почему исламский мир не поддержал Иран в его войне с США и Израилем?</title>
       <link>https://www.bbc.com/russian/articles/cjeng5nx0gyo</link>
@@ -141,12 +141,6 @@
       <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Итоги выборов в Венгрии: Орбан проиграл, орбанизм — нет</title>
-      <link>https://www.bbc.com/russian/articles/cqxll0dx7gyo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqxll0dx7gyo</guid>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Принесенный ветром. Кто такой Петер Мадьяр, победивший Виктора Орбана</title>
       <link>https://www.bbc.com/russian/articles/c393wnengx4o</link>
       <description>«Весенний ветер» — Tavaszi szél — возможно, самая известная венгерская народная песня. Незатейливую мелодию про пробуждение природы, любовь и печаль можно услышать на школьном празднике, за накрытым столом и на официальном мероприятии.</description>
@@ -180,6 +174,12 @@
       <description>Члены семей российских военных с помощью искусственного интеллекта «встречаются» с погибшими в ходе вторжения в Украину, переносятся в окопы и даже «останавливают» войну. Для многих это — способ пережить утрату. А для коммерческих «нейрокреаторов» — способ хорошо заработать. Многие из таких коммерсантов и сами связаны с войной, убедилась Би-би-си.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0rxj4kq410o</guid>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Итоги выборов в Венгрии: Орбан проиграл, орбанизм — нет</title>
+      <link>https://www.bbc.com/russian/articles/cqxll0dx7gyo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqxll0dx7gyo</guid>
+      <pubDate>Thu, 16 Apr 2026 11:07:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
