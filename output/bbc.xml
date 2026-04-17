@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 17 Apr 2026 16:08:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 17:10:44 +0000</lastBuildDate>
     <item>
       <title>Почему исламский мир не поддержал Иран в его войне с США и Израилем?</title>
       <link>https://www.bbc.com/russian/articles/cjeng5nx0gyo</link>
@@ -141,20 +141,6 @@
       <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Принесенный ветром. Кто такой Петер Мадьяр, победивший Виктора Орбана</title>
-      <link>https://www.bbc.com/russian/articles/c393wnengx4o</link>
-      <description>«Весенний ветер» — Tavaszi szél — возможно, самая известная венгерская народная песня. Незатейливую мелодию про пробуждение природы, любовь и печаль можно услышать на школьном празднике, за накрытым столом и на официальном мероприятии.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c393wnengx4o</guid>
-      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Что поражение Орбана на выборах в Венгрии означает для ЕС, России, Украины и правых популистов во всем мире</title>
-      <link>https://www.bbc.com/russian/articles/cwyx99w9vz8o</link>
-      <description>Победу Петера Мадьяра на выборах в Венгрии в европейских столицах и Киеве восприняли как безусловно хорошую новость. Но Мадьяру еще предстоит доказать, способен ли он восстановить венгерскую демократию и насколько далеко готов пойти в поддержке Украины.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwyx99w9vz8o</guid>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Орбан проиграл на выборах в Венгрии. Что это значит для России?</title>
       <link>https://www.bbc.com/russian/articles/cn7815v5r5lo</link>
       <description>Венгрия Виктора Орбана была если не главным союзником России в Евросоюзе, то точно той страной, которая годами проводила наиболее близкую Москве политику. А сам Орбан и его министры не скрывали своих контактов с Кремлем, объясняя их прагматическими соображениями.</description>
@@ -179,7 +165,21 @@
       <title>Видео,Нуки о расставании с группой «Слот», «черных списках» артистов, ИИ-музыке и субкультурах нулевых, Продолжительность 41,28</title>
       <link>https://www.bbc.com/russian/articles/cn43p7dk1zko</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn43p7dk1zko</guid>
-      <pubDate>Fri, 17 Apr 2026 16:08:01 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2026 17:10:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Юристы помогают мигрантам в Британии выдавать себя за геев ради убежища — расследование Би-би-си</title>
+      <link>https://www.bbc.com/russian/articles/c3dllj8l7p1o</link>
+      <description>Журналисты Би-би-си, работая под прикрытием, вскрыли систему, в которой юристы за тысячи фунтов помогают мигрантам обманом получить убежище.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3dllj8l7p1o</guid>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Итоги выборов в Венгрии: Орбан проиграл, орбанизм — нет</title>
+      <link>https://www.bbc.com/russian/articles/cqxll0dx7gyo</link>
+      <description>Виктор Орбан впервые за 16 лет проиграл выборы, уступив Петеру Мадьяру — политику, который шел на них с обещанием демонтировать орбановскую модель власти, восстановить антикоррупционные механизмы и пересмотреть правила, сложившиеся при «Фидес». Но поражение на выборах — это еще не политическая смерть. Орбан лишился кресла премьер-министра, но не лишился наследия, которое давно вышло далеко за пределы Венгрии.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqxll0dx7gyo</guid>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Хрупкое перемирие. Жители Ирана задаются вопросом, возможно ли соглашение с США и что оно принесет</title>
@@ -187,12 +187,6 @@
       <description>Последние события на Ближнем Востоке заставляют многих иранцев задаваться вопросом: если мирное соглашение с США все-таки будет заключено, сможет ли оно снять губительные санкции и принести в страну  те перемены, которых хотят ее жители, передает из Тегерана  корреспондент Би-би-си Лиз Дюсет.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c62j69zql0do</guid>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Итоги выборов в Венгрии: Орбан проиграл, орбанизм — нет</title>
-      <link>https://www.bbc.com/russian/articles/cqxll0dx7gyo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqxll0dx7gyo</guid>
-      <pubDate>Fri, 17 Apr 2026 16:08:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
