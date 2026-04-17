@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 17 Apr 2026 06:05:08 +0000</lastBuildDate>
-    <item>
-      <title>Мосгорсуд отложил рассмотрение апелляции 20-летней москвички Евгении Ломаковой, больной муковисцидозом. Судьи дали ей время подготовить последнее слово</title>
-      <link>https://novayagazeta.ru/news/2025/10/02/mosgorsud-otlozhil-rassmotrenie-apelliatsii-20-letnei-moskvichki-evgenii-lomakovoi-bolnoi-mukovistsidozom-sudi-dali-ei-vremia-podgotovit-poslednee-slovo-news</link>
-      <description>Мосгорсуд отложил рассмотрение апелляции 20-летней москвички Евгении Ломаковой, больной муковисцидозом. Судьи дали ей время подготовить последнее слово</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/news/2025/10/02/mosgorsud-otlozhil-rassmotrenie-apelliatsii-20-letnei-moskvichki-evgenii-lomakovoi-bolnoi-mukovistsidozom-sudi-dali-ei-vremia-podgotovit-poslednee-slovo-news</guid>
-      <pubDate>Thu, 02 Oct 2025 14:41:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Apr 2026 08:07:00 +0000</lastBuildDate>
     <item>
       <title>Москвичку, ограбленную телефонными мошенниками и после угроз ставшую их курьером, приговорили к 2,5 годам колонии с отсрочкой приговора</title>
       <link>https://novayagazeta.ru/news/2025/10/13/moskvichku-ograblennuiu-telefonnymi-moshennikami-i-posle-ugroz-stavshuiu-ikh-kurerom-prigovorili-k-25-godam-kolonii-s-otsrochkoi-prigovora-news</link>
@@ -287,6 +280,13 @@
       <description>«Одинаково ждешь, одинаково молчишь, одинаково живешь» — письма Антонины Фаворской о системе, где всех выравнивают до одного состояния</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/04/10/kolonialnaia-vesna</guid>
       <pubDate>Fri, 10 Apr 2026 09:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Художница Людмила Разумова, осужденная за пацифистские граффити и посты, опасается за свою жизнь в СИЗО из-за конфликтной ситуации в камере</title>
+      <link>https://novayagazeta.ru/news/2026/04/17/khudozhnitsa-liudmila-razumova-osuzhdennaia-za-antivoennye-graffiti-i-posty-opasaetsia-za-svoiu-zhizn-v-sizo-iz-za-konfliktnoi-situatsii-v-kamere-news</link>
+      <description>Художница Людмила Разумова, осужденная за пацифистские граффити и посты, опасается за свою жизнь в СИЗО из-за конфликтной ситуации в камере</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/news/2026/04/17/khudozhnitsa-liudmila-razumova-osuzhdennaia-za-antivoennye-graffiti-i-posty-opasaetsia-za-svoiu-zhizn-v-sizo-iz-za-konfliktnoi-situatsii-v-kamere-news</guid>
+      <pubDate>Fri, 17 Apr 2026 07:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
