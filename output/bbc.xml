@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 20 Apr 2026 13:49:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 15:17:26 +0000</lastBuildDate>
     <item>
       <title>Почему исламский мир не поддержал Иран в его войне с США и Израилем?</title>
       <link>https://www.bbc.com/russian/articles/cjeng5nx0gyo</link>
@@ -147,19 +147,6 @@
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Видео,Нуки о расставании с группой «Слот», «черных списках» артистов, ИИ-музыке и субкультурах нулевых, Продолжительность 41,28</title>
-      <link>https://www.bbc.com/russian/articles/cn43p7dk1zko</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn43p7dk1zko</guid>
-      <pubDate>Mon, 20 Apr 2026 13:49:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Юристы помогают мигрантам в Британии выдавать себя за геев ради убежища — расследование Би-би-си</title>
-      <link>https://www.bbc.com/russian/articles/c3dllj8l7p1o</link>
-      <description>Журналисты Би-би-си, работая под прикрытием, вскрыли систему, в которой юристы за тысячи фунтов помогают мигрантам обманом получить убежище.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3dllj8l7p1o</guid>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Итоги выборов в Венгрии: Орбан проиграл, орбанизм — нет</title>
       <link>https://www.bbc.com/russian/articles/cqxll0dx7gyo</link>
       <description>Виктор Орбан впервые за 16 лет проиграл выборы, уступив Петеру Мадьяру — политику, который шел на них с обещанием демонтировать орбановскую модель власти, восстановить антикоррупционные механизмы и пересмотреть правила, сложившиеся при «Фидес». Но поражение на выборах — это еще не политическая смерть. Орбан лишился кресла премьер-министра, но не лишился наследия, которое давно вышло далеко за пределы Венгрии.</description>
@@ -197,8 +184,9 @@
     <item>
       <title>В Европе энергетический кризис. Будет ли она снова покупать нефть и газ в России?</title>
       <link>https://www.bbc.com/russian/articles/czd7e5pjeelo</link>
+      <description>В ЕС дефицит нефти и газа. Готова ли Европа поставить на паузу энергетический развод с Россией и позволить Кремлю заработать на войне Трампа с Ираном?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/czd7e5pjeelo</guid>
-      <pubDate>Mon, 20 Apr 2026 13:49:14 +0000</pubDate>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
