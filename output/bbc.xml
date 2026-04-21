@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 21 Apr 2026 09:54:50 +0000</lastBuildDate>
-    <item>
-      <title>Почему исламский мир не поддержал Иран в его войне с США и Израилем?</title>
-      <link>https://www.bbc.com/russian/articles/cjeng5nx0gyo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cjeng5nx0gyo</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Apr 2026 11:11:14 +0000</lastBuildDate>
     <item>
       <title>«У нас нет геев, нет секса и нет войны». Как изменилось российское современное искусство за последние четыре года</title>
       <link>https://www.bbc.com/russian/articles/ckgzpdxqnx5o</link>
@@ -153,6 +147,12 @@
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Где я родился, там должен умереть». Кто такой Андрей Акузин, покончивший с собой в тюрьме</title>
+      <link>https://www.bbc.com/russian/articles/c3r3ene59n3o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3r3ene59n3o</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Прекращение огня между Израилем и «Хезболлой» вступило в силу, но вряд ли будет долгим. Почему?</title>
       <link>https://www.bbc.com/russian/articles/clyxpye72vgo</link>
       <description>Несмотря на объявленное Дональдом Трампом прекращение огня между Израилем и Ливаном, вступившее в силу в полночь на пятницу, ситуация на месте мало изменилась за последние сутки. Накануне вечером север Израиля снова подвергся нескольким ракетным обстрелам со стороны «Хезболлы», а развернутые на юге Ливана израильские войска, останутся на своих позициях, как заявил в пятницу министр обороны Израиля Исраэль Кац.</description>
@@ -186,6 +186,13 @@
       <description>В ЕС дефицит нефти и газа. Готова ли Европа поставить на паузу энергетический развод с Россией и позволить Кремлю заработать на войне Трампа с Ираном?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/czd7e5pjeelo</guid>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Всплески активности трейдеров перед важными заявлениями Трампа вызывают все больше подозрений</title>
+      <link>https://www.bbc.com/russian/articles/cj94d437x7wo</link>
+      <description>Би-би-си обнаружила закономерность: перед публичными заявлениями президента США наблюдались всплески торговой активности, принесшие кому-то миллионы долларов. Белый дом отрицает подозрения в причастности чиновников администрации Трампа к инсайдерской торговле.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cj94d437x7wo</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
