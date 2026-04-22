@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Wed, 22 Apr 2026 09:56:35 +0000</lastBuildDate><item><title>Фашизм над Сантьяго</title><link>https://gorky.media/context/fashizm-nad-santyago</link><description>Артур Гранд — памяти Дмитрия Бавильского (и Роберто Боланьо)
-
-07.04.2026</description><pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate></item><item><title>Сознание катастрофического отсутствия собеседников</title><link>https://gorky.media/context/soznanie-katastroficheskogo-otsutstviya-sobesednikov</link><description>Интервью с Валерием Сажиным по случаю выхода собрания Якова Друскина
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Wed, 22 Apr 2026 11:13:07 +0000</lastBuildDate><item><title>Сознание катастрофического отсутствия собеседников</title><link>https://gorky.media/context/soznanie-katastroficheskogo-otsutstviya-sobesednikov</link><description>Интервью с Валерием Сажиным по случаю выхода собрания Якова Друскина
 
 08.04.2026</description><pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate></item><item><title>«Производственная тема Всеволоду Иванову никогда не была интересной»</title><link>https://gorky.media/context/proizvodstvennaya-tema-vsevolodu-ivanovu-nikogda-ne-byla-interesnoi</link><description>Беседа с Еленой Папковой о новых важных находках из архива писателя
 
@@ -23,4 +21,6 @@
 
 20.04.2026</description><pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate></item><item><title>Ключи от Петербурга</title><link>https://gorky.media/context/klyuchi-ot-peterburga</link><description>Памяти Владимира Шинкарева
 
-21.04.2026</description><pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate></item></channel></rss>
+21.04.2026</description><pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate></item><item><title>«Все арабские писатели обожают Достоевского и Толстого, и Махфуз не исключение»</title><link>https://gorky.media/context/vse-arabskie-pisateli-obozhayut-dostoevskogo-i-tolstogo-i-maxfuz-ne-isklyuchenie</link><description>О творчестве классика египетской литературы Нагиба Махфуза
+
+22.04.2026</description><pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate></item></channel></rss>
