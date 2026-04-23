@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 23 Apr 2026 07:15:32 +0000</lastBuildDate>
-    <item>
-      <title>«Раненый говорит: “Пошлите, пошлите”. А мы просто рядом сидим» — История военного медика с позывным «Амулет», который считает, что мир примут все</title>
-      <link>https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</link>
-      <description>История военного медика с позывным «Амулет», который считает, что мир примут все</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/29/ranenyi-govorit-poshlite-poshlite-a-my-prosto-riadom-sidim</guid>
-      <pubDate>Thu, 29 May 2025 08:44:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Apr 2026 09:08:08 +0000</lastBuildDate>
     <item>
       <title>«Там нет каких-то чувств» — История добровольца с позывным «Пастор», который просто хотел испытать себя</title>
       <link>https://novayagazeta.ru/articles/2025/05/29/tam-net-kakikh-to-chuvstv</link>
@@ -287,6 +280,13 @@
       <description>В России снова говорят о легализации охоты на краснокнижных животных</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/04/09/ubit-po-vsem-pravilam</guid>
       <pubDate>Thu, 09 Apr 2026 07:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вышел из моря, весь в пальмовом масле — Нефтяные пятна, выбросы мазута и черные дожди: что происходит на краснодарских курортах перед пляжным сезоном</title>
+      <link>https://novayagazeta.ru/articles/2026/04/23/vyshel-iz-moria-ves-v-palmovom-masle</link>
+      <description>Нефтяные пятна, выбросы мазута и черные дожди: что происходит на краснодарских курортах перед пляжным сезоном</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/04/23/vyshel-iz-moria-ves-v-palmovom-masle</guid>
+      <pubDate>Thu, 23 Apr 2026 08:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
