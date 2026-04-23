@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 23 Apr 2026 11:59:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 14:05:18 +0000</lastBuildDate>
     <item>
       <title>«У нас нет геев, нет секса и нет войны». Как изменилось российское современное искусство за последние четыре года</title>
       <link>https://www.bbc.com/russian/articles/ckgzpdxqnx5o</link>
@@ -147,24 +147,10 @@
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Отправлены на свалку без возможности восстановления»: как уничтожили музей ГУЛАГа</title>
-      <link>https://www.bbc.com/russian/articles/c87wq473q3go</link>
-      <description>В московском Музее Гулага, который в конце февраля был трансформирован в Музей Памяти, уничтожили всю постоянную экспозицию</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c87wq473q3go</guid>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Папа римский против президента: как спор с Ватиканом отразится на позициях Трампа</title>
-      <link>https://www.bbc.com/russian/articles/cx2v1rww6yzo</link>
-      <description>Первый американец на Святом Престоле уже в первые недели понтификата критиковал политику США, а после начала войны против Ирана его заявления стали еще жёстче. Католики составляют около пятой части взрослого населения страны, и на выборах 2024 года большинство из них голосовало за Трампа — угрожает ли конфликт с Ватиканом потерей их поддержки?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx2v1rww6yzo</guid>
-      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Видео,Станет ли Китай нападать на Тайвань? | Военное время, Продолжительность 12,47</title>
       <link>https://www.bbc.com/russian/articles/ckgr72052peo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckgr72052peo</guid>
-      <pubDate>Thu, 23 Apr 2026 11:59:25 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2026 14:05:19 +0000</pubDate>
     </item>
     <item>
       <title>Всплески активности трейдеров перед важными заявлениями Трампа вызывают все больше подозрений</title>
@@ -192,6 +178,13 @@
       <link>https://www.bbc.com/russian/articles/cp8d0jgkjm8o</link>
       <description>Изменение климата на планете продолжается и будет продолжаться еще столетия, даже если человечество устранит его причину. Погодные аномалии лишь подтверждают общую тенденцию.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cp8d0jgkjm8o</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Польша прячется под французский «ядерный зонтик». Сможет ли Париж заменить Вашингтон в ядерном сдерживании в Европе?</title>
+      <link>https://www.bbc.com/russian/articles/cp864797pg5o</link>
+      <description>Польша собирается принять участие во французской инициативе по созданию новой системы ядерного сдерживания в Европе. В понедельник президент Франции Эммануэль Макрон провел переговоры с польским коллегой Дональдом Туском. Би-би-си рассказывает о том, что происходит с проектом европейского «ядерного зонтика» под эгидой Франции, о котором Макрон впервые объявил в марте 2025 года.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cp864797pg5o</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
