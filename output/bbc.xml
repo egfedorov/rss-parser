@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 25 Apr 2026 23:23:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 01:12:11 +0000</lastBuildDate>
     <item>
       <title>«Это послание Москве». Как российских политтехнологов в Анголе обвинили в шпионаже и терроризме</title>
       <link>https://www.bbc.com/russian/articles/cwygex5nlyyo</link>
@@ -147,13 +147,6 @@
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Холодная весна после морозной зимы. Глобальное потепление закончилось?</title>
-      <link>https://www.bbc.com/russian/articles/cp8d0jgkjm8o</link>
-      <description>Изменение климата на планете продолжается и будет продолжаться еще столетия, даже если человечество устранит его причину. Погодные аномалии лишь подтверждают общую тенденцию.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cp8d0jgkjm8o</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Польша прячется под французский «ядерный зонтик». Сможет ли Париж заменить Вашингтон в ядерном сдерживании в Европе?</title>
       <link>https://www.bbc.com/russian/articles/cp864797pg5o</link>
       <description>Польша собирается принять участие во французской инициативе по созданию новой системы ядерного сдерживания в Европе. В понедельник президент Франции Эммануэль Макрон провел переговоры с польским коллегой Дональдом Туском. Би-би-си рассказывает о том, что происходит с проектом европейского «ядерного зонтика» под эгидой Франции, о котором Макрон впервые объявил в марте 2025 года.</description>
@@ -186,7 +179,14 @@
       <link>https://www.bbc.com/russian/articles/cx23eyk8nx3o</link>
       <description>Чернобыль: основные факты со дня открытия АЭС до наших дней</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx23eyk8nx3o</guid>
-      <pubDate>Sat, 25 Apr 2026 23:23:03 +0000</pubDate>
+      <pubDate>Sun, 26 Apr 2026 01:12:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Как КГБ СССР искал диверсантов после катастрофы в Чернобыле и обманывал западных журналистов</title>
+      <link>https://www.bbc.com/russian/articles/ckg9qykqzlko</link>
+      <description>После катастрофы на Чернобыльской АЭС органы госбезопасности пытались найти ее виновников среди американских шпионов и агентуры украинских эмигрантов, а также дезинформировали западную прессу о последствиях аварии</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckg9qykqzlko</guid>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
