@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 26 Apr 2026 10:10:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 11:07:19 +0000</lastBuildDate>
     <item>
       <title>«Это послание Москве». Как российских политтехнологов в Анголе обвинили в шпионаже и терроризме</title>
       <link>https://www.bbc.com/russian/articles/cwygex5nlyyo</link>
@@ -179,7 +179,7 @@
       <link>https://www.bbc.com/russian/articles/cx23eyk8nx3o</link>
       <description>Чернобыль: основные факты со дня открытия АЭС до наших дней</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx23eyk8nx3o</guid>
-      <pubDate>Sun, 26 Apr 2026 10:10:05 +0000</pubDate>
+      <pubDate>Sun, 26 Apr 2026 11:07:19 +0000</pubDate>
     </item>
     <item>
       <title>Как КГБ СССР искал диверсантов после катастрофы в Чернобыле и обманывал западных журналистов</title>
@@ -187,6 +187,13 @@
       <description>После катастрофы на Чернобыльской АЭС органы госбезопасности пытались найти ее виновников среди американских шпионов и агентуры украинских эмигрантов, а также дезинформировали западную прессу о последствиях аварии</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckg9qykqzlko</guid>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>40 лет аварии на ЧАЭС: что происходит с защитной конструкцией над реактором после удара российского дрона</title>
+      <link>https://www.bbc.com/russian/articles/czx9jpzglqgo</link>
+      <description>В феврале 2025 года российский беспилотник попал в защитную конструкцию, построенную в 2016 году над старым саркофагом Чернобыльской АЭС.  «Новый безопасный конфайнмент» (НБК) был возведен французскими инженерами, чтобы защитить мир от радиации, которую начала пропускать старая конструкция. Но после российского удара НБК потерял герметичность и больше не обеспечивает защиту. Что происходит внутри нового укрытия после удара дрона, каковы последствия российской оккупации для ЧАЭС и существует ли риск нового распространения радиации?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/czx9jpzglqgo</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
