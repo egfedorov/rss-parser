@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 26 Apr 2026 19:33:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 20:20:31 +0000</lastBuildDate>
     <item>
       <title>«Это послание Москве». Как российских политтехнологов в Анголе обвинили в шпионаже и терроризме</title>
       <link>https://www.bbc.com/russian/articles/cwygex5nlyyo</link>
@@ -154,20 +154,6 @@
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Россия готовит летнее наступление. Падут ли Славянск и Краматорск?</title>
-      <link>https://www.bbc.com/russian/articles/c0703ddz3lgo</link>
-      <description>Российские войска пытаются выйти к высотам у Славянска, чтобы создать возможности для начала крупного наступления. Но удастся ли им это?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0703ddz3lgo</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Китай пережил тарифы Трампа — но война с Ираном требует новых жертв от его экономики</title>
-      <link>https://www.bbc.com/russian/articles/cvgejv2p8mro</link>
-      <description>Конфликт на Ближнем Востоке наносит ущерб экономике Китая, влияя на заводские заказы, затраты и рабочие места.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgejv2p8mro</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Нефтяной дождь и черное небо. Как живет Туапсе, где третий день горит нефть в порту</title>
       <link>https://www.bbc.com/russian/articles/cpwjgk0g58po</link>
       <description>В Туапсе — экологическая катастрофа: нефтепродуктами загрязнены вода, земля и воздух. Какие последствия ждут курортный город? Би-би-си поговорила с экологами о масштабах проблемы.</description>
@@ -179,7 +165,7 @@
       <link>https://www.bbc.com/russian/articles/cx23eyk8nx3o</link>
       <description>Чернобыль: основные факты со дня открытия АЭС до наших дней</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx23eyk8nx3o</guid>
-      <pubDate>Sun, 26 Apr 2026 19:33:31 +0000</pubDate>
+      <pubDate>Sun, 26 Apr 2026 20:20:31 +0000</pubDate>
     </item>
     <item>
       <title>Как КГБ СССР искал диверсантов после катастрофы в Чернобыле и обманывал западных журналистов</title>
@@ -193,6 +179,13 @@
       <link>https://www.bbc.com/russian/articles/czx9jpzglqgo</link>
       <description>В феврале 2025 года российский беспилотник попал в защитную конструкцию, построенную в 2016 году над старым саркофагом Чернобыльской АЭС.  «Новый безопасный конфайнмент» (НБК) был возведен французскими инженерами, чтобы защитить мир от радиации, которую начала пропускать старая конструкция. Но после российского удара НБК потерял герметичность и больше не обеспечивает защиту. Что происходит внутри нового укрытия после удара дрона, каковы последствия российской оккупации для ЧАЭС и существует ли риск нового распространения радиации?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/czx9jpzglqgo</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Что будет с долларом из-за войны США с Ираном?</title>
+      <link>https://www.bbc.com/russian/articles/c239j89v2ymo</link>
+      <description>С момента прихода Трампа к власти доллар потерял 10%. В мире заговорили о закате финансовой мощи Америки. Но как только Трамп начал войну с Ираном, доллар вырос. Почему, и что будет дальше?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c239j89v2ymo</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
