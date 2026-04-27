@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 27 Apr 2026 18:14:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 19:50:32 +0000</lastBuildDate>
     <item>
       <title>Грузинским маршрутом. Авиапассажиры заплатят за войну в Иране</title>
       <link>https://www.bbc.com/russian/articles/czr0z10m4xyo</link>
@@ -181,6 +181,13 @@
       <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Можем ли мы озеленить пустыни? И нужно ли это делать?</title>
+      <link>https://www.bbc.com/russian/articles/c0ler0e4pxpo</link>
+      <description>Современные технологии могут помочь озеленить пустыню — но стоит ли нам это делать?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0ler0e4pxpo</guid>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Евдокии было 26, когда случился Чернобыль. Ее дети умирали один за другим</title>
       <link>https://www.bbc.com/russian/articles/cly03y805rlo</link>
       <description>Я родилась довольно далеко от Чернобыля — в городе Сарны в Ровенской области. Это в 300 км к западу от ЧАЭС. Но и об аварии, и о радиации я знала с самого детства.</description>
@@ -193,6 +200,13 @@
       <description>Би-би-си рассказывает истории сегодняшних защитников станции, а также инженеров и ликвидаторов, бывших жителей Припяти и последних молодоженов города.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cgj03q6yw4xo</guid>
       <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Король Карл III едет к Трампу. Поможет ли визит наладить отношения Великобритании и США?</title>
+      <link>https://www.bbc.com/russian/articles/cdrm135y0v7o</link>
+      <description>В понедельник, 27 апреля, король Карл III отправляется с официальным визитом в США. Эта поездка пройдет на фоне серьезного кризиса в англо-американских отношениях</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cdrm135y0v7o</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
