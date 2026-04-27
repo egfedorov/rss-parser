@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 27 Apr 2026 03:25:24 +0000</lastBuildDate>
-    <item>
-      <title>«Это послание Москве». Как российских политтехнологов в Анголе обвинили в шпионаже и терроризме</title>
-      <link>https://www.bbc.com/russian/articles/cwygex5nlyyo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwygex5nlyyo</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Apr 2026 06:16:39 +0000</lastBuildDate>
     <item>
       <title>Грузинским маршрутом. Авиапассажиры заплатят за войну в Иране</title>
       <link>https://www.bbc.com/russian/articles/czr0z10m4xyo</link>
@@ -147,6 +141,12 @@
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Мы каждый день под ракетами. Все думают переехать в Москву». Как Белгород и область справляются с энергетическим кризисом</title>
+      <link>https://www.bbc.com/russian/articles/cvgl25vqpz7o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgl25vqpz7o</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Польша прячется под французский «ядерный зонтик». Сможет ли Париж заменить Вашингтон в ядерном сдерживании в Европе?</title>
       <link>https://www.bbc.com/russian/articles/cp864797pg5o</link>
       <description>Польша собирается принять участие во французской инициативе по созданию новой системы ядерного сдерживания в Европе. В понедельник президент Франции Эммануэль Макрон провел переговоры с польским коллегой Дональдом Туском. Би-би-си рассказывает о том, что происходит с проектом европейского «ядерного зонтика» под эгидой Франции, о котором Макрон впервые объявил в марте 2025 года.</description>
@@ -159,13 +159,6 @@
       <description>В Туапсе — экологическая катастрофа: нефтепродуктами загрязнены вода, земля и воздух. Какие последствия ждут курортный город? Би-би-си поговорила с экологами о масштабах проблемы.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cpwjgk0g58po</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Видео,Чернобыль: основные факты со дня открытия АЭС до наших дней, Продолжительность 10,41</title>
-      <link>https://www.bbc.com/russian/articles/cx23eyk8nx3o</link>
-      <description>Чернобыль: основные факты со дня открытия АЭС до наших дней</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx23eyk8nx3o</guid>
-      <pubDate>Mon, 27 Apr 2026 03:25:24 +0000</pubDate>
     </item>
     <item>
       <title>Как КГБ СССР искал диверсантов после катастрофы в Чернобыле и обманывал западных журналистов</title>
@@ -187,6 +180,13 @@
       <description>С момента прихода Трампа к власти доллар потерял 10%. В мире заговорили о закате финансовой мощи Америки. Но как только Трамп начал войну с Ираном, доллар вырос. Почему, и что будет дальше?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c239j89v2ymo</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Евдокии было 26, когда случился Чернобыль. Ее дети умирали один за другим</title>
+      <link>https://www.bbc.com/russian/articles/cly03y805rlo</link>
+      <description>Я родилась довольно далеко от Чернобыля — в городе Сарны в Ровенской области. Это в 300 км к западу от ЧАЭС. Но и об аварии, и о радиации я знала с самого детства.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly03y805rlo</guid>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
