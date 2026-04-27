@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 27 Apr 2026 15:08:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 16:58:42 +0000</lastBuildDate>
     <item>
       <title>Грузинским маршрутом. Авиапассажиры заплатят за войну в Иране</title>
       <link>https://www.bbc.com/russian/articles/czr0z10m4xyo</link>
@@ -185,6 +185,13 @@
       <link>https://www.bbc.com/russian/articles/cly03y805rlo</link>
       <description>Я родилась довольно далеко от Чернобыля — в городе Сарны в Ровенской области. Это в 300 км к западу от ЧАЭС. Но и об аварии, и о радиации я знала с самого детства.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly03y805rlo</guid>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Чернобыль: хроники катастрофы и сегодняшние угрозы</title>
+      <link>https://www.bbc.com/russian/articles/cgj03q6yw4xo</link>
+      <description>Би-би-си рассказывает истории сегодняшних защитников станции, а также инженеров и ликвидаторов, бывших жителей Припяти и последних молодоженов города.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cgj03q6yw4xo</guid>
       <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
