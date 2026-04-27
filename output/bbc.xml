@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 27 Apr 2026 06:16:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 08:42:28 +0000</lastBuildDate>
     <item>
       <title>Грузинским маршрутом. Авиапассажиры заплатят за войну в Иране</title>
       <link>https://www.bbc.com/russian/articles/czr0z10m4xyo</link>
@@ -141,6 +141,12 @@
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Нефтяной дождь и черное небо. Как живет Туапсе, где третий день горит нефть в порту</title>
+      <link>https://www.bbc.com/russian/articles/cpwjgk0g58po</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cpwjgk0g58po</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Мы каждый день под ракетами. Все думают переехать в Москву». Как Белгород и область справляются с энергетическим кризисом</title>
       <link>https://www.bbc.com/russian/articles/cvgl25vqpz7o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgl25vqpz7o</guid>
@@ -152,13 +158,6 @@
       <description>Польша собирается принять участие во французской инициативе по созданию новой системы ядерного сдерживания в Европе. В понедельник президент Франции Эммануэль Макрон провел переговоры с польским коллегой Дональдом Туском. Би-би-си рассказывает о том, что происходит с проектом европейского «ядерного зонтика» под эгидой Франции, о котором Макрон впервые объявил в марте 2025 года.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cp864797pg5o</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Нефтяной дождь и черное небо. Как живет Туапсе, где третий день горит нефть в порту</title>
-      <link>https://www.bbc.com/russian/articles/cpwjgk0g58po</link>
-      <description>В Туапсе — экологическая катастрофа: нефтепродуктами загрязнены вода, земля и воздух. Какие последствия ждут курортный город? Би-би-си поговорила с экологами о масштабах проблемы.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cpwjgk0g58po</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Как КГБ СССР искал диверсантов после катастрофы в Чернобыле и обманывал западных журналистов</title>
