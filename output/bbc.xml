@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 28 Apr 2026 17:48:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 19:45:01 +0000</lastBuildDate>
     <item>
       <title>Грузинским маршрутом. Авиапассажиры заплатят за войну в Иране</title>
       <link>https://www.bbc.com/russian/articles/czr0z10m4xyo</link>
@@ -203,10 +203,17 @@
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Все, что нужно, — ручка, бумага и уединение». К столетию со дня рождения Харпер Ли</title>
+      <link>https://www.bbc.com/russian/articles/cwykyr124p8o</link>
+      <description>28 апреля 1926 года в Алабаме родилась Харпер Ли — писательница, чья биография до сих пор окружена тайнами. Ее дебютный роман «Убить пересмешника» стал неоспоримой американской классикой, а один из его главных персонажей Аттикус Финч — символом морали и честности для многих поколений.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwykyr124p8o</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Удар по имиджу Москвы: российский Африканский корпус отступил с севера Мали после атак сепаратистов. Что происходит?</title>
       <link>https://www.bbc.com/russian/articles/cjr9re118dxo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cjr9re118dxo</guid>
-      <pubDate>Tue, 28 Apr 2026 17:48:24 +0000</pubDate>
+      <pubDate>Tue, 28 Apr 2026 19:45:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
