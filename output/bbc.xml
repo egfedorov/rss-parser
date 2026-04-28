@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 28 Apr 2026 00:09:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 04:09:32 +0000</lastBuildDate>
     <item>
       <title>Грузинским маршрутом. Авиапассажиры заплатят за войну в Иране</title>
       <link>https://www.bbc.com/russian/articles/czr0z10m4xyo</link>
@@ -147,31 +147,11 @@
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Мы каждый день под ракетами. Все думают переехать в Москву». Как Белгород и область справляются с энергетическим кризисом</title>
-      <link>https://www.bbc.com/russian/articles/cvgl25vqpz7o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgl25vqpz7o</guid>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Как КГБ СССР искал диверсантов после катастрофы в Чернобыле и обманывал западных журналистов</title>
-      <link>https://www.bbc.com/russian/articles/ckg9qykqzlko</link>
-      <description>После катастрофы на Чернобыльской АЭС органы госбезопасности пытались найти ее виновников среди американских шпионов и агентуры украинских эмигрантов, а также дезинформировали западную прессу о последствиях аварии</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckg9qykqzlko</guid>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>40 лет аварии на ЧАЭС: что происходит с защитной конструкцией над реактором после удара российского дрона</title>
       <link>https://www.bbc.com/russian/articles/czx9jpzglqgo</link>
       <description>В феврале 2025 года российский беспилотник попал в защитную конструкцию, построенную в 2016 году над старым саркофагом Чернобыльской АЭС.  «Новый безопасный конфайнмент» (НБК) был возведен французскими инженерами, чтобы защитить мир от радиации, которую начала пропускать старая конструкция. Но после российского удара НБК потерял герметичность и больше не обеспечивает защиту. Что происходит внутри нового укрытия после удара дрона, каковы последствия российской оккупации для ЧАЭС и существует ли риск нового распространения радиации?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/czx9jpzglqgo</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Не хочется заниматься спортом? Возможно, вы выбрали неподходящее время суток</title>
-      <link>https://www.bbc.com/russian/articles/c9wqq22wvxpo</link>
-      <description>Чтобы получить максимальную пользу от тренировки в спортзале, фитнес-класса или пробежки, делайте это в то время суток, которое больше всего соответствует вашим естественным внутренним биологическим часам, советуют исследователи.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c9wqq22wvxpo</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Что будет с долларом из-за войны США с Ираном?</title>
@@ -206,6 +186,13 @@
       <link>https://www.bbc.com/russian/articles/cdrm135y0v7o</link>
       <description>В понедельник, 27 апреля, король Карл III отправляется с официальным визитом в США. Эта поездка пройдет на фоне серьезного кризиса в англо-американских отношениях</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cdrm135y0v7o</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Мы каждый день под ракетами. Все думают переехать в Москву». Как Белгород и область справляются с энергетическим кризисом</title>
+      <link>https://www.bbc.com/russian/articles/cvgl25vqpz7o</link>
+      <description>Как российское приграничье переживает энергетический кризис, зачем в регион едут вахтовики и почему местные не хотят работать на объектах энергетики.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgl25vqpz7o</guid>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
