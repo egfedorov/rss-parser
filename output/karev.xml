@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 28 Apr 2026 06:46:42 +0000</lastBuildDate>
-    <item>
-      <title>Госизмена повседневности — От шеф-повара до доктора философских наук — «враги» кругом</title>
-      <link>https://novayagazeta.ru/articles/2025/10/18/gosizmena-povsednevnosti</link>
-      <description>От шеф-повара до доктора философских наук — «враги» кругом</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/18/gosizmena-povsednevnosti</guid>
-      <pubDate>Sat, 18 Oct 2025 12:12:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Apr 2026 09:24:24 +0000</lastBuildDate>
     <item>
       <title>Полтора месяца тишины — Политзаключенная Ольга Комлева рассказала в своем письме, как она потеряла голос после унизительного «обыска»</title>
       <link>https://novayagazeta.ru/articles/2025/10/24/poltora-mesiatsa-tishiny</link>
@@ -287,6 +280,13 @@
       <description>Евгения Ломакова с муковисцидозом в колонии без должной терапии: ФСИН не может обеспечить лекарствами — и это становится частью ее наказания</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/04/23/srok-na-vydokhe</guid>
       <pubDate>Thu, 23 Apr 2026 07:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сострадание как улика — Экспертиза на основе машинного перевода с английского — дело дзен-буддиста Ильи Васильева пересмотрели, не пересматривая</title>
+      <link>https://novayagazeta.ru/articles/2026/04/28/sostradanie-kak-ulika</link>
+      <description>Экспертиза на основе машинного перевода с английского — дело дзен-буддиста Ильи Васильева пересмотрели, не пересматривая</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/04/28/sostradanie-kak-ulika</guid>
+      <pubDate>Tue, 28 Apr 2026 08:33:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
