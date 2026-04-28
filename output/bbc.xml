@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 28 Apr 2026 04:09:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 06:46:53 +0000</lastBuildDate>
     <item>
       <title>Грузинским маршрутом. Авиапассажиры заплатят за войну в Иране</title>
       <link>https://www.bbc.com/russian/articles/czr0z10m4xyo</link>
@@ -147,13 +147,6 @@
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>40 лет аварии на ЧАЭС: что происходит с защитной конструкцией над реактором после удара российского дрона</title>
-      <link>https://www.bbc.com/russian/articles/czx9jpzglqgo</link>
-      <description>В феврале 2025 года российский беспилотник попал в защитную конструкцию, построенную в 2016 году над старым саркофагом Чернобыльской АЭС.  «Новый безопасный конфайнмент» (НБК) был возведен французскими инженерами, чтобы защитить мир от радиации, которую начала пропускать старая конструкция. Но после российского удара НБК потерял герметичность и больше не обеспечивает защиту. Что происходит внутри нового укрытия после удара дрона, каковы последствия российской оккупации для ЧАЭС и существует ли риск нового распространения радиации?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/czx9jpzglqgo</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Что будет с долларом из-за войны США с Ираном?</title>
       <link>https://www.bbc.com/russian/articles/c239j89v2ymo</link>
       <description>С момента прихода Трампа к власти доллар потерял 10%. В мире заговорили о закате финансовой мощи Америки. Но как только Трамп начал войну с Ираном, доллар вырос. Почему, и что будет дальше?</description>
@@ -161,10 +154,10 @@
       <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Можем ли мы озеленить пустыни? И нужно ли это делать?</title>
-      <link>https://www.bbc.com/russian/articles/c0ler0e4pxpo</link>
-      <description>Современные технологии могут помочь озеленить пустыню — но стоит ли нам это делать?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0ler0e4pxpo</guid>
+      <title>Чернобыль: хроники катастрофы и сегодняшние угрозы</title>
+      <link>https://www.bbc.com/russian/articles/cgj03q6yw4xo</link>
+      <description>Би-би-си рассказывает истории сегодняшних защитников станции, а также инженеров и ликвидаторов, бывших жителей Припяти и последних молодоженов города.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cgj03q6yw4xo</guid>
       <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -172,13 +165,6 @@
       <link>https://www.bbc.com/russian/articles/cly03y805rlo</link>
       <description>Я родилась довольно далеко от Чернобыля — в городе Сарны в Ровенской области. Это в 300 км к западу от ЧАЭС. Но и об аварии, и о радиации я знала с самого детства.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly03y805rlo</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Чернобыль: хроники катастрофы и сегодняшние угрозы</title>
-      <link>https://www.bbc.com/russian/articles/cgj03q6yw4xo</link>
-      <description>Би-би-си рассказывает истории сегодняшних защитников станции, а также инженеров и ликвидаторов, бывших жителей Припяти и последних молодоженов города.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cgj03q6yw4xo</guid>
       <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
