@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 28 Apr 2026 11:24:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 13:18:28 +0000</lastBuildDate>
     <item>
       <title>Грузинским маршрутом. Авиапассажиры заплатят за войну в Иране</title>
       <link>https://www.bbc.com/russian/articles/czr0z10m4xyo</link>
@@ -187,6 +187,12 @@
       <description>В редком интервью командир украинских Сил беспилотных систем Роберт Бровди рассказал, что на долю его подразделений приходится треть всех целей, уничтоженных на поле боя.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn0w0pvljzyo</guid>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Удар по имиджу Москвы: российский Африканский корпус отступил с севера Мали после атак сепаратистов. Что происходит?</title>
+      <link>https://www.bbc.com/russian/articles/cjr9re118dxo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cjr9re118dxo</guid>
+      <pubDate>Tue, 28 Apr 2026 13:18:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
