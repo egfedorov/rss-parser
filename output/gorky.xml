@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Wed, 29 Apr 2026 12:57:45 +0000</lastBuildDate><item><title>На убийство способен каждый</title><link>https://gorky.media/context/na-ubiistvo-sposoben-kazhdyi</link><description>Об этической составляющей детективов Агаты Кристи
-
-13.04.2026</description><pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate></item><item><title>«Если нет вдохновения, испортишь лист бумаги. Жалко лист»</title><link>https://gorky.media/context/esli-net-vdoxnoveniya-isportish-list-bumagi-zhalko-list</link><description>Интервью с Владимиром Крейзи Леонтьевым
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Wed, 29 Apr 2026 15:22:25 +0000</lastBuildDate><item><title>«Если нет вдохновения, испортишь лист бумаги. Жалко лист»</title><link>https://gorky.media/context/esli-net-vdoxnoveniya-isportish-list-bumagi-zhalko-list</link><description>Интервью с Владимиром Крейзи Леонтьевым
 
 13.04.2026</description><pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate></item><item><title>«Шумеро-аккадская литература не знала графомании»</title><link>https://gorky.media/context/shumero-akkadskaya-literatura-ne-znala-grafomanii</link><description>Интервью с Владимиром Емельяновым о «Литературе Древней Месопотамии»
 
@@ -23,4 +21,6 @@
 
 27.04.2026</description><pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate></item><item><title>Если выпало в провинции родиться…</title><link>https://gorky.media/context/esli-vypalo-v-provintsii-roditsya</link><description>Издатель «Горького» Борис Куприянов — о доносах, проверках и правильной Нобелевской премии
 
-28.04.2026</description><pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate></item></channel></rss>
+28.04.2026</description><pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate></item><item><title>«Про подмышки неинтересно читать»</title><link>https://gorky.media/context/pro-podmyshki-neinteresno-chitat</link><description>Студенты о «Лолите» Владимира Набокова
+
+29.04.2026</description><pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate></item></channel></rss>
