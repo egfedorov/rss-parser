@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 29 Apr 2026 17:09:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 18:52:00 +0000</lastBuildDate>
     <item>
       <title>Грузинским маршрутом. Авиапассажиры заплатят за войну в Иране</title>
       <link>https://www.bbc.com/russian/articles/czr0z10m4xyo</link>
@@ -147,32 +147,11 @@
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Что будет с долларом из-за войны США с Ираном?</title>
-      <link>https://www.bbc.com/russian/articles/c239j89v2ymo</link>
-      <description>С момента прихода Трампа к власти доллар потерял 10%. В мире заговорили о закате финансовой мощи Америки. Но как только Трамп начал войну с Ираном, доллар вырос. Почему, и что будет дальше?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c239j89v2ymo</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Чернобыль: хроники катастрофы и сегодняшние угрозы</title>
       <link>https://www.bbc.com/russian/articles/cgj03q6yw4xo</link>
       <description>Би-би-си рассказывает истории сегодняшних защитников станции, а также инженеров и ликвидаторов, бывших жителей Припяти и последних молодоженов города.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cgj03q6yw4xo</guid>
       <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Евдокии было 26, когда случился Чернобыль. Ее дети умирали один за другим</title>
-      <link>https://www.bbc.com/russian/articles/cly03y805rlo</link>
-      <description>Я родилась довольно далеко от Чернобыля — в городе Сарны в Ровенской области. Это в 300 км к западу от ЧАЭС. Но и об аварии, и о радиации я знала с самого детства.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly03y805rlo</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Король Карл III едет к Трампу. Поможет ли визит наладить отношения Великобритании и США?</title>
-      <link>https://www.bbc.com/russian/articles/cdrm135y0v7o</link>
-      <description>В понедельник, 27 апреля, король Карл III отправляется с официальным визитом в США. Эта поездка пройдет на фоне серьезного кризиса в англо-американских отношениях</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cdrm135y0v7o</guid>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>«Мы каждый день под ракетами. Все думают переехать в Москву». Как Белгород и область справляются с энергетическим кризисом</title>
@@ -212,8 +191,15 @@
     <item>
       <title>Удар по имиджу Москвы: российский Африканский корпус отступил с севера Мали после атак сепаратистов. Что происходит?</title>
       <link>https://www.bbc.com/russian/articles/cjr9re118dxo</link>
+      <description>Российские наемники из Африканского корпуса потерпели одно из самых болезненных поражений за все пять лет военного присутствия в Мали. В результате скоординированной атаки повстанцев-туарегов и боевиков из группировки, связанной с запрещенной в России «Аль-Каидой», наемникам пришлось отступать из города Кидаль.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cjr9re118dxo</guid>
-      <pubDate>Wed, 29 Apr 2026 17:09:08 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Что глава МИД Ирана Аббас Арагчи обсуждал с Путиным? Объясняет иранист Никита Смагин в подкасте «Что это было?»</title>
+      <link>https://www.bbc.com/russian/articles/cg7p9j3mv5no</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cg7p9j3mv5no</guid>
+      <pubDate>Wed, 29 Apr 2026 18:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
