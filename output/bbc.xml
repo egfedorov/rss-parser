@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 30 Apr 2026 07:39:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 09:52:03 +0000</lastBuildDate>
     <item>
       <title>Грузинским маршрутом. Авиапассажиры заплатят за войну в Иране</title>
       <link>https://www.bbc.com/russian/articles/czr0z10m4xyo</link>
@@ -147,16 +147,8 @@
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Чернобыль: хроники катастрофы и сегодняшние угрозы</title>
-      <link>https://www.bbc.com/russian/articles/cgj03q6yw4xo</link>
-      <description>Би-би-си рассказывает истории сегодняшних защитников станции, а также инженеров и ликвидаторов, бывших жителей Припяти и последних молодоженов города.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cgj03q6yw4xo</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Мы каждый день под ракетами. Все думают переехать в Москву». Как Белгород и область справляются с энергетическим кризисом</title>
       <link>https://www.bbc.com/russian/articles/cvgl25vqpz7o</link>
-      <description>Как российское приграничье переживает энергетический кризис, зачем в регион едут вахтовики и почему местные не хотят работать на объектах энергетики.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgl25vqpz7o</guid>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
     </item>
@@ -194,6 +186,13 @@
       <description>Российские наемники из Африканского корпуса потерпели одно из самых болезненных поражений за все пять лет военного присутствия в Мали. В результате скоординированной атаки повстанцев-туарегов и боевиков из группировки, связанной с запрещенной в России «Аль-Каидой», наемникам пришлось отступать из города Кидаль.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cjr9re118dxo</guid>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Европа нагревается быстрее всей планеты. Особенно там, где раньше всегда было холодно</title>
+      <link>https://www.bbc.com/russian/articles/c2k2j4l9qx4o</link>
+      <description>Холодные зимы уходят в прошлое, несмотря на отдельные эпизоды суровых морозов и обильных снегопадов, как в Альпах или в России минувшей зимой.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c2k2j4l9qx4o</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
