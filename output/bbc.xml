@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 01 May 2026 15:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 16:14:32 +0000</lastBuildDate>
     <item>
       <title>Грузинским маршрутом. Авиапассажиры заплатят за войну в Иране</title>
       <link>https://www.bbc.com/russian/articles/czr0z10m4xyo</link>
@@ -153,13 +153,6 @@
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Собирают нефть экскаватором: как в Туапсе справляются с экологической катастрофой</title>
-      <link>https://www.bbc.com/russian/articles/cn080d3x3zeo</link>
-      <description>Пожар в Туапсе потушили, но река и городской пляж в мазуте, разлив нефти угрожает морю. Как разворачивается экологическая катастрофа в Туапсе, где из-за атаки дронов повреждены нефтеналивные терминалы?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn080d3x3zeo</guid>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>От «мира во всем мире» до бессрочного перемирия: что поменялось через два месяца после начала войны с Ираном?</title>
       <link>https://www.bbc.com/russian/articles/cpd5wnvexnqo</link>
       <description>Прошло два месяца с того дня, как США и Израиль начали войну против Ирана. За это время президент Трамп и члены его администрации сделали немало заявлений о целях этой войны. Иран отвечает на эти заявления категоричными требованиями, и перспектива разрешения конфликта остается туманной. Би-би-си напоминает об основных поворотных пунктах войны США и Израиля с Ираном.</description>
@@ -198,7 +191,7 @@
       <title>Видео,Как поссорились Куба и США | Би-би-си объясняет, Продолжительность 12,26</title>
       <link>https://www.bbc.com/russian/articles/cg7p8v0p9e8o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cg7p8v0p9e8o</guid>
-      <pubDate>Fri, 01 May 2026 15:03:10 +0000</pubDate>
+      <pubDate>Fri, 01 May 2026 16:14:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
