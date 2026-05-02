@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 02 May 2026 05:55:06 +0000</lastBuildDate>
-    <item>
-      <title>Грузинским маршрутом. Авиапассажиры заплатят за войну в Иране</title>
-      <link>https://www.bbc.com/russian/articles/czr0z10m4xyo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/czr0z10m4xyo</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 May 2026 07:48:57 +0000</lastBuildDate>
     <item>
       <title>Почему Азербайджан уже шесть лет держит закрытыми наземные границы?</title>
       <link>https://www.bbc.com/russian/articles/cx2rzxrkrgeo</link>
@@ -153,6 +147,12 @@
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Зумеры против ИИ? Нападения на дом создателя ChatGPT вызвали дискуссию о кризисе доверия к искусственному интеллекту</title>
+      <link>https://www.bbc.com/russian/articles/c3r357g88yyo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3r357g88yyo</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>От «мира во всем мире» до бессрочного перемирия: что поменялось через два месяца после начала войны с Ираном?</title>
       <link>https://www.bbc.com/russian/articles/cpd5wnvexnqo</link>
       <description>Прошло два месяца с того дня, как США и Израиль начали войну против Ирана. За это время президент Трамп и члены его администрации сделали немало заявлений о целях этой войны. Иран отвечает на эти заявления категоричными требованиями, и перспектива разрешения конфликта остается туманной. Би-би-си напоминает об основных поворотных пунктах войны США и Израиля с Ираном.</description>
@@ -191,7 +191,7 @@
       <title>Видео,Как поссорились Куба и США | Би-би-си объясняет, Продолжительность 12,26</title>
       <link>https://www.bbc.com/russian/articles/cg7p8v0p9e8o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cg7p8v0p9e8o</guid>
-      <pubDate>Sat, 02 May 2026 05:55:06 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 07:48:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
