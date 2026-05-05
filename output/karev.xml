@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 05 May 2026 08:30:06 +0000</lastBuildDate>
-    <item>
-      <title>Полтора месяца тишины — Политзаключенная Ольга Комлева рассказала в своем письме, как она потеряла голос после унизительного «обыска»</title>
-      <link>https://novayagazeta.ru/articles/2025/10/24/poltora-mesiatsa-tishiny</link>
-      <description>Политзаключенная Ольга Комлева рассказала в своем письме, как она потеряла голос после унизительного «обыска»</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/24/poltora-mesiatsa-tishiny</guid>
-      <pubDate>Fri, 24 Oct 2025 08:53:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 May 2026 10:23:42 +0000</lastBuildDate>
     <item>
       <title>«Кухня русской тюрьмы» — Как быть свободными в несвободной стране: рецепты от Павла и Ольги Сюткиных</title>
       <link>https://novayagazeta.ru/articles/2025/10/29/kukhnia-russkoi-tiurmy</link>
@@ -287,6 +280,13 @@
       <description>Экспертиза на основе машинного перевода с английского — дело дзен-буддиста Ильи Васильева пересмотрели, не пересматривая</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/04/28/sostradanie-kak-ulika</guid>
       <pubDate>Tue, 28 Apr 2026 08:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Охота на слова — Сроки за посты и «госизмена» из переписки: как наказывают за высказывания — задним числом и без четких границ допустимого</title>
+      <link>https://novayagazeta.ru/articles/2026/05/05/okhota-na-slova</link>
+      <description>Сроки за посты и «госизмена» из переписки: как наказывают за высказывания — задним числом и без четких границ допустимого</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/05/05/okhota-na-slova</guid>
+      <pubDate>Tue, 05 May 2026 09:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
