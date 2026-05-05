@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Tue, 05 May 2026 06:19:08 +0000</lastBuildDate><item><title>«Перевод убивает мое собственное письмо»</title><link>https://gorky.media/context/perevod-ubivaet-moe-sobstvennoe-pismo</link><description>Интервью с Аленой Махониновой о ее «прозе»
-
-15.04.2026</description><pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate></item><item><title>У Плиния идет носом кровь</title><link>https://gorky.media/context/u-pliniya-idet-nosom-krov</link><description>О романе Харальда Вётманна «Бодрствующий»
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Горький — Контекст</title><link>https://gorky.media/context</link><description>Раздел «Контекст» журнала Горький</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ru</language><lastBuildDate>Tue, 05 May 2026 08:30:12 +0000</lastBuildDate><item><title>У Плиния идет носом кровь</title><link>https://gorky.media/context/u-pliniya-idet-nosom-krov</link><description>О романе Харальда Вётманна «Бодрствующий»
 
 16.04.2026</description><pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate></item><item><title>«Если ты уныл — не выходи на люди»</title><link>https://gorky.media/context/esli-ty-unyl-ne-vyxodi-na-lyudi</link><description>Беседа Юрия Сапрыкина и Ольги Седаковой о «Франциске и его братьях»
 
@@ -23,4 +21,6 @@
 
 01.05.2026</description><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate></item><item><title>Воспринимай все как единственно верный путь</title><link>https://gorky.media/context/vosprinimai-vse-kak-edinstvenno-vernyi-put</link><description>О романе Анны-Марии Ортезе «Игуана»
 
-04.05.2026</description><pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate></item></channel></rss>
+04.05.2026</description><pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate></item><item><title>«Музеи — не единственная точка притяжения памяти»</title><link>https://gorky.media/context/muzei-ne-edinstvennaya-tochka-prityazheniya-pamyati</link><description>Интервью с исследовательницей современного искусства Татьяной Мироновой
+
+05.05.2026</description><pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate></item></channel></rss>
