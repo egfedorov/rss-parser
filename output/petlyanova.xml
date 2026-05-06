@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 06 May 2026 06:47:32 +0000</lastBuildDate>
-    <item>
-      <title>Мга стабильная — Как и почему голосовали на президентских выборах жители малонаселенного депрессивного поселка в Ленинградской области</title>
-      <link>https://novayagazeta.ru/articles/2024/03/18/mga-stabilnaia</link>
-      <description>Как и почему голосовали на президентских выборах жители малонаселенного депрессивного поселка в Ленинградской области</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/03/18/mga-stabilnaia</guid>
-      <pubDate>Mon, 18 Mar 2024 14:01:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 May 2026 09:25:24 +0000</lastBuildDate>
     <item>
       <title>«Должен понести наказание! Он критикует власть!» — 20 марта решится судьба еще одного петербуржца, преследуемого по политической статье — за «фейки» о российской армии</title>
       <link>https://novayagazeta.ru/articles/2024/03/19/dolzhen-ponesti-nakazanie-on-kritikuet-vlast</link>
@@ -198,17 +191,17 @@
       <pubDate>Mon, 11 Nov 2024 07:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>Дайте коридор!&amp;nbsp; — Наши родные погибают в Судже</title>
-      <link>https://novayagazeta.ru/videos/2024/11/13/daite-koridor</link>
-      <description>Наши родные погибают в Судже</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/videos/2024/11/13/daite-koridor</guid>
-      <pubDate>Wed, 13 Nov 2024 08:35:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Глаза тех, кого пришлось бросить, я не забуду никогда» — Почти две тысячи жителей, по неофициальным данным, остаются сегодня в занятой ВСУ Судже и Суджанском районе</title>
       <link>https://novayagazeta.ru/articles/2024/11/13/glaza-tekh-kogo-prishlos-brosit-ia-ne-zabudu-nikogda</link>
       <description>Почти две тысячи жителей, по неофициальным данным, остаются сегодня в занятой ВСУ Судже и Суджанском районе</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/11/13/glaza-tekh-kogo-prishlos-brosit-ia-ne-zabudu-nikogda</guid>
+      <pubDate>Wed, 13 Nov 2024 08:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дайте коридор!&amp;nbsp; — Наши родные погибают в Судже</title>
+      <link>https://novayagazeta.ru/videos/2024/11/13/daite-koridor</link>
+      <description>Наши родные погибают в Судже</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/videos/2024/11/13/daite-koridor</guid>
       <pubDate>Wed, 13 Nov 2024 08:35:00 +0000</pubDate>
     </item>
     <item>
@@ -287,6 +280,13 @@
       <description>С этого года цифры в «жировках» ряда регионов выросли не на обещанные 1,7, а на 12,4%</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/04/ne-do-zhiru</guid>
       <pubDate>Wed, 04 Mar 2026 08:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Дорого и небогато»&amp;nbsp; — Собкоры «Новой» провели ежемесячный замер стоимости продуктов и товаров первой необходимости</title>
+      <link>https://novayagazeta.ru/articles/2026/05/06/dorogo-i-nebogato</link>
+      <description>Собкоры «Новой» провели ежемесячный замер стоимости продуктов и товаров первой необходимости</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/05/06/dorogo-i-nebogato</guid>
+      <pubDate>Wed, 06 May 2026 07:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
