@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 07 May 2026 07:21:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 10:06:10 +0000</lastBuildDate>
     <item>
       <title>Почему Азербайджан уже шесть лет держит закрытыми наземные границы?</title>
       <link>https://www.bbc.com/russian/articles/cx2rzxrkrgeo</link>
@@ -150,7 +150,7 @@
       <title>Видео,Как поссорились Куба и США | Би-би-си объясняет, Продолжительность 12,26</title>
       <link>https://www.bbc.com/russian/articles/cg7p8v0p9e8o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cg7p8v0p9e8o</guid>
-      <pubDate>Thu, 07 May 2026 07:21:37 +0000</pubDate>
+      <pubDate>Thu, 07 May 2026 10:06:10 +0000</pubDate>
     </item>
     <item>
       <title>Европа нагревается быстрее всей планеты. Особенно там, где раньше всегда было холодно</title>
@@ -186,6 +186,13 @@
       <description>20-летний техасец обвиняется в покушении на жизнь главы ИИ-компании OpenAI, которая создала ChatGPT, Сэма Альтмана. Би-би-си поговорила с экспертами о том, что эти нападения говорят об отношение общества к ИИ и его создателям.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3r357g88yyo</guid>
       <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Чудо коммуникации или иллюзия? В России вышел доксериал о людях с аутизмом. К нему есть вопросы</title>
+      <link>https://www.bbc.com/russian/articles/clypd78znvko</link>
+      <description>В России при поддержке Института развития интернета вышел сериал о коммуникации невербальных (то есть неговорящих) молодых людей с  аутизмом. Однако специалисты считают метод, показанный в сериале, устаревшим и недоказанным.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/clypd78znvko</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
