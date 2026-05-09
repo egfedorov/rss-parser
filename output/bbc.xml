@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 09 May 2026 11:56:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 13:41:34 +0000</lastBuildDate>
     <item>
       <title>«Насмешка от государства». Как война и санкции усугубили экономические проблемы Хакасии</title>
       <link>https://www.bbc.com/russian/articles/c4gjlp17n29o</link>
@@ -105,12 +105,6 @@
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Феномен Фараджа: как человек с сигаретой и пивом меняет Британию</title>
-      <link>https://www.bbc.com/russian/articles/cp86d1v9v8ro</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cp86d1v9v8ro</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Как Елизавета II «сбежала» из Букингемского дворца и праздновала в толпе победу над нацистской Германией</title>
       <link>https://www.bbc.com/russian/articles/c78qj6n56qvo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c78qj6n56qvo</guid>
@@ -156,6 +150,13 @@
       <description>Каким образом Украине удалось вырваться вперёд в технологической гонке, как это отражается на ходе боевых действий</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cj0p25r4prdo</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Феномен Фараджа: как человек с сигаретой и пивом меняет Британию</title>
+      <link>https://www.bbc.com/russian/articles/cp86d1v9v8ro</link>
+      <description>Партия Reform UK Найджела Фараджа, главного борца с иммиграцией в Британии, продолжает превращаться в главную оппозиционную силу страны.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cp86d1v9v8ro</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
