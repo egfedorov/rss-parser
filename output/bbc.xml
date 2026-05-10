@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 10 May 2026 01:24:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 05:22:06 +0000</lastBuildDate>
     <item>
       <title>«Насмешка от государства». Как война и санкции усугубили экономические проблемы Хакасии</title>
       <link>https://www.bbc.com/russian/articles/c4gjlp17n29o</link>
@@ -99,6 +99,12 @@
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Зумеры против ИИ? Нападения на дом создателя ChatGPT вызвали дискуссию о кризисе доверия к искусственному интеллекту</title>
+      <link>https://www.bbc.com/russian/articles/c3r357g88yyo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3r357g88yyo</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Как Елизавета II «сбежала» из Букингемского дворца и праздновала в толпе победу над нацистской Германией</title>
       <link>https://www.bbc.com/russian/articles/c78qj6n56qvo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c78qj6n56qvo</guid>
@@ -109,13 +115,6 @@
       <link>https://www.bbc.com/russian/articles/cq5pw4788qqo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq5pw4788qqo</guid>
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Зумеры против ИИ? Нападения на дом создателя ChatGPT вызвали дискуссию о кризисе доверия к искусственному интеллекту</title>
-      <link>https://www.bbc.com/russian/articles/c3r357g88yyo</link>
-      <description>20-летний техасец обвиняется в покушении на жизнь главы ИИ-компании OpenAI, которая создала ChatGPT, Сэма Альтмана. Би-би-си поговорила с экспертами о том, что эти нападения говорят об отношение общества к ИИ и его создателям.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3r357g88yyo</guid>
-      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>«Там темно и страшно». Как живет человек с одной из самых опасных работ в мире: спускаться под взорвавшийся реактор ЧАЭС</title>
@@ -146,6 +145,13 @@
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Одета как преемница. О чем говорят наряды Ким Чжу Э, дочери Ким Чен Ына?</title>
+      <link>https://www.bbc.com/russian/articles/cqlpdqqg353o</link>
+      <description>В ноябре 2022 появилась фотография северокорейского лидера Ким Чен Ына, рядом с котором стояла элегантно одетая девочка — его дочь Ким Чжу Э.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqlpdqqg353o</guid>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Феномен Фараджа: как человек с сигаретой и пивом меняет Британию</title>
       <link>https://www.bbc.com/russian/articles/cp86d1v9v8ro</link>
       <description>Партия Reform UK Найджела Фараджа, главного борца с иммиграцией в Британии, продолжает превращаться в главную оппозиционную силу страны.</description>
@@ -156,7 +162,7 @@
       <title>Найти рядового Бокиджона. Тайна советского солдата, бежавшего из лагеря на острове Джерси</title>
       <link>https://www.bbc.com/russian/articles/c302mr9gmdyo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c302mr9gmdyo</guid>
-      <pubDate>Sun, 10 May 2026 01:24:13 +0000</pubDate>
+      <pubDate>Sun, 10 May 2026 05:22:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
