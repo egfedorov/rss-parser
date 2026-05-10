@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 10 May 2026 07:47:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 09:40:30 +0000</lastBuildDate>
     <item>
       <title>«Насмешка от государства». Как война и санкции усугубили экономические проблемы Хакасии</title>
       <link>https://www.bbc.com/russian/articles/c4gjlp17n29o</link>
@@ -105,23 +105,16 @@
       <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Там темно и страшно». Как живет человек с одной из самых опасных работ в мире: спускаться под взорвавшийся реактор ЧАЭС</title>
+      <link>https://www.bbc.com/russian/articles/c893vywdd7jo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c893vywdd7jo</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Как Елизавета II «сбежала» из Букингемского дворца и праздновала в толпе победу над нацистской Германией</title>
       <link>https://www.bbc.com/russian/articles/c78qj6n56qvo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c78qj6n56qvo</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Киберармия против «мамы Пашиняна». Как я ездила на саммит ЕС в Армении</title>
-      <link>https://www.bbc.com/russian/articles/cq5pw4788qqo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq5pw4788qqo</guid>
-      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Там темно и страшно». Как живет человек с одной из самых опасных работ в мире: спускаться под взорвавшийся реактор ЧАЭС</title>
-      <link>https://www.bbc.com/russian/articles/c893vywdd7jo</link>
-      <description>Уже 12 лет Анатолий Дорошенко каждый месяц в специальном защитном костюме спускается под разрушенный 4-й энергоблок Чернобыльской АЭС.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c893vywdd7jo</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Чудо коммуникации или иллюзия? В России вышел доксериал о людях с аутизмом. К нему есть вопросы</title>
@@ -159,10 +152,17 @@
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Киберармия против «мамы Пашиняна». Как я ездила на саммит ЕС в Армении</title>
+      <link>https://www.bbc.com/russian/articles/cq5pw4788qqo</link>
+      <description>8 мая в Армении официально дано начало предвыборной кампании. Но на самом деле она началась гораздо раньше. Корреспондентка Би-би-си на Южном Кавказе Райхон Демитрие рассказывает о впечатлениях после недавней поездки на саммит ЕС в Ереване.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq5pw4788qqo</guid>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Найти рядового Бокиджона. Тайна советского солдата, бежавшего из лагеря на острове Джерси</title>
       <link>https://www.bbc.com/russian/articles/c302mr9gmdyo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c302mr9gmdyo</guid>
-      <pubDate>Sun, 10 May 2026 07:47:11 +0000</pubDate>
+      <pubDate>Sun, 10 May 2026 09:40:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
