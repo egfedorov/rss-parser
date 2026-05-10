@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 10 May 2026 21:31:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 22:28:12 +0000</lastBuildDate>
     <item>
       <title>«Насмешка от государства». Как война и санкции усугубили экономические проблемы Хакасии</title>
       <link>https://www.bbc.com/russian/articles/c4gjlp17n29o</link>
@@ -111,38 +111,28 @@
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Как Елизавета II «сбежала» из Букингемского дворца и праздновала в толпе победу над нацистской Германией</title>
-      <link>https://www.bbc.com/russian/articles/c78qj6n56qvo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c78qj6n56qvo</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Чудо коммуникации или иллюзия? В России вышел доксериал о людях с аутизмом. К нему есть вопросы</title>
       <link>https://www.bbc.com/russian/articles/clypd78znvko</link>
-      <description>В России при поддержке Института развития интернета вышел сериал о коммуникации невербальных (то есть неговорящих) молодых людей с  аутизмом. Однако специалисты считают метод, показанный в сериале, устаревшим и недоказанным.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/clypd78znvko</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Чем вызван рост ударов ВСУ по объектам в глубине России и прифронтовой зоне</title>
+      <link>https://www.bbc.com/russian/articles/cj0p25r4prdo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cj0p25r4prdo</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Когда твой прадед — нацист. Как в Германии восстанавливают семейную историю времен Третьего рейха</title>
       <link>https://www.bbc.com/russian/articles/ckgpyq14wvqo</link>
-      <description>В Германии в открытый доступ выложены миллионы документов бывших членов НСДАП. Би-би-си поговорила с людьми, которые нашли в картотеке своих родственников о том, почему вопросы семейной истории остаются для немецкого общества такой чувствительной темой спустя более чем 80 лет с победы над нацизмом.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckgpyq14wvqo</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Чем вызван рост ударов ВСУ по объектам в глубине России и прифронтовой зоне</title>
-      <link>https://www.bbc.com/russian/articles/cj0p25r4prdo</link>
-      <description>Каким образом Украине удалось вырваться вперёд в технологической гонке, как это отражается на ходе боевых действий</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cj0p25r4prdo</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Одета как преемница. О чем говорят наряды Ким Чжу Э, дочери Ким Чен Ына?</title>
-      <link>https://www.bbc.com/russian/articles/cqlpdqqg353o</link>
-      <description>В ноябре 2022 появилась фотография северокорейского лидера Ким Чен Ына, рядом с котором стояла элегантно одетая девочка — его дочь Ким Чжу Э.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqlpdqqg353o</guid>
-      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <title>Как Елизавета II «сбежала» из Букингемского дворца и праздновала в толпе победу над нацистской Германией</title>
+      <link>https://www.bbc.com/russian/articles/c78qj6n56qvo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c78qj6n56qvo</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Феномен Фараджа: как человек с сигаретой и пивом меняет Британию</title>
@@ -159,6 +149,13 @@
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Одета как преемница. О чем говорят наряды Ким Чжу Э, дочери Ким Чен Ына?</title>
+      <link>https://www.bbc.com/russian/articles/cqlpdqqg353o</link>
+      <description>В ноябре 2022 появилась фотография северокорейского лидера Ким Чен Ына, рядом с котором стояла элегантно одетая девочка — его дочь Ким Чжу Э.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqlpdqqg353o</guid>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Киберармия против «мамы Пашиняна». Как я ездила на саммит ЕС в Армении</title>
       <link>https://www.bbc.com/russian/articles/cq5pw4788qqo</link>
       <description>8 мая в Армении официально дано начало предвыборной кампании. Но на самом деле она началась гораздо раньше. Корреспондентка Би-би-си на Южном Кавказе Райхон Демитрие рассказывает о впечатлениях после недавней поездки на саммит ЕС в Ереване.</description>
@@ -168,8 +165,9 @@
     <item>
       <title>Найти рядового Бокиджона. Тайна советского солдата, бежавшего из лагеря на острове Джерси</title>
       <link>https://www.bbc.com/russian/articles/c302mr9gmdyo</link>
+      <description>Во время Второй мировой войны на оккупированный нацистской Германией остров Джерси привезли тысячи людей — их использовали для строительства тоннелей и бункеров. Судьба многих узников неизвестна до сих пор, но Би-би-си выяснила, что случилось с одним из них — советским солдатом Бокиджоном, которого спрятала у себя семья местных фермеров. Более 80 лет они ничего не знали о его судьбе.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c302mr9gmdyo</guid>
-      <pubDate>Sun, 10 May 2026 21:31:36 +0000</pubDate>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
