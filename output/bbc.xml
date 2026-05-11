@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 11 May 2026 01:29:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 05:42:31 +0000</lastBuildDate>
     <item>
       <title>«Насмешка от государства». Как война и санкции усугубили экономические проблемы Хакасии</title>
       <link>https://www.bbc.com/russian/articles/c4gjlp17n29o</link>
@@ -135,6 +135,20 @@
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Киберармия против «мамы Пашиняна». Как я ездила на саммит ЕС в Армении</title>
+      <link>https://www.bbc.com/russian/articles/cq5pw4788qqo</link>
+      <description>8 мая в Армении официально дано начало предвыборной кампании. Но на самом деле она началась гораздо раньше. Корреспондентка Би-би-си на Южном Кавказе Райхон Демитрие рассказывает о впечатлениях после недавней поездки на саммит ЕС в Ереване.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq5pw4788qqo</guid>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Найти рядового Бокиджона. Тайна советского солдата, бежавшего из лагеря на острове Джерси</title>
+      <link>https://www.bbc.com/russian/articles/c302mr9gmdyo</link>
+      <description>Во время Второй мировой войны на оккупированный нацистской Германией остров Джерси привезли тысячи людей — их использовали для строительства тоннелей и бункеров. Судьба многих узников неизвестна до сих пор, но Би-би-си выяснила, что случилось с одним из них — советским солдатом Бокиджоном, которого спрятала у себя семья местных фермеров. Более 80 лет они ничего не знали о его судьбе.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c302mr9gmdyo</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Феномен Фараджа: как человек с сигаретой и пивом меняет Британию</title>
       <link>https://www.bbc.com/russian/articles/cp86d1v9v8ro</link>
       <description>Партия Reform UK Найджела Фараджа, главного борца с иммиграцией в Британии, продолжает превращаться в главную оппозиционную силу страны.</description>
@@ -149,25 +163,11 @@
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Одета как преемница. О чем говорят наряды Ким Чжу Э, дочери Ким Чен Ына?</title>
-      <link>https://www.bbc.com/russian/articles/cqlpdqqg353o</link>
-      <description>В ноябре 2022 появилась фотография северокорейского лидера Ким Чен Ына, рядом с котором стояла элегантно одетая девочка — его дочь Ким Чжу Э.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqlpdqqg353o</guid>
-      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Киберармия против «мамы Пашиняна». Как я ездила на саммит ЕС в Армении</title>
-      <link>https://www.bbc.com/russian/articles/cq5pw4788qqo</link>
-      <description>8 мая в Армении официально дано начало предвыборной кампании. Но на самом деле она началась гораздо раньше. Корреспондентка Би-би-си на Южном Кавказе Райхон Демитрие рассказывает о впечатлениях после недавней поездки на саммит ЕС в Ереване.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq5pw4788qqo</guid>
-      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Найти рядового Бокиджона. Тайна советского солдата, бежавшего из лагеря на острове Джерси</title>
-      <link>https://www.bbc.com/russian/articles/c302mr9gmdyo</link>
-      <description>Во время Второй мировой войны на оккупированный нацистской Германией остров Джерси привезли тысячи людей — их использовали для строительства тоннелей и бункеров. Судьба многих узников неизвестна до сих пор, но Би-би-си выяснила, что случилось с одним из них — советским солдатом Бокиджоном, которого спрятала у себя семья местных фермеров. Более 80 лет они ничего не знали о его судьбе.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c302mr9gmdyo</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <title>«Мы вроде делали все по закону». Как молодежное движение «Алый лебедь» стало мишенью для российских силовиков</title>
+      <link>https://www.bbc.com/russian/articles/c8jvezm0v4no</link>
+      <description>В середине марта в Рунете появилось сообщество «Алый лебедь», которое призывало россиян протестовать против блокировок интернета и выходить на митинги 29 марта. Оппозиционеры отнеслись к движению скептически, подозревая в нем провокацию. Организаторы «Алого лебедя», недавние школьники и студенты, столкнулись с давлением силовиков и травлей провластных активистов.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8jvezm0v4no</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
