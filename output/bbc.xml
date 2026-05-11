@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 11 May 2026 19:56:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 21:21:58 +0000</lastBuildDate>
     <item>
       <title>«Насмешка от государства». Как война и санкции усугубили экономические проблемы Хакасии</title>
       <link>https://www.bbc.com/russian/articles/c4gjlp17n29o</link>
@@ -129,6 +129,12 @@
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Феномен Фараджа: как человек с сигаретой и пивом меняет Британию</title>
+      <link>https://www.bbc.com/russian/articles/cp86d1v9v8ro</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cp86d1v9v8ro</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Как Елизавета II «сбежала» из Букингемского дворца и праздновала в толпе победу над нацистской Германией</title>
       <link>https://www.bbc.com/russian/articles/c78qj6n56qvo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c78qj6n56qvo</guid>
@@ -140,20 +146,6 @@
       <description>8 мая в Армении официально дано начало предвыборной кампании. Но на самом деле она началась гораздо раньше. Корреспондентка Би-би-си на Южном Кавказе Райхон Демитрие рассказывает о впечатлениях после недавней поездки на саммит ЕС в Ереване.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq5pw4788qqo</guid>
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Найти рядового Бокиджона. Тайна советского солдата, бежавшего из лагеря на острове Джерси</title>
-      <link>https://www.bbc.com/russian/articles/c302mr9gmdyo</link>
-      <description>Во время Второй мировой войны на оккупированный нацистской Германией остров Джерси привезли тысячи людей — их использовали для строительства тоннелей и бункеров. Судьба многих узников неизвестна до сих пор, но Би-би-си выяснила, что случилось с одним из них — советским солдатом Бокиджоном, которого спрятала у себя семья местных фермеров. Более 80 лет они ничего не знали о его судьбе.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c302mr9gmdyo</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Феномен Фараджа: как человек с сигаретой и пивом меняет Британию</title>
-      <link>https://www.bbc.com/russian/articles/cp86d1v9v8ro</link>
-      <description>Партия Reform UK Найджела Фараджа, главного борца с иммиграцией в Британии, продолжает превращаться в главную оппозиционную силу страны.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cp86d1v9v8ro</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Видео вместо танков. Какое оружие показали на военном параде в Москве?</title>
@@ -175,6 +167,20 @@
       <description>Несмотря на войну, пары со всего мира продолжают приезжать в Украину, чтобы родить ребенка с помощью суррогатного материнства. В то же время правительство хочет запретить эту услугу для иностранцев. Чиновники настаивают, что демографический кризис заставляет думать прежде всего о рождении украинцев.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c86dpqvj70zo</guid>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Найти рядового Бокиджона. Тайна советского солдата, бежавшего из лагеря на острове Джерси</title>
+      <link>https://www.bbc.com/russian/articles/c302mr9gmdyo</link>
+      <description>Во время Второй мировой войны на оккупированный нацистской Германией остров Джерси привезли тысячи людей — их использовали для строительства тоннелей и бункеров. Судьба многих узников неизвестна до сих пор, но Би-би-си выяснила, что случилось с одним из них — советским солдатом Бокиджоном, которого спрятала у себя семья местных фермеров. Более 80 лет они ничего не знали о его судьбе.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c302mr9gmdyo</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Почему Британия пострадает от иранской войны больше других богатых стран</title>
+      <link>https://www.bbc.com/russian/articles/c0m29mge9ego</link>
+      <description>Великобритании досталось больше других, потому что она зависит от импорта нефти и газа, не имеет запасов и резервных мощностей угольной и атомной энергетики, да к тому же вошла в новый кризис ослабленной после нескольких предыдущих.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0m29mge9ego</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
