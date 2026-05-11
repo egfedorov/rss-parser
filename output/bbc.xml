@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 11 May 2026 15:48:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 17:57:03 +0000</lastBuildDate>
     <item>
       <title>«Насмешка от государства». Как война и санкции усугубили экономические проблемы Хакасии</title>
       <link>https://www.bbc.com/russian/articles/c4gjlp17n29o</link>
@@ -167,6 +167,13 @@
       <link>https://www.bbc.com/russian/articles/c8jvezm0v4no</link>
       <description>В середине марта в Рунете появилось сообщество «Алый лебедь», которое призывало россиян протестовать против блокировок интернета и выходить на митинги 29 марта. Оппозиционеры отнеслись к движению скептически, подозревая в нем провокацию. Организаторы «Алого лебедя», недавние школьники и студенты, столкнулись с давлением силовиков и травлей провластных активистов.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8jvezm0v4no</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Это не ваш братик или сестричка». Как украинки во время войны рожают для иностранцев</title>
+      <link>https://www.bbc.com/russian/articles/c86dpqvj70zo</link>
+      <description>Несмотря на войну, пары со всего мира продолжают приезжать в Украину, чтобы родить ребенка с помощью суррогатного материнства. В то же время правительство хочет запретить эту услугу для иностранцев. Чиновники настаивают, что демографический кризис заставляет думать прежде всего о рождении украинцев.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c86dpqvj70zo</guid>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
