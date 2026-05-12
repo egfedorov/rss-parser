@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 12 May 2026 15:47:15 +0000</lastBuildDate>
-    <item>
-      <title>«Насмешка от государства». Как война и санкции усугубили экономические проблемы Хакасии</title>
-      <link>https://www.bbc.com/russian/articles/c4gjlp17n29o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4gjlp17n29o</guid>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 May 2026 18:01:25 +0000</lastBuildDate>
     <item>
       <title>Синдром затяжного горя: почему некоторые люди не могут смириться со смертью любимого человека?</title>
       <link>https://www.bbc.com/russian/articles/c895v9v0zlpo</link>
@@ -147,6 +141,12 @@
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Звучит как угроза. Путин за месяц до выборов напомнил Армении об Украине</title>
+      <link>https://www.bbc.com/russian/articles/cvgz81lynl9o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgz81lynl9o</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Найти рядового Бокиджона. Тайна советского солдата, бежавшего из лагеря на острове Джерси</title>
       <link>https://www.bbc.com/russian/articles/c302mr9gmdyo</link>
       <description>Во время Второй мировой войны на оккупированный нацистской Германией остров Джерси привезли тысячи людей — их использовали для строительства тоннелей и бункеров. Судьба многих узников неизвестна до сих пор, но Би-би-си выяснила, что случилось с одним из них — советским солдатом Бокиджоном, которого спрятала у себя семья местных фермеров. Более 80 лет они ничего не знали о его судьбе.</description>
@@ -179,6 +179,13 @@
       <link>https://www.bbc.com/russian/articles/c0m29mge9ego</link>
       <description>Великобритании досталось больше других, потому что она зависит от импорта нефти и газа, не имеет запасов и резервных мощностей угольной и атомной энергетики, да к тому же вошла в новый кризис ослабленной после нескольких предыдущих.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0m29mge9ego</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Путин сказал, что война «идет к завершению». Это так?</title>
+      <link>https://www.bbc.com/russian/articles/cvgzwl9k2l7o</link>
+      <description>Одну из главных тем выходных — парад Победы на Красной площади — затмило заявление Владимира Путина о возможном окончании войны. «Я думаю, что дело идет к завершению», — сказал он. Насколько этому можно верить?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgzwl9k2l7o</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
