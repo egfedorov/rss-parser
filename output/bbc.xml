@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 13 May 2026 15:33:09 +0000</lastBuildDate>
-    <item>
-      <title>Синдром затяжного горя: почему некоторые люди не могут смириться со смертью любимого человека?</title>
-      <link>https://www.bbc.com/russian/articles/c895v9v0zlpo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c895v9v0zlpo</guid>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 May 2026 17:37:26 +0000</lastBuildDate>
     <item>
       <title>«Все сидели без интернета». Как отключения в Москве повлияли на бизнес</title>
       <link>https://www.bbc.com/russian/articles/c9d4583v9v3o</link>
@@ -147,6 +141,12 @@
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Нам такие популярные не нужны». Чем запомнится ушедший в отставку губернатор Белгородской области Вячеслав Гладков</title>
+      <link>https://www.bbc.com/russian/articles/c70dkd0pvrlo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c70dkd0pvrlo</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Найти рядового Бокиджона. Тайна советского солдата, бежавшего из лагеря на острове Джерси</title>
       <link>https://www.bbc.com/russian/articles/c302mr9gmdyo</link>
       <description>Во время Второй мировой войны на оккупированный нацистской Германией остров Джерси привезли тысячи людей — их использовали для строительства тоннелей и бункеров. Судьба многих узников неизвестна до сих пор, но Би-би-си выяснила, что случилось с одним из них — советским солдатом Бокиджоном, которого спрятала у себя семья местных фермеров. Более 80 лет они ничего не знали о его судьбе.</description>
@@ -199,7 +199,7 @@
       <title>«Ничего со мной не случится». В Украине погиб первый известный российский студент, завербованный в войска БПЛА</title>
       <link>https://www.bbc.com/russian/articles/cx21kpjwym7o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx21kpjwym7o</guid>
-      <pubDate>Wed, 13 May 2026 15:33:09 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 17:37:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
