@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 14 May 2026 04:16:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 07:25:07 +0000</lastBuildDate>
     <item>
       <title>«Все сидели без интернета». Как отключения в Москве повлияли на бизнес</title>
       <link>https://www.bbc.com/russian/articles/c9d4583v9v3o</link>
@@ -147,13 +147,6 @@
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Мы вроде делали все по закону». Как молодежное движение «Алый лебедь» стало мишенью для российских силовиков</title>
-      <link>https://www.bbc.com/russian/articles/c8jvezm0v4no</link>
-      <description>В середине марта в Рунете появилось сообщество «Алый лебедь», которое призывало россиян протестовать против блокировок интернета и выходить на митинги 29 марта. Оппозиционеры отнеслись к движению скептически, подозревая в нем провокацию. Организаторы «Алого лебедя», недавние школьники и студенты, столкнулись с давлением силовиков и травлей провластных активистов.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8jvezm0v4no</guid>
-      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Это не ваш братик или сестричка». Как украинки во время войны рожают для иностранцев</title>
       <link>https://www.bbc.com/russian/articles/c86dpqvj70zo</link>
       <description>Несмотря на войну, пары со всего мира продолжают приезжать в Украину, чтобы родить ребенка с помощью суррогатного материнства. В то же время правительство хочет запретить эту услугу для иностранцев. Чиновники настаивают, что демографический кризис заставляет думать прежде всего о рождении украинцев.</description>
@@ -189,6 +182,13 @@
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Ничего со мной не случится». В Украине погиб первый известный российский студент, завербованный в войска БПЛА</title>
+      <link>https://www.bbc.com/russian/articles/cx21kpjwym7o</link>
+      <description>Би-би-си удалось установить первый известный случай гибели российского студента, ушедшего на войну на фоне новой масштабной кампании по вербовке учащихся вузов и колледжей для службы в войсках беспилотных систем. Всего с начала войны погибло по меньшей мере 920 российских военных — операторов беспилотников.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx21kpjwym7o</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Путин сказал, что война «идет к завершению». Это так?</title>
       <link>https://www.bbc.com/russian/articles/cvgzwl9k2l7o</link>
       <description>Одну из главных тем выходных — парад Победы на Красной площади — затмило заявление Владимира Путина о возможном окончании войны. «Я думаю, что дело идет к завершению», — сказал он. Насколько этому можно верить?</description>
@@ -196,10 +196,10 @@
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Ничего со мной не случится». В Украине погиб первый известный российский студент, завербованный в войска БПЛА</title>
-      <link>https://www.bbc.com/russian/articles/cx21kpjwym7o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx21kpjwym7o</guid>
-      <pubDate>Thu, 14 May 2026 04:16:00 +0000</pubDate>
+      <title>Дональд Трамп едет к Си Цзиньпину. Чего ждать от исторического визита президента США в Китай?</title>
+      <link>https://www.bbc.com/russian/articles/cy42y2p7gkro</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy42y2p7gkro</guid>
+      <pubDate>Thu, 14 May 2026 07:25:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
