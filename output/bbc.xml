@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 13 May 2026 22:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 00:03:13 +0000</lastBuildDate>
     <item>
       <title>«Все сидели без интернета». Как отключения в Москве повлияли на бизнес</title>
       <link>https://www.bbc.com/russian/articles/c9d4583v9v3o</link>
@@ -135,12 +135,6 @@
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Звучит как угроза. Путин за месяц до выборов напомнил Армении об Украине</title>
-      <link>https://www.bbc.com/russian/articles/cvgz81lynl9o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgz81lynl9o</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Нам такие популярные не нужны». Чем запомнится ушедший в отставку губернатор Белгородской области Вячеслав Гладков</title>
       <link>https://www.bbc.com/russian/articles/c70dkd0pvrlo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c70dkd0pvrlo</guid>
@@ -152,13 +146,6 @@
       <description>Во время Второй мировой войны на оккупированный нацистской Германией остров Джерси привезли тысячи людей — их использовали для строительства тоннелей и бункеров. Судьба многих узников неизвестна до сих пор, но Би-би-си выяснила, что случилось с одним из них — советским солдатом Бокиджоном, которого спрятала у себя семья местных фермеров. Более 80 лет они ничего не знали о его судьбе.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c302mr9gmdyo</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Видео вместо танков. Какое оружие показали на военном параде в Москве?</title>
-      <link>https://www.bbc.com/russian/articles/c2k2v723p5vo</link>
-      <description>Россия все-таки смогла показать на Параде Победы на Красной площади военную технику — во время трансляции в эфире и на экранах на площади демонстрировались заранее снятые ролики. На них были продемонстрированы беспилотники, которые Россия применяет на войне в Украине, а также стратегические системы, которыми Владимир Путин угрожал западным странам еще в 2018 году.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c2k2v723p5vo</guid>
-      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>«Мы вроде делали все по закону». Как молодежное движение «Алый лебедь» стало мишенью для российских силовиков</title>
@@ -189,6 +176,13 @@
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Звучит как угроза. Путин за месяц до выборов напомнил Армении об Украине</title>
+      <link>https://www.bbc.com/russian/articles/cvgz81lynl9o</link>
+      <description>Менее чем за месяц до парламентских выборов в Армении Владимир Путин публично поставил Ереван перед выбором: дружба с Евросоюзом или партнерство с Россией. А в качестве предостережения напомнил об Украине.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgz81lynl9o</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Путин сказал, что война «идет к завершению». Это так?</title>
       <link>https://www.bbc.com/russian/articles/cvgzwl9k2l7o</link>
       <description>Одну из главных тем выходных — парад Победы на Красной площади — затмило заявление Владимира Путина о возможном окончании войны. «Я думаю, что дело идет к завершению», — сказал он. Насколько этому можно верить?</description>
@@ -199,7 +193,7 @@
       <title>«Ничего со мной не случится». В Украине погиб первый известный российский студент, завербованный в войска БПЛА</title>
       <link>https://www.bbc.com/russian/articles/cx21kpjwym7o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx21kpjwym7o</guid>
-      <pubDate>Wed, 13 May 2026 22:40:32 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 00:03:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
