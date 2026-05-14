@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 14 May 2026 11:58:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 14:33:23 +0000</lastBuildDate>
     <item>
       <title>«Все сидели без интернета». Как отключения в Москве повлияли на бизнес</title>
       <link>https://www.bbc.com/russian/articles/c9d4583v9v3o</link>
@@ -196,10 +196,18 @@
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Чем опасен хантавирус и возможна ли новая пандемия? Объясняет биолог Ирина Якутенко в подкасте «Что это было?»</title>
+      <link>https://www.bbc.com/russian/articles/c707x84lgx8o</link>
+      <description>Хантавирус унес жизни трех человек, еще несколько инфицированы и сейчас находятся под наблюдением. Насколько это опасно? Почему власти Испании пошли на усиленные меры безопасности во время эвакуации с лайнера?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c707x84lgx8o</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Дональд Трамп едет к Си Цзиньпину. Чего ждать от исторического визита президента США в Китай?</title>
       <link>https://www.bbc.com/russian/articles/cy42y2p7gkro</link>
+      <description>Главным итогом визита будет сам факт того, что два мировых лидера встретились и разошлись полюбовно. Война США против Ирана будет в повестке, война России против Украины — вряд ли.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy42y2p7gkro</guid>
-      <pubDate>Thu, 14 May 2026 11:58:31 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
