@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 14 May 2026 00:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 04:16:00 +0000</lastBuildDate>
     <item>
       <title>«Все сидели без интернета». Как отключения в Москве повлияли на бизнес</title>
       <link>https://www.bbc.com/russian/articles/c9d4583v9v3o</link>
@@ -117,6 +117,12 @@
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Найти рядового Бокиджона. Тайна советского солдата, бежавшего из лагеря на острове Джерси</title>
+      <link>https://www.bbc.com/russian/articles/c302mr9gmdyo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c302mr9gmdyo</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Феномен Фараджа: как человек с сигаретой и пивом меняет Британию</title>
       <link>https://www.bbc.com/russian/articles/cp86d1v9v8ro</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cp86d1v9v8ro</guid>
@@ -139,13 +145,6 @@
       <link>https://www.bbc.com/russian/articles/c70dkd0pvrlo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c70dkd0pvrlo</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Найти рядового Бокиджона. Тайна советского солдата, бежавшего из лагеря на острове Джерси</title>
-      <link>https://www.bbc.com/russian/articles/c302mr9gmdyo</link>
-      <description>Во время Второй мировой войны на оккупированный нацистской Германией остров Джерси привезли тысячи людей — их использовали для строительства тоннелей и бункеров. Судьба многих узников неизвестна до сих пор, но Би-би-си выяснила, что случилось с одним из них — советским солдатом Бокиджоном, которого спрятала у себя семья местных фермеров. Более 80 лет они ничего не знали о его судьбе.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c302mr9gmdyo</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>«Мы вроде делали все по закону». Как молодежное движение «Алый лебедь» стало мишенью для российских силовиков</title>
@@ -183,6 +182,13 @@
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Би-би-си раскрыла личность одного из главных организаторов сети, которая переправляет мигрантов через Ла-Манш</title>
+      <link>https://www.bbc.com/russian/articles/c8r8p004z25o</link>
+      <description>Би-би-си в ходе расследования установила личность одного из главных организаторов сети перевозчиков мигрантов, которая, как полагают, стояла за большинством случаев незаконного пересечения Ла-Манша в последние годы.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8r8p004z25o</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Путин сказал, что война «идет к завершению». Это так?</title>
       <link>https://www.bbc.com/russian/articles/cvgzwl9k2l7o</link>
       <description>Одну из главных тем выходных — парад Победы на Красной площади — затмило заявление Владимира Путина о возможном окончании войны. «Я думаю, что дело идет к завершению», — сказал он. Насколько этому можно верить?</description>
@@ -193,7 +199,7 @@
       <title>«Ничего со мной не случится». В Украине погиб первый известный российский студент, завербованный в войска БПЛА</title>
       <link>https://www.bbc.com/russian/articles/cx21kpjwym7o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx21kpjwym7o</guid>
-      <pubDate>Thu, 14 May 2026 00:03:13 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 04:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
