@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 14 May 2026 23:59:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 04:12:08 +0000</lastBuildDate>
     <item>
       <title>«Все сидели без интернета». Как отключения в Москве повлияли на бизнес</title>
       <link>https://www.bbc.com/russian/articles/c9d4583v9v3o</link>
@@ -141,12 +141,6 @@
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Нам такие популярные не нужны». Чем запомнится ушедший в отставку губернатор Белгородской области Вячеслав Гладков</title>
-      <link>https://www.bbc.com/russian/articles/c70dkd0pvrlo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c70dkd0pvrlo</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Династия» Ермака. В чем подозревают ближайшего соратника Зеленского</title>
       <link>https://www.bbc.com/russian/articles/clypz9y0d3mo</link>
       <description>В понедельник вечером Национальное антикоррупционное бюро Украины сообщило Андрею Ермаку, бывшему главе Офиса президента и некогда одному из могущественнейших людей Украины подозрение в легализации имущества, полученного преступным путем.</description>
@@ -159,13 +153,6 @@
       <description>Менее чем за месяц до парламентских выборов в Армении Владимир Путин публично поставил Ереван перед выбором: дружба с Евросоюзом или партнерство с Россией. А в качестве предостережения напомнил об Украине.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgz81lynl9o</guid>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Би-би-си раскрыла личность одного из главных организаторов сети, которая переправляет мигрантов через Ла-Манш</title>
-      <link>https://www.bbc.com/russian/articles/c8r8p004z25o</link>
-      <description>Би-би-си в ходе расследования установила личность одного из главных организаторов сети перевозчиков мигрантов, которая, как полагают, стояла за большинством случаев незаконного пересечения Ла-Манша в последние годы.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8r8p004z25o</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>«Ничего со мной не случится». В Украине погиб первый известный российский студент, завербованный в войска БПЛА</title>
@@ -200,6 +187,14 @@
       <link>https://www.bbc.com/russian/articles/cq6p8270vngo</link>
       <description>На протяжении нескольких месяцев ударные катера помогают иранскому режиму создавать серьезные препятствия для судоходства в Ормузском проливе. По мнению экспертов, таким образом Тегеран пытается нанести ущерб мировой экономике и заставить Вашингтон отказаться от войны.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq6p8270vngo</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Нам такие популярные не нужны». Чем запомнится ушедший в отставку губернатор Белгородской области Вячеслав Гладков</title>
+      <link>https://www.bbc.com/russian/articles/c70dkd0pvrlo</link>
+      <description>Президент России Владимир Путин принял отставку губернатора прифронтовой Белгородской области Вячеслава Гладкова и назначил исполняющим обязанности генерал-майора и участника войны в Украине Александра Шуваева. 
+Гладков за пять лет работы стал одним из самых заметных российских губернаторов — в том числе из-за не типичной для российских чиновников манеры общения. Би-би-си рассказывает об обстоятельствах отставки Гладкова и о том, чем он запомнится белгородцам.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c70dkd0pvrlo</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
