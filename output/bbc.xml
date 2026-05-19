@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 19 May 2026 01:25:53 +0000</lastBuildDate>
-    <item>
-      <title>«Все сидели без интернета». Как отключения в Москве повлияли на бизнес</title>
-      <link>https://www.bbc.com/russian/articles/c9d4583v9v3o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c9d4583v9v3o</guid>
-      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 May 2026 05:49:00 +0000</lastBuildDate>
     <item>
       <title>«Налог» на VPN. Россиян хотят обязать платить за международный мобильный трафик</title>
       <link>https://www.bbc.com/russian/articles/c5yw2d99lrzo</link>
@@ -147,19 +141,16 @@
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Династия» Ермака. В чем подозревают ближайшего соратника Зеленского</title>
-      <link>https://www.bbc.com/russian/articles/clypz9y0d3mo</link>
-      <description>В понедельник вечером Национальное антикоррупционное бюро Украины сообщило Андрею Ермаку, бывшему главе Офиса президента и некогда одному из могущественнейших людей Украины подозрение в легализации имущества, полученного преступным путем.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/clypz9y0d3mo</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Нам такие популярные не нужны». Чем запомнится ушедший в отставку губернатор Белгородской области Вячеслав Гладков</title>
       <link>https://www.bbc.com/russian/articles/c70dkd0pvrlo</link>
-      <description>Президент России Владимир Путин принял отставку губернатора прифронтовой Белгородской области Вячеслава Гладкова и назначил исполняющим обязанности генерал-майора и участника войны в Украине Александра Шуваева. 
-Гладков за пять лет работы стал одним из самых заметных российских губернаторов — в том числе из-за не типичной для российских чиновников манеры общения. Би-би-си рассказывает об обстоятельствах отставки Гладкова и о том, чем он запомнится белгородцам.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c70dkd0pvrlo</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«На мой день рождения пришла „Русская община“». Как выглядит новый русский национализм</title>
+      <link>https://www.bbc.com/russian/articles/c2e2pkmk4gro</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c2e2pkmk4gro</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Кто такая «Вероника Фэншуй» и как она связана с экс-главой офиса Зеленского Андреем Ермаком?</title>
@@ -181,6 +172,20 @@
       <description>Прифронтовый город Алешки, который сейчас оккупирован российской армией, зимой в течение нескольких месяцев был почти полностью отрезан от поставок свежих продуктов и лекарств.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/ce3p251kwlwo</guid>
       <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Возможно, вы слышите мой голос в последний раз». С началом войны в Иране резко возросло число политических казней</title>
+      <link>https://www.bbc.com/russian/articles/c78q1865ev2o</link>
+      <description>Связь прерывается. Но голос Мехраба Абдоллазаде звучит ясно и, учитывая обстоятельства, удивительно ровно. Он находится в камере смертников на западе Ирана. Он говорит быстро — словно время на исходе. И его послание пронизано отчаянием.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c78q1865ev2o</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Мы молились, чтобы вернуться живыми». Репортаж корреспондента Би-би-си из «килл-зоны» возле Константиновки</title>
+      <link>https://www.bbc.com/russian/articles/c5y7g376z1zo</link>
+      <description>После 225 дней, проведенных в окопе на передовой, мышцы украинского пехотинца настолько ослабли, что он едва мог ходить. Его командиры пять раз пытались заменить его другим солдатом, но так и не смогли до него добраться. Ротация бойцов на линии фронта на востоке Украины крайне затруднена из-за постоянной угрозы дронов.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c5y7g376z1zo</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
