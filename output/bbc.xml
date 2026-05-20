@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 19 May 2026 23:04:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 01:27:31 +0000</lastBuildDate>
     <item>
       <title>«Налог» на VPN. Россиян хотят обязать платить за международный мобильный трафик</title>
       <link>https://www.bbc.com/russian/articles/c5yw2d99lrzo</link>
@@ -147,13 +147,6 @@
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Кто такая «Вероника Фэншуй» и как она связана с экс-главой офиса Зеленского Андреем Ермаком?</title>
-      <link>https://www.bbc.com/russian/articles/cqxpglzj29yo</link>
-      <description>Во время заседания по избранию меры пресечения для бывшего главы Офиса президента Украины Андрея Ермака в Высшем антикоррупционном суде прокуратура упомянула, что ближайший соратник Владимира Зеленского, судя по всему, пользовался услугами астролога. Она была записана в его телефоне как «Вероника Фэншуй Офис». Что известно о ней и ее переписке с Ермаком?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqxpglzj29yo</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Король севера». Кто такой Энди Бёрнем — политик, который хочет стать премьер-министром Великобритании</title>
       <link>https://www.bbc.com/russian/articles/ckgp3lqpx3lo</link>
       <description>Вполне вероятно, что к осени в Британии будет новый премьер-министр. Не исключено, что его будут звать Энди Бёрнем. Самый популярный политик в стране, лейборист, «мягкий левый», который уже дважды пытался стать лидером партии.</description>
@@ -166,13 +159,6 @@
       <description>Прифронтовый город Алешки, который сейчас оккупирован российской армией, зимой в течение нескольких месяцев был почти полностью отрезан от поставок свежих продуктов и лекарств.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/ce3p251kwlwo</guid>
       <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Возможно, вы слышите мой голос в последний раз». С началом войны в Иране резко возросло число политических казней</title>
-      <link>https://www.bbc.com/russian/articles/c78q1865ev2o</link>
-      <description>Связь прерывается. Но голос Мехраба Абдоллазаде звучит ясно и, учитывая обстоятельства, удивительно ровно. Он находится в камере смертников на западе Ирана. Он говорит быстро — словно время на исходе. И его послание пронизано отчаянием.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c78q1865ev2o</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Новые уроки войны в Украине: «Хезболла» все чаще применяет для ударов по Израилю FPV-дроны на оптоволокне</title>
@@ -189,10 +175,17 @@
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Зачем ежу GPS-трекер? Спасти популяцию британских ежей помогут спутники и искусственный интеллект</title>
+      <link>https://www.bbc.com/russian/articles/c3w27z7j34xo</link>
+      <description>Исследователи из Кембриджского университета надеются замедлить снижение численности популяции британских ежей при помощи информации со спутников и искусственного интеллекта.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3w27z7j34xo</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«На мой день рождения пришла „Русская община“». Как выглядит новый русский национализм</title>
       <link>https://www.bbc.com/russian/articles/c2e2pkmk4gro</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c2e2pkmk4gro</guid>
-      <pubDate>Tue, 19 May 2026 23:04:49 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 01:27:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
