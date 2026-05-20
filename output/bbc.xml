@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 20 May 2026 16:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 18:34:25 +0000</lastBuildDate>
     <item>
       <title>«Налог» на VPN. Россиян хотят обязать платить за международный мобильный трафик</title>
       <link>https://www.bbc.com/russian/articles/c5yw2d99lrzo</link>
@@ -147,20 +147,6 @@
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Король севера». Кто такой Энди Бёрнем — политик, который хочет стать премьер-министром Великобритании</title>
-      <link>https://www.bbc.com/russian/articles/ckgp3lqpx3lo</link>
-      <description>Вполне вероятно, что к осени в Британии будет новый премьер-министр. Не исключено, что его будут звать Энди Бёрнем. Самый популярный политик в стране, лейборист, «мягкий левый», который уже дважды пытался стать лидером партии.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckgp3lqpx3lo</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Ищем еду по домам, мы здесь в ловушке». Как живут оккупированные Алешки в Херсонской области</title>
-      <link>https://www.bbc.com/russian/articles/ce3p251kwlwo</link>
-      <description>Прифронтовый город Алешки, который сейчас оккупирован российской армией, зимой в течение нескольких месяцев был почти полностью отрезан от поставок свежих продуктов и лекарств.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ce3p251kwlwo</guid>
-      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Новые уроки войны в Украине: «Хезболла» все чаще применяет для ударов по Израилю FPV-дроны на оптоволокне</title>
       <link>https://www.bbc.com/russian/articles/c0m2xm8jd9go</link>
       <description>Служба BBC Verify проанализировала десятки видеозаписей атак с использованием дронов с оптоволоконными кабелями, совершенных ливанской вооруженной группировкой.</description>
@@ -196,10 +182,17 @@
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Россия вывела на крупнейшие учения стратегические ядерные силы. Что это значит?</title>
+      <link>https://www.bbc.com/russian/articles/cwy2g635krvo</link>
+      <description>Россия во вторник начала масштабные учения стратегических ядерных сил «по подготовке и применению ядерных сил в условиях угрозы агрессии», сообщило Министерство обороны РФ. Накануне прошли маневры с российским тактическим ядерным оружием, размещенным на территории Беларуси.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwy2g635krvo</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Город — манкурт». Как и почему в Бишкеке сносят исторические объекты и памятники архитектуры</title>
       <link>https://www.bbc.com/russian/articles/c0r20qk78elo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0r20qk78elo</guid>
-      <pubDate>Wed, 20 May 2026 16:00:27 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 18:34:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
