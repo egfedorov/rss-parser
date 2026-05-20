@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 20 May 2026 01:27:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 05:49:42 +0000</lastBuildDate>
     <item>
       <title>«Налог» на VPN. Россиян хотят обязать платить за международный мобильный трафик</title>
       <link>https://www.bbc.com/russian/articles/c5yw2d99lrzo</link>
@@ -168,6 +168,13 @@
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ветеран войны, а не Думы. Как потерявший посты депутат «Единой России» поддержал на выборах «героя СВО» из-за угрозы системного оппозиционера</title>
+      <link>https://www.bbc.com/russian/articles/cgrp10qq57jo</link>
+      <description>Один из ветеранов «Единой России» Сергей Неверов неожиданно отказался от участия в праймериз «Единой России» и предложил «ЕР» поддержать вместо себя по одномандатному округу Смоленской области «ветерана СВО Артема Корюнченкова». Источники Би-би-си связывают это с тем, что по этому же округу планирует избраться другой ветеран Госдумы и один из главных спонсоров «Справедливой России» Александр Бабаков.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cgrp10qq57jo</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Мы молились, чтобы вернуться живыми». Репортаж корреспондента Би-би-си из «килл-зоны» возле Константиновки</title>
       <link>https://www.bbc.com/russian/articles/c5y7g376z1zo</link>
       <description>После 225 дней, проведенных в окопе на передовой, мышцы украинского пехотинца настолько ослабли, что он едва мог ходить. Его командиры пять раз пытались заменить его другим солдатом, но так и не смогли до него добраться. Ротация бойцов на линии фронта на востоке Украины крайне затруднена из-за постоянной угрозы дронов.</description>
@@ -175,17 +182,10 @@
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Зачем ежу GPS-трекер? Спасти популяцию британских ежей помогут спутники и искусственный интеллект</title>
-      <link>https://www.bbc.com/russian/articles/c3w27z7j34xo</link>
-      <description>Исследователи из Кембриджского университета надеются замедлить снижение численности популяции британских ежей при помощи информации со спутников и искусственного интеллекта.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3w27z7j34xo</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«На мой день рождения пришла „Русская община“». Как выглядит новый русский национализм</title>
       <link>https://www.bbc.com/russian/articles/c2e2pkmk4gro</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c2e2pkmk4gro</guid>
-      <pubDate>Wed, 20 May 2026 01:27:31 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 05:49:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
