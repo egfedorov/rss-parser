@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 20 May 2026 12:11:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 16:00:27 +0000</lastBuildDate>
     <item>
       <title>«Налог» на VPN. Россиян хотят обязать платить за международный мобильный трафик</title>
       <link>https://www.bbc.com/russian/articles/c5yw2d99lrzo</link>
@@ -182,6 +182,13 @@
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Права ЛГБТ, алименты и защита частных данных. В Украине разгорелись споры о новом Гражданском кодексе</title>
+      <link>https://www.bbc.com/russian/articles/cx2133dkwzyo</link>
+      <description>В Украине разгорелась бурная общественная дискуссия вокруг проекта Гражданского кодекса, который вводит множество новых норм, в том числе касающихся защиты частной информации, прав ЛГБТ-сообщества и разводов между супругами. Противники документа проводят акции протеста и публикуют коллективные заявления, его авторы настаивают, что стремятся приблизить страну к европейским стандартам.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx2133dkwzyo</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«На мой день рождения пришла „Русская община“». Как выглядит новый русский национализм</title>
       <link>https://www.bbc.com/russian/articles/c2e2pkmk4gro</link>
       <description>Разию, многодетную мать из Кыргызстана, и Катю, организатора неформальных вечеринок из Архангельска, объединяет то, что они обе пострадали от «Русской общины» — крупнейшей националистической организации в России.</description>
@@ -192,7 +199,7 @@
       <title>«Город — манкурт». Как и почему в Бишкеке сносят исторические объекты и памятники архитектуры</title>
       <link>https://www.bbc.com/russian/articles/c0r20qk78elo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0r20qk78elo</guid>
-      <pubDate>Wed, 20 May 2026 12:11:13 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 16:00:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
