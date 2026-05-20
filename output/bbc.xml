@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 20 May 2026 22:14:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 23:41:45 +0000</lastBuildDate>
     <item>
       <title>«Налог» на VPN. Россиян хотят обязать платить за международный мобильный трафик</title>
       <link>https://www.bbc.com/russian/articles/c5yw2d99lrzo</link>
@@ -189,10 +189,17 @@
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Продать ребенка, чтобы выжить. Истории голодающих жителей Афганистана, перед которыми встал ужасный выбор</title>
+      <link>https://www.bbc.com/russian/articles/cvgz8d357gko</link>
+      <description>Три четверти населения Афганистана не имеют доступа к базовым потребностям и услугам. Объемы гуманитарной помощи, ранее обеспечивавшей миллионы людей самым необходимым, сократились почти до нуля.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgz8d357gko</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Город — манкурт». Как и почему в Бишкеке сносят исторические объекты и памятники архитектуры</title>
       <link>https://www.bbc.com/russian/articles/c0r20qk78elo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0r20qk78elo</guid>
-      <pubDate>Wed, 20 May 2026 22:14:33 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 23:41:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
