@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 21 May 2026 17:19:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 19:22:23 +0000</lastBuildDate>
     <item>
       <title>«Налог» на VPN. Россиян хотят обязать платить за международный мобильный трафик</title>
       <link>https://www.bbc.com/russian/articles/c5yw2d99lrzo</link>
@@ -154,13 +154,6 @@
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Права ЛГБТ, алименты и защита частных данных. В Украине разгорелись споры о новом Гражданском кодексе</title>
-      <link>https://www.bbc.com/russian/articles/cx2133dkwzyo</link>
-      <description>В Украине разгорелась бурная общественная дискуссия вокруг проекта Гражданского кодекса, который вводит множество новых норм, в том числе касающихся защиты частной информации, прав ЛГБТ-сообщества и разводов между супругами. Противники документа проводят акции протеста и публикуют коллективные заявления, его авторы настаивают, что стремятся приблизить страну к европейским стандартам.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx2133dkwzyo</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«На мой день рождения пришла „Русская община“». Как выглядит новый русский национализм</title>
       <link>https://www.bbc.com/russian/articles/c2e2pkmk4gro</link>
       <description>Разию, многодетную мать из Кыргызстана, и Катю, организатора неформальных вечеринок из Архангельска, объединяет то, что они обе пострадали от «Русской общины» — крупнейшей националистической организации в России.</description>
@@ -182,6 +175,13 @@
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>О чем договорились Путин и Си? Объясняет китаист Темур Умаров</title>
+      <link>https://www.bbc.com/russian/articles/c3021qn9mggo</link>
+      <description>Русская службы Би-би-си обсудила визит Путина в Китай с Темуром Умаровым.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3021qn9mggo</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Продать ребенка, чтобы выжить. Истории голодающих жителей Афганистана, перед которыми встал ужасный выбор</title>
       <link>https://www.bbc.com/russian/articles/cvgz8d357gko</link>
       <description>Три четверти населения Афганистана не имеют доступа к базовым потребностям и услугам. Объемы гуманитарной помощи, ранее обеспечивавшей миллионы людей самым необходимым, сократились почти до нуля.</description>
@@ -189,10 +189,17 @@
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Британия смягчила нефтяные санкции против России вслед за США</title>
+      <link>https://www.bbc.com/russian/articles/c3w2z8636dwo</link>
+      <description>Британия стала первой западной державой, поддержавшей США в деле постепенной отмены западных санкций против России за вторжение в Украину.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3w2z8636dwo</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Город — манкурт». Как и почему в Бишкеке сносят исторические объекты и памятники архитектуры</title>
       <link>https://www.bbc.com/russian/articles/c0r20qk78elo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0r20qk78elo</guid>
-      <pubDate>Thu, 21 May 2026 17:19:11 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 19:22:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
