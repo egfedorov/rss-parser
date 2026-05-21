@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 21 May 2026 14:24:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 17:19:11 +0000</lastBuildDate>
     <item>
       <title>«Налог» на VPN. Россиян хотят обязать платить за международный мобильный трафик</title>
       <link>https://www.bbc.com/russian/articles/c5yw2d99lrzo</link>
@@ -154,13 +154,6 @@
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Мы молились, чтобы вернуться живыми». Репортаж корреспондента Би-би-си из «килл-зоны» возле Константиновки</title>
-      <link>https://www.bbc.com/russian/articles/c5y7g376z1zo</link>
-      <description>После 225 дней, проведенных в окопе на передовой, мышцы украинского пехотинца настолько ослабли, что он едва мог ходить. Его командиры пять раз пытались заменить его другим солдатом, но так и не смогли до него добраться. Ротация бойцов на линии фронта на востоке Украины крайне затруднена из-за постоянной угрозы дронов.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c5y7g376z1zo</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Права ЛГБТ, алименты и защита частных данных. В Украине разгорелись споры о новом Гражданском кодексе</title>
       <link>https://www.bbc.com/russian/articles/cx2133dkwzyo</link>
       <description>В Украине разгорелась бурная общественная дискуссия вокруг проекта Гражданского кодекса, который вводит множество новых норм, в том числе касающихся защиты частной информации, прав ЛГБТ-сообщества и разводов между супругами. Противники документа проводят акции протеста и публикуют коллективные заявления, его авторы настаивают, что стремятся приблизить страну к европейским стандартам.</description>
@@ -199,7 +192,7 @@
       <title>«Город — манкурт». Как и почему в Бишкеке сносят исторические объекты и памятники архитектуры</title>
       <link>https://www.bbc.com/russian/articles/c0r20qk78elo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0r20qk78elo</guid>
-      <pubDate>Thu, 21 May 2026 14:24:29 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 17:19:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
