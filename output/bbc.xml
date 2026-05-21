@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 21 May 2026 08:05:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 11:39:12 +0000</lastBuildDate>
     <item>
       <title>«Налог» на VPN. Россиян хотят обязать платить за международный мобильный трафик</title>
       <link>https://www.bbc.com/russian/articles/c5yw2d99lrzo</link>
@@ -147,13 +147,6 @@
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Новые уроки войны в Украине: «Хезболла» все чаще применяет для ударов по Израилю FPV-дроны на оптоволокне</title>
-      <link>https://www.bbc.com/russian/articles/c0m2xm8jd9go</link>
-      <description>Служба BBC Verify проанализировала десятки видеозаписей атак с использованием дронов с оптоволоконными кабелями, совершенных ливанской вооруженной группировкой.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0m2xm8jd9go</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ветеран войны, а не Думы. Как потерявший посты депутат «Единой России» поддержал на выборах «героя СВО» из-за угрозы системного оппозиционера</title>
       <link>https://www.bbc.com/russian/articles/cgrp10qq57jo</link>
       <description>Один из ветеранов «Единой России» Сергей Неверов неожиданно отказался от участия в праймериз «Единой России» и предложил «ЕР» поддержать вместо себя по одномандатному округу Смоленской области «ветерана СВО Артема Корюнченкова». Источники Би-би-си связывают это с тем, что по этому же округу планирует избраться другой ветеран Госдумы и один из главных спонсоров «Справедливой России» Александр Бабаков.</description>
@@ -189,6 +182,13 @@
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Жертва или пособница? Подругу Эпштейна Надю Марцинко могут допросить, несмотря на ее сделку со следствием в обмен на иммунитет</title>
+      <link>https://www.bbc.com/russian/articles/czr2key58kvo</link>
+      <description>Во время своего первого тюремного срока — 13 месяцев за склонение несовершеннолетней к сексу — Джеффри Эпштейн, согласно тюремным записям, как минимум 67 раз принимал у себя одну и ту же посетительницу. Этой женщиной была Надя Марцинко. На протяжении семи лет она считалась главной девушкой Эпштейна, а позднее стала еще и вторым пилотом его частного самолета.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/czr2key58kvo</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Продать ребенка, чтобы выжить. Истории голодающих жителей Афганистана, перед которыми встал ужасный выбор</title>
       <link>https://www.bbc.com/russian/articles/cvgz8d357gko</link>
       <description>Три четверти населения Афганистана не имеют доступа к базовым потребностям и услугам. Объемы гуманитарной помощи, ранее обеспечивавшей миллионы людей самым необходимым, сократились почти до нуля.</description>
@@ -199,7 +199,7 @@
       <title>«Город — манкурт». Как и почему в Бишкеке сносят исторические объекты и памятники архитектуры</title>
       <link>https://www.bbc.com/russian/articles/c0r20qk78elo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0r20qk78elo</guid>
-      <pubDate>Thu, 21 May 2026 08:05:04 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:39:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
