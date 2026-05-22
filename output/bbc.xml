@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 22 May 2026 11:20:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 13:58:13 +0000</lastBuildDate>
     <item>
       <title>Генерал долгой войны. Как развивалась карьера Валерия Герасимова, пятый год воюющего с Украиной</title>
       <link>https://www.bbc.com/russian/articles/c8ej6g7p3p3o</link>
@@ -147,24 +147,10 @@
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ветеран войны, а не Думы. Как потерявший посты депутат «Единой России» поддержал на выборах «героя СВО» из-за угрозы системного оппозиционера</title>
-      <link>https://www.bbc.com/russian/articles/cgrp10qq57jo</link>
-      <description>Один из ветеранов «Единой России» Сергей Неверов неожиданно отказался от участия в праймериз «Единой России» и предложил «ЕР» поддержать вместо себя по одномандатному округу Смоленской области «ветерана СВО Артема Корюнченкова». Источники Би-би-си связывают это с тем, что по этому же округу планирует избраться другой ветеран Госдумы и один из главных спонсоров «Справедливой России» Александр Бабаков.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cgrp10qq57jo</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«На мой день рождения пришла „Русская община“». Как выглядит новый русский национализм</title>
       <link>https://www.bbc.com/russian/articles/c2e2pkmk4gro</link>
       <description>Разию, многодетную мать из Кыргызстана, и Катю, организатора неформальных вечеринок из Архангельска, объединяет то, что они обе пострадали от «Русской общины» — крупнейшей националистической организации в России.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c2e2pkmk4gro</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Россия вывела на крупнейшие учения стратегические ядерные силы. Что это значит?</title>
-      <link>https://www.bbc.com/russian/articles/cwy2g635krvo</link>
-      <description>Россия во вторник начала масштабные учения стратегических ядерных сил «по подготовке и применению ядерных сил в условиях угрозы агрессии», сообщило Министерство обороны РФ. Накануне прошли маневры с российским тактическим ядерным оружием, размещенным на территории Беларуси.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwy2g635krvo</guid>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -179,20 +165,6 @@
       <link>https://www.bbc.com/russian/articles/c3021qn9mggo</link>
       <description>Русская службы Би-би-си обсудила визит Путина в Китай с Темуром Умаровым.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3021qn9mggo</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Продать ребенка, чтобы выжить. Истории голодающих жителей Афганистана, перед которыми встал ужасный выбор</title>
-      <link>https://www.bbc.com/russian/articles/cvgz8d357gko</link>
-      <description>Три четверти населения Афганистана не имеют доступа к базовым потребностям и услугам. Объемы гуманитарной помощи, ранее обеспечивавшей миллионы людей самым необходимым, сократились почти до нуля.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgz8d357gko</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Британия смягчила нефтяные санкции против России вслед за США</title>
-      <link>https://www.bbc.com/russian/articles/c3w2z8636dwo</link>
-      <description>Британия стала первой западной державой, поддержавшей США в деле постепенной отмены западных санкций против России за вторжение в Украину.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3w2z8636dwo</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -213,7 +185,7 @@
       <title>Тень Волыни, угроза России. Как украинские и польские историки попробовали найти общий язык</title>
       <link>https://www.bbc.com/russian/articles/cd9pe2wy5d4o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cd9pe2wy5d4o</guid>
-      <pubDate>Fri, 22 May 2026 11:20:42 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:58:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
