@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 22 May 2026 00:05:36 +0000</lastBuildDate>
-    <item>
-      <title>«Налог» на VPN. Россиян хотят обязать платить за международный мобильный трафик</title>
-      <link>https://www.bbc.com/russian/articles/c5yw2d99lrzo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c5yw2d99lrzo</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 May 2026 04:38:42 +0000</lastBuildDate>
     <item>
       <title>Генерал долгой войны. Как развивалась карьера Валерия Герасимова, пятый год воюющего с Украиной</title>
       <link>https://www.bbc.com/russian/articles/c8ej6g7p3p3o</link>
@@ -147,6 +141,12 @@
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Механизм против неудобных». Как Минюст России лишает адвокатуру самоуправления и чем это грозит обычным людям</title>
+      <link>https://www.bbc.com/russian/articles/c7753prmeygo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c7753prmeygo</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ветеран войны, а не Думы. Как потерявший посты депутат «Единой России» поддержал на выборах «героя СВО» из-за угрозы системного оппозиционера</title>
       <link>https://www.bbc.com/russian/articles/cgrp10qq57jo</link>
       <description>Один из ветеранов «Единой России» Сергей Неверов неожиданно отказался от участия в праймериз «Единой России» и предложил «ЕР» поддержать вместо себя по одномандатному округу Смоленской области «ветерана СВО Артема Корюнченкова». Источники Би-би-си связывают это с тем, что по этому же округу планирует избраться другой ветеран Госдумы и один из главных спонсоров «Справедливой России» Александр Бабаков.</description>
@@ -205,8 +205,15 @@
     <item>
       <title>«Город — манкурт». Как и почему в Бишкеке сносят исторические объекты и памятники архитектуры</title>
       <link>https://www.bbc.com/russian/articles/c0r20qk78elo</link>
+      <description>Столица Кыргызстана в эпицентре чистки исторического прошлого: Бишкек уже лишился нескольких крупных объектов советской архитектуры, под угрозой уничтожения находятся и некоторые другие памятники. На их месте идет активное коммерческое строительство. Би-би-си попробовала разобраться, связано ли это с десоветизацией, и что ждет город, который до сих пор мог считаться образцом советского градостроения в Центральной Азии.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0r20qk78elo</guid>
-      <pubDate>Fri, 22 May 2026 00:05:36 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Тень Волыни, угроза России. Как украинские и польские историки попробовали найти общий язык</title>
+      <link>https://www.bbc.com/russian/articles/cd9pe2wy5d4o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cd9pe2wy5d4o</guid>
+      <pubDate>Fri, 22 May 2026 04:38:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
