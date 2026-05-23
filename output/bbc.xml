@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 23 May 2026 21:10:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 22:10:24 +0000</lastBuildDate>
     <item>
       <title>Генерал долгой войны. Как развивалась карьера Валерия Герасимова, пятый год воюющего с Украиной</title>
       <link>https://www.bbc.com/russian/articles/c8ej6g7p3p3o</link>
@@ -147,13 +147,6 @@
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Жертва или пособница? Подругу Эпштейна Надю Марцинко могут допросить, несмотря на ее сделку со следствием в обмен на иммунитет</title>
-      <link>https://www.bbc.com/russian/articles/czr2key58kvo</link>
-      <description>Во время своего первого тюремного срока — 13 месяцев за склонение несовершеннолетней к сексу — Джеффри Эпштейн, согласно тюремным записям, как минимум 67 раз принимал у себя одну и ту же посетительницу. Этой женщиной была Надя Марцинко. На протяжении семи лет она считалась главной девушкой Эпштейна, а позднее стала еще и вторым пилотом его частного самолета.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/czr2key58kvo</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>О чем договорились Путин и Си? Объясняет китаист Темур Умаров</title>
       <link>https://www.bbc.com/russian/articles/c3021qn9mggo</link>
       <description>Русская службы Би-би-си обсудила визит Путина в Китай с Темуром Умаровым.</description>
@@ -189,10 +182,17 @@
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Исчерпала ли себя российская модель войны с Украиной?</title>
+      <link>https://www.bbc.com/russian/articles/cr5p794nzv7o</link>
+      <description>Может ли российская армия продолжать боевые действия нынешними методами, ничего кардинально не меняя?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cr5p794nzv7o</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Тень Волыни, угроза России. Как украинские и польские историки попробовали найти общий язык</title>
       <link>https://www.bbc.com/russian/articles/cd9pe2wy5d4o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cd9pe2wy5d4o</guid>
-      <pubDate>Sat, 23 May 2026 21:10:13 +0000</pubDate>
+      <pubDate>Sat, 23 May 2026 22:10:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
