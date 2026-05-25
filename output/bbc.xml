@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 25 May 2026 10:51:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 14:10:12 +0000</lastBuildDate>
     <item>
       <title>Генерал долгой войны. Как развивалась карьера Валерия Герасимова, пятый год воюющего с Украиной</title>
       <link>https://www.bbc.com/russian/articles/c8ej6g7p3p3o</link>
@@ -173,6 +173,13 @@
       <description>Минюст впервые добился в суде прекращения статуса уехавших из страны адвокатов. Почему запрет на профессию грозит всем независимым адвокатам России и как это касается каждого, кому может понадобиться юридическая помощь?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c7753prmeygo</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>От Мьянмы до Венесуэлы: как люди сопротивляются интернет-блокировкам</title>
+      <link>https://www.bbc.com/russian/articles/c1m27129ezmo</link>
+      <description>Тайные интернет-кафе со спутниковым интернетом, эмигрантские приложения с VPN и партизаны-разработчики пытаются справиться с ограничениями на доступ в интернет, которые вводят репрессивные власти по всему миру. Такие ограничений становится все больше, говорят эксперты в сфере цифровых прав.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c1m27129ezmo</guid>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Исчерпала ли себя российская модель войны с Украиной?</title>
