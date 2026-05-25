@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 25 May 2026 06:09:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 10:51:55 +0000</lastBuildDate>
     <item>
       <title>Генерал долгой войны. Как развивалась карьера Валерия Герасимова, пятый год воюющего с Украиной</title>
       <link>https://www.bbc.com/russian/articles/c8ej6g7p3p3o</link>
@@ -147,25 +147,18 @@
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>О чем договорились Путин и Си? Объясняет китаист Темур Умаров</title>
-      <link>https://www.bbc.com/russian/articles/c3021qn9mggo</link>
-      <description>Русская службы Би-би-си обсудила визит Путина в Китай с Темуром Умаровым.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3021qn9mggo</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Минотавр» Звягинцева в Каннах: Россия привилегированного меньшинства</title>
-      <link>https://www.bbc.com/russian/articles/c1m27ep0rpxo</link>
-      <description>После девятилетнего перерыва Андрей Звягинцев вернулся на Каннский конкурс с «Минотавром» — фильмом о российской элите осени 2022 года, живущей между мобилизацией, супружеской изменой и попыткой сохранить привычный порядок жизни.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c1m27ep0rpxo</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Город — манкурт». Как и почему в Бишкеке сносят исторические объекты и памятники архитектуры</title>
       <link>https://www.bbc.com/russian/articles/c0r20qk78elo</link>
       <description>Столица Кыргызстана в эпицентре чистки исторического прошлого: Бишкек уже лишился нескольких крупных объектов советской архитектуры, под угрозой уничтожения находятся и некоторые другие памятники. На их месте идет активное коммерческое строительство. Би-би-си попробовала разобраться, связано ли это с десоветизацией, и что ждет город, который до сих пор мог считаться образцом советского градостроения в Центральной Азии.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0r20qk78elo</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Тень Волыни, угроза России. Как украинские и польские историки попробовали найти общий язык</title>
+      <link>https://www.bbc.com/russian/articles/cd9pe2wy5d4o</link>
+      <description>Едва ли не главная проблема отношений между Украиной и Польшей — это их сложная общая история. Дела многолетней давности в диалоге Киева и Варшавы порой значат больше, чем то, что происходит между ними сегодня и будет происходить завтра. У политиков разговаривать на эти темы не слишком получается, поэтому возможность обсудить накопившиеся вопросы друг к другу предоставили историкам.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cd9pe2wy5d4o</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>«Если выход завалит — все!» Почему Подмосковье оказалось не готово к атакам беспилотников</title>
@@ -187,12 +180,6 @@
       <description>Может ли российская армия продолжать боевые действия нынешними методами, ничего кардинально не меняя?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cr5p794nzv7o</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Тень Волыни, угроза России. Как украинские и польские историки попробовали найти общий язык</title>
-      <link>https://www.bbc.com/russian/articles/cd9pe2wy5d4o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cd9pe2wy5d4o</guid>
-      <pubDate>Mon, 25 May 2026 06:09:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
