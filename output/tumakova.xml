@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 26 May 2026 03:52:30 +0000</lastBuildDate>
-    <item>
-      <title>«Решение точно будет плохим, вопрос — насколько» — Как в Израиле видят победу над ХАМАС и при чем тут Трамп</title>
-      <link>https://novayagazeta.ru/articles/2025/06/06/reshenie-tochno-budet-plokhim-vopros-naskolko</link>
-      <description>Как в Израиле видят победу над ХАМАС и при чем тут Трамп</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/06/06/reshenie-tochno-budet-plokhim-vopros-naskolko</guid>
-      <pubDate>Fri, 06 Jun 2025 13:34:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 May 2026 07:53:01 +0000</lastBuildDate>
     <item>
       <title>«Последнее окно возможностей» — Политический аналитик — о том, почему Израиль решил ударить по Ирану именно сейчас</title>
       <link>https://novayagazeta.ru/articles/2025/06/13/poslednee-okno-vozmozhnostei</link>
@@ -287,6 +280,13 @@
       <description>В марте и апреле атакам украинских БПЛА подверглись российские порты в Новороссийске и на Балтике</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/04/27/interesno-zhe-vse-babakhaet</guid>
       <pubDate>Mon, 27 Apr 2026 07:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«А где сейчас не бомбят?» — Как живет и собирается жить дальше Туапсе, где начальство по-прежнему обещает курортный сезон</title>
+      <link>https://novayagazeta.ru/articles/2026/05/26/a-gde-seichas-ne-bombiat</link>
+      <description>Как живет и собирается жить дальше Туапсе, где начальство по-прежнему обещает курортный сезон</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/05/26/a-gde-seichas-ne-bombiat</guid>
+      <pubDate>Tue, 26 May 2026 07:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
