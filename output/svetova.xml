@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 26 May 2026 07:52:47 +0000</lastBuildDate>
-    <item>
-      <title>Фестиваль необходимых поэтов — Уехавшие из России авторы — о том, как писать вдали от родины, заново находить себя и замечать новые оттенки жизни</title>
-      <link>https://novayagazeta.ru/articles/2025/01/29/festival-neobkhodimykh-poetov</link>
-      <description>Уехавшие из России авторы — о том, как писать вдали от родины, заново находить себя и замечать новые оттенки жизни</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/01/29/festival-neobkhodimykh-poetov</guid>
-      <pubDate>Wed, 29 Jan 2025 07:53:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 May 2026 14:16:37 +0000</lastBuildDate>
     <item>
       <title>«Часто говорю себе: «Навальный бы смог, и я смогу» — Адвокат Вадим Кобзев, политический заключенный, о своем клиенте, судах и последнем «несвидании» с Алексеем Навальным</title>
       <link>https://novayagazeta.ru/articles/2025/02/17/chasto-govoriu-sebe-navalnyi-by-smog-i-ia-smogu</link>
@@ -287,6 +280,13 @@
       <description>В Москве простились с правозащитницей Ниной Литвиновой, которая покончила с собой, как написала сама, от «бессилия»</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/05/18/u-nee-byl-absoliutnyi-slukh-na-falsh-i-podlost</guid>
       <pubDate>Mon, 18 May 2026 14:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Это я не спасла ни Варшаву тогда и ни Прагу потом, / это я, это я, и вине моей нет искупленья…» — К 90-летию со дня рождения Натальи Горбаневской</title>
+      <link>https://novayagazeta.ru/articles/2026/05/26/eto-ia-ne-spasla-ni-varshavu-togda-i-ni-pragu-potom-eto-ia-eto-ia-i-vine-moei-net-iskuplenia</link>
+      <description>К 90-летию со дня рождения Натальи Горбаневской</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/05/26/eto-ia-ne-spasla-ni-varshavu-togda-i-ni-pragu-potom-eto-ia-eto-ia-i-vine-moei-net-iskuplenia</guid>
+      <pubDate>Tue, 26 May 2026 09:19:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

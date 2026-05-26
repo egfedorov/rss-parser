@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 26 May 2026 07:52:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 14:16:39 +0000</lastBuildDate>
     <item>
       <title>Генерал долгой войны. Как развивалась карьера Валерия Герасимова, пятый год воюющего с Украиной</title>
       <link>https://www.bbc.com/russian/articles/c8ej6g7p3p3o</link>
@@ -147,20 +147,6 @@
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Город — манкурт». Как и почему в Бишкеке сносят исторические объекты и памятники архитектуры</title>
-      <link>https://www.bbc.com/russian/articles/c0r20qk78elo</link>
-      <description>Столица Кыргызстана в эпицентре чистки исторического прошлого: Бишкек уже лишился нескольких крупных объектов советской архитектуры, под угрозой уничтожения находятся и некоторые другие памятники. На их месте идет активное коммерческое строительство. Би-би-си попробовала разобраться, связано ли это с десоветизацией, и что ждет город, который до сих пор мог считаться образцом советского градостроения в Центральной Азии.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0r20qk78elo</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Тень Волыни, угроза России. Как украинские и польские историки попробовали найти общий язык</title>
-      <link>https://www.bbc.com/russian/articles/cd9pe2wy5d4o</link>
-      <description>Едва ли не главная проблема отношений между Украиной и Польшей — это их сложная общая история. Дела многолетней давности в диалоге Киева и Варшавы порой значат больше, чем то, что происходит между ними сегодня и будет происходить завтра. У политиков разговаривать на эти темы не слишком получается, поэтому возможность обсудить накопившиеся вопросы друг к другу предоставили историкам.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cd9pe2wy5d4o</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Если выход завалит — все!» Почему Подмосковье оказалось не готово к атакам беспилотников</title>
       <link>https://www.bbc.com/russian/articles/cg5pglvye8qo</link>
       <description>17 мая Подмосковье подверглось одной из самых масштабных атак украинских беспилотников с начала войны. Три человека погибли. Русская служба Би-би-си поговорила с местными жителями о происходившем в ту ночь.</description>
@@ -187,6 +173,20 @@
       <description>Может ли российская армия продолжать боевые действия нынешними методами, ничего кардинально не меняя?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cr5p794nzv7o</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Удар «Орешником» по Украине: ответ за налет на Москву или угроза Европе?</title>
+      <link>https://www.bbc.com/russian/articles/cyv21g06m86o</link>
+      <description>Ракетно-дроновый удар по Украине в ночь на 24 мая стал одним из самых сильных за время полномасштабной войны. Это была комбинированная атака, сочетавшая в себе крылатые и баллистические ракеты, включая гиперзвуковые «Цирконы», беспилотники и не менее одной баллистической ракеты «Орешник». О чем свидетельствует решение Москвы применить эту гиперзвуковую ракету?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cyv21g06m86o</guid>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Киборги Малой Токмачки». Как село в Запорожской области стало мемом и почему так важен контроль над ним</title>
+      <link>https://www.bbc.com/russian/articles/ckgppx5x482o</link>
+      <description>«Кто владеет Малой Токмачкой, тот владеет миром». Почему шутки об этом селе в Запорожской области стали популярными и действительно ли они свидетельствуют о слабости российской армии.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckgppx5x482o</guid>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
