@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 26 May 2026 21:46:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 23:12:14 +0000</lastBuildDate>
     <item>
       <title>Генерал долгой войны. Как развивалась карьера Валерия Герасимова, пятый год воюющего с Украиной</title>
       <link>https://www.bbc.com/russian/articles/c8ej6g7p3p3o</link>
@@ -147,17 +147,17 @@
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Если выход завалит — все!» Почему Подмосковье оказалось не готово к атакам беспилотников</title>
+      <link>https://www.bbc.com/russian/articles/cg5pglvye8qo</link>
+      <description>17 мая Подмосковье подверглось одной из самых масштабных атак украинских беспилотников с начала войны. Три человека погибли. Русская служба Би-би-си поговорила с местными жителями о происходившем в ту ночь.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cg5pglvye8qo</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Механизм против неудобных». Как Минюст России лишает адвокатуру самоуправления и чем это грозит обычным людям</title>
       <link>https://www.bbc.com/russian/articles/c7753prmeygo</link>
       <description>Минюст впервые добился в суде прекращения статуса уехавших из страны адвокатов. Почему запрет на профессию грозит всем независимым адвокатам России и как это касается каждого, кому может понадобиться юридическая помощь?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c7753prmeygo</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Исчерпала ли себя российская модель войны с Украиной?</title>
-      <link>https://www.bbc.com/russian/articles/cr5p794nzv7o</link>
-      <description>Может ли российская армия продолжать боевые действия нынешними методами, ничего кардинально не меняя?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cr5p794nzv7o</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -166,6 +166,13 @@
       <description>Тайные интернет-кафе со спутниковым интернетом, эмигрантские приложения с VPN и партизаны-разработчики пытаются справиться с ограничениями на доступ в интернет, которые вводят репрессивные власти по всему миру. Такие ограничений становится все больше, говорят эксперты в сфере цифровых прав.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c1m27129ezmo</guid>
       <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Исчерпала ли себя российская модель войны с Украиной?</title>
+      <link>https://www.bbc.com/russian/articles/cr5p794nzv7o</link>
+      <description>Может ли российская армия продолжать боевые действия нынешними методами, ничего кардинально не меняя?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cr5p794nzv7o</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Удар «Орешником» по Украине: ответ за налет на Москву или угроза Европе?</title>
