@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 28 May 2026 01:24:12 +0000</lastBuildDate>
-    <item>
-      <title>Генерал долгой войны. Как развивалась карьера Валерия Герасимова, пятый год воюющего с Украиной</title>
-      <link>https://www.bbc.com/russian/articles/c8ej6g7p3p3o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8ej6g7p3p3o</guid>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 May 2026 05:53:38 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -149,9 +143,14 @@
     <item>
       <title>«Механизм против неудобных». Как Минюст России лишает адвокатуру самоуправления и чем это грозит обычным людям</title>
       <link>https://www.bbc.com/russian/articles/c7753prmeygo</link>
-      <description>Минюст впервые добился в суде прекращения статуса уехавших из страны адвокатов. Почему запрет на профессию грозит всем независимым адвокатам России и как это касается каждого, кому может понадобиться юридическая помощь?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c7753prmeygo</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Скачок самолета на тысячу миль: в Европе резко участились случаи GPS-спуфинга</title>
+      <link>https://www.bbc.com/russian/articles/cn8pq9z1v6eo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn8pq9z1v6eo</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Удар «Орешником» по Украине: ответ за налет на Москву или угроза Европе?</title>
@@ -171,7 +170,7 @@
       <title>Видео,Дроны заменят солдат и танки? | Военное время, Продолжительность 14,45</title>
       <link>https://www.bbc.com/russian/articles/cwy222kxx12o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwy222kxx12o</guid>
-      <pubDate>Thu, 28 May 2026 01:24:12 +0000</pubDate>
+      <pubDate>Thu, 28 May 2026 05:53:38 +0000</pubDate>
     </item>
     <item>
       <title>«У него два пути: тюрьма, фронт». Антивоенного активиста выдворяют из Финляндии в Россию</title>
@@ -179,6 +178,13 @@
       <description>Антивоенный россиянин Роман Голиков, донативший ФБК и получивший повестку, просил убежища в Финляндии. Но финские власти решили, что в России ему ничего не грозит, и арестовали, чтобы выдворить на родину. Голиков уверен, что на границе его задержат — такое уже случалось с другими политэмигрантами.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckgppnww3npo</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Большой сделки» США с Ираном пока не будет? Объясняет востоковед Руслан Сулейманов</title>
+      <link>https://www.bbc.com/russian/articles/cwy2kwqwnx0o</link>
+      <description>Насколько вероятна сейчас «большая сделка» между Ираном и США и на каких условиях она может состояться? В подкасте Русской службы Би-би-си «Что это было» объясняет востоковед Руслан Сулейманов.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwy2kwqwnx0o</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
