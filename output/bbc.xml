@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 29 May 2026 03:56:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 08:01:43 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -153,24 +153,10 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Удар «Орешником» по Украине: ответ за налет на Москву или угроза Европе?</title>
-      <link>https://www.bbc.com/russian/articles/cyv21g06m86o</link>
-      <description>Ракетно-дроновый удар по Украине в ночь на 24 мая стал одним из самых сильных за время полномасштабной войны. Это была комбинированная атака, сочетавшая в себе крылатые и баллистические ракеты, включая гиперзвуковые «Цирконы», беспилотники и не менее одной баллистической ракеты «Орешник». О чем свидетельствует решение Москвы применить эту гиперзвуковую ракету?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cyv21g06m86o</guid>
-      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Киборги Малой Токмачки». Как село в Запорожской области стало мемом и почему так важен контроль над ним</title>
-      <link>https://www.bbc.com/russian/articles/ckgppx5x482o</link>
-      <description>«Кто владеет Малой Токмачкой, тот владеет миром». Почему шутки об этом селе в Запорожской области стали популярными и действительно ли они свидетельствуют о слабости российской армии.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckgppx5x482o</guid>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Видео,Дроны заменят солдат и танки? | Военное время, Продолжительность 14,45</title>
       <link>https://www.bbc.com/russian/articles/cwy222kxx12o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwy222kxx12o</guid>
-      <pubDate>Fri, 29 May 2026 03:56:08 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 08:01:43 +0000</pubDate>
     </item>
     <item>
       <title>«У него два пути: тюрьма, фронт». Антивоенного активиста выдворяют из Финляндии в Россию</title>
@@ -185,6 +171,20 @@
       <description>Насколько вероятна сейчас «большая сделка» между Ираном и США и на каких условиях она может состояться? В подкасте Русской службы Би-би-си «Что это было» объясняет востоковед Руслан Сулейманов.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwy2kwqwnx0o</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Подмосковье запрещают полеты малой авиации. Самолеты легко перепутать с дронами?</title>
+      <link>https://www.bbc.com/russian/articles/c74rydxd12go</link>
+      <description>Министерство обороны России готовится фактически запретить полеты частных гражданских воздушных судов в Московской воздушной зоне. Как сказано в сообщении Росавиации, Минобороны передало агентству и Минтрансу представление, в котором говорится об особом режиме для полетов гражданских воздушных судов на высотах от 0 до 5100 метров в пределах Московской воздушной зоны.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c74rydxd12go</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зачем Путин угрожает Пашиняну накануне выборов? Объясняет журналист Кирилл Кривошеев</title>
+      <link>https://www.bbc.com/russian/articles/cglp3j4zw6ro</link>
+      <description>Зачем Владимир Путин угрожает Николу Пашиняну в преддверии выборов в Армении и зачем в Ереван приезжал госсекретарь США Марко Рубио, разбираемся в подкасте с журналистом Кириллом Кривошеевым.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cglp3j4zw6ro</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
