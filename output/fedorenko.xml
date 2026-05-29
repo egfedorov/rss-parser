@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 29 May 2026 08:01:42 +0000</lastBuildDate>
-    <item>
-      <title>Занос влево — Начался передел рынка выдачи сертификатов безопасности, сильно потревожив владельцев праворульных иномарок</title>
-      <link>https://novayagazeta.ru/articles/2025/12/02/zanos-vlevo</link>
-      <description>Начался передел рынка выдачи сертификатов безопасности, сильно потревожив владельцев праворульных иномарок</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/02/zanos-vlevo</guid>
-      <pubDate>Tue, 02 Dec 2025 10:13:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 May 2026 11:42:14 +0000</lastBuildDate>
     <item>
       <title>Пхеньян последней надежды — Северокорейская фарма продается в России под видом тоника для лица. Его предлагают колоть огромными дозами для лечения всего — даже рака</title>
       <link>https://novayagazeta.ru/articles/2025/12/08/pkhenian-poslednei-nadezhdy</link>
@@ -287,6 +280,13 @@
       <description>На Сахалине ПГТ Шахтерск погрузился во тьму египетскую. Но угольщики рапортуют «о другом»</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/05/20/zagnannye-v-ugol</guid>
       <pubDate>Wed, 20 May 2026 09:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Паровозы»-застрельщики для фронтовиков — Приказ есть приказ — и участников СВО в регионах начали двигать во власть. Как это сделают в Приморье</title>
+      <link>https://novayagazeta.ru/articles/2026/05/29/parovozy-zastrelshchiki-dlia-frontovikov</link>
+      <description>Приказ есть приказ — и участников СВО в регионах начали двигать во власть. Как это сделают в Приморье</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/05/29/parovozy-zastrelshchiki-dlia-frontovikov</guid>
+      <pubDate>Fri, 29 May 2026 09:19:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
