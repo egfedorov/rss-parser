@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 30 May 2026 07:30:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 09:31:54 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -147,20 +147,6 @@
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«У него два пути: тюрьма, фронт». Антивоенного активиста выдворяют из Финляндии в Россию</title>
-      <link>https://www.bbc.com/russian/articles/ckgppnww3npo</link>
-      <description>Антивоенный россиянин Роман Голиков, донативший ФБК и получивший повестку, просил убежища в Финляндии. Но финские власти решили, что в России ему ничего не грозит, и арестовали, чтобы выдворить на родину. Голиков уверен, что на границе его задержат — такое уже случалось с другими политэмигрантами.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckgppnww3npo</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Большой сделки» США с Ираном пока не будет? Объясняет востоковед Руслан Сулейманов</title>
-      <link>https://www.bbc.com/russian/articles/cwy2kwqwnx0o</link>
-      <description>Насколько вероятна сейчас «большая сделка» между Ираном и США и на каких условиях она может состояться? В подкасте Русской службы Би-би-си «Что это было» объясняет востоковед Руслан Сулейманов.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwy2kwqwnx0o</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>В Подмосковье запрещают полеты малой авиации. Самолеты легко перепутать с дронами?</title>
       <link>https://www.bbc.com/russian/articles/c74rydxd12go</link>
       <description>Министерство обороны России готовится фактически запретить полеты частных гражданских воздушных судов в Московской воздушной зоне. Как сказано в сообщении Росавиации, Минобороны передало агентству и Минтрансу представление, в котором говорится об особом режиме для полетов гражданских воздушных судов на высотах от 0 до 5100 метров в пределах Московской воздушной зоны.</description>
@@ -194,6 +180,13 @@
       <description>Швеция предоставит Украине 16 истребителей JAS 39 Gripen. Об этом объявили власти Швеции во время визита Владимира Зеленского в эту страну. Еще 22 самолета Украина купит. Первые истребители ждут в Киеве уже в конце этого года. Вместе с истребителями Украина получит новое мощное оружие — авиационные ракеты дальнего радиуса действия Meteor.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm2pr6jlxlpo</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Камера на двоих, нары, унитаз, кран с холодной водой». Митрополит Иларион рассказал Би-би-си об обстоятельствах своего задержания в Чехии</title>
+      <link>https://www.bbc.com/russian/articles/c9d38gzqxy2o</link>
+      <description>После своего задержания в Чехии митрополит РПЦ Иларион оказался в камере на двоих без привычных удобств. В интервью Русской службе Би-би-си он описал условия содержания, обстоятельства выхода на свободу и свое отношение к произошедшему.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c9d38gzqxy2o</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
