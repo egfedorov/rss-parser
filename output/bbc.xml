@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 30 May 2026 18:44:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 20:10:15 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -182,6 +182,13 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Зачем Путин ездил в Казахстан? Объясняет Темур Умаров в подкасте «Что это было?»</title>
+      <link>https://www.bbc.com/russian/articles/c4g8xvxxx06o</link>
+      <description>Президент России Владимир Путин приехал в Казахстан с особыми мерами безопасности, соглашением об АЭС и амурскими тиграми. В Астане его с помпой встретил президент Казахстана Касым-Жомарт Токаев. Главы государств заявляют, что у них братские отношения и спорить им не о чем. Как им удалось добиться этой идиллии? И что может ее нарушить?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4g8xvxxx06o</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Камера на двоих, нары, унитаз, кран с холодной водой». Митрополит Иларион рассказал Би-би-си об обстоятельствах своего задержания в Чехии</title>
       <link>https://www.bbc.com/russian/articles/c9d38gzqxy2o</link>
       <description>После своего задержания в Чехии митрополит РПЦ Иларион оказался в камере на двоих без привычных удобств. В интервью Русской службе Би-би-си он описал условия содержания, обстоятельства выхода на свободу и свое отношение к произошедшему.</description>
@@ -192,7 +199,7 @@
       <title>Потери России в Украине: что известно из поименного подсчета и оценок разведок</title>
       <link>https://www.bbc.com/russian/articles/c302yg2jvqro</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c302yg2jvqro</guid>
-      <pubDate>Sat, 30 May 2026 18:44:50 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 20:10:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
