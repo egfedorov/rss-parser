@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 30 May 2026 09:31:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 11:04:14 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -187,6 +187,12 @@
       <description>После своего задержания в Чехии митрополит РПЦ Иларион оказался в камере на двоих без привычных удобств. В интервью Русской службе Би-би-си он описал условия содержания, обстоятельства выхода на свободу и свое отношение к произошедшему.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c9d38gzqxy2o</guid>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Потери России в Украине: что известно из поименного подсчета и оценок разведок</title>
+      <link>https://www.bbc.com/russian/articles/c302yg2jvqro</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c302yg2jvqro</guid>
+      <pubDate>Sat, 30 May 2026 11:04:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
