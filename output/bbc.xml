@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 31 May 2026 23:42:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 04:21:57 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -147,13 +147,6 @@
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>В Подмосковье запрещают полеты малой авиации. Самолеты легко перепутать с дронами?</title>
-      <link>https://www.bbc.com/russian/articles/c74rydxd12go</link>
-      <description>Министерство обороны России готовится фактически запретить полеты частных гражданских воздушных судов в Московской воздушной зоне. Как сказано в сообщении Росавиации, Минобороны передало агентству и Минтрансу представление, в котором говорится об особом режиме для полетов гражданских воздушных судов на высотах от 0 до 5100 метров в пределах Московской воздушной зоны.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c74rydxd12go</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Зачем Путин угрожает Пашиняну накануне выборов? Объясняет журналист Кирилл Кривошеев</title>
       <link>https://www.bbc.com/russian/articles/cglp3j4zw6ro</link>
       <description>Зачем Владимир Путин угрожает Николу Пашиняну в преддверии выборов в Армении и зачем в Ереван приезжал госсекретарь США Марко Рубио, разбираемся в подкасте с журналистом Кириллом Кривошеевым.</description>
@@ -196,10 +189,17 @@
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Он стал другим человеком». Как несостоявшийся актер Голливуда превратился в звезду маносферы</title>
+      <link>https://www.bbc.com/russian/articles/cy42e9k9pl5o</link>
+      <description>Би-би-си рассказывает о некоторых деятелях маносферы - «мужского» движения в интернете, пропагандирующего борьбу с феминизмом и маскулинность.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy42e9k9pl5o</guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Потери России в Украине: что известно из поименного подсчета и оценок разведок</title>
       <link>https://www.bbc.com/russian/articles/c302yg2jvqro</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c302yg2jvqro</guid>
-      <pubDate>Sun, 31 May 2026 23:42:35 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2026 04:21:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
