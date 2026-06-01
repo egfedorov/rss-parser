@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 01 Jun 2026 16:19:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 20:39:24 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -147,16 +147,8 @@
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Зачем Путин угрожает Пашиняну накануне выборов? Объясняет журналист Кирилл Кривошеев</title>
-      <link>https://www.bbc.com/russian/articles/cglp3j4zw6ro</link>
-      <description>Зачем Владимир Путин угрожает Николу Пашиняну в преддверии выборов в Армении и зачем в Ереван приезжал госсекретарь США Марко Рубио, разбираемся в подкасте с журналистом Кириллом Кривошеевым.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cglp3j4zw6ro</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Скачок самолета на тысячу миль: в Европе резко участились случаи GPS-спуфинга</title>
       <link>https://www.bbc.com/russian/articles/cn8pq9z1v6eo</link>
-      <description>GPS-навигация, на которую полагается в том числе гражданская авиация, все чаще становится ненадежной: за последние годы в нескольких регионах в разы участились случаи подмены сигнала, следует из данных, предоставленных для Би-би-си. Особенно резкий рост заметен в Балтийском регионе.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn8pq9z1v6eo</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
@@ -203,10 +195,17 @@
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Новый тип диабета? Врачи предупреждают, что ошибочные диагнозы наносят вред пациентам</title>
+      <link>https://www.bbc.com/russian/articles/c98r07z0elpo</link>
+      <description>Одни медики считают, что к диабету пятого типа приводит длительное неправильное питание, особенно в детском и подростковом возрасте. Другие сомневаются, существует ли он вообще.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c98r07z0elpo</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Потери России в Украине: что известно из поименного подсчета и оценок разведок</title>
       <link>https://www.bbc.com/russian/articles/c302yg2jvqro</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c302yg2jvqro</guid>
-      <pubDate>Mon, 01 Jun 2026 16:19:33 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2026 20:39:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
