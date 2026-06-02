@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 02 Jun 2026 18:12:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 21:25:32 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -153,13 +153,6 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Зачем Путин ездил в Казахстан? Объясняет Темур Умаров в подкасте «Что это было?»</title>
-      <link>https://www.bbc.com/russian/articles/c4g8xvxxx06o</link>
-      <description>Президент России Владимир Путин приехал в Казахстан с особыми мерами безопасности, соглашением об АЭС и амурскими тиграми. В Астане его с помпой встретил президент Казахстана Касым-Жомарт Токаев. Главы государств заявляют, что у них братские отношения и спорить им не о чем. Как им удалось добиться этой идиллии? И что может ее нарушить?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4g8xvxxx06o</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Камера на двоих, нары, унитаз, кран с холодной водой». Митрополит Иларион рассказал Би-би-си об обстоятельствах своего задержания в Чехии</title>
       <link>https://www.bbc.com/russian/articles/c9d38gzqxy2o</link>
       <description>После своего задержания в Чехии митрополит РПЦ Иларион оказался в камере на двоих без привычных удобств. В интервью Русской службе Би-би-си он описал условия содержания, обстоятельства выхода на свободу и свое отношение к произошедшему.</description>
@@ -207,13 +200,20 @@
       <link>https://www.bbc.com/russian/articles/cnvpn2yyzego</link>
       <description>Александр Кузнецов о «Двух прокурорах», работе с Лозницей и новой карьере на Западе</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cnvpn2yyzego</guid>
-      <pubDate>Tue, 02 Jun 2026 18:12:04 +0000</pubDate>
+      <pubDate>Tue, 02 Jun 2026 21:25:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Трогательно осознавать, что это были ее последние снимки»: выставка к 100-летию со дня рождения Мэрилин Монро в Лондоне</title>
+      <link>https://www.bbc.com/russian/articles/cnvp057nl22o</link>
+      <description>В год 100-летия со дня рождения Мэрилин Монро фотографии из последней фотосессии голливудской иконы показывают беззаботную радость, резко контрастирующую с трагическими обстоятельствами ее смерти.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cnvp057nl22o</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Развод с Россией, помолвка с Европой? Чего ждать от выборов в Армении: анализ Би-би-си</title>
       <link>https://www.bbc.com/russian/articles/cn4pd72ykz8o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn4pd72ykz8o</guid>
-      <pubDate>Tue, 02 Jun 2026 18:12:04 +0000</pubDate>
+      <pubDate>Tue, 02 Jun 2026 21:25:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
