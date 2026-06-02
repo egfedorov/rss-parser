@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 02 Jun 2026 05:02:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 09:42:59 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -197,8 +197,16 @@
     <item>
       <title>Потери России в Украине: что известно из поименного подсчета и оценок разведок</title>
       <link>https://www.bbc.com/russian/articles/c302yg2jvqro</link>
+      <description>Би-би-си совместно с «Медиазоной»* и командой волонтеров установила имена 223 539 российских военных, погибших с начала полномасштабного вторжения в Украину. Реальное число погибших выше: поименный список основан только на публично доступных данных.
+За годы войны военные ведомства и разведки в разных странах называли собственные оценки российских потерь. Эти цифры часто заметно отличаются друг от друга. На примере последнего заявления британской разведки Би-би-си рассказывает о том, как устроен подсчет и оценка потерь российской и украинской сторон.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c302yg2jvqro</guid>
-      <pubDate>Tue, 02 Jun 2026 05:02:30 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Развод с Россией, помолвка с Европой? Чего ждать от выборов в Армении: анализ Би-би-си</title>
+      <link>https://www.bbc.com/russian/articles/cn4pd72ykz8o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn4pd72ykz8o</guid>
+      <pubDate>Tue, 02 Jun 2026 09:42:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
