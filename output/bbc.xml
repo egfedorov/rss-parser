@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 03 Jun 2026 17:21:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 20:40:53 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -153,13 +153,6 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Что закончится раньше — нефть или война? Как Иран принуждает Трампа к миру</title>
-      <link>https://www.bbc.com/russian/articles/cnvpld25258o</link>
-      <description>Запас прочности стремительно улетучивается, и без снятия блокады Ормуза уже в июле–августе цены на нефть снова вырастут, а мировая экономика окажется на грани спада.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cnvpld25258o</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Никто теперь не чувствует себя в безопасности»: что говорят жители румынского Галаца после удара беспилотника</title>
       <link>https://www.bbc.com/russian/articles/cy42znlldx0o</link>
       <description>В некоторых частях Европы полномасштабное вторжение России в Украину может казаться далекой угрозой. Но для Румынии эта война находится совсем рядом и становится все опаснее. Жители Галаца, куда в пятницу прилетел российский дрон, рассказывают о произошедшем.</description>
@@ -171,7 +164,7 @@
       <link>https://www.bbc.com/russian/articles/cnvpn2yyzego</link>
       <description>Александр Кузнецов о «Двух прокурорах», работе с Лозницей и новой карьере на Западе</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cnvpn2yyzego</guid>
-      <pubDate>Wed, 03 Jun 2026 17:21:47 +0000</pubDate>
+      <pubDate>Wed, 03 Jun 2026 20:40:53 +0000</pubDate>
     </item>
     <item>
       <title>«Трогательно осознавать, что это были ее последние снимки»: выставка к 100-летию со дня рождения Мэрилин Монро в Лондоне</title>
@@ -204,8 +197,15 @@
     <item>
       <title>Развод с Россией, помолвка с Европой? Чего ждать от выборов в Армении: анализ Би-би-си</title>
       <link>https://www.bbc.com/russian/articles/cn4pd72ykz8o</link>
+      <description>Москва требует от Армении выбрать между собой и Евросоюзом, а внутри страны Пашинян угрожает «нагнуть и уничтожить» оппонентов.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn4pd72ykz8o</guid>
-      <pubDate>Wed, 03 Jun 2026 17:21:47 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Локальный дефицит бензина. Как атаки на нефтяную инфраструктуру России повлияли на рынок топлива</title>
+      <link>https://www.bbc.com/russian/articles/cn4p9rk1xg3o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn4p9rk1xg3o</guid>
+      <pubDate>Wed, 03 Jun 2026 20:40:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
