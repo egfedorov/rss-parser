@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 03 Jun 2026 12:14:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 17:21:47 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -171,7 +171,7 @@
       <link>https://www.bbc.com/russian/articles/cnvpn2yyzego</link>
       <description>Александр Кузнецов о «Двух прокурорах», работе с Лозницей и новой карьере на Западе</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cnvpn2yyzego</guid>
-      <pubDate>Wed, 03 Jun 2026 12:14:57 +0000</pubDate>
+      <pubDate>Wed, 03 Jun 2026 17:21:47 +0000</pubDate>
     </item>
     <item>
       <title>«Трогательно осознавать, что это были ее последние снимки»: выставка к 100-летию со дня рождения Мэрилин Монро в Лондоне</title>
@@ -195,10 +195,17 @@
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Трамп превращает юбилей Америки в праздник для себя. Анализ Энтони Зуркера</title>
+      <link>https://www.bbc.com/russian/articles/cpqpgp501ypo</link>
+      <description>Празднование Дня независимости в США, вместо того чтобы стать событием, объединяющим страну, стремительно превращается в очередное поле политического противостояния.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cpqpgp501ypo</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Развод с Россией, помолвка с Европой? Чего ждать от выборов в Армении: анализ Би-би-си</title>
       <link>https://www.bbc.com/russian/articles/cn4pd72ykz8o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn4pd72ykz8o</guid>
-      <pubDate>Wed, 03 Jun 2026 12:14:57 +0000</pubDate>
+      <pubDate>Wed, 03 Jun 2026 17:21:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
