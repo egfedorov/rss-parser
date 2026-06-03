@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 03 Jun 2026 07:17:19 +0000</lastBuildDate>
-    <item>
-      <title>«Дух скорби должен преобладать…» — В якутском Покровске с 7 октября объявили трехдневный траур по погибшим на СВО</title>
-      <link>https://novayagazeta.ru/articles/2025/10/08/dukh-skorbi-dolzhen-preobladat</link>
-      <description>В якутском Покровске с 7 октября объявили трехдневный траур по погибшим на СВО</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/08/dukh-skorbi-dolzhen-preobladat</guid>
-      <pubDate>Wed, 08 Oct 2025 12:13:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2026 12:14:55 +0000</lastBuildDate>
     <item>
       <title>Сирота страна моя родная — История Жени Магницкого, который хотел жить-быть, но не получилось</title>
       <link>https://novayagazeta.ru/articles/2025/10/14/sirota-strana-moia-rodnaia</link>
@@ -287,6 +280,13 @@
       <description>Три одновременных подростковых суицида на одной убитой реке</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/05/22/posledniaia-vesna</guid>
       <pubDate>Fri, 22 May 2026 07:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Слишком опасны, чтобы их еще и читать — О «совсем пропащих» юношах, загадочных мокрецах, книгах и монолите тюремной цензуры. Тайны тюремных библиотек</title>
+      <link>https://novayagazeta.ru/articles/2026/06/03/slishkom-opasny-chtoby-ikh-eshche-i-chitat</link>
+      <description>О «совсем пропащих» юношах, загадочных мокрецах, книгах и монолите тюремной цензуры. Тайны тюремных библиотек</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/03/slishkom-opasny-chtoby-ikh-eshche-i-chitat</guid>
+      <pubDate>Wed, 03 Jun 2026 08:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

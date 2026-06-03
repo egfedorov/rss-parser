@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 03 Jun 2026 07:17:21 +0000</lastBuildDate>
-    <item>
-      <title>«Ребенок и ребенок» — История Романа из ЧВК «Вагнер», который, вернувшись, не мог узнать родную дочь</title>
-      <link>https://novayagazeta.ru/articles/2025/05/31/rebenok-i-rebenok</link>
-      <description>История Романа из ЧВК «Вагнер», который, вернувшись, не мог узнать родную дочь</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/05/31/rebenok-i-rebenok</guid>
-      <pubDate>Sat, 31 May 2025 14:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Бывало такое: забираешь одного человека, а там еще куча лежит» — История Руслана с позывным «Космос», который хотел попасть в роту эвакуации, а попал в штурмовики</title>
-      <link>https://novayagazeta.ru/articles/2025/06/03/byvalo-takoe-zabiraesh-odnogo-cheloveka-a-tam-eshche-kucha-lezhit</link>
-      <description>История Руслана с позывным «Космос», который хотел попасть в роту эвакуации, а попал в штурмовики</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/06/03/byvalo-takoe-zabiraesh-odnogo-cheloveka-a-tam-eshche-kucha-lezhit</guid>
-      <pubDate>Tue, 03 Jun 2025 08:46:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2026 12:14:57 +0000</lastBuildDate>
     <item>
       <title>«Каждый должен был понимать, на что шел, подписывая контракт» — История Рахимджана Ахматнурова с позывным «Карчана», который воевал в «Вагнере» и потерял зрение</title>
       <link>https://novayagazeta.ru/articles/2025/06/03/kazhdyi-dolzhen-byl-ponimat-na-chto-shel-podpisyvaia-kontrakt</link>
@@ -287,6 +273,20 @@
       <description>Жители архангельского села отстояли школу, хотя чиновники не давали ни единого шанса</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/05/27/kogda-istochnikom-vlasti-stanovitsia-narod</guid>
       <pubDate>Wed, 27 May 2026 07:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Плачет и не понимает, за что его в тюрьму» — В Коми полиция хочет арестовать девятилетнего ребенка за то, что он играл на инсталляции из кубиков к 9 мая</title>
+      <link>https://novayagazeta.ru/articles/2026/06/03/plachet-i-ne-ponimaet-za-chto-ego-v-tiurmu</link>
+      <description>В Коми полиция хочет арестовать девятилетнего ребенка за то, что он играл на инсталляции из кубиков к 9 мая</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/03/plachet-i-ne-ponimaet-za-chto-ego-v-tiurmu</guid>
+      <pubDate>Wed, 03 Jun 2026 08:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Везде у нас только погранзаставы» — Репортаж из уральского села Берлин, жизнь которого совсем не похожа на европейскую</title>
+      <link>https://novayagazeta.ru/articles/2026/06/03/vezde-u-nas-tolko-pogranzastavy</link>
+      <description>Репортаж из уральского села Берлин, жизнь которого совсем не похожа на европейскую</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/03/vezde-u-nas-tolko-pogranzastavy</guid>
+      <pubDate>Wed, 03 Jun 2026 10:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
