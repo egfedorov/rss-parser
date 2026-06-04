@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 04 Jun 2026 13:48:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 16:55:13 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -153,13 +153,6 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Никто теперь не чувствует себя в безопасности»: что говорят жители румынского Галаца после удара беспилотника</title>
-      <link>https://www.bbc.com/russian/articles/cy42znlldx0o</link>
-      <description>В некоторых частях Европы полномасштабное вторжение России в Украину может казаться далекой угрозой. Но для Румынии эта война находится совсем рядом и становится все опаснее. Жители Галаца, куда в пятницу прилетел российский дрон, рассказывают о произошедшем.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy42znlldx0o</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Трогательно осознавать, что это были ее последние снимки»: выставка к 100-летию со дня рождения Мэрилин Монро в Лондоне</title>
       <link>https://www.bbc.com/russian/articles/cnvp057nl22o</link>
       <description>В год 100-летия со дня рождения Мэрилин Монро фотографии из последней фотосессии голливудской иконы показывают беззаботную радость, резко контрастирующую с трагическими обстоятельствами ее смерти.</description>
@@ -179,13 +172,6 @@
       <description>Под давлением общественного мнения и союзников из стран Персидского залива Белый дом стремится достичь соглашения, однако Иран настаивает на своем.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cyv2rj3v04yo</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Видео,«У меня нет ощущения дома, и это не трагедия», Продолжительность 1,40,16</title>
-      <link>https://www.bbc.com/russian/articles/cnvpn2yyzego</link>
-      <description>Александр Кузнецов о «Двух прокурорах», работе с Лозницей и новой карьере на Западе</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cnvpn2yyzego</guid>
-      <pubDate>Thu, 04 Jun 2026 13:48:28 +0000</pubDate>
     </item>
     <item>
       <title>Трамп превращает юбилей Америки в праздник для себя. Анализ Энтони Зуркера</title>
@@ -212,7 +198,7 @@
       <title>Видео,Кто работает воспитателями в семье Путина? | Видеоподкаст «Что это было?», Продолжительность 36,03</title>
       <link>https://www.bbc.com/russian/articles/cnvp4rn7qpzo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cnvp4rn7qpzo</guid>
-      <pubDate>Thu, 04 Jun 2026 13:48:28 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 16:55:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
