@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 04 Jun 2026 06:51:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 10:39:12 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -160,13 +160,6 @@
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Видео,«У меня нет ощущения дома, и это не трагедия», Продолжительность 1,40,16</title>
-      <link>https://www.bbc.com/russian/articles/cnvpn2yyzego</link>
-      <description>Александр Кузнецов о «Двух прокурорах», работе с Лозницей и новой карьере на Западе</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cnvpn2yyzego</guid>
-      <pubDate>Thu, 04 Jun 2026 06:51:55 +0000</pubDate>
-    </item>
-    <item>
       <title>«Трогательно осознавать, что это были ее последние снимки»: выставка к 100-летию со дня рождения Мэрилин Монро в Лондоне</title>
       <link>https://www.bbc.com/russian/articles/cnvp057nl22o</link>
       <description>В год 100-летия со дня рождения Мэрилин Монро фотографии из последней фотосессии голливудской иконы показывают беззаботную радость, резко контрастирующую с трагическими обстоятельствами ее смерти.</description>
@@ -188,10 +181,24 @@
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Видео,«У меня нет ощущения дома, и это не трагедия», Продолжительность 1,40,16</title>
+      <link>https://www.bbc.com/russian/articles/cnvpn2yyzego</link>
+      <description>Александр Кузнецов о «Двух прокурорах», работе с Лозницей и новой карьере на Западе</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cnvpn2yyzego</guid>
+      <pubDate>Thu, 04 Jun 2026 10:39:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Трамп превращает юбилей Америки в праздник для себя. Анализ Энтони Зуркера</title>
       <link>https://www.bbc.com/russian/articles/cpqpgp501ypo</link>
       <description>Празднование Дня независимости в США, вместо того чтобы стать событием, объединяющим страну, стремительно превращается в очередное поле политического противостояния.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cpqpgp501ypo</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Локальный дефицит бензина. Как атаки на нефтяную инфраструктуру России повлияли на рынок топлива</title>
+      <link>https://www.bbc.com/russian/articles/cn4p9rk1xg3o</link>
+      <description>Несколько регионов России в последние недели столкнулись с дефицитом бензина на фоне усилившихся украинских атак на НПЗ и логистические узлы в европейской части РФ. Особенно остро ситуация обстоит в аннексированном Крыму и на оккупированных территориях Украины, где власти ограничили продажу топлива из-за атак на сухопутный маршрут, соединяющий их с Россией.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn4p9rk1xg3o</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -200,12 +207,6 @@
       <description>Москва требует от Армении выбрать между собой и Евросоюзом, а внутри страны Пашинян угрожает «нагнуть и уничтожить» оппонентов.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn4pd72ykz8o</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Локальный дефицит бензина. Как атаки на нефтяную инфраструктуру России повлияли на рынок топлива</title>
-      <link>https://www.bbc.com/russian/articles/cn4p9rk1xg3o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn4p9rk1xg3o</guid>
-      <pubDate>Thu, 04 Jun 2026 06:51:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
