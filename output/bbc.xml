@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 05 Jun 2026 04:50:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 08:44:02 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -153,13 +153,6 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Трогательно осознавать, что это были ее последние снимки»: выставка к 100-летию со дня рождения Мэрилин Монро в Лондоне</title>
-      <link>https://www.bbc.com/russian/articles/cnvp057nl22o</link>
-      <description>В год 100-летия со дня рождения Мэрилин Монро фотографии из последней фотосессии голливудской иконы показывают беззаботную радость, резко контрастирующую с трагическими обстоятельствами ее смерти.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cnvp057nl22o</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Синдрома поликистозных яичников больше нет, вместо него — новый диагноз. Почему это важно?</title>
       <link>https://www.bbc.com/russian/articles/c936zk5el64o</link>
       <description>Синдром поликистозных яичников — заболевание, затрагивающие каждую восьмую женщину в мире, хотя многие официального диагноза не получают, — переименовано в полиэндокринный метаболический синдром. Би-би-си поговорила с врачами о том, как переименование может повлиять на диагностику и лечение, и с женщинами о их личном опыте получении диагноза.</description>
@@ -198,7 +191,13 @@
       <title>Видео,Кто работает воспитателями в семье Путина? | Видеоподкаст «Что это было?», Продолжительность 36,03</title>
       <link>https://www.bbc.com/russian/articles/cnvp4rn7qpzo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cnvp4rn7qpzo</guid>
-      <pubDate>Fri, 05 Jun 2026 04:50:41 +0000</pubDate>
+      <pubDate>Fri, 05 Jun 2026 08:44:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Эрнст и Неизвестный: как подделывали скульптуры  знаменитого нонконформиста, чьим творчеством увлечен популярный конформист</title>
+      <link>https://www.bbc.com/russian/articles/c7v92j3e798o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c7v92j3e798o</guid>
+      <pubDate>Fri, 05 Jun 2026 08:44:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
