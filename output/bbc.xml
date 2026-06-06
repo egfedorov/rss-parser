@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 05 Jun 2026 23:49:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 03:46:28 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -153,13 +153,6 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Синдрома поликистозных яичников больше нет, вместо него — новый диагноз. Почему это важно?</title>
-      <link>https://www.bbc.com/russian/articles/c936zk5el64o</link>
-      <description>Синдром поликистозных яичников — заболевание, затрагивающие каждую восьмую женщину в мире, хотя многие официального диагноза не получают, — переименовано в полиэндокринный метаболический синдром. Би-би-си поговорила с врачами о том, как переименование может повлиять на диагностику и лечение, и с женщинами о их личном опыте получении диагноза.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c936zk5el64o</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Джереми Боуэн: Трампу нужно, чтобы эта война закончилась, но Иран не сдается</title>
       <link>https://www.bbc.com/russian/articles/cyv2rj3v04yo</link>
       <description>Под давлением общественного мнения и союзников из стран Персидского залива Белый дом стремится достичь соглашения, однако Иран настаивает на своем.</description>
@@ -191,13 +184,27 @@
       <title>Видео,Кто работает воспитателями в семье Путина? | Видеоподкаст «Что это было?», Продолжительность 36,03</title>
       <link>https://www.bbc.com/russian/articles/cnvp4rn7qpzo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cnvp4rn7qpzo</guid>
-      <pubDate>Fri, 05 Jun 2026 23:49:03 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 03:46:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Армения на распутье: к чему приведут санкции со стороны России и сможет ли Армения стать полноценным партнером ЕС</title>
+      <link>https://www.bbc.com/russian/articles/c5yeyrkyreyo</link>
+      <description>В преддверии парламентских выборов 7 июня, которые предопределят будущее страны на ближайшие годы, Армения стоит на перепутье между Россией и Европой и переживает, вероятно, один из ключевых моментов своей современной истории.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c5yeyrkyreyo</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Эрнст и Неизвестный: как подделывали скульптуры  знаменитого нонконформиста, чьим творчеством увлечен популярный конформист</title>
       <link>https://www.bbc.com/russian/articles/c7v92j3e798o</link>
+      <description>Би-би-си выяснила новые подробности громкого дела о фальшивых работах, приписываемых Эрнсту Неизвестному.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c7v92j3e798o</guid>
-      <pubDate>Fri, 05 Jun 2026 23:49:03 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Эпоха танков завершается. Как и почему Украина хочет вернуть их на поле боя</title>
+      <link>https://www.bbc.com/russian/articles/clypw0wrd55o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/clypw0wrd55o</guid>
+      <pubDate>Sat, 06 Jun 2026 03:46:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
