@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 07 Jun 2026 08:27:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 10:55:05 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -153,13 +153,6 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Джереми Боуэн: Трампу нужно, чтобы эта война закончилась, но Иран не сдается</title>
-      <link>https://www.bbc.com/russian/articles/cyv2rj3v04yo</link>
-      <description>Под давлением общественного мнения и союзников из стран Персидского залива Белый дом стремится достичь соглашения, однако Иран настаивает на своем.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cyv2rj3v04yo</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Трамп превращает юбилей Америки в праздник для себя. Анализ Энтони Зуркера</title>
       <link>https://www.bbc.com/russian/articles/cpqpgp501ypo</link>
       <description>Празднование Дня независимости в США, вместо того чтобы стать событием, объединяющим страну, стремительно превращается в очередное поле политического противостояния.</description>
@@ -177,7 +170,7 @@
       <title>Видео,Кто работает воспитателями в семье Путина? | Видеоподкаст «Что это было?», Продолжительность 36,03</title>
       <link>https://www.bbc.com/russian/articles/cnvp4rn7qpzo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cnvp4rn7qpzo</guid>
-      <pubDate>Sun, 07 Jun 2026 08:27:28 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 10:55:05 +0000</pubDate>
     </item>
     <item>
       <title>Армения на распутье: к чему приведут санкции со стороны России и сможет ли Армения стать полноценным партнером ЕС</title>
@@ -194,10 +187,17 @@
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Почему Ким Чен Ын никогда не говорит о своей матери</title>
+      <link>https://www.bbc.com/russian/articles/crlpykne5pro</link>
+      <description>О ней знают лишь немногие северокорейцы, поскольку ее происхождение может поставить под угрозу легитимность режима.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/crlpykne5pro</guid>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Эпоха танков завершается. Как и почему Украина хочет вернуть их на поле боя</title>
       <link>https://www.bbc.com/russian/articles/clypw0wrd55o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/clypw0wrd55o</guid>
-      <pubDate>Sun, 07 Jun 2026 08:27:28 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 10:55:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
