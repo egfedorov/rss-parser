@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 08 Jun 2026 00:11:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 05:06:01 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -153,13 +153,6 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Трамп превращает юбилей Америки в праздник для себя. Анализ Энтони Зуркера</title>
-      <link>https://www.bbc.com/russian/articles/cpqpgp501ypo</link>
-      <description>Празднование Дня независимости в США, вместо того чтобы стать событием, объединяющим страну, стремительно превращается в очередное поле политического противостояния.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cpqpgp501ypo</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Локальный дефицит бензина. Как атаки на нефтяную инфраструктуру России повлияли на рынок топлива</title>
       <link>https://www.bbc.com/russian/articles/cn4p9rk1xg3o</link>
       <description>Несколько регионов России в последние недели столкнулись с дефицитом бензина на фоне усилившихся украинских атак на НПЗ и логистические узлы в европейской части РФ. Особенно остро ситуация обстоит в аннексированном Крыму и на оккупированных территориях Украины, где власти ограничили продажу топлива из-за атак на сухопутный маршрут, соединяющий их с Россией.</description>
@@ -170,7 +163,7 @@
       <title>Видео,Кто работает воспитателями в семье Путина? | Видеоподкаст «Что это было?», Продолжительность 36,03</title>
       <link>https://www.bbc.com/russian/articles/cnvp4rn7qpzo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cnvp4rn7qpzo</guid>
-      <pubDate>Mon, 08 Jun 2026 00:11:29 +0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 05:06:01 +0000</pubDate>
     </item>
     <item>
       <title>Армения на распутье: к чему приведут санкции со стороны России и сможет ли Армения стать полноценным партнером ЕС</title>
@@ -194,10 +187,17 @@
       <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Чемпионат мира по футболу: все, что нужно знать перед стартом главного турнира лета</title>
+      <link>https://www.bbc.com/russian/articles/c4g4ywepl41o</link>
+      <description>Главное футбольное событие четырехлетия — чемпионат мира по футболу стартует в ближайший четверг, 11 июня. Турнир продлится больше месяца и завершится 19 июля, когда на стадионе в Ист-Ратерфорде состоится финал. Би-би-си рассказывает, что нужно знать перед стартом чемпионата.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4g4ywepl41o</guid>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Эпоха танков завершается. Как и почему Украина хочет вернуть их на поле боя</title>
       <link>https://www.bbc.com/russian/articles/clypw0wrd55o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/clypw0wrd55o</guid>
-      <pubDate>Mon, 08 Jun 2026 00:11:29 +0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 05:06:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
