@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 09 Jun 2026 04:40:12 +0000</lastBuildDate>
-    <item>
-      <title>Сирота страна моя родная — История Жени Магницкого, который хотел жить-быть, но не получилось</title>
-      <link>https://novayagazeta.ru/articles/2025/10/14/sirota-strana-moia-rodnaia</link>
-      <description>История Жени Магницкого, который хотел жить-быть, но не получилось</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/14/sirota-strana-moia-rodnaia</guid>
-      <pubDate>Tue, 14 Oct 2025 08:29:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Jun 2026 08:22:40 +0000</lastBuildDate>
     <item>
       <title>Россия под медведем — Экспансия животных в города — фейки и реальность, причины и будущее</title>
       <link>https://novayagazeta.ru/articles/2025/10/20/rossiia-pod-medvedem</link>
@@ -287,6 +280,13 @@
       <description>О «совсем пропащих» юношах, загадочных мокрецах, книгах и монолите тюремной цензуры. Тайны тюремных библиотек</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/03/slishkom-opasny-chtoby-ikh-eshche-i-chitat</guid>
       <pubDate>Wed, 03 Jun 2026 08:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Нас покориться никто не заставит» — Письмо с воли Ольги Малышевой и ответ ей из тюрьмы Марии Бонцлер</title>
+      <link>https://novayagazeta.ru/articles/2026/06/09/nas-pokoritsia-nikto-ne-zastavit</link>
+      <description>Письмо с воли Ольги Малышевой и ответ ей из тюрьмы Марии Бонцлер</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/09/nas-pokoritsia-nikto-ne-zastavit</guid>
+      <pubDate>Tue, 09 Jun 2026 08:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
