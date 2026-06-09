@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 09 Jun 2026 11:42:56 +0000</lastBuildDate>
-    <item>
-      <title>Родное пепелище — Почему Россия так сильно горит? Репортаж о природных пожарах, забирающих леса, дома и жизни людей</title>
-      <link>https://novayagazeta.ru/articles/2025/06/05/rodnoe-pepelishche</link>
-      <description>Почему Россия так сильно горит? Репортаж о природных пожарах, забирающих леса, дома и жизни людей</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/06/05/rodnoe-pepelishche</guid>
-      <pubDate>Thu, 05 Jun 2025 07:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Jun 2026 14:57:20 +0000</lastBuildDate>
     <item>
       <title>Ну и что же тут криминального? — В Екатеринбурге силовики с кувалдой устроили обыск в редакции провластного издания</title>
       <link>https://novayagazeta.ru/articles/2025/06/05/nu-i-chto-zhe-tut-kriminalnogo</link>
@@ -287,6 +280,13 @@
       <description>Полиция в Коми отказалась требовать ареста девятилетнего ребенка из-за сломанной фанерной инсталляции к 9 мая</description>
       <guid isPermaLink="true">https://novayagazeta.ru/news/2026/06/04/politsiia-v-komi-otkazalas-trebovat-aresta-deviatiletnego-rebenka-iz-za-slomannoi-fanernoi-installiatsii-k-9-maia-news</guid>
       <pubDate>Thu, 04 Jun 2026 15:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Худший сезон — Крым теряет отдыхающих из-за военных действий и топливного кризиса. Отмена бронирований в Севастополе — 79%</title>
+      <link>https://novayagazeta.ru/articles/2026/06/09/khudshii-sezon</link>
+      <description>Крым теряет отдыхающих из-за военных действий и топливного кризиса. Отмена бронирований в Севастополе — 79%</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/09/khudshii-sezon</guid>
+      <pubDate>Tue, 09 Jun 2026 11:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
