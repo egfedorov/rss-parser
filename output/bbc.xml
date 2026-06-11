@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 11 Jun 2026 16:55:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 19:36:39 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -195,10 +195,17 @@
       <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Бензин по QR-коду, гречка про запас. Как аннексированный Крым переживает блокаду?</title>
+      <link>https://www.bbc.com/russian/articles/cyv07g94pj0o</link>
+      <description>Уже вторую неделю аннексированные Крым и Севастополь переживают острый бензиновый кризис, вызванный атаками ВСУ на транспортный коридор между полуостровом и Краснодарским краем. Люди стоят в очередях по ночам, надеясь купить топливо или ловят момент для получения QR-кода на 20 литров бензина. Проблемы с топливом появились и в Краснодарском крае.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cyv07g94pj0o</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>США и Иран вновь обменялись ударами. Ждать ли сделку, как обещает Трамп? Объясняет иранист Никита Смагин в подкасте «Что это было?»</title>
       <link>https://www.bbc.com/russian/articles/c70y41ll23wo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c70y41ll23wo</guid>
-      <pubDate>Thu, 11 Jun 2026 16:55:39 +0000</pubDate>
+      <pubDate>Thu, 11 Jun 2026 19:36:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
