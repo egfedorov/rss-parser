@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 15 Jun 2026 13:37:28 +0000</lastBuildDate>
-    <item>
-      <title>О чем стучали в ноябре — Более 300 анонимок за минувший месяц написали в чат-бот спецслужб бдительные приморцы</title>
-      <link>https://novayagazeta.ru/articles/2025/12/10/o-chem-stuchali-v-noiabre</link>
-      <description>Более 300 анонимок за минувший месяц написали в чат-бот спецслужб бдительные приморцы</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/10/o-chem-stuchali-v-noiabre</guid>
-      <pubDate>Wed, 10 Dec 2025 15:50:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Jun 2026 18:15:12 +0000</lastBuildDate>
     <item>
       <title>Взяты в крабство — Сахалинский бизнесмен Олег Кан предположительно мертв, но получил еще 24 года тюрьмы за контрабанду и уклонение от таможенных платежей</title>
       <link>https://novayagazeta.ru/articles/2025/12/13/vziaty-v-krabstvo</link>
@@ -287,6 +280,13 @@
       <description>Две с лишним сотни доносов за май написали приморцы в чат-бот в заблокированном телеграме</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/10/stuchat-bot-prodolzhaet-prinimat-anonimki</guid>
       <pubDate>Wed, 10 Jun 2026 08:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Довериться НЕлюдям — Как искусственный интеллект проникает в политику на всех уровнях и в чем проблема нейровластей</title>
+      <link>https://novayagazeta.ru/articles/2026/06/15/doveritsia-neliudiam</link>
+      <description>Как искусственный интеллект проникает в политику на всех уровнях и в чем проблема нейровластей</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/15/doveritsia-neliudiam</guid>
+      <pubDate>Mon, 15 Jun 2026 13:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
