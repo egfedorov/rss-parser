@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 15 Jun 2026 07:23:51 +0000</lastBuildDate>
-    <item>
-      <title>Беременная, историк и смертельно больная — Судебный обзор за октябрь</title>
-      <link>https://novayagazeta.ru/videos/2025/11/18/beremennaia-istorik-i-smertelno-bolnaia</link>
-      <description>Судебный обзор за октябрь</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/videos/2025/11/18/beremennaia-istorik-i-smertelno-bolnaia</guid>
-      <pubDate>Tue, 18 Nov 2025 14:07:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Jun 2026 13:37:20 +0000</lastBuildDate>
     <item>
       <title>Когда достаточно одного клика — От публикаций десятилетней давности до статусов в мессенджере: срок начинается там, где заканчивается здравый смысл</title>
       <link>https://novayagazeta.ru/articles/2025/11/22/kogda-dostatochno-odnogo-klika</link>
@@ -287,6 +280,13 @@
       <description>В суде по «фейковому» делу Максима Круглова защита перешла в наступление. В процессе выступил Григорий Явлинский</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/05/otlozhennyi-donos</guid>
       <pubDate>Fri, 05 Jun 2026 09:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Госизмена с молотком для мяса — От школьника, арестованного перед ЕГЭ, до заключенного, отправленного в камеру из-за отсутствия бирки на куртке — Хроника текущих репрессий</title>
+      <link>https://novayagazeta.ru/articles/2026/06/15/gosizmena-s-molotkom-dlia-miasa</link>
+      <description>От школьника, арестованного перед ЕГЭ, до заключенного, отправленного в камеру из-за отсутствия бирки на куртке — Хроника текущих репрессий</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/15/gosizmena-s-molotkom-dlia-miasa</guid>
+      <pubDate>Mon, 15 Jun 2026 08:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
