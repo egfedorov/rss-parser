@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 17 Jun 2026 07:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:57:57 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -153,25 +153,6 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Но что, если выиграем?!» Журналисты Би-би-си — об ожиданиях от чемпионата мира по футболу в своих странах</title>
-      <link>https://www.bbc.com/russian/articles/c4gylgkygn7o</link>
-      <description>Журналисты Би-би-си рассказывают об ожиданиях от своих стран на ЧМ по футболу</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4gylgkygn7o</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Видео,Чемпионат мира по футболу уже не тот? | Видеоподкаст «Что это было», Продолжительность 36,20</title>
-      <link>https://www.bbc.com/russian/articles/cy04ng1ylkwo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy04ng1ylkwo</guid>
-      <pubDate>Wed, 17 Jun 2026 07:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Видео,Диверсия в Москве: как убили полковника Давыдова? | Видеоподкаст «Что это было», Продолжительность 18,50</title>
-      <link>https://www.bbc.com/russian/articles/czxq52d6lezo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/czxq52d6lezo</guid>
-      <pubDate>Wed, 17 Jun 2026 07:13:34 +0000</pubDate>
-    </item>
-    <item>
       <title>Последняя схватка Месси и Роналду. Кто войдет в историю величайшим футболистом 21 века?</title>
       <link>https://www.bbc.com/russian/articles/c992y80ermeo</link>
       <description>Пара гениев, определивших целую эпоху в истории самой популярной игры на планете, сойдется в последней и решительной схватке за звание величайшего футболиста современности.</description>
@@ -200,6 +181,20 @@
 Ведущий подкаста Русской службы Би-би-си «Что это было» Сева Бойко обсудил эти вопросы с иранистом, автором телеграм-канала «Исламизм от иноагента» Никитой Смагиным. Власти России признали его «иноагентом».</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq61ymj8vzqo</guid>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Соглашение с Ираном положит конец войне Трампа, обнажившей пределы американской мощи</title>
+      <link>https://www.bbc.com/russian/articles/cd6e519202xo</link>
+      <description>Соглашение о прекращении боевых действий и возобновлении судоходства через Ормузский пролив возвращает стороны в положение, в котором они находились за сутки до начала войны — только теперь на счету уже тысячи погибших.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cd6e519202xo</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Лето без бензина. Проблемы с топливом затронули десятки российских регионов</title>
+      <link>https://www.bbc.com/russian/articles/c20yx729vlvo</link>
+      <description>Ограничения на продажу топлива уже затронули по меньшей мере 33 региона России, подсчитала Русская служба Би-би-си. Проблемы начались даже в Москве и сельскохозяйственных регионах, в первую очередь в Краснодарском крае. Ограничения вводят даже крупные компании вроде «Татнефти» и «Лукойла».</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c20yx729vlvo</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
