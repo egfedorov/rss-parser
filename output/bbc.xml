@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 18 Jun 2026 12:55:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 16:36:13 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -153,20 +153,6 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Последняя схватка Месси и Роналду. Кто войдет в историю величайшим футболистом 21 века?</title>
-      <link>https://www.bbc.com/russian/articles/c992y80ermeo</link>
-      <description>Пара гениев, определивших целую эпоху в истории самой популярной игры на планете, сойдется в последней и решительной схватке за звание величайшего футболиста современности.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c992y80ermeo</guid>
-      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Первый погибший 2008 года рождения. Что мы узнали о потерях России в Украине к середине июня</title>
-      <link>https://www.bbc.com/russian/articles/cn0v81er1wwo</link>
-      <description>Би-би-си совместно с «Медиазоной»* и командой волонтёров установила имена 226 055 российских военных, погибших в ходе полномасштабного вторжения в Украину. Больше 200 человек в этом списке — 18-летние юноши.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn0v81er1wwo</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Суперпонедельник» в Люксембурге: что означает открытие первого кластера для вступления Украины в ЕС</title>
       <link>https://www.bbc.com/russian/articles/cvgme1pgpp1o</link>
       <description>15 июня в Люксембурге на конференции Совета ЕС был открыт первый из шести переговорных блоков, или «кластеров», на пути вступления Украины в ЕС.</description>
@@ -201,6 +187,13 @@
       <link>https://www.bbc.com/russian/articles/cz6vdjq4wjwo</link>
       <description>Сергей Флэш утверждает, что эти средства РЭБ легко обнаружить и уничтожить. Но Россия вынуждена их использовать, чтобы остановить украинские дроны.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cz6vdjq4wjwo</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Тегеран называет соглашение с США своей победой. Все ли иранцы считают так же?</title>
+      <link>https://www.bbc.com/russian/articles/c75yd7l5r5do</link>
+      <description>Руководство Ирана пытается представить соглашение с США не как сдачу позиций, а как победу, одержанную в результате сопротивления. Реакция аудитории Персидской службы Би-би-си показывает, что официальную версию властей о победе поддерживают не все.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c75yd7l5r5do</guid>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

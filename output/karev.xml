@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 18 Jun 2026 12:55:50 +0000</lastBuildDate>
-    <item>
-      <title>Когда достаточно одного клика — От публикаций десятилетней давности до статусов в мессенджере: срок начинается там, где заканчивается здравый смысл</title>
-      <link>https://novayagazeta.ru/articles/2025/11/22/kogda-dostatochno-odnogo-klika</link>
-      <description>От публикаций десятилетней давности до статусов в мессенджере: срок начинается там, где заканчивается здравый смысл</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/22/kogda-dostatochno-odnogo-klika</guid>
-      <pubDate>Sat, 22 Nov 2025 07:09:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Jun 2026 16:36:12 +0000</lastBuildDate>
     <item>
       <title>«Прошу, не убивайте меня» — Протоколы — под копирку, реальность — за скобками. Последнее слово москвича Солима Камины и приговор</title>
       <link>https://novayagazeta.ru/articles/2025/11/26/proshu-ne-ubivaite-menia</link>
@@ -287,6 +280,13 @@
       <description>От школьника, арестованного перед ЕГЭ, до заключенного, отправленного в штрафную камеру из-за отсутствия бирки на куртке</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/15/gosizmena-s-molotkom-dlia-miasa</guid>
       <pubDate>Mon, 15 Jun 2026 08:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Несогласие как состав преступления — Прокуратура потребовала 8 лет заключения для зампреда партии «Яблоко» Максима Круглова за «фейки». Но дело само выглядит как фейк</title>
+      <link>https://novayagazeta.ru/articles/2026/06/18/nesoglasie-kak-sostav-prestupleniia</link>
+      <description>Прокуратура потребовала 8 лет заключения для зампреда партии «Яблоко» Максима Круглова за «фейки». Но дело само выглядит как фейк</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/18/nesoglasie-kak-sostav-prestupleniia</guid>
+      <pubDate>Thu, 18 Jun 2026 13:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
