@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 19 Jun 2026 08:17:58 +0000</lastBuildDate>
-    <item>
-      <title>«Прошу, не убивайте меня» — Протоколы — под копирку, реальность — за скобками. Последнее слово москвича Солима Камины и приговор</title>
-      <link>https://novayagazeta.ru/articles/2025/11/26/proshu-ne-ubivaite-menia</link>
-      <description>Протоколы — под копирку, реальность — за скобками. Последнее слово москвича Солима Камины и приговор</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/26/proshu-ne-ubivaite-menia</guid>
-      <pubDate>Wed, 26 Nov 2025 09:02:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Jun 2026 12:26:58 +0000</lastBuildDate>
     <item>
       <title>«Мы доказали, что невиновны». Не признавшие вину фигуранты дела о подрыве Крымского моста получили пожизненные сроки. Суд взыскивает с них 7 миллиардов рублей</title>
       <link>https://novayagazeta.ru/news/2025/11/27/my-dokazali-chto-nevinovny-ne-priznavshie-vinu-figuranty-dela-o-podryve-krymskogo-mosta-poluchili-pozhiznennye-sroki-sud-vzyskivaet-s-nikh-7-milliardov-rublei-news</link>
@@ -287,6 +280,13 @@
       <description>Прокуратура потребовала 8 лет заключения для зампреда партии «Яблоко» Максима Круглова за «фейки». Но дело само выглядит как фейк</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/18/nesoglasie-kak-sostav-prestupleniia</guid>
       <pubDate>Thu, 18 Jun 2026 13:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Забирали силой стихи, рукописи, что я написал» — Осужденный за посты Ричард Роуз получил новое уголовное дело, не успев отбыть прежний срок. Его письмо из СИЗО — о жизни между этапами</title>
+      <link>https://novayagazeta.ru/articles/2026/06/19/zabirali-siloi-stikhi-rukopisi-chto-ia-napisal</link>
+      <description>Осужденный за посты Ричард Роуз получил новое уголовное дело, не успев отбыть прежний срок. Его письмо из СИЗО — о жизни между этапами</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/19/zabirali-siloi-stikhi-rukopisi-chto-ia-napisal</guid>
+      <pubDate>Fri, 19 Jun 2026 09:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
