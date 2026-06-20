@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 20 Jun 2026 17:50:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 19:41:07 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -185,6 +185,13 @@
       <link>https://www.bbc.com/russian/articles/cz9lyeljx85o</link>
       <description>Эксперты предупреждают, что даже с возобновлением судоходства пройдут недели, а то и месяцы, прежде чем мировой рынок энергоносителей вернется к норме после 110 дней самых масштабных перебоев в истории.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cz9lyeljx85o</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Джереми Боуэн: Трампу не избежать вопросов о том, ради чего он начал войну с Ираном</title>
+      <link>https://www.bbc.com/russian/articles/c20yxx32zv8o</link>
+      <description>Война с Ираном, начатая США и Израилем 28 февраля, обернулась стратегическим поражением для обеих стран, пишет международный обозреватель Би-би-си Джереми Боуэн.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c20yxx32zv8o</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
