@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 21 Jun 2026 05:21:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 09:28:15 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -153,10 +153,10 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Тегеран называет соглашение с США своей победой. Все ли иранцы считают так же?</title>
-      <link>https://www.bbc.com/russian/articles/c75yd7l5r5do</link>
-      <description>Руководство Ирана пытается представить соглашение с США не как сдачу позиций, а как победу, одержанную в результате сопротивления. Реакция аудитории Персидской службы Би-би-си показывает, что официальную версию властей о победе поддерживают не все.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c75yd7l5r5do</guid>
+      <title>Как Россия научилась глушить Starlink и готова ли к этому Украина? Интервью с советником министра обороны Украины Сергеем «Флэшем» Бескрестновым</title>
+      <link>https://www.bbc.com/russian/articles/cz6vdjq4wjwo</link>
+      <description>Сергей Флэш утверждает, что эти средства РЭБ легко обнаружить и уничтожить. Но Россия вынуждена их использовать, чтобы остановить украинские дроны.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cz6vdjq4wjwo</guid>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -164,13 +164,6 @@
       <link>https://www.bbc.com/russian/articles/cx2k7pe8w8jo</link>
       <description>В Польше 15 июня застрелили 44-летнего российского художника Семена Скрепецкого (настоящее имя — Роберт Кузовков). Своими сатирическими карикатурами он высмеивал как президента России Владимира Путина и главу Чечни Рамзана Кадырова, так и российскую оппозицию и украинских патриотов, получая за свое творчество угрозы с разных сторон. Его польский адрес был выложен в интернете в открытом доступе — недалеко от своего дома в маленьком городе Бяла-Подляска художник и был убит.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx2k7pe8w8jo</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Как Россия научилась глушить Starlink и готова ли к этому Украина? Интервью с советником министра обороны Украины Сергеем «Флэшем» Бескрестновым</title>
-      <link>https://www.bbc.com/russian/articles/cz6vdjq4wjwo</link>
-      <description>Сергей Флэш утверждает, что эти средства РЭБ легко обнаружить и уничтожить. Но Россия вынуждена их использовать, чтобы остановить украинские дроны.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cz6vdjq4wjwo</guid>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -185,6 +178,13 @@
       <link>https://www.bbc.com/russian/articles/cn8kzmgrgz0o</link>
       <description>В Москве и Московской области в пятницу оказалась закрыты некоторые заправки, в том числе крупнейших сетей «Газпромнефть» и «Роснефть». Очевидцы рассказывают об очередях из десятков машин на открытые заправки. В четверг из-за атаки украинских дронов произошел пожар на Московском нефтеперерабатывающем заводе — от него в значительной степени зависит снабжение Москвы топливом.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn8kzmgrgz0o</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Атака на НПЗ в Москве: как «лучшее ПВО в России» пропустило удар по столице?</title>
+      <link>https://www.bbc.com/russian/articles/c802kn5g40eo</link>
+      <description>Москва, как утверждают многие эксперты, является одним из наиболее защищенных мест в России. К ней стянули большое количество систем противовоздушной обороны. Как украинские дроны смогли преодолеть ПВО столицы России?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c802kn5g40eo</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
