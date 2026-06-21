@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 21 Jun 2026 17:58:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 19:56:35 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -186,6 +186,13 @@
       <description>Москва, как утверждают многие эксперты, является одним из наиболее защищенных мест в России. К ней стянули большое количество систем противовоздушной обороны. Как украинские дроны смогли преодолеть ПВО столицы России?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c802kn5g40eo</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Возвращение Белого орла. Пять последствий отзыва президентом Польши награды у президента Украины</title>
+      <link>https://www.bbc.com/russian/articles/c78ynex6zppo</link>
+      <description>Решение Кароля Навроцкого лишить Владимира Зеленского польского ордена выходит за пределы чисто символического жеста и способно оказать огромное влияние на внутреннюю политику Польши и Украины, а также на межгосударственные отношения в Европе.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c78ynex6zppo</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
