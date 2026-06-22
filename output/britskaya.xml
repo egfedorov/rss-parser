@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 22 Jun 2026 05:35:00 +0000</lastBuildDate>
-    <item>
-      <title>«Все было неправильно» — Как Z-блогеры разругались с чиновниками — и потеряли подписчиков</title>
-      <link>https://novayagazeta.ru/articles/2025/08/20/vse-bylo-nepravilno</link>
-      <description>Как Z-блогеры разругались с чиновниками — и потеряли подписчиков</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/20/vse-bylo-nepravilno</guid>
-      <pubDate>Wed, 20 Aug 2025 09:05:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Jun 2026 11:18:59 +0000</lastBuildDate>
     <item>
       <title>Дронову и не снилось — Каких артистов велят слушать россиянам чиновники, и в какие суммы это обходится бюджету. Ревизия госзакупок</title>
       <link>https://novayagazeta.ru/articles/2025/08/27/dronovu-i-ne-snilos</link>
@@ -287,6 +280,13 @@
       <description>Как срывали маски с палачей: имена доносчиков, из-за которых сжигали женщин, стали известны через 400 лет</description>
       <guid isPermaLink="true">https://novayagazeta.ru/videos/2026/06/17/vechnyi-ogon</guid>
       <pubDate>Wed, 17 Jun 2026 08:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Бабушка, тут куски дома валяются!» — Выходные в Котельниках после атаки дронов</title>
+      <link>https://novayagazeta.ru/articles/2026/06/22/babushka-tut-kuski-doma-valiaiutsia</link>
+      <description>Выходные в Котельниках после атаки дронов</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/22/babushka-tut-kuski-doma-valiaiutsia</guid>
+      <pubDate>Mon, 22 Jun 2026 11:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

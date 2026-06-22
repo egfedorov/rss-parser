@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 22 Jun 2026 05:35:09 +0000</lastBuildDate>
-    <item>
-      <title>Ну и что же тут криминального? — В Екатеринбурге силовики с кувалдой устроили обыск в редакции провластного издания</title>
-      <link>https://novayagazeta.ru/articles/2025/06/05/nu-i-chto-zhe-tut-kriminalnogo</link>
-      <description>В Екатеринбурге силовики с кувалдой устроили обыск в редакции провластного издания</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/06/05/nu-i-chto-zhe-tut-kriminalnogo</guid>
-      <pubDate>Thu, 05 Jun 2025 09:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Вернувшиеся»: как проходили съемки и что говорят солдаты, вернувшиеся с фронта — «Вернувшиеся» — фильм, который меняет взгляд на СВО</title>
-      <link>https://novayagazeta.ru/videos/2025/06/06/vernuvshiesia-kak-prokhodili-semki-i-chto-govoriat-soldaty-vernuvshiesia-s-fronta</link>
-      <description>«Вернувшиеся» — фильм, который меняет взгляд на СВО</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/videos/2025/06/06/vernuvshiesia-kak-prokhodili-semki-i-chto-govoriat-soldaty-vernuvshiesia-s-fronta</guid>
-      <pubDate>Fri, 06 Jun 2025 08:52:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Jun 2026 11:19:11 +0000</lastBuildDate>
     <item>
       <title>Вопрос, который дурно пахнет — Что делать с загрязненным мазутом песком из Анапы? У экологов есть предложение, которое остается неучтенным</title>
       <link>https://novayagazeta.ru/articles/2025/06/17/vopros-kotoryi-durno-pakhnet</link>
@@ -287,6 +273,20 @@
       <description>Крым теряет отдыхающих из-за военных действий и топливного кризиса. Отмена бронирований в Севастополе — 79%</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/09/khudshii-sezon</guid>
       <pubDate>Tue, 09 Jun 2026 11:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Страшно теперь везде» — Репортаж из Крыма об обстрелах, туристах и бензине. Как здесь воспринимают Россию и Украину на пятый год боевых действий</title>
+      <link>https://novayagazeta.ru/articles/2026/06/22/strashno-teper-vezde</link>
+      <description>Репортаж из Крыма об обстрелах, туристах и бензине. Как здесь воспринимают Россию и Украину на пятый год боевых действий</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/22/strashno-teper-vezde</guid>
+      <pubDate>Mon, 22 Jun 2026 09:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Мазут, бензин и пустые пляжи — Каким оказался туристический сезон в России?</title>
+      <link>https://novayagazeta.ru/videos/2026/06/22/mazut-benzin-i-pustye-pliazhi</link>
+      <description>Каким оказался туристический сезон в России?</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/videos/2026/06/22/mazut-benzin-i-pustye-pliazhi</guid>
+      <pubDate>Mon, 22 Jun 2026 09:28:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

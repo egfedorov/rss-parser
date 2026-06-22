@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 22 Jun 2026 05:34:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 11:18:58 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -193,6 +193,12 @@
       <description>По мнению экспертов, более интенсивные матчи, а также достижения в медицине и спортивной науке изменили физиологию игроков из элиты мирового футбола.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cewqgj2xqedo</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Наступил ли перелом в войне России с Украиной?</title>
+      <link>https://www.bbc.com/russian/articles/cg741052087o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cg741052087o</guid>
+      <pubDate>Mon, 22 Jun 2026 11:18:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
