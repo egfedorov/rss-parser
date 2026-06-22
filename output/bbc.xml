@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 22 Jun 2026 00:14:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 05:34:59 +0000</lastBuildDate>
     <item>
       <title>Украинские атаки обрушили экспорт балтийских нефтяных портов вдвое. Как это скажется на российском бюджете?</title>
       <link>https://www.bbc.com/russian/articles/clyj48grdnno</link>
@@ -153,13 +153,6 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Как Россия научилась глушить Starlink и готова ли к этому Украина? Интервью с советником министра обороны Украины Сергеем «Флэшем» Бескрестновым</title>
-      <link>https://www.bbc.com/russian/articles/cz6vdjq4wjwo</link>
-      <description>Сергей Флэш утверждает, что эти средства РЭБ легко обнаружить и уничтожить. Но Россия вынуждена их использовать, чтобы остановить украинские дроны.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cz6vdjq4wjwo</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Давал столько поводов, за которые сейчас убивают людей». Чем известен художник Скрепецкий, застреленный в Польше</title>
       <link>https://www.bbc.com/russian/articles/cx2k7pe8w8jo</link>
       <description>В Польше 15 июня застрелили 44-летнего российского художника Семена Скрепецкого (настоящее имя — Роберт Кузовков). Своими сатирическими карикатурами он высмеивал как президента России Владимира Путина и главу Чечни Рамзана Кадырова, так и российскую оппозицию и украинских патриотов, получая за свое творчество угрозы с разных сторон. Его польский адрес был выложен в интернете в открытом доступе — недалеко от своего дома в маленьком городе Бяла-Подляска художник и был убит.</description>
@@ -192,6 +185,13 @@
       <link>https://www.bbc.com/russian/articles/c78ynex6zppo</link>
       <description>Решение Кароля Навроцкого лишить Владимира Зеленского польского ордена выходит за пределы чисто символического жеста и способно оказать огромное влияние на внутреннюю политику Польши и Украины, а также на межгосударственные отношения в Европе.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c78ynex6zppo</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Быстрее, выше, старше: как изменилось телосложение лучших футболистов планеты за 50 лет</title>
+      <link>https://www.bbc.com/russian/articles/cewqgj2xqedo</link>
+      <description>По мнению экспертов, более интенсивные матчи, а также достижения в медицине и спортивной науке изменили физиологию игроков из элиты мирового футбола.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cewqgj2xqedo</guid>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
