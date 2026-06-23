@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 22 Jun 2026 23:45:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 03:50:42 +0000</lastBuildDate>
     <item>
       <title>Дефицит средств ПВО или обходные маршруты: почему объекты в России постоянно подвергаются ударам ВСУ</title>
       <link>https://www.bbc.com/russian/articles/cg40nz1ln1no</link>
@@ -153,13 +153,6 @@
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Давал столько поводов, за которые сейчас убивают людей». Чем известен художник Скрепецкий, застреленный в Польше</title>
-      <link>https://www.bbc.com/russian/articles/cx2k7pe8w8jo</link>
-      <description>В Польше 15 июня застрелили 44-летнего российского художника Семена Скрепецкого (настоящее имя — Роберт Кузовков). Своими сатирическими карикатурами он высмеивал как президента России Владимира Путина и главу Чечни Рамзана Кадырова, так и российскую оппозицию и украинских патриотов, получая за свое творчество угрозы с разных сторон. Его польский адрес был выложен в интернете в открытом доступе — недалеко от своего дома в маленьком городе Бяла-Подляска художник и был убит.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx2k7pe8w8jo</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ормузский пролив открывается: когда ждать обвала цен на нефть?</title>
       <link>https://www.bbc.com/russian/articles/cz9lyeljx85o</link>
       <description>Эксперты предупреждают, что даже с возобновлением судоходства пройдут недели, а то и месяцы, прежде чем мировой рынок энергоносителей вернется к норме после 110 дней самых масштабных перебоев в истории.</description>
@@ -205,7 +198,7 @@
       <title>Наступил ли перелом в войне России с Украиной?</title>
       <link>https://www.bbc.com/russian/articles/cg741052087o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cg741052087o</guid>
-      <pubDate>Mon, 22 Jun 2026 23:45:41 +0000</pubDate>
+      <pubDate>Tue, 23 Jun 2026 03:50:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
