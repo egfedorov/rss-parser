@@ -3,9 +3,226 @@
   <channel>
     <title>The Insider — Политика</title>
     <link>https://theins.ru/politika</link>
-    <description>RSS-лента с раздела "Политика" сайта The Insider</description>
+    <description>RSS-лента раздела «Политика» сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 15:43:30 +0000</lastBuildDate>
+    <language>ru</language>
+    <lastBuildDate>Wed, 24 Jun 2026 16:10:34 +0000</lastBuildDate>
+    <item>
+      <title>Спуститься с небес на землю: какие варианты сухопутной операции в Иране есть у США и почему все они сложно реализуемы</title>
+      <link>https://theins.ru/politika/291233</link>
+      <guid isPermaLink="false">https://theins.ru/politika/291233</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Судья заявил, что не видит в России никаких угроз». Как антивоенным россиянам отказывают в убежище на Западе и в мире</title>
+      <link>https://theins.ru/politika/290358</link>
+      <guid isPermaLink="false">https://theins.ru/politika/290358</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Мы обманули Путина». Арестованный экс-помощник Фургала Тимофеев о разборках мафии, партнерстве с ФСБ и мести Кремля</title>
+      <link>https://theins.ru/politika/291125</link>
+      <guid isPermaLink="false">https://theins.ru/politika/291125</guid>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Украинский «миддлстрайк». Как ВСУ научились массово бить по целям до 300 км от линии фронта и почему ВС РФ ничего не могут с этим поделать</title>
+      <link>https://theins.ru/politika/290817</link>
+      <guid isPermaLink="false">https://theins.ru/politika/290817</guid>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>На штурм с VPN. Как блокировка Telegram помешала российским военным</title>
+      <link>https://theins.ru/politika/291108</link>
+      <guid isPermaLink="false">https://theins.ru/politika/291108</guid>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Без посредников. Почему Пакистану, Китаю и арабским странам не удается примирить США и Иран</title>
+      <link>https://theins.ru/politika/291137</link>
+      <guid isPermaLink="false">https://theins.ru/politika/291137</guid>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Доказательство от противного. Как Россия и Трамп сплотили Евросоюз, вернув ЕС популярность в обществе</title>
+      <link>https://theins.ru/politika/289504</link>
+      <guid isPermaLink="false">https://theins.ru/politika/289504</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Система сдержек и виселиц: как иранский режим стал таким устойчивым</title>
+      <link>https://theins.ru/politika/291437</link>
+      <guid isPermaLink="false">https://theins.ru/politika/291437</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Великая демографическая трансформация. Почему попытки развитых стран обойтись без мигрантов приводят к стагнации и депопуляции</title>
+      <link>https://theins.ru/politika/290311</link>
+      <guid isPermaLink="false">https://theins.ru/politika/290311</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>В поисках виноватого. Что происходит в американской политике на фоне забуксовавшей операции в Иране</title>
+      <link>https://theins.ru/politika/291628</link>
+      <guid isPermaLink="false">https://theins.ru/politika/291628</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Новороссия для Си: как Китай проникает на Донбасс</title>
+      <link>https://theins.ru/politika/291563</link>
+      <guid isPermaLink="false">https://theins.ru/politika/291563</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дипломатия дронов. Как Украина становится равноправным партнером на Ближнем Востоке и в Африке</title>
+      <link>https://theins.ru/politika/291464</link>
+      <guid isPermaLink="false">https://theins.ru/politika/291464</guid>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MAGA-токсичность. Как фактор Трампа и его прямые попытки вмешательства влияют на выборы по всему миру</title>
+      <link>https://theins.ru/politika/291692</link>
+      <guid isPermaLink="false">https://theins.ru/politika/291692</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Переток влияния. Как операция США против Ирана и блокада пролива привели к усилению Китая, Украины и Турции</title>
+      <link>https://theins.ru/politika/292056</link>
+      <guid isPermaLink="false">https://theins.ru/politika/292056</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Удар ниже тропического пояса: почему России оказалось так сложно закрепиться в Сахеле</title>
+      <link>https://theins.ru/politika/292060</link>
+      <guid isPermaLink="false">https://theins.ru/politika/292060</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Похищение Европой: как Армения стала самой прозападной страной Кавказа</title>
+      <link>https://theins.ru/politika/292356</link>
+      <guid isPermaLink="false">https://theins.ru/politika/292356</guid>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Колониализм по-кремлевски: как африканцев обманом заманивают на фронт</title>
+      <link>https://theins.ru/politika/291983</link>
+      <guid isPermaLink="false">https://theins.ru/politika/291983</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зерно раздора. Как зерновой скандал осложнил отношения между Украиной и Израилем</title>
+      <link>https://theins.ru/politika/292407</link>
+      <guid isPermaLink="false">https://theins.ru/politika/292407</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ухилянтова пята. Как Украина преодолевает кризис комплектования ВСУ</title>
+      <link>https://theins.ru/politika/292361</link>
+      <guid isPermaLink="false">https://theins.ru/politika/292361</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Отцы и сети. Как запрет соцсетей для подростков стал главным политическим оружием против big tech</title>
+      <link>https://theins.ru/politika/292171</link>
+      <guid isPermaLink="false">https://theins.ru/politika/292171</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ХАМАС или Аббас: местные выборы в Палестине показали готовность сторон к компромиссу ради легитимности</title>
+      <link>https://theins.ru/politika/292513</link>
+      <guid isPermaLink="false">https://theins.ru/politika/292513</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дешево, но сердито. Как украинские дроны-перехватчики научились сбивать «Шахеды» и что это значит для войны в Иране</title>
+      <link>https://theins.ru/politika/292499</link>
+      <guid isPermaLink="false">https://theins.ru/politika/292499</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Холодный расчет. Как Китай медленно захватывает российскую Арктику</title>
+      <link>https://theins.ru/politika/292081</link>
+      <guid isPermaLink="false">https://theins.ru/politika/292081</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Подвели Мали. К чему приведут поражения России и Запада в Сахеле</title>
+      <link>https://theins.ru/politika/292802</link>
+      <guid isPermaLink="false">https://theins.ru/politika/292802</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Морская блокада или новый раунд войны. Как Трамп пытается принудить Иран к миру на своих условиях</title>
+      <link>https://theins.ru/politika/292674</link>
+      <guid isPermaLink="false">https://theins.ru/politika/292674</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Додик is back! Как «балканский Трамп» расшатывает Боснию и Герцеговину</title>
+      <link>https://theins.ru/politika/293102</link>
+      <guid isPermaLink="false">https://theins.ru/politika/293102</guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Эрзац оппозиции. Как Эрдоган пытается получить контроль над партией своих противников</title>
+      <link>https://theins.ru/politika/293150</link>
+      <guid isPermaLink="false">https://theins.ru/politika/293150</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Месть за блокаду. Почему российские силовики отлавливают на оккупированных территориях крымских татар</title>
+      <link>https://theins.ru/politika/292944</link>
+      <guid isPermaLink="false">https://theins.ru/politika/292944</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Жизнь в палатках, грязная вода и дефицит лекарств: что происходит в секторе Газа после прекращения огня</title>
+      <link>https://theins.ru/politika/293047</link>
+      <guid isPermaLink="false">https://theins.ru/politika/293047</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Голосование исхода: будущее Нетаньяху определят российские иммигранты</title>
+      <link>https://theins.ru/politika/293021</link>
+      <guid isPermaLink="false">https://theins.ru/politika/293021</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Война роботов: как фронт в Украине превратился в полигон для наземных беспилотников</title>
+      <link>https://theins.ru/politika/293271</link>
+      <guid isPermaLink="false">https://theins.ru/politika/293271</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дело лести. Как Трамп избавляется от нелояльных республиканцев, играя на руку демократам</title>
+      <link>https://theins.ru/politika/293322</link>
+      <guid isPermaLink="false">https://theins.ru/politika/293322</guid>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Второй тур вмешательства: выборы прошли, но давление Москвы на Ереван только начинается</title>
+      <link>https://theins.ru/politika/293476</link>
+      <guid isPermaLink="false">https://theins.ru/politika/293476</guid>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Черные дыры Европы. Как ЕС легализует офшорные лагеря и бесправие для мигрантов</title>
+      <link>https://theins.ru/politika/292097</link>
+      <guid isPermaLink="false">https://theins.ru/politika/292097</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«С нами проводили тренинг по медиаработе». В чем причины конфликта вокруг флотилии с гуманитарной помощью для Газы</title>
+      <link>https://theins.ru/politika/293639</link>
+      <guid isPermaLink="false">https://theins.ru/politika/293639</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дороги смерти: как украинские удары по транспортным коридорам уничтожают военную логистику России</title>
+      <link>https://theins.ru/politika/293937</link>
+      <guid isPermaLink="false">https://theins.ru/politika/293937</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>
