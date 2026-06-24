@@ -1,4 +1,5 @@
-import requests
+import cloudscraper
+import certifi
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 from datetime import datetime, timezone
@@ -24,13 +25,14 @@ def generate():
     URL = 'https://istories.media/stories/'
     OUTPUT_FILE = 'feed_istories.xml'
 
-    headers = {'User-Agent': 'Mozilla/5.0'}
-    resp = requests.get(URL, headers=headers)
+    scraper = cloudscraper.create_scraper(
+        browser={'browser': 'chrome', 'platform': 'darwin', 'mobile': False}
+    )
+    resp = scraper.get(URL, verify=certifi.where())
     resp.raise_for_status()
 
     soup = BeautifulSoup(resp.content, 'html.parser')
 
-    # Устойчивые селекторы — не зависят от хэша в конце класса
     cards = soup.select('div[class*="MaterialCard-module--Wrapper"]')
     if not cards:
         print("⚠️ istories: статьи не найдены.")
@@ -63,3 +65,7 @@ def generate():
 
     fg.rss_file(OUTPUT_FILE)
     print("✅ istories: сгенерирован feed_istories.xml")
+
+
+if __name__ == "__main__":
+    generate()
