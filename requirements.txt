@@ -5,3 +5,4 @@ selenium
 cloudscraper
 python-dateutil
 playwright
+certifi
