@@ -6,3 +6,4 @@ cloudscraper
 python-dateutil
 playwright
 certifi
+playwright-stealth==1.0.6
