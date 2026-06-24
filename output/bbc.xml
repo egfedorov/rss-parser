@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 24 Jun 2026 17:12:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 17:21:59 +0000</lastBuildDate>
     <item>
       <title>«Благоприятные времена». Как РПЦ 30 лет боролась за иконы с Третьяковкой и получила их по приказу Путина</title>
       <link>https://www.bbc.com/russian/articles/c705970j408o</link>
@@ -147,18 +147,11 @@
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Возвращение Белого орла. Пять последствий отзыва президентом Польши награды у президента Украины</title>
-      <link>https://www.bbc.com/russian/articles/c78ynex6zppo</link>
-      <description>Решение Кароля Навроцкого лишить Владимира Зеленского польского ордена выходит за пределы чисто символического жеста и способно оказать огромное влияние на внутреннюю политику Польши и Украины, а также на межгосударственные отношения в Европе.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c78ynex6zppo</guid>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Видео,Новые истребители: перелом войны? | Военное время, Продолжительность 12,20</title>
       <link>https://www.bbc.com/russian/articles/cy73pd6762zo</link>
       <description>Новые истребители ВСУ: что о них известно и как они влияют на ход войны</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy73pd6762zo</guid>
-      <pubDate>Wed, 24 Jun 2026 17:12:03 +0000</pubDate>
+      <pubDate>Wed, 24 Jun 2026 17:21:59 +0000</pubDate>
     </item>
     <item>
       <title>Брексит 10 лет спустя: вернется ли Британия в ЕС?</title>
@@ -186,7 +179,7 @@
       <link>https://www.bbc.com/russian/articles/c30y6lgjj54o</link>
       <description>Три года мятежа Пригожина. Что стало с его империей?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c30y6lgjj54o</guid>
-      <pubDate>Wed, 24 Jun 2026 17:12:03 +0000</pubDate>
+      <pubDate>Wed, 24 Jun 2026 17:21:59 +0000</pubDate>
     </item>
     <item>
       <title>«Долго так не может продолжаться». Как живут без топлива Крым и другие захваченные Россией территории</title>
@@ -194,6 +187,13 @@
       <description>В аннексированных Россией Крыму и Севастополе начался новый виток топливного кризиса — на полуострове приостановлена свободная продажа бензина. Это прямое следствие ударов украинских дронов и частичной блокады полуострова. Некоторые города и районы остаются без стабильного электроснабжения. Еще более острая ситуация — на оккупированных Россией территориях Украины.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cr47edy04gwo</guid>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Гонка за «Золотой бутсой»: кто победит в исторической битве бомбардиров на ЧМ-2026?</title>
+      <link>https://www.bbc.com/russian/articles/cgjxyjv5jv0o</link>
+      <description>Этот чемпионат мира войдет в историю как соревнование бомбардиров-рекордсменов. Пока что лидирует Лионель Месси, забивший пять голов в  двух матчах. Ему в затылок дышат Килиан Мбаппе и Эрлинг Холанд, забившие по четыре гола.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cgjxyjv5jv0o</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
