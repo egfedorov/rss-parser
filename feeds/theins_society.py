@@ -29,8 +29,7 @@ def generate():
     BASE_URL = 'https://theins.ru'
     URL = f'{BASE_URL}/obshestvo'
     OUTPUT_FILE = 'feed_theins_society.xml'
-    
-   headers = {
+       headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
     }
     resp = requests.get(URL, headers=headers, verify=certifi.where())
