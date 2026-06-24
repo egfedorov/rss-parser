@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 24 Jun 2026 22:25:08 +0000</lastBuildDate>
-    <item>
-      <title>Триумф безволия. Во французский кинопрокат вышел фильм о том, как в 2020 году школьник-мусульманин зверски убил своего учителя</title>
-      <link>https://mostmedia.org/ru/posts/triumf-bezvolia-vo-francuzsky-kinoprokat-vyshel-film-o-tom-kak-v-2020-godu-shkolnik-musulmanin-zverski-ubil-svoego-uchitelja</link>
-      <description>Когда появилась информация о будущей картине Венсана Гаренка, сразу подумалось, что речь будет идти о свободе слова, о радикальном исламизме, о страхе в обществе перед ним. Но режиссёр выбрал другой ракурс — это фильм о том, как государство не защищает своего гражданина, который просто выполняет свою работу</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/triumf-bezvolia-vo-francuzsky-kinoprokat-vyshel-film-o-tom-kak-v-2020-godu-shkolnik-musulmanin-zverski-ubil-svoego-uchitelja</guid>
-      <enclosure url="https://mostmedia.org/uploads/files/1/3/1/7/e/1317ea69ec6b556b463a82f60fab7c5a.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Jun 2026 01:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Jun 2026 23:47:22 +0000</lastBuildDate>
     <item>
       <title>От Кишинёва до Еревана. Почему бывшие союзники России выбирают Евросоюз</title>
       <link>https://mostmedia.org/ru/posts/ot-kishineva-do-erevana-pochemu-byvshie-sojuzniki-rossii-vybirajut-evrosojuz</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/dom-kotoryi-strojat-s-kryshi-chto-obshego-u-rossyskoi-oppozicii-v-izgnanii-i-edinoi-rossii</guid>
       <enclosure url="https://mostmedia.org/uploads/files/9/7/6/a/4/976a44b14060afd9a9cfa1f94a1a54ad.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 23 Jun 2026 01:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Русский язык не принадлежит Российской Федерации»</title>
+      <link>https://mostmedia.org/ru/posts/russky-jazyk-ne-prinadlezhit-rossyskoi-federacii</link>
+      <description>Почему русскоязычная переводчица и писательница Карина Папп решила написать свой первый роман не по-русски, а по-немецки</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/russky-jazyk-ne-prinadlezhit-rossyskoi-federacii</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/5/c/5/5/c/5c55cfb3f7a436e2130b69eef238d44e.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 25 Jun 2026 02:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
