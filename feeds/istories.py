@@ -4,8 +4,8 @@ from feedgen.feed import FeedGenerator
 from datetime import datetime, timezone
 from urllib.parse import urljoin
 
+
 def parse_date(date_str):
-    # Пример: "15 июля"
     months = {
         'января': 1, 'февраля': 2, 'марта': 3, 'апреля': 4,
         'мая': 5, 'июня': 6, 'июля': 7, 'августа': 8,
@@ -17,20 +17,21 @@ def parse_date(date_str):
         month = months.get(parts[1].lower(), 1)
         now = datetime.now()
         return datetime(now.year, month, day, tzinfo=timezone.utc)
-    return datetime.now()
+    return datetime.now(timezone.utc)
+
 
 def generate():
     URL = 'https://istories.media/stories/'
     OUTPUT_FILE = 'feed_istories.xml'
-    headers = {
-        'User-Agent': 'Mozilla/5.0',
-    }
 
+    headers = {'User-Agent': 'Mozilla/5.0'}
     resp = requests.get(URL, headers=headers)
     resp.raise_for_status()
+
     soup = BeautifulSoup(resp.content, 'html.parser')
 
-    cards = soup.select('div.MaterialCard-module--Wrapper--pMNOW')
+    # Устойчивые селекторы — не зависят от хэша в конце класса
+    cards = soup.select('div[class*="MaterialCard-module--Wrapper"]')
     if not cards:
         print("⚠️ istories: статьи не найдены.")
         return
@@ -41,9 +42,9 @@ def generate():
     fg.description('Публикации из раздела «Истории» на istories.media')
 
     for card in cards[:20]:
-        title_el = card.select_one('div.MaterialCard-module--Header--vn88g a')
-        summary_el = card.select_one('div.MaterialCard-module--Lead--gopri span')
-        date_el = card.select_one('div.MaterialCard-module--DateContainer--FyTll')
+        title_el = card.select_one('div[class*="MaterialCard-module--Header"] a')
+        summary_el = card.select_one('div[class*="MaterialCard-module--Lead"] span')
+        date_el = card.select_one('div[class*="MaterialCard-module--DateContainer"]')
 
         if not title_el:
             continue
@@ -52,6 +53,7 @@ def generate():
         title = title_el.get_text(strip=True)
         summary = summary_el.get_text(strip=True) if summary_el else ''
         pub_date = parse_date(date_el.get_text(strip=True)) if date_el else datetime.now(timezone.utc)
+
         fe = fg.add_entry()
         fe.id(link)
         fe.title(title)
