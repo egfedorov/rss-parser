@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 25 Jun 2026 22:09:32 +0000</lastBuildDate>
-    <item>
-      <title>От Кишинёва до Еревана. Почему бывшие союзники России выбирают Евросоюз</title>
-      <link>https://mostmedia.org/ru/posts/ot-kishineva-do-erevana-pochemu-byvshie-sojuzniki-rossii-vybirajut-evrosojuz</link>
-      <description>На примере Молдовы и Армении разбираем, почему европейская интеграция становится главным политическим проектом для бывших союзников Москвы</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/ot-kishineva-do-erevana-pochemu-byvshie-sojuzniki-rossii-vybirajut-evrosojuz</guid>
-      <enclosure url="https://mostmedia.org/uploads/files/b/5/5/3/5/b55350b37a99ff35f382d586386fe92b.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 06 Jun 2026 13:11:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Jun 2026 23:47:57 +0000</lastBuildDate>
     <item>
       <title>Плач по камню. Почему демонтаж памятника Булгакову в Киеве возмутил и российских охранителей, и либералов</title>
       <link>https://mostmedia.org/ru/posts/plach-po-kamnju-pochemu-demontazh-pamjatnika-bulgakovu-v-kieve-vozmutil-i-rossyskih-ohraniteley-i-liberalov</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/russky-jazyk-ne-prinadlezhit-rossyskoi-federacii</guid>
       <enclosure url="https://mostmedia.org/uploads/files/5/c/5/5/c/5c55cfb3f7a436e2130b69eef238d44e.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 25 Jun 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Таланты и поклонники. За что современный кинематограф и публика так любят биографические фильмы</title>
+      <link>https://mostmedia.org/ru/posts/talanty-i-poklonniki-za-chto-sovremennyi-kinematograf-i-publika-tak-ljubjat-biograficheskie-filmy</link>
+      <description>Интерес публики к жизни знаменитостей всегда был высок, а в эпоху открытого мира, интернета и соцсетей подскочил еще выше</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/talanty-i-poklonniki-za-chto-sovremennyi-kinematograf-i-publika-tak-ljubjat-biograficheskie-filmy</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/a/d/5/f/1/ad5f101f8781f4f224a5a14602ded49a.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jun 2026 01:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
