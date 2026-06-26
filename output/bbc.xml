@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 26 Jun 2026 15:57:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 17:58:58 +0000</lastBuildDate>
     <item>
       <title>«Благоприятные времена». Как РПЦ 30 лет боролась за иконы с Третьяковкой и получила их по приказу Путина</title>
       <link>https://www.bbc.com/russian/articles/c705970j408o</link>
@@ -141,13 +141,6 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Видео,Новые истребители: перелом войны? | Военное время, Продолжительность 12,20</title>
-      <link>https://www.bbc.com/russian/articles/cy73pd6762zo</link>
-      <description>Новые истребители ВСУ: что о них известно и как они влияют на ход войны</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy73pd6762zo</guid>
-      <pubDate>Fri, 26 Jun 2026 15:57:51 +0000</pubDate>
-    </item>
-    <item>
       <title>Брексит 10 лет спустя: вернется ли Британия в ЕС?</title>
       <link>https://www.bbc.com/russian/articles/cr7xz933013o</link>
       <description>Сейчас почти 60% британцев уверены, что брексит был ошибкой, однако за воссоединение с ЕС на общих условиях выступает решительное меньшинство. А что думает Европа?</description>
@@ -159,7 +152,7 @@
       <link>https://www.bbc.com/russian/articles/c30y6lgjj54o</link>
       <description>Три года мятежа Пригожина. Что стало с его империей?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c30y6lgjj54o</guid>
-      <pubDate>Fri, 26 Jun 2026 15:57:51 +0000</pubDate>
+      <pubDate>Fri, 26 Jun 2026 17:58:58 +0000</pubDate>
     </item>
     <item>
       <title>От «мистера Дарси» до «Мидаса наоборот». Почему ушел Кир Стармер?</title>
@@ -183,10 +176,17 @@
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«За деньги можно получить практически все». На что тратят миллионы супербогатые болельщики на ЧМ по футболу</title>
+      <link>https://www.bbc.com/russian/articles/cpd32xvgd3eo</link>
+      <description>Для очень богатых болельщиков деньги не важны — они платят за эксклюзивность, приватность и роскошь.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cpd32xvgd3eo</guid>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Как-то так вышло, что штурмовики нужнее». Как российские студенты идут в беспилотные войска и погибают</title>
       <link>https://www.bbc.com/russian/articles/cdxd293plr5o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cdxd293plr5o</guid>
-      <pubDate>Fri, 26 Jun 2026 15:57:51 +0000</pubDate>
+      <pubDate>Fri, 26 Jun 2026 17:58:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
