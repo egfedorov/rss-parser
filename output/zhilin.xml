@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 27 Jun 2026 08:15:54 +0000</lastBuildDate>
-    <item>
-      <title>Вопрос, который дурно пахнет — Что делать с загрязненным мазутом песком из Анапы? У экологов есть предложение, которое остается неучтенным</title>
-      <link>https://novayagazeta.ru/articles/2025/06/17/vopros-kotoryi-durno-pakhnet</link>
-      <description>Что делать с загрязненным мазутом песком из Анапы? У экологов есть предложение, которое остается неучтенным</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/06/17/vopros-kotoryi-durno-pakhnet</guid>
-      <pubDate>Tue, 17 Jun 2025 07:16:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Jun 2026 10:28:00 +0000</lastBuildDate>
     <item>
       <title>Очень крупный трофей — Красную книгу России будут вести лоббисты охоты. Какие животные — и не только животные — теперь под угрозой?</title>
       <link>https://novayagazeta.ru/articles/2025/06/27/ochen-krupnyi-trofei</link>
@@ -287,6 +280,13 @@
       <description>Каким оказался туристический сезон в России?</description>
       <guid isPermaLink="true">https://novayagazeta.ru/videos/2026/06/22/mazut-benzin-i-pustye-pliazhi</guid>
       <pubDate>Mon, 22 Jun 2026 09:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Слезаем с нефтяной иглы — В стране, которую не так давно называли «страной-бензоколонкой», кончается бензин. Что творится на заправках и как россияне реагируют на кризис от Белгорода до Владивостока</title>
+      <link>https://novayagazeta.ru/articles/2026/06/27/slezaem-s-neftianoi-igly</link>
+      <description>В стране, которую не так давно называли «страной-бензоколонкой», кончается бензин. Что творится на заправках и как россияне реагируют на кризис от Белгорода до Владивостока</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/27/slezaem-s-neftianoi-igly</guid>
+      <pubDate>Sat, 27 Jun 2026 08:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 27 Jun 2026 08:15:49 +0000</lastBuildDate>
-    <item>
-      <title>«Должен понести наказание! Он критикует власть!» — 20 марта решится судьба еще одного петербуржца, преследуемого по политической статье — за «фейки» о российской армии</title>
-      <link>https://novayagazeta.ru/articles/2024/03/19/dolzhen-ponesti-nakazanie-on-kritikuet-vlast</link>
-      <description>20 марта решится судьба еще одного петербуржца, преследуемого по политической статье — за «фейки» о российской армии</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/03/19/dolzhen-ponesti-nakazanie-on-kritikuet-vlast</guid>
-      <pubDate>Tue, 19 Mar 2024 13:08:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Jun 2026 10:27:55 +0000</lastBuildDate>
     <item>
       <title>«Иногда стоит верить» — Приговоренный к трем годам колонии Всеволод Королев должен выйти на свободу через 138 дней. Но прокуратура может обжаловать вердикт</title>
       <link>https://novayagazeta.ru/articles/2024/03/21/inogda-stoit-verit</link>
@@ -287,6 +280,13 @@
       <description>Собкоры «Новой» провели ежемесячный замер стоимости продуктов и товаров первой необходимости</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/05/06/dorogo-i-nebogato</guid>
       <pubDate>Wed, 06 May 2026 07:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Слезаем с нефтяной иглы — В стране, которую не так давно называли «страной-бензоколонкой», кончается бензин. Что творится на заправках и как россияне реагируют на кризис от Белгорода до Владивостока</title>
+      <link>https://novayagazeta.ru/articles/2026/06/27/slezaem-s-neftianoi-igly</link>
+      <description>В стране, которую не так давно называли «страной-бензоколонкой», кончается бензин. Что творится на заправках и как россияне реагируют на кризис от Белгорода до Владивостока</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/27/slezaem-s-neftianoi-igly</guid>
+      <pubDate>Sat, 27 Jun 2026 08:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
