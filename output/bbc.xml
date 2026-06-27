@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 27 Jun 2026 01:25:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 05:37:18 +0000</lastBuildDate>
     <item>
       <title>«Благоприятные времена». Как РПЦ 30 лет боролась за иконы с Третьяковкой и получила их по приказу Путина</title>
       <link>https://www.bbc.com/russian/articles/c705970j408o</link>
@@ -141,20 +141,6 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Брексит 10 лет спустя: вернется ли Британия в ЕС?</title>
-      <link>https://www.bbc.com/russian/articles/cr7xz933013o</link>
-      <description>Сейчас почти 60% британцев уверены, что брексит был ошибкой, однако за воссоединение с ЕС на общих условиях выступает решительное меньшинство. А что думает Европа?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cr7xz933013o</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Видео,Три года мятежа Пригожина. Что стало с его империей? | Видеоподкаст «Что это было?», Продолжительность 28,09</title>
-      <link>https://www.bbc.com/russian/articles/c30y6lgjj54o</link>
-      <description>Три года мятежа Пригожина. Что стало с его империей?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c30y6lgjj54o</guid>
-      <pubDate>Sat, 27 Jun 2026 01:25:03 +0000</pubDate>
-    </item>
-    <item>
       <title>От «мистера Дарси» до «Мидаса наоборот». Почему ушел Кир Стармер?</title>
       <link>https://www.bbc.com/russian/articles/ckg4j1gl457o</link>
       <description>Два года назад Кир Стармер во главе Лейбористской партии праздновал ее триумфальное возвращение к власти после 14 лет в оппозиции. Лишь двум его предшественникам удавалось привести лейбористов к победе с трехзначным парламентским большинством, но в результате Стармер войдет в историю своей партии как премьер с самым коротким сроком пребывания в должности среди лейбористов. Его коллегам-консерваторам, возглавлявшим правительство до него, это знакомо: за пять лет в Британии сменилось четыре премьер-министра.</description>
@@ -183,6 +169,20 @@
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Суперджет» могут не успеть сертифицировать в 2026 году</title>
+      <link>https://www.bbc.com/russian/articles/cz6vngln340o</link>
+      <description>Сертификация новой версии авиалайнера «Суперджет» запланирована на конец 2026 года — первый квартал 2027 года, сообщил журналистам глава Минпромторга Антон Алиханов. Ранее в заявлениях должностных лиц фигурировали различные прогнозы, но они не выходили за рамки 2026 года.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cz6vngln340o</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Видео,Ссора Варшавы и Киева: украинцам теперь не рады в Польше? | Видеоподкаст «Что это было?», Продолжительность 39,23</title>
+      <link>https://www.bbc.com/russian/articles/cly7143e3l7o</link>
+      <description>Ссора Варшавы и Киева: украинцам теперь не рады в Польше?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly7143e3l7o</guid>
+      <pubDate>Sat, 27 Jun 2026 05:37:18 +0000</pubDate>
+    </item>
+    <item>
       <title>«Как-то так вышло, что штурмовики нужнее». Как российские студенты идут в беспилотные войска и погибают</title>
       <link>https://www.bbc.com/russian/articles/cdxd293plr5o</link>
       <description>Би-би-си рассказывает о трех студентах, которые поверили агитации Минобороны о войсках БПЛА и погибли всего через несколько месяцев после подписания контракта.</description>
@@ -193,7 +193,7 @@
       <title>Что известно о потерях России в Украине к концу июня?</title>
       <link>https://www.bbc.com/russian/articles/c70yjz9r0x9o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c70yjz9r0x9o</guid>
-      <pubDate>Sat, 27 Jun 2026 01:25:03 +0000</pubDate>
+      <pubDate>Sat, 27 Jun 2026 05:37:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
