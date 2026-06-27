@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 26 Jun 2026 23:09:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 01:25:03 +0000</lastBuildDate>
     <item>
       <title>«Благоприятные времена». Как РПЦ 30 лет боролась за иконы с Третьяковкой и получила их по приказу Путина</title>
       <link>https://www.bbc.com/russian/articles/c705970j408o</link>
@@ -152,7 +152,7 @@
       <link>https://www.bbc.com/russian/articles/c30y6lgjj54o</link>
       <description>Три года мятежа Пригожина. Что стало с его империей?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c30y6lgjj54o</guid>
-      <pubDate>Fri, 26 Jun 2026 23:09:04 +0000</pubDate>
+      <pubDate>Sat, 27 Jun 2026 01:25:03 +0000</pubDate>
     </item>
     <item>
       <title>От «мистера Дарси» до «Мидаса наоборот». Почему ушел Кир Стармер?</title>
@@ -185,8 +185,15 @@
     <item>
       <title>«Как-то так вышло, что штурмовики нужнее». Как российские студенты идут в беспилотные войска и погибают</title>
       <link>https://www.bbc.com/russian/articles/cdxd293plr5o</link>
+      <description>Би-би-си рассказывает о трех студентах, которые поверили агитации Минобороны о войсках БПЛА и погибли всего через несколько месяцев после подписания контракта.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cdxd293plr5o</guid>
-      <pubDate>Fri, 26 Jun 2026 23:09:03 +0000</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Что известно о потерях России в Украине к концу июня?</title>
+      <link>https://www.bbc.com/russian/articles/c70yjz9r0x9o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c70yjz9r0x9o</guid>
+      <pubDate>Sat, 27 Jun 2026 01:25:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
