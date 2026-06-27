@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 27 Jun 2026 05:37:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 08:15:45 +0000</lastBuildDate>
     <item>
       <title>«Благоприятные времена». Как РПЦ 30 лет боролась за иконы с Третьяковкой и получила их по приказу Путина</title>
       <link>https://www.bbc.com/russian/articles/c705970j408o</link>
@@ -141,16 +141,8 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>От «мистера Дарси» до «Мидаса наоборот». Почему ушел Кир Стармер?</title>
-      <link>https://www.bbc.com/russian/articles/ckg4j1gl457o</link>
-      <description>Два года назад Кир Стармер во главе Лейбористской партии праздновал ее триумфальное возвращение к власти после 14 лет в оппозиции. Лишь двум его предшественникам удавалось привести лейбористов к победе с трехзначным парламентским большинством, но в результате Стармер войдет в историю своей партии как премьер с самым коротким сроком пребывания в должности среди лейбористов. Его коллегам-консерваторам, возглавлявшим правительство до него, это знакомо: за пять лет в Британии сменилось четыре премьер-министра.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckg4j1gl457o</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Долго так не может продолжаться». Как живут без топлива Крым и другие захваченные Россией территории</title>
       <link>https://www.bbc.com/russian/articles/cr47edy04gwo</link>
-      <description>В аннексированных Россией Крыму и Севастополе начался новый виток топливного кризиса — на полуострове приостановлена свободная продажа бензина. Это прямое следствие ударов украинских дронов и частичной блокады полуострова. Некоторые города и районы остаются без стабильного электроснабжения. Еще более острая ситуация — на оккупированных Россией территориях Украины.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cr47edy04gwo</guid>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
     </item>
@@ -159,13 +151,6 @@
       <link>https://www.bbc.com/russian/articles/ckg020lv80qo</link>
       <description>Помощь ЕС и МВФ обставлена условиями реформ в Украине. Многие из них будут болезненны для граждан.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckg020lv80qo</guid>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«За деньги можно получить практически все». На что тратят миллионы супербогатые болельщики на ЧМ по футболу</title>
-      <link>https://www.bbc.com/russian/articles/cpd32xvgd3eo</link>
-      <description>Для очень богатых болельщиков деньги не важны — они платят за эксклюзивность, приватность и роскошь.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cpd32xvgd3eo</guid>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -180,7 +165,7 @@
       <link>https://www.bbc.com/russian/articles/cly7143e3l7o</link>
       <description>Ссора Варшавы и Киева: украинцам теперь не рады в Польше?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly7143e3l7o</guid>
-      <pubDate>Sat, 27 Jun 2026 05:37:18 +0000</pubDate>
+      <pubDate>Sat, 27 Jun 2026 08:15:45 +0000</pubDate>
     </item>
     <item>
       <title>«Как-то так вышло, что штурмовики нужнее». Как российские студенты идут в беспилотные войска и погибают</title>
@@ -192,8 +177,10 @@
     <item>
       <title>Что известно о потерях России в Украине к концу июня?</title>
       <link>https://www.bbc.com/russian/articles/c70yjz9r0x9o</link>
+      <description>Би-би-си совместно с «Медиазоной»* и командой волонтеров установила имена 229 254 российских военных, погибших с начала полномасштабного вторжения в Украину. 56% всех погибших составляют люди, имевшие гражданские профессии и подписавшие контракт с российской армией только после начала войны.
+Реальное число погибших выше: поименный список основан только на публично доступных данных.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c70yjz9r0x9o</guid>
-      <pubDate>Sat, 27 Jun 2026 05:37:18 +0000</pubDate>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
