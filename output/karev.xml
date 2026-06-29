@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 29 Jun 2026 12:01:19 +0000</lastBuildDate>
-    <item>
-      <title>Шпиономания общего режима — От переписки и донатов до ученых, подростков и мемов</title>
-      <link>https://novayagazeta.ru/articles/2025/12/06/shpionomaniia-obshchego-rezhima</link>
-      <description>От переписки и донатов до ученых, подростков и мемов</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/06/shpionomaniia-obshchego-rezhima</guid>
-      <pubDate>Sat, 06 Dec 2025 07:16:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Jun 2026 16:13:47 +0000</lastBuildDate>
     <item>
       <title>Пусть никогда не будет солнца — Как стихи Маяковского, детские песни, старые картинки и приступ астмы превращаются в повод для ареста</title>
       <link>https://novayagazeta.ru/articles/2025/12/19/pust-nikogda-ne-budet-solntsa</link>
@@ -287,6 +280,13 @@
       <description>В самарской колонии травят саксофониста Андрея Шабанова</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/29/rasprava-pod-dzhaz</guid>
       <pubDate>Mon, 29 Jun 2026 07:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Саксофониста Андрея Шабанова, отбывающего шестилетний срок в ИК-10 Самарской области, водворили в ШИЗО на пять суток</title>
+      <link>https://novayagazeta.ru/news/2026/06/29/saksofonista-andreia-shabanova-otbyvaiushchego-shestiletnii-srok-v-ik-10-samarskoi-oblasti-vodvorili-v-shizo-na-piat-sutok-news</link>
+      <description>Саксофониста Андрея Шабанова, отбывающего шестилетний срок в ИК-10 Самарской области, водворили в ШИЗО на пять суток</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/news/2026/06/29/saksofonista-andreia-shabanova-otbyvaiushchego-shestiletnii-srok-v-ik-10-samarskoi-oblasti-vodvorili-v-shizo-na-piat-sutok-news</guid>
+      <pubDate>Mon, 29 Jun 2026 12:31:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
