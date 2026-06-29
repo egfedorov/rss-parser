@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 29 Jun 2026 06:51:43 +0000</lastBuildDate>
-    <item>
-      <title>Капитан неочевидность — Экс-полицейского повторно осудили на 7 лет за случайно записанный личный телефонный разговор про СВО, дело слушали три года</title>
-      <link>https://novayagazeta.ru/articles/2025/12/05/kapitan-neochevidnost</link>
-      <description>Экс-полицейского повторно осудили на 7 лет за случайно записанный личный телефонный разговор про СВО, дело слушали три года</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/05/kapitan-neochevidnost</guid>
-      <pubDate>Fri, 05 Dec 2025 10:36:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Jun 2026 12:01:19 +0000</lastBuildDate>
     <item>
       <title>Шпиономания общего режима — От переписки и донатов до ученых, подростков и мемов</title>
       <link>https://novayagazeta.ru/articles/2025/12/06/shpionomaniia-obshchego-rezhima</link>
@@ -287,6 +280,13 @@
       <description>Публикуем последнее слово зампреда партии «Яблоко» Максима Круглова. Его приговорили к семи годам по «фейковой» статье</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/24/nelzia-obiavliat-nesoglasie-prestupleniem</guid>
       <pubDate>Wed, 24 Jun 2026 14:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Расправа под джаз — В самарской колонии травят саксофониста Андрея Шабанова</title>
+      <link>https://novayagazeta.ru/articles/2026/06/29/rasprava-pod-dzhaz</link>
+      <description>В самарской колонии травят саксофониста Андрея Шабанова</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/29/rasprava-pod-dzhaz</guid>
+      <pubDate>Mon, 29 Jun 2026 07:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
