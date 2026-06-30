@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 30 Jun 2026 05:53:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 09:42:02 +0000</lastBuildDate>
     <item>
       <title>Итоги выборов в Венгрии: Орбан проиграл, орбанизм — нет</title>
       <link>https://www.bbc.com/russian/articles/cqxll0dx7gyo</link>
@@ -135,12 +135,6 @@
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Штурма в кредит». Чем отличается фронт в отчетах российского Генштаба от реальности</title>
-      <link>https://www.bbc.com/russian/articles/c4gyw21r4lno</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4gyw21r4lno</guid>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Буддист и Мефисто: куда война и репрессии завели режиссеров Кирилла Серебренникова и Константина Богомолова</title>
       <link>https://www.bbc.com/russian/articles/c39y7vypzl8o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c39y7vypzl8o</guid>
@@ -165,7 +159,7 @@
       <link>https://www.bbc.com/russian/articles/cly7143e3l7o</link>
       <description>Ссора Варшавы и Киева: украинцам теперь не рады в Польше?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly7143e3l7o</guid>
-      <pubDate>Tue, 30 Jun 2026 05:53:25 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 09:42:02 +0000</pubDate>
     </item>
     <item>
       <title>К чему может привести бензиновый кризис в России? Рассылка «Контекст»</title>
@@ -181,6 +175,12 @@
 Реальное число погибших выше: поименный список основан только на публично доступных данных.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c70yjz9r0x9o</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Штурма в кредит». Чем отличается фронт в отчетах российского Генштаба от реальности</title>
+      <link>https://www.bbc.com/russian/articles/c4gyw21r4lno</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4gyw21r4lno</guid>
+      <pubDate>Tue, 30 Jun 2026 09:42:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
