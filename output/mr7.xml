@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 01 Jul 2026 08:52:17 +0000</lastBuildDate>
-    <item>
-      <title>Коммунисты собрались на площади Ленина, «Трудовая Россия» и профсоюзы — у Северной верфи: коммунисты в Петербурге отмечают 1 мая</title>
-      <link>https://mr-7.ru/articles/2026/05/01/kprf-sobralis-na-ploshchadi-lenina-trudovaia-rossiia-i-profsoiuzy-u-severnoi-verfi-kommunisty-v-peterburge-otmechaiut-1-maia-news</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/05/01/kprf-sobralis-na-ploshchadi-lenina-trudovaia-rossiia-i-profsoiuzy-u-severnoi-verfi-kommunisty-v-peterburge-otmechaiut-1-maia-news</guid>
-      <enclosure url="https://mr-7.ru/static/records/0910f0a1a8d541469cfcdd5aca09e8da.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 01 May 2026 11:01:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Jul 2026 12:10:24 +0000</lastBuildDate>
     <item>
       <title>Археолог Бутягин намерен продолжать раскопки в Крыму, но ездить за рубеж пока не намерен ‎</title>
       <link>https://mr-7.ru/articles/2026/05/04/arkheolog-butiagin-nameren-prodolzhat-raskopki-v-krymu-no-ezdit-za-rubezh-poka-ne-nameren</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/06/28/tantsevali-u-isaakiia-dreifovali-vdol-zagrazhdenii-i-poslushali-saliut-kakim-byli-alye-parusa-2026-dlia-tekh-kogo-ne-pozvali</guid>
       <enclosure url="https://mr-7.ru/static/records/d53ad6c270c84bf8a447a84f5f0c0be2.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 28 Jun 2026 09:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Последняя электричка в Волховстрой «сбежала» с Московского вокзала — из-за строительства ВСМ его закрывают для пригородных поездов</title>
+      <link>https://mr-7.ru/articles/2026/07/01/posledniaia-elektrichka-v-volkhovstroi-sbezhala-s-moskovskogo-vokzala-iz-za-stroitelstva-vsm-ego-zakryvaiut-dlia-prigorodnykh-poezdov</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/01/posledniaia-elektrichka-v-volkhovstroi-sbezhala-s-moskovskogo-vokzala-iz-za-stroitelstva-vsm-ego-zakryvaiut-dlia-prigorodnykh-poezdov</guid>
+      <enclosure url="https://mr-7.ru/static/records/f52504ad140248089557844814c2ee3a.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 01 Jul 2026 10:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
