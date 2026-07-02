@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 02 Jul 2026 07:54:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 10:43:19 +0000</lastBuildDate>
     <item>
       <title>«Где я родился, там должен умереть». Кто такой Андрей Акузин, покончивший с собой в тюрьме</title>
       <link>https://www.bbc.com/russian/articles/c3r3ene59n3o</link>
@@ -135,19 +135,6 @@
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Дефицит на колесах: как бензиновый кризис докатился до Дальнего Востока</title>
-      <link>https://www.bbc.com/russian/articles/cddln976j76o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cddln976j76o</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Суперджет» могут не успеть сертифицировать в 2026 году</title>
-      <link>https://www.bbc.com/russian/articles/cz6vngln340o</link>
-      <description>Сертификация новой версии авиалайнера «Суперджет» запланирована на конец 2026 года — первый квартал 2027 года, сообщил журналистам глава Минпромторга Антон Алиханов. Ранее в заявлениях должностных лиц фигурировали различные прогнозы, но они не выходили за рамки 2026 года.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cz6vngln340o</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>К чему может привести бензиновый кризис в России? Рассылка «Контекст»</title>
       <link>https://www.bbc.com/russian/articles/c3vynql04d5o</link>
       <description>В последние недели главная тема в России — это ползущий по стране бензиновый кризис. В регионах вводят все новые и новые ограничения на продажу бензина и дизеля. Это все больше влияет на жизнь россиян, и ситуация вряд ли станет как-то лучше в ближайшие месяцы. В этом выпуске рассылки Би-би-си рассказываем о возможных последствиях бензинового кризиса.</description>
@@ -166,7 +153,7 @@
       <title>Видео,Почему арестовали Лунина, грозившего Путину мятежом? | Видеоподкаст «Что это было?», Продолжительность 30,01</title>
       <link>https://www.bbc.com/russian/articles/czx517qxqrgo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/czx517qxqrgo</guid>
-      <pubDate>Thu, 02 Jul 2026 07:54:28 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 10:43:19 +0000</pubDate>
     </item>
     <item>
       <title>«Штурма в кредит». Чем отличается фронт в отчетах российского Генштаба от реальности</title>
@@ -183,10 +170,18 @@
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Дефицит на колесах: как бензиновый кризис докатился до Дальнего Востока</title>
+      <link>https://www.bbc.com/russian/articles/cddln976j76o</link>
+      <description>На фоне продолжающихся украинских атак на нефтяную инфраструктуру России перебои с топливом за последний месяц затронули почти всю страну. Би-би-си поговорила с жителями Дальнего Востока о том, как поиск бензина превратился в ежедневную проблему.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cddln976j76o</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Буддист и Мефисто: куда война и репрессии завели режиссеров Кирилла Серебренникова и Константина Богомолова</title>
       <link>https://www.bbc.com/russian/articles/c39y7vypzl8o</link>
+      <description>Почти 20 лет Серебренников и Богомолов считались главными представителями нового российского театра — и их в равной мере любили и оппозиционеры, и чиновники из администрации президента. Би-би-си рассказывает, как изменились жизнь и творчество двух режиссеров и почему их пути разошлись.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c39y7vypzl8o</guid>
-      <pubDate>Thu, 02 Jul 2026 07:54:28 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
