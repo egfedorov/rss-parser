@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 02 Jul 2026 10:43:30 +0000</lastBuildDate>
-    <item>
-      <title>По уголовному делу обвиняемого в «фейках об армии» Егора Гуляева назначили судебную экспертизу</title>
-      <link>https://mr-7.ru/articles/2026/05/07/po-ugolovnomu-delu-obviniaemogo-v-feikakh-ob-armii-egora-guliaeva-naznachili-sudebnuiu-ekspertizu</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/05/07/po-ugolovnomu-delu-obviniaemogo-v-feikakh-ob-armii-egora-guliaeva-naznachili-sudebnuiu-ekspertizu</guid>
-      <enclosure url="https://mr-7.ru/static/records/efe4e0522d544862bddc6bbd8f56945f.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 07 May 2026 09:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2026 12:59:50 +0000</lastBuildDate>
     <item>
       <title>7 поводов выйти из дома 9 — 11 мая</title>
       <link>https://mr-7.ru/articles/2026/05/08/7-povodov-vyiti-iz-doma-9-11-maia</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/02/eto-tozhe-peterburg-okrestnosti-prospekta-slavy</guid>
       <enclosure url="https://mr-7.ru/static/records/f5bc9ce8807f4cada4981015389375cf.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 02 Jul 2026 09:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Следователя, жену и отца обвиняемого в «фейках об армии» Егора Гуляева допросили в суде</title>
+      <link>https://mr-7.ru/articles/2026/07/02/sledovatelia-zhenu-i-ottsa-obviniaemogo-v-feikakh-ob-armii-egora-guliaeva-doprosili-v-sude</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/02/sledovatelia-zhenu-i-ottsa-obviniaemogo-v-feikakh-ob-armii-egora-guliaeva-doprosili-v-sude</guid>
+      <enclosure url="https://mr-7.ru/static/records/d3cb6d136dc14b6b85727f08fb5ade62.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jul 2026 11:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
