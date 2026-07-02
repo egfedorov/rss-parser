@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 02 Jul 2026 04:34:06 +0000</lastBuildDate>
-    <item>
-      <title>Очень крупный трофей — Красную книгу России будут вести лоббисты охоты. Какие животные — и не только животные — теперь под угрозой?</title>
-      <link>https://novayagazeta.ru/articles/2025/06/27/ochen-krupnyi-trofei</link>
-      <description>Красную книгу России будут вести лоббисты охоты. Какие животные — и не только животные — теперь под угрозой?</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/06/27/ochen-krupnyi-trofei</guid>
-      <pubDate>Fri, 27 Jun 2025 10:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2026 07:54:39 +0000</lastBuildDate>
     <item>
       <title>«Командиры говорили, что нас с цветами будут встречать» — История Артема с позывным Z, который плохо относится к пропаганде и знает, за что воевал сам</title>
       <link>https://novayagazeta.ru/articles/2025/07/07/komandiry-govorili-chto-nas-s-tsvetami-budut-vstrechat</link>
@@ -287,6 +280,13 @@
       <description>В стране, которую не так давно называли «страной-бензоколонкой», кончается бензин. Что творится на заправках и как россияне реагируют на кризис от Белгорода до Владивостока</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/27/slezaem-s-neftianoi-igly</guid>
       <pubDate>Sat, 27 Jun 2026 08:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Сашка две недели в землянке лежал — он себе пальцы отрезал» — Что происходит с ранеными на поле боя. Рассказывают участники боевых действий</title>
+      <link>https://novayagazeta.ru/articles/2026/07/01/sashka-dve-nedeli-v-zemlianke-lezhal-on-sebe-paltsy-otrezal</link>
+      <description>Что происходит с ранеными на поле боя. Рассказывают участники боевых действий</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/07/01/sashka-dve-nedeli-v-zemlianke-lezhal-on-sebe-paltsy-otrezal</guid>
+      <pubDate>Thu, 02 Jul 2026 07:36:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
