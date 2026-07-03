@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 03 Jul 2026 12:29:46 +0000</lastBuildDate>
-    <item>
-      <title>7 поводов выйти из дома 9 — 11 мая</title>
-      <link>https://mr-7.ru/articles/2026/05/08/7-povodov-vyiti-iz-doma-9-11-maia</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/05/08/7-povodov-vyiti-iz-doma-9-11-maia</guid>
-      <enclosure url="https://mr-7.ru/static/records/de65bb1b1cdc45b0b927982894e3af3d.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 08 May 2026 11:34:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Jul 2026 14:56:41 +0000</lastBuildDate>
     <item>
       <title>В Петербурге прошёл парад Победы на Дворцовой площади</title>
       <link>https://mr-7.ru/articles/2026/05/09/v-peterburge-proshel-parad-pobedy-na-dvortsovoi-ploshchadi</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/03/i-snova-uplotnitelnaia-zastroika-pochemu-zhiteli-domov-na-gavrskoi-raiona-protiv-blagoustroistva-ikh-kvartala</guid>
       <enclosure url="https://mr-7.ru/static/records/38fd301fcbb248c0a0d74cf694a1549a.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 03 Jul 2026 11:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 поводов выйти из дома 4 — 5 июля</title>
+      <link>https://mr-7.ru/articles/2026/07/03/7-povodov-vyiti-iz-doma-4-5-iiulia</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/03/7-povodov-vyiti-iz-doma-4-5-iiulia</guid>
+      <enclosure url="https://mr-7.ru/static/records/5fbf4ae3b3a546d9b2c76bd96a10ed26.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 03 Jul 2026 12:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
