@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 03 Jul 2026 10:38:49 +0000</lastBuildDate>
-    <item>
-      <title>Украинский «миддлстрайк». Как ВСУ научились массово бить по целям до 300 км от линии фронта и почему ВС РФ ничего не могут с этим поделать</title>
-      <link>https://theins.ru/politika/290817</link>
-      <guid isPermaLink="false">https://theins.ru/politika/290817</guid>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Jul 2026 12:29:35 +0000</lastBuildDate>
     <item>
       <title>На штурм с VPN. Как блокировка Telegram помешала российским военным</title>
       <link>https://theins.ru/politika/291108</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/politika/294051</link>
       <guid isPermaLink="false">https://theins.ru/politika/294051</guid>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вперед к победе капитализма. Как Куба стремительно демонтирует наследие Фиделя Кастро</title>
+      <link>https://theins.ru/politika/294340</link>
+      <guid isPermaLink="false">https://theins.ru/politika/294340</guid>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
