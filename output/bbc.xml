@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 05 Jul 2026 08:20:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 10:50:03 +0000</lastBuildDate>
     <item>
       <title>Нефтяной дождь и черное небо. Как живет Туапсе, где третий день горит нефть в порту</title>
       <link>https://www.bbc.com/russian/articles/cpwjgk0g58po</link>
@@ -129,17 +129,16 @@
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Штурма в кредит». Чем отличается фронт в отчетах российского Генштаба от реальности</title>
+      <link>https://www.bbc.com/russian/articles/c4gyw21r4lno</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4gyw21r4lno</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Украина наносит удары по российским центрам космической связи. Зачем?</title>
       <link>https://www.bbc.com/russian/articles/cd0mr27z9d0o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cd0mr27z9d0o</guid>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Штурма в кредит». Чем отличается фронт в отчетах российского Генштаба от реальности</title>
-      <link>https://www.bbc.com/russian/articles/c4gyw21r4lno</link>
-      <description>Владимир Путин продолжает настаивать, что российская армия «продвигается по всем фронтам». В интервью корреспонденту кремлевского пула Павлу Зарубину он заявил о почти полном захвате Константиновки и Лимана, об окружении частей ВСУ «у реки Старый Оскол» и успешном наступлении на город Сумы, до которого, по оценке российского президента, «осталось где-то 10,5 км». Заявления Путина о российском продвижении расходятся с данными независимых наблюдателей.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4gyw21r4lno</guid>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>На газовозе «Газпрома» установили пулеметы, узнали журналисты. Зачем?</title>
@@ -152,7 +151,7 @@
       <title>Видео,Топливный кризис в России — будет хуже? | Видеоподкаст «Что это было?», Продолжительность 32,03</title>
       <link>https://www.bbc.com/russian/articles/c982g02wl8no</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c982g02wl8no</guid>
-      <pubDate>Sun, 05 Jul 2026 08:20:41 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 10:50:03 +0000</pubDate>
     </item>
     <item>
       <title>Дефицит на колесах: как бензиновый кризис докатился до Дальнего Востока</title>
@@ -160,6 +159,20 @@
       <description>На фоне продолжающихся украинских атак на нефтяную инфраструктуру России перебои с топливом за последний месяц затронули почти всю страну. Би-би-си поговорила с жителями Дальнего Востока о том, как поиск бензина превратился в ежедневную проблему.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cddln976j76o</guid>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Каким будет внешний вид человека в будущем? Возможно, нам самим предстоит сделать выбор</title>
+      <link>https://www.bbc.com/russian/articles/c4gy777jlqdo</link>
+      <description>Эволюция человечества продолжается? Какими могут быть будущие версии нас нынешних — выше, ниже, с другими чертами лица? А может, они будут генетически запрограмированными под заданные параметры?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4gy777jlqdo</guid>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Свадьба Тейлор Свифт и Трэвиса Келси: как развивались их отношения</title>
+      <link>https://www.bbc.com/russian/articles/cy8d13jy83ro</link>
+      <description>Тейлор Свифт и Трэвис Келси, как ожидается, сыграют свадьбу в ​​нью-йоркском Мэдисон-сквер-гардене в эти выходные.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy8d13jy83ro</guid>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Буддист и Мефисто: куда война и репрессии завели режиссеров Кирилла Серебренникова и Константина Богомолова</title>
