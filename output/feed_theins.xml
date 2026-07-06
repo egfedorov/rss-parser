@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 06 Jul 2026 14:38:54 +0000</lastBuildDate>
-    <item>
-      <title>От «нелегалов» к «психоперациям»: как меняется активность ГРУ в Европе</title>
-      <link>https://theins.ru/inv/286468</link>
-      <guid isPermaLink="false">https://theins.ru/inv/286468</guid>
-      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Jul 2026 17:27:40 +0000</lastBuildDate>
     <item>
       <title>Тайская пленница. Как «люди-жирафы» помогли ГРУ освободить из рабства дочь своего сослуживца, а пропагандисты нашли «украинский след»</title>
       <link>https://theins.ru/inv/286764</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/inv/293646</link>
       <guid isPermaLink="false">https://theins.ru/inv/293646</guid>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Starlink и моторы для дронов: что литовские бизнесмены поставляли в Россию во время войны</title>
+      <link>https://theins.ru/inv/290965</link>
+      <guid isPermaLink="false">https://theins.ru/inv/290965</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
