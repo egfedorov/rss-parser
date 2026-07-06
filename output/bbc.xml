@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 06 Jul 2026 06:09:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 11:08:01 +0000</lastBuildDate>
     <item>
       <title>«Мы каждый день под ракетами. Все думают переехать в Москву». Как Белгород и область справляются с энергетическим кризисом</title>
       <link>https://www.bbc.com/russian/articles/cvgl25vqpz7o</link>
@@ -129,6 +129,12 @@
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Дефицит на колесах: как бензиновый кризис докатился до Дальнего Востока</title>
+      <link>https://www.bbc.com/russian/articles/cddln976j76o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cddln976j76o</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Украина наносит удары по российским центрам космической связи. Зачем?</title>
       <link>https://www.bbc.com/russian/articles/cd0mr27z9d0o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cd0mr27z9d0o</guid>
@@ -144,28 +150,7 @@
       <title>Видео,Топливный кризис в России — будет хуже? | Видеоподкаст «Что это было?», Продолжительность 32,03</title>
       <link>https://www.bbc.com/russian/articles/c982g02wl8no</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c982g02wl8no</guid>
-      <pubDate>Mon, 06 Jul 2026 06:09:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Дефицит на колесах: как бензиновый кризис докатился до Дальнего Востока</title>
-      <link>https://www.bbc.com/russian/articles/cddln976j76o</link>
-      <description>На фоне продолжающихся украинских атак на нефтяную инфраструктуру России перебои с топливом за последний месяц затронули почти всю страну. Би-би-си поговорила с жителями Дальнего Востока о том, как поиск бензина превратился в ежедневную проблему.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cddln976j76o</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Каким будет внешний вид человека в будущем? Возможно, нам самим предстоит сделать выбор</title>
-      <link>https://www.bbc.com/russian/articles/c4gy777jlqdo</link>
-      <description>Эволюция человечества продолжается? Какими могут быть будущие версии нас нынешних — выше, ниже, с другими чертами лица? А может, они будут генетически запрограмированными под заданные параметры?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4gy777jlqdo</guid>
-      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Свадьба Тейлор Свифт и Трэвиса Келси: как развивались их отношения</title>
-      <link>https://www.bbc.com/russian/articles/cy8d13jy83ro</link>
-      <description>Тейлор Свифт и Трэвис Келси, как ожидается, сыграют свадьбу в ​​нью-йоркском Мэдисон-сквер-гардене в эти выходные.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy8d13jy83ro</guid>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 11:08:01 +0000</pubDate>
     </item>
     <item>
       <title>Буддист и Мефисто: куда война и репрессии завели режиссеров Кирилла Серебренникова и Константина Богомолова</title>
@@ -175,11 +160,31 @@
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Свадьба Тейлор Свифт и Трэвиса Келси: как развивались их отношения</title>
+      <link>https://www.bbc.com/russian/articles/cy8d13jy83ro</link>
+      <description>Тейлор Свифт и Трэвис Келси, как ожидается, сыграют свадьбу в ​​нью-йоркском Мэдисон-сквер-гардене в эти выходные.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy8d13jy83ro</guid>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Рейтинг Путина снова упал — до довоенных значений. Что происходит</title>
+      <link>https://www.bbc.com/russian/articles/c9d231x1px7o</link>
+      <description>Социологи зафиксировали снижение рейтингов доверия и одобрения президента. Опрос государственного ВЦИОМа показал самое резкое за два года ухудшение оценки работы Владимира Путина респондентами. Рейтинги власти падают с апреля, одновременно, по наблюдениям социологов, растет тревожность в обществе — и все это в преддверии выборов в Госдуму в сентябре.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c9d231x1px7o</guid>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>От Оренбурга до Ташкента: как удары по российской энергетике отзываются в Центральной Азии</title>
       <link>https://www.bbc.com/russian/articles/cgevpd25qyro</link>
       <description>Последствия украинских ударов по российской энергетике уже ощущаются за пределами России. После атаки на Оренбургский газоперерабатывающий завод Казахстан снизил добычу на одном из крупнейших нефтегазовых месторождений страны, в Кыргызстане возник дефицит бензина некоторых марок, а флагманская авиакомпания Узбекистана сократила часть рейсов из-за дефицита и подорожания авиакеросина. Энергетические системы стран Центральной Азии по-прежнему тесно связаны с российской инфраструктурой, поэтому любые проблемы оборачиваются для соседей экономическими потерями.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cgevpd25qyro</guid>
       <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Окно возможностей закрывается? Как изменились отношения между Украиной и Венгрией после ухода Орбана</title>
+      <link>https://www.bbc.com/russian/articles/cz752nlq2d2o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cz752nlq2d2o</guid>
+      <pubDate>Mon, 06 Jul 2026 11:08:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
