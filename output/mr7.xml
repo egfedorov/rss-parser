@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 07 Jul 2026 16:33:08 +0000</lastBuildDate>
-    <item>
-      <title>Суд в третий раз не стал рассматривать повторный протокол о демонстрации экстремистской символики в отношении Никиты Сорокина</title>
-      <link>https://mr-7.ru/articles/2026/05/15/sud-v-tretii-raz-ne-stal-rassmatrivat-povtornyi-protokol-o-demonstratsii-ekstremistskoi-simvoliki-v-otnoshenii-nikity-sorokina</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/05/15/sud-v-tretii-raz-ne-stal-rassmatrivat-povtornyi-protokol-o-demonstratsii-ekstremistskoi-simvoliki-v-otnoshenii-nikity-sorokina</guid>
-      <enclosure url="https://mr-7.ru/static/records/dfe1b0ea1b6e4ec6853a2c9b990efd45.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 15 May 2026 10:20:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 18:34:38 +0000</lastBuildDate>
     <item>
       <title>7 поводов выйти из дома 16 — 17 мая</title>
       <link>https://mr-7.ru/articles/2026/05/15/7-povodov-vyiti-iz-doma-16-17-maia</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/07/ekspertizy-postov-i-dokumenty-o-zdorove-obviniaemogo-v-feikakh-ob-armii-vracha-izuchili-v-sude-peterburga</guid>
       <enclosure url="https://mr-7.ru/static/records/cb36ea7b7c4549d995a2e7f4392aa8bd.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 07 Jul 2026 15:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Индивидуальное «лекарство» от тяжёлых форм рака крови создали в Петербурге</title>
+      <link>https://mr-7.ru/articles/2026/07/07/individualnoe-lekarstvo-ot-tiazhelykh-form-raka-krovi-sozdali-v-peterburge</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/07/individualnoe-lekarstvo-ot-tiazhelykh-form-raka-krovi-sozdali-v-peterburge</guid>
+      <enclosure url="https://mr-7.ru/static/records/2a0f255a888e467db53a86530a16703c.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jul 2026 17:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
