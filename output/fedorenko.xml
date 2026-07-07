@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 07 Jul 2026 08:01:56 +0000</lastBuildDate>
-    <item>
-      <title>Буксуют все! — Метель парализовала Владивосток и выявила гражданских героев</title>
-      <link>https://novayagazeta.ru/articles/2026/01/10/buksuiut-vse</link>
-      <description>Метель парализовала Владивосток и выявила гражданских героев</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/10/buksuiut-vse</guid>
-      <pubDate>Sat, 10 Jan 2026 12:35:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 11:20:35 +0000</lastBuildDate>
     <item>
       <title>На Камчатке засыпает города — Стихийное бедствие унесло жизни двух человек, парализовало дороги, оставило тысячи людей без света и продуктов</title>
       <link>https://novayagazeta.ru/articles/2026/01/15/na-kamchatke-zasypaet-goroda</link>
@@ -287,6 +280,13 @@
       <description>В Хабаровске от онкологии умер журналист Сергей Мингазов. Суд отказался приостанавливать из-за болезни его дело о «фейках»</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/07/02/dokonali-minycha</guid>
       <pubDate>Thu, 02 Jul 2026 14:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Смерть между штрафом и сроком — Сергей Мингазов скончался от рака, оставаясь обвиняемым по делу о «фейках». Адвокат — о том, как преследуют смертельно больных</title>
+      <link>https://novayagazeta.ru/articles/2026/07/07/ot-shtrafa-do-smerti</link>
+      <description>Сергей Мингазов скончался от рака, оставаясь обвиняемым по делу о «фейках». Адвокат — о том, как преследуют смертельно больных</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/07/07/ot-shtrafa-do-smerti</guid>
+      <pubDate>Tue, 07 Jul 2026 09:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
