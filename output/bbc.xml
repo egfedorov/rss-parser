@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 07 Jul 2026 13:50:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 16:32:58 +0000</lastBuildDate>
     <item>
       <title>Иностранцы в российской армии: добровольцы или жертвы торговли людьми?</title>
       <link>https://www.bbc.com/russian/articles/c4g0zej7299o</link>
@@ -150,7 +150,7 @@
       <title>Видео,Топливный кризис в России — будет хуже? | Видеоподкаст «Что это было?», Продолжительность 32,03</title>
       <link>https://www.bbc.com/russian/articles/c982g02wl8no</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c982g02wl8no</guid>
-      <pubDate>Tue, 07 Jul 2026 13:50:53 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 16:32:58 +0000</pubDate>
     </item>
     <item>
       <title>Буддист и Мефисто: куда война и репрессии завели режиссеров Кирилла Серебренникова и Константина Богомолова</title>
@@ -181,10 +181,17 @@
       <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Собираются так воевать десятилетия». Минобороны России готовит закон о возвращении раненых на фронт</title>
+      <link>https://www.bbc.com/russian/articles/cn4rrr1k1n8o</link>
+      <description>Минобороны России на пятый год войны в Украине впервые подготовило законопроект, позволяющий возвращать на фронт военных, получивших болезни, ранения и увечья, без медицинского освидетельствования их годности к службе. Как выяснила Би-би-си, такая практика существует давно, и наиболее жесткие правила — для бывших заключенных.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn4rrr1k1n8o</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Окно возможностей закрывается? Как изменились отношения между Украиной и Венгрией после ухода Орбана</title>
       <link>https://www.bbc.com/russian/articles/cz752nlq2d2o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cz752nlq2d2o</guid>
-      <pubDate>Tue, 07 Jul 2026 13:50:53 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 16:32:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
