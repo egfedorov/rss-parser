@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 08 Jul 2026 06:30:13 +0000</lastBuildDate>
-    <item>
-      <title>Сама себе маникюр и фитнесс — На какие продукты выросли цены за минувший месяц. И как дорожает сфера услуг. Мониторинг «Новой»</title>
-      <link>https://novayagazeta.ru/articles/2025/11/15/sama-sebe-manikiur-i-fitness</link>
-      <description>На какие продукты выросли цены за минувший месяц. И как дорожает сфера услуг. Мониторинг «Новой»</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/15/sama-sebe-manikiur-i-fitness</guid>
-      <pubDate>Sat, 15 Nov 2025 08:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Jul 2026 09:11:14 +0000</lastBuildDate>
     <item>
       <title>Обедая с дьяволом, пользуйся длинной ложкой — Если выпало среди людоедов родиться: наброски к несостоявшемуся разговору со студентами</title>
       <link>https://novayagazeta.ru/articles/2025/11/18/obedaia-s-diavolom-polzuisia-dlinnoi-lozhkoi</link>
@@ -287,6 +280,13 @@
       <description>Есть представители госвласти, открыто говорящие правду и помогающие людям. Зачем? «Новая» читает доклады региональных омбудсменов</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/06/22/sakharok-pogryzi-perezhivesh</guid>
       <pubDate>Mon, 22 Jun 2026 07:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Килл-зона» — Как детдомовец Витя стал наемным убийцей в маске клоуна, ушел из тюрьмы на СВО и теперь над ним никто больше не смеется</title>
+      <link>https://novayagazeta.ru/articles/2026/07/08/kill-zona</link>
+      <description>Как детдомовец Витя стал наемным убийцей в маске клоуна, ушел из тюрьмы на СВО и теперь над ним никто больше не смеется</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/07/08/kill-zona</guid>
+      <pubDate>Wed, 08 Jul 2026 07:17:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

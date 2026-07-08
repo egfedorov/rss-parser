@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 08 Jul 2026 06:30:12 +0000</lastBuildDate>
-    <item>
-      <title>Уральский фронт</title>
-      <link>https://polezrenia.info/2026/05/27/uralskij-front/</link>
-      <description>Как люди в Перми пытаются сохранить ощущение нормальности, когда война проникает даже в глубокий тыл.</description>
-      <guid isPermaLink="false">https://polezrenia.info/2026/05/27/uralskij-front/</guid>
-      <enclosure url="https://polezrenia.info/wp-content/uploads/2026/05/01-3-e1779872075790.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Jul 2026 09:11:14 +0000</lastBuildDate>
     <item>
       <title>«Пишу без официоза, знаю слово “кринж”»</title>
       <link>https://polezrenia.info/2026/05/29/pishu-bez-oficzioza-znayu-slovo-krinzh/</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://polezrenia.info/2026/07/06/sezon-rozovogo-snega/</guid>
       <enclosure url="https://polezrenia.info/wp-content/uploads/2026/07/01-e1783330858951.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Старики плачут над погибшими пчелами»</title>
+      <link>https://polezrenia.info/2026/07/08/stariki-plachut-nad-pogibshimi-pchelami/</link>
+      <description>Могут ли пасечники мирно существовать с фермерами и  только ли за пчел борются пчеловоды</description>
+      <guid isPermaLink="false">https://polezrenia.info/2026/07/08/stariki-plachut-nad-pogibshimi-pchelami/</guid>
+      <enclosure url="https://polezrenia.info/wp-content/uploads/2026/07/image-1-1.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
