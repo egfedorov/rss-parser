@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 08 Jul 2026 09:11:07 +0000</lastBuildDate>
-    <item>
-      <title>Выдворники — Из Петербурга массово депортируют мигрантов, времени оспорить скорые решения судов им не дают. У всего этого есть название: операция «Нелегал»</title>
-      <link>https://novayagazeta.ru/articles/2024/03/30/vydvorniki</link>
-      <description>Из Петербурга массово депортируют мигрантов, времени оспорить скорые решения судов им не дают. У всего этого есть название: операция «Нелегал»</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/03/30/vydvorniki</guid>
-      <pubDate>Sat, 30 Mar 2024 12:37:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Jul 2026 11:19:27 +0000</lastBuildDate>
     <item>
       <title>Для снисхождения «нет оснований» — Апелляционный военный суд сегодня оставил без изменений приговор 17-летнему Егору Балазейкину — 6 лет колонии</title>
       <link>https://novayagazeta.ru/articles/2024/04/03/dlia-sniskhozhdeniia-net-osnovanii</link>
@@ -177,17 +170,17 @@
       <pubDate>Mon, 11 Nov 2024 07:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>Дайте коридор!&amp;nbsp; — Наши родные погибают в Судже</title>
-      <link>https://novayagazeta.ru/videos/2024/11/13/daite-koridor</link>
-      <description>Наши родные погибают в Судже</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/videos/2024/11/13/daite-koridor</guid>
-      <pubDate>Wed, 13 Nov 2024 08:35:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Глаза тех, кого пришлось бросить, я не забуду никогда» — Почти две тысячи жителей, по неофициальным данным, остаются сегодня в занятой ВСУ Судже и Суджанском районе</title>
       <link>https://novayagazeta.ru/articles/2024/11/13/glaza-tekh-kogo-prishlos-brosit-ia-ne-zabudu-nikogda</link>
       <description>Почти две тысячи жителей, по неофициальным данным, остаются сегодня в занятой ВСУ Судже и Суджанском районе</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/11/13/glaza-tekh-kogo-prishlos-brosit-ia-ne-zabudu-nikogda</guid>
+      <pubDate>Wed, 13 Nov 2024 08:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дайте коридор!&amp;nbsp; — Наши родные погибают в Судже</title>
+      <link>https://novayagazeta.ru/videos/2024/11/13/daite-koridor</link>
+      <description>Наши родные погибают в Судже</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/videos/2024/11/13/daite-koridor</guid>
       <pubDate>Wed, 13 Nov 2024 08:35:00 +0000</pubDate>
     </item>
     <item>
@@ -287,6 +280,13 @@
       <description>В Петербурге врачу грозит не менее 12 лет лишения свободы за «дискредитацию»</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/07/07/ia-ne-mogu-byt-vinovnym-eto-ne-prestuplenie</guid>
       <pubDate>Tue, 07 Jul 2026 07:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Фейки в деле о «фейках» — Врача-невролога Михаила Фетисова обвиняют в преступлении на основании «экспертизы», сделанной анонимами</title>
+      <link>https://novayagazeta.ru/articles/2026/07/08/feiki-v-dele-o-feikakh</link>
+      <description>Врача-невролога Михаила Фетисова обвиняют в преступлении на основании «экспертизы», сделанной анонимами</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/07/08/feiki-v-dele-o-feikakh</guid>
+      <pubDate>Wed, 08 Jul 2026 10:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
