@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 07 Jul 2026 23:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 00:15:20 +0000</lastBuildDate>
     <item>
       <title>Иностранцы в российской армии: добровольцы или жертвы торговли людьми?</title>
       <link>https://www.bbc.com/russian/articles/c4g0zej7299o</link>
@@ -123,6 +123,12 @@
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Буддист и Мефисто: куда война и репрессии завели режиссеров Кирилла Серебренникова и Константина Богомолова</title>
+      <link>https://www.bbc.com/russian/articles/c39y7vypzl8o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c39y7vypzl8o</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Дефицит на колесах: как бензиновый кризис докатился до Дальнего Востока</title>
       <link>https://www.bbc.com/russian/articles/cddln976j76o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cddln976j76o</guid>
@@ -135,30 +141,10 @@
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Решающий в истории альянса». Чего ждать от саммита НАТО на фоне разлада США и Европы?</title>
-      <link>https://www.bbc.com/russian/articles/c1kyrdrkw9vo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c1kyrdrkw9vo</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Период шоков. Как на российской экономике и бюджете отразится топливный кризис</title>
       <link>https://www.bbc.com/russian/articles/c04yyxl99z4o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c04yyxl99z4o</guid>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Буддист и Мефисто: куда война и репрессии завели режиссеров Кирилла Серебренникова и Константина Богомолова</title>
-      <link>https://www.bbc.com/russian/articles/c39y7vypzl8o</link>
-      <description>Почти 20 лет Серебренников и Богомолов считались главными представителями нового российского театра — и их в равной мере любили и оппозиционеры, и чиновники из администрации президента. Би-би-си рассказывает, как изменились жизнь и творчество двух режиссеров и почему их пути разошлись.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c39y7vypzl8o</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Свадьба Тейлор Свифт и Трэвиса Келси: как развивались их отношения</title>
-      <link>https://www.bbc.com/russian/articles/cy8d13jy83ro</link>
-      <description>Тейлор Свифт и Трэвис Келси, как ожидается, сыграют свадьбу в ​​нью-йоркском Мэдисон-сквер-гардене в эти выходные.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy8d13jy83ro</guid>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Рейтинг Путина снова упал — до довоенных значений. Что происходит</title>
@@ -175,11 +161,11 @@
       <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Твоя дочь жива». История 12-летней Фабианы, спасенной из-под обломков через 32 часа после землетрясения в Венесуэле</title>
-      <link>https://www.bbc.com/russian/articles/ced44z57vq5o</link>
-      <description>Фабиана оказалась под завалами 10-этажного жилого дома после двух землетрясений, потрясших Венесуэлу в июне.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ced44z57vq5o</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <title>«Решающий в истории альянса». Чего ждать от саммита НАТО на фоне разлада США и Европы?</title>
+      <link>https://www.bbc.com/russian/articles/c1kyrdrkw9vo</link>
+      <description>В Анкаре 7–8 июля пройдет 36-й по счету саммит НАТО. Альянс подошел к нему в условиях самого глубокого в своей новейшей истории кризиса, с продолжающимися войнами в Украине и на Ближнем Востоке. Би-би-си рассказывает, кто приедет в Турцию и чего ждать от встречи, которую президент страны-хозяйки Реджеп Тайип Эрдоган назвал «решающей в истории альянса».</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c1kyrdrkw9vo</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>«Собираются так воевать десятилетия». Минобороны России готовит закон о возвращении раненых на фронт</title>
@@ -191,8 +177,9 @@
     <item>
       <title>Окно возможностей закрывается? Как изменились отношения между Украиной и Венгрией после ухода Орбана</title>
       <link>https://www.bbc.com/russian/articles/cz752nlq2d2o</link>
+      <description>За последние два месяца некоторые изменения к лучшему действительно произошли, но до сих пор непонятно, воспользуются ли Киев и Будапешт окном возможностей для того, чтобы начать сотрудничество с чистого листа, и, более того, хотят ли они этого на самом деле.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cz752nlq2d2o</guid>
-      <pubDate>Tue, 07 Jul 2026 23:10:36 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
