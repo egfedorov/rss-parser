@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 09 Jul 2026 22:39:08 +0000</lastBuildDate>
-    <item>
-      <title>Золото Гульнары: почему Ташкент боится швейцарского дела дочери Ислама Каримова</title>
-      <link>https://mostmedia.org/ru/posts/zoloto-gulnary-pochemu-tashkent-boitsja-shveycarskogo-dela-docheri-islama-karimova</link>
-      <description>Дочь первого президента Узбекистана Ислама Каримова снова в центре внимания мировых СМИ. Её вызвали в швейцарский суд по делу о коррупции. Завершение этого дела позволило бы вернуть в госбюджет страны около миллиарда долларов. Но в Ташкенте отказались даже временно освободить Каримову из тюрьмы</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/zoloto-gulnary-pochemu-tashkent-boitsja-shveycarskogo-dela-docheri-islama-karimova</guid>
-      <enclosure url="https://mostmedia.org/uploads/files/9/f/1/d/0/9f1d0eba4cb1a8fabda101bd87f29744.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Jul 2026 23:50:08 +0000</lastBuildDate>
     <item>
       <title>Кто будет воевать за Нарву? Некоторые предположения о возможном развитии событий в случае российской агрессии в ЕС</title>
       <link>https://mostmedia.org/ru/posts/kto-budet-voevat-za-narvu-nekotorye-predpolozhenia-o-vozmozhnom-razvitii-sobyty-v-sluchae-rossyskoi-agressii-v-es</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/prishelcy-sredi-nas-den-razoblachenia-stivena-spilberga-issleduet-chelovecheskuju-bespechnost</guid>
       <enclosure url="https://mostmedia.org/uploads/files/4/3/c/0/8/43c0826edab26944336c0e77db32d148.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 05 Jul 2026 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Армен Захарян: «Чтение Пруста, возможно, ничем не полезно. Но оно может быть спасительно»</title>
+      <link>https://mostmedia.org/ru/posts/armen-zaharjan-chtenie-prusta-vozmozhno-nichem-ne-polezno-no-ono-mozhet-byt-spasitelno</link>
+      <description>В день рождения Марселя Пруста у литературного блогера Армена Закаряна (YouTube-канал «Армен и Фёдор») выходит путеводитель по роману «В поисках утраченного времени». Поговорили с ним о том, чем сегодня может утешить прустовская проза</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/armen-zaharjan-chtenie-prusta-vozmozhno-nichem-ne-polezno-no-ono-mozhet-byt-spasitelno</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/b/1/e/a/d/b1eadbc39ada47d1e0f54d34f76a2a05.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 10 Jul 2026 02:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
