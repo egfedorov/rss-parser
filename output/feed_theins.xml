@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 09 Jul 2026 08:49:27 +0000</lastBuildDate>
-    <item>
-      <title>Тайская пленница. Как «люди-жирафы» помогли ГРУ освободить из рабства дочь своего сослуживца, а пропагандисты нашли «украинский след»</title>
-      <link>https://theins.ru/inv/286764</link>
-      <guid isPermaLink="false">https://theins.ru/inv/286764</guid>
-      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Jul 2026 12:06:47 +0000</lastBuildDate>
     <item>
       <title>Иностранные реагенты. Российский ВПК критически зависит от импорта химической продукции, в том числе и западной, выяснил The Insider</title>
       <link>https://theins.ru/inv/287195</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/inv/290965</link>
       <guid isPermaLink="false">https://theins.ru/inv/290965</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Как тебе такое, Илон Маск? Документы секретных переговоров России и Китая вскрыли программу по уничтожению спутников Starlink</title>
+      <link>https://theins.ru/inv/294328</link>
+      <guid isPermaLink="false">https://theins.ru/inv/294328</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
