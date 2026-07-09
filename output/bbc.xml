@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 09 Jul 2026 12:06:43 +0000</lastBuildDate>
-    <item>
-      <title>Иностранцы в российской армии: добровольцы или жертвы торговли людьми?</title>
-      <link>https://www.bbc.com/russian/articles/c4g0zej7299o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4g0zej7299o</guid>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Что мы знаем о потерях России в Украине к маю</title>
-      <link>https://www.bbc.com/russian/articles/cqlpvgw09x9o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqlpvgw09x9o</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Jul 2026 15:37:03 +0000</lastBuildDate>
     <item>
       <title>Зумеры против ИИ? Нападения на дом создателя ChatGPT вызвали дискуссию о кризисе доверия к искусственному интеллекту</title>
       <link>https://www.bbc.com/russian/articles/c3r357g88yyo</link>
@@ -141,18 +129,17 @@
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Ариадна, ты меня бесишь!» Как семейный конфликт привел к депортации антивоенной активистки из Турции в Россию</title>
+      <link>https://www.bbc.com/russian/articles/c70ygd99529o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c70ygd99529o</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>От Оренбурга до Ташкента: как удары по российской энергетике отзываются в Центральной Азии</title>
       <link>https://www.bbc.com/russian/articles/cgevpd25qyro</link>
       <description>Последствия украинских ударов по российской энергетике уже ощущаются за пределами России. После атаки на Оренбургский газоперерабатывающий завод Казахстан снизил добычу на одном из крупнейших нефтегазовых месторождений страны, в Кыргызстане возник дефицит бензина некоторых марок, а флагманская авиакомпания Узбекистана сократила часть рейсов из-за дефицита и подорожания авиакеросина. Энергетические системы стран Центральной Азии по-прежнему тесно связаны с российской инфраструктурой, поэтому любые проблемы оборачиваются для соседей экономическими потерями.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cgevpd25qyro</guid>
       <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Окно возможностей закрывается? Как изменились отношения между Украиной и Венгрией после ухода Орбана</title>
-      <link>https://www.bbc.com/russian/articles/cz752nlq2d2o</link>
-      <description>За последние два месяца некоторые изменения к лучшему действительно произошли, но до сих пор непонятно, воспользуются ли Киев и Будапешт окном возможностей для того, чтобы начать сотрудничество с чистого листа, и, более того, хотят ли они этого на самом деле.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cz752nlq2d2o</guid>
-      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>«Решающий в истории альянса». Чего ждать от саммита НАТО на фоне разлада США и Европы?</title>
@@ -181,6 +168,18 @@
       <description>США и Израиль досрочно отправили в могилу многих бывших лидеров страны — но не станут ли те, кто пришел им на смену, еще более грозными противниками?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c1myy7zdyv5o</guid>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Видео,Защитят ли вооруженные группы небо России? | Военное время, Продолжительность 10,00</title>
+      <link>https://www.bbc.com/russian/articles/cy06jzkd6j7o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy06jzkd6j7o</guid>
+      <pubDate>Thu, 09 Jul 2026 15:37:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Саммит смешанных чувств. Чем закончилась встреча лидеров НАТО в Анкаре</title>
+      <link>https://www.bbc.com/russian/articles/c3vy0g14xkvo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3vy0g14xkvo</guid>
+      <pubDate>Thu, 09 Jul 2026 15:37:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
