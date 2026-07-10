@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 10 Jul 2026 12:56:30 +0000</lastBuildDate>
-    <item>
-      <title>Без посредников. Почему Пакистану, Китаю и арабским странам не удается примирить США и Иран</title>
-      <link>https://theins.ru/politika/291137</link>
-      <guid isPermaLink="false">https://theins.ru/politika/291137</guid>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Jul 2026 15:33:59 +0000</lastBuildDate>
     <item>
       <title>Доказательство от противного. Как Россия и Трамп сплотили Евросоюз, вернув ЕС популярность в обществе</title>
       <link>https://theins.ru/politika/289504</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/politika/294195</link>
       <guid isPermaLink="false">https://theins.ru/politika/294195</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Одной ногой в НАТО: как Украина встраивается в военно-промышленный комплекс Европы</title>
+      <link>https://theins.ru/politika/294421</link>
+      <guid isPermaLink="false">https://theins.ru/politika/294421</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

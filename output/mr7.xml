@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 10 Jul 2026 12:56:41 +0000</lastBuildDate>
-    <item>
-      <title>От авангарда через хрущёвки до эмбиента — как в «Ночь музеев» в Петербурге исследовали «родное»</title>
-      <link>https://mr-7.ru/articles/2026/05/17/ot-avangarda-cherez-khrushchevki-do-embienta-kak-v-noch-muzeev-v-peterburge-issledovali-rodnoe</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/05/17/ot-avangarda-cherez-khrushchevki-do-embienta-kak-v-noch-muzeev-v-peterburge-issledovali-rodnoe</guid>
-      <enclosure url="https://mr-7.ru/static/records/42218f88290a4467b1ac388841580566.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 17 May 2026 07:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Положительные люди»: премьера спектакля о живущих с ВИЧ подростках прошла в Петербурге</title>
-      <link>https://mr-7.ru/articles/2026/05/18/polozhitelnye-liudi-premera-spektaklia-o-zhivushchikh-s-vich-podrostkakh-proshla-v-peterburge</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/05/18/polozhitelnye-liudi-premera-spektaklia-o-zhivushchikh-s-vich-podrostkakh-proshla-v-peterburge</guid>
-      <enclosure url="https://mr-7.ru/static/records/4e8abe47f6944eceb8919c853204b5f3.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 18 May 2026 16:06:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Jul 2026 15:34:09 +0000</lastBuildDate>
     <item>
       <title>«Любители» VS «наёмники» — ночью в Главном штабе искали разницу между блогерами и журналистами</title>
       <link>https://mr-7.ru/articles/2026/05/19/liubiteli-vs-naemniki-nochiu-v-glavnom-shtabe-iskali-raznitsu-mezhdu-blogerami-i-zhurnalistami</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/08/vsedozvolennost-strakh-ili-osoznannoe-vospitanie-rebenka-gde-gran-obiasniaet-psikholog</guid>
       <enclosure url="https://mr-7.ru/static/records/3c8c58c81a9a4c489781892b1e8ac101.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 08 Jul 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 поводов выйти из дома 11–12 июля</title>
+      <link>https://mr-7.ru/articles/2026/07/10/7-povodov-vyiti-iz-doma-11-12-iiulia</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/10/7-povodov-vyiti-iz-doma-11-12-iiulia</guid>
+      <enclosure url="https://mr-7.ru/static/records/1ee48bccbbda4778a4b4e9ac4c456c86.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 10 Jul 2026 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Срывают Шапки. Ради ВСМ могут стереть с лица земли древние холмы</title>
+      <link>https://mr-7.ru/articles/2026/07/10/sryvaiut-shapki-radi-vsm-mogut-steret-s-litsa-zemli-drevnie-kholmy</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/10/sryvaiut-shapki-radi-vsm-mogut-steret-s-litsa-zemli-drevnie-kholmy</guid>
+      <enclosure url="https://mr-7.ru/static/records/1c9977a631c3456c862dbd1c7147293c.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 10 Jul 2026 14:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
