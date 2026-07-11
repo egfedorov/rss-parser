@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:13:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 03:47:04 +0000</lastBuildDate>
     <item>
       <title>Зумеры против ИИ? Нападения на дом создателя ChatGPT вызвали дискуссию о кризисе доверия к искусственному интеллекту</title>
       <link>https://www.bbc.com/russian/articles/c3r357g88yyo</link>
@@ -129,12 +129,6 @@
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Ариадна, ты меня бесишь!» Как семейный конфликт привел к депортации антивоенной активистки из Турции в Россию</title>
-      <link>https://www.bbc.com/russian/articles/c70ygd99529o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c70ygd99529o</guid>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Решающий в истории альянса». Чего ждать от саммита НАТО на фоне разлада США и Европы?</title>
       <link>https://www.bbc.com/russian/articles/c1kyrdrkw9vo</link>
       <description>В Анкаре 7–8 июля пройдет 36-й по счету саммит НАТО. Альянс подошел к нему в условиях самого глубокого в своей новейшей истории кризиса, с продолжающимися войнами в Украине и на Ближнем Востоке. Би-би-си рассказывает, кто приедет в Турцию и чего ждать от встречи, которую президент страны-хозяйки Реджеп Тайип Эрдоган назвал «решающей в истории альянса».</description>
@@ -166,7 +160,7 @@
       <title>Видео,Чего Зеленский добился от Трампа? | Видеоподкаст «Что это было?», Продолжительность 31,49</title>
       <link>https://www.bbc.com/russian/articles/cqx1vz157n2o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqx1vz157n2o</guid>
-      <pubDate>Sat, 11 Jul 2026 00:13:49 +0000</pubDate>
+      <pubDate>Sat, 11 Jul 2026 03:47:04 +0000</pubDate>
     </item>
     <item>
       <title>Джереми Боуэн: несмотря на всю браваду Трампа, у него нет лучшего выхода, чем переговоры с Ираном</title>
@@ -183,10 +177,17 @@
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Ариадна, ты меня бесишь!» Как семейный конфликт привел к депортации антивоенной активистки из Турции в Россию</title>
+      <link>https://www.bbc.com/russian/articles/c70ygd99529o</link>
+      <description>Турция депортировала в Россию 24-летнюю антивоенную активистку Ариадну Литвинову, на которую в Петербурге заведено уголовное дело о дискредитации армии. После прилета в Россию девушку задержали в аэропорту и заключили под стражу. Перед этим Литвинова уехала в Турцию к живущему там отцу, но, как он сам рассказал Би-би-си, их отношения не заладились, и после очередной ссоры, которая закончилась дракой, он вызвал полицию, не осознавая, что в России дочери может что-то угрожать.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c70ygd99529o</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Из-за рубежа на фронт. Что известно о потерях иностранцев в составе российских сил в Украине</title>
       <link>https://www.bbc.com/russian/articles/c7vy489mjjjo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c7vy489mjjjo</guid>
-      <pubDate>Sat, 11 Jul 2026 00:13:49 +0000</pubDate>
+      <pubDate>Sat, 11 Jul 2026 03:47:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
