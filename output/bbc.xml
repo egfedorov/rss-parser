@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 12 Jul 2026 22:52:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 23:57:33 +0000</lastBuildDate>
     <item>
       <title>Зумеры против ИИ? Нападения на дом создателя ChatGPT вызвали дискуссию о кризисе доверия к искусственному интеллекту</title>
       <link>https://www.bbc.com/russian/articles/c3r357g88yyo</link>
@@ -137,7 +137,6 @@
     <item>
       <title>Период шоков. Как на российской экономике и бюджете отразится топливный кризис</title>
       <link>https://www.bbc.com/russian/articles/c04yyxl99z4o</link>
-      <description>На пятый год войны с Украиной Россия столкнулась с растущим дефицитом бюджета, закрытием компаний малого и среднего бизнеса, а в последние недели — еще и с перебоями в поставках бензина. Ликвидных резервов у России осталось немного — закрыть ими дыру в бюджете уже не удастся. Речь идет не о быстро разворачивающемся масштабном кризисе, а постепенном накоплении проблем и ухудшении жизни людей. И этот процесс не остановится, пока не закончится война в Украине.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c04yyxl99z4o</guid>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
@@ -147,12 +146,6 @@
       <description>США и Израиль досрочно отправили в могилу многих бывших лидеров страны — но не станут ли те, кто пришел им на смену, еще более грозными противниками?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c1myy7zdyv5o</guid>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Видео,Чего Зеленский добился от Трампа? | Видеоподкаст «Что это было?», Продолжительность 31,49</title>
-      <link>https://www.bbc.com/russian/articles/cqx1vz157n2o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqx1vz157n2o</guid>
-      <pubDate>Sun, 12 Jul 2026 22:52:40 +0000</pubDate>
     </item>
     <item>
       <title>Джереми Боуэн: несмотря на всю браваду Трампа, у него нет лучшего выхода, чем переговоры с Ираном</title>
@@ -181,6 +174,13 @@
       <description>Турция депортировала в Россию 24-летнюю антивоенную активистку Ариадну Литвинову, на которую в Петербурге заведено уголовное дело о дискредитации армии. После прилета в Россию девушку задержали в аэропорту и заключили под стражу. Перед этим Литвинова уехала в Турцию к живущему там отцу, но, как он сам рассказал Би-би-си, их отношения не заладились, и после очередной ссоры, которая закончилась дракой, он вызвал полицию, не осознавая, что в России дочери может что-то угрожать.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c70ygd99529o</guid>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Анализ: как долго Россия сможет обстреливать столицу Украины баллистическими ракетами?</title>
+      <link>https://www.bbc.com/russian/articles/c5yzj18y5xdo</link>
+      <description>В июне и июле Россия уже запустила по Украине почти столько же баллистических ракет, сколько произвела. Означает ли это, что «баллистический террор» Киева прекратится?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c5yzj18y5xdo</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
