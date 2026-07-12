@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 12 Jul 2026 21:54:29 +0000</lastBuildDate>
-    <item>
-      <title>Кто будет воевать за Нарву? Некоторые предположения о возможном развитии событий в случае российской агрессии в ЕС</title>
-      <link>https://mostmedia.org/ru/posts/kto-budet-voevat-za-narvu-nekotorye-predpolozhenia-o-vozmozhnom-razvitii-sobyty-v-sluchae-rossyskoi-agressii-v-es</link>
-      <description>Продолжение гибридной войны, прямое вторжение или удар устрашения: разбираем три наиболее реалистичных сценария</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/kto-budet-voevat-za-narvu-nekotorye-predpolozhenia-o-vozmozhnom-razvitii-sobyty-v-sluchae-rossyskoi-agressii-v-es</guid>
-      <enclosure url="https://mostmedia.org/uploads/files/2/8/1/a/3/281a37b3d71a8d52d8a18b6c88bc7b1f.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 15 Jun 2026 00:15:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 22:52:50 +0000</lastBuildDate>
     <item>
       <title>Премия за риск. Как Илон Маск стал первым в мире триллионером</title>
       <link>https://mostmedia.org/ru/posts/premia-za-risk-kak-ilon-mask-stal-pervym-v-mire-trillionerom</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/armen-zaharjan-chtenie-prusta-vozmozhno-nichem-ne-polezno-no-ono-mozhet-byt-spasitelno</guid>
       <enclosure url="https://mostmedia.org/uploads/files/b/1/e/a/d/b1eadbc39ada47d1e0f54d34f76a2a05.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 10 Jul 2026 02:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Почему путинская Россия оказалась хуже СССР? Объясняют Рене Генон и Юлиус Эвола</title>
+      <link>https://mostmedia.org/ru/posts/pochemu-putinskaja-rossia-okazalas-huzhe-sssr-objasnjajut-rene-genon-i-julius-evola</link>
+      <description>Актуальные ключи к пониманию российской идеологической эволюции дают два европейских мыслителя XX века</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/pochemu-putinskaja-rossia-okazalas-huzhe-sssr-objasnjajut-rene-genon-i-julius-evola</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/b/b/f/9/a/bbf9a8bc985ca3259a09f9667ea2ca36.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
