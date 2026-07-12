@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 12 Jul 2026 03:43:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 06:35:37 +0000</lastBuildDate>
     <item>
       <title>Зумеры против ИИ? Нападения на дом создателя ChatGPT вызвали дискуссию о кризисе доверия к искусственному интеллекту</title>
       <link>https://www.bbc.com/russian/articles/c3r357g88yyo</link>
@@ -131,15 +131,7 @@
     <item>
       <title>«Решающий в истории альянса». Чего ждать от саммита НАТО на фоне разлада США и Европы?</title>
       <link>https://www.bbc.com/russian/articles/c1kyrdrkw9vo</link>
-      <description>В Анкаре 7–8 июля пройдет 36-й по счету саммит НАТО. Альянс подошел к нему в условиях самого глубокого в своей новейшей истории кризиса, с продолжающимися войнами в Украине и на Ближнем Востоке. Би-би-си рассказывает, кто приедет в Турцию и чего ждать от встречи, которую президент страны-хозяйки Реджеп Тайип Эрдоган назвал «решающей в истории альянса».</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c1kyrdrkw9vo</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Собираются так воевать десятилетия». Минобороны России готовит закон о возвращении раненых на фронт</title>
-      <link>https://www.bbc.com/russian/articles/cn4rrr1k1n8o</link>
-      <description>Минобороны России на пятый год войны в Украине впервые подготовило законопроект, позволяющий возвращать на фронт военных, получивших болезни, ранения и увечья, без медицинского освидетельствования их годности к службе. Как выяснила Би-би-си, такая практика существует давно, и наиболее жесткие правила — для бывших заключенных.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn4rrr1k1n8o</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -160,7 +152,7 @@
       <title>Видео,Чего Зеленский добился от Трампа? | Видеоподкаст «Что это было?», Продолжительность 31,49</title>
       <link>https://www.bbc.com/russian/articles/cqx1vz157n2o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqx1vz157n2o</guid>
-      <pubDate>Sun, 12 Jul 2026 03:43:39 +0000</pubDate>
+      <pubDate>Sun, 12 Jul 2026 06:35:37 +0000</pubDate>
     </item>
     <item>
       <title>Джереми Боуэн: несмотря на всю браваду Трампа, у него нет лучшего выхода, чем переговоры с Ираном</title>
@@ -177,17 +169,18 @@
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Из-за рубежа на фронт. Что известно о потерях иностранцев в составе российских сил в Украине</title>
+      <link>https://www.bbc.com/russian/articles/c7vy489mjjjo</link>
+      <description>По меньшей мере 3589 иностранцев погибли, воюя за Россию в ходе полномасштабного вторжения в Украину, следует из подсчетов Би-би-си. Это выходцы из более чем 40 стран: от Эквадора и США до Вьетнама и Шри-Ланки.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c7vy489mjjjo</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Ариадна, ты меня бесишь!» Как семейный конфликт привел к депортации антивоенной активистки из Турции в Россию</title>
       <link>https://www.bbc.com/russian/articles/c70ygd99529o</link>
       <description>Турция депортировала в Россию 24-летнюю антивоенную активистку Ариадну Литвинову, на которую в Петербурге заведено уголовное дело о дискредитации армии. После прилета в Россию девушку задержали в аэропорту и заключили под стражу. Перед этим Литвинова уехала в Турцию к живущему там отцу, но, как он сам рассказал Би-би-си, их отношения не заладились, и после очередной ссоры, которая закончилась дракой, он вызвал полицию, не осознавая, что в России дочери может что-то угрожать.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c70ygd99529o</guid>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Из-за рубежа на фронт. Что известно о потерях иностранцев в составе российских сил в Украине</title>
-      <link>https://www.bbc.com/russian/articles/c7vy489mjjjo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c7vy489mjjjo</guid>
-      <pubDate>Sun, 12 Jul 2026 03:43:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
