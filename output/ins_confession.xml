@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 13 Jul 2026 06:56:01 +0000</lastBuildDate>
-    <item>
-      <title>«Я знаю, что мои руки по локоть в крови». Исповеди бежавших с фронта</title>
-      <link>https://theins.ru/confession/267447</link>
-      <guid isPermaLink="false">https://theins.ru/confession/267447</guid>
-      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Jul 2026 10:30:34 +0000</lastBuildDate>
     <item>
       <title>«Ужасно, когда читаешь об издевательствах и пытках и не можешь поддержать, сказать — я рядом, мы справимся». Исповеди жен политзаключенных</title>
       <link>https://theins.ru/confession/266743</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/confession/292995</link>
       <guid isPermaLink="false">https://theins.ru/confession/292995</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Попытки изменить Россию изнутри ни к чему не приводят, а воевать за Украину — это имеет значение!» — экс-журналист «Дождя» о службе в ВСУ</title>
+      <link>https://theins.ru/confession/294401</link>
+      <guid isPermaLink="false">https://theins.ru/confession/294401</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
