@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 13 Jul 2026 20:58:55 +0000</lastBuildDate>
-    <item>
-      <title>Премия за риск. Как Илон Маск стал первым в мире триллионером</title>
-      <link>https://mostmedia.org/ru/posts/premia-za-risk-kak-ilon-mask-stal-pervym-v-mire-trillionerom</link>
-      <description>За счет чего бизнес‑модель Маска превращает технологические амбиции в рекордную стоимость? И что этот феномен говорит нам об экономике, где надежды на будущее всё чаще перевешивают прибыль «здесь и сейчас»?</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/premia-za-risk-kak-ilon-mask-stal-pervym-v-mire-trillionerom</guid>
-      <enclosure url="https://mostmedia.org/uploads/files/f/2/5/a/c/f25ac50b3353b4d8cf4bdaab23f16c72.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 16 Jun 2026 21:20:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Jul 2026 22:02:50 +0000</lastBuildDate>
     <item>
       <title>Генерал и его армия. Почему во Франции так немного байопиков о де Голле</title>
       <link>https://mostmedia.org/ru/posts/general-i-ego-armia-pochemu-vo-francii-tak-malo-baiopikov-o-de-golle</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/pochemu-putinskaja-rossia-okazalas-huzhe-sssr-objasnjajut-rene-genon-i-julius-evola</guid>
       <enclosure url="https://mostmedia.org/uploads/files/b/b/f/9/a/bbf9a8bc985ca3259a09f9667ea2ca36.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Карьера Марин Ле Пен, которой могло бы не быть. В 2027 году президентом Франции может стать женщина с уголовным приговором</title>
+      <link>https://mostmedia.org/ru/posts/karera-marin-le-pen-kotoroi-moglo-by-ne-byt-v-2027-godu-prezidentom-francii-mozhet-stat-zhenshina-s-ugolovnym-prigovorom</link>
+      <description>На десятом году правления Эмманюэля Макрона французское общество глубоко разочаровано в нём, а политическая система дестабилизирована. Многие избиратели теперь видят в голосовании за Марин Ле Пен и её «Национальное объединение» единственный способ выразить злость и недоверие к этой системе.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/karera-marin-le-pen-kotoroi-moglo-by-ne-byt-v-2027-godu-prezidentom-francii-mozhet-stat-zhenshina-s-ugolovnym-prigovorom</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/e/5/a/a/7/e5aa796d1683f456bb34758752df4de4.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
