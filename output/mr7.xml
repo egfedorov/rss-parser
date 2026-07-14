@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 14 Jul 2026 05:57:18 +0000</lastBuildDate>
-    <item>
-      <title>«Любители» VS «наёмники» — ночью в Главном штабе искали разницу между блогерами и журналистами</title>
-      <link>https://mr-7.ru/articles/2026/05/19/liubiteli-vs-naemniki-nochiu-v-glavnom-shtabe-iskali-raznitsu-mezhdu-blogerami-i-zhurnalistami</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/05/19/liubiteli-vs-naemniki-nochiu-v-glavnom-shtabe-iskali-raznitsu-mezhdu-blogerami-i-zhurnalistami</guid>
-      <enclosure url="https://mr-7.ru/static/records/d1b1b6cbb40c49a196c84c562be7cf48.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 19 May 2026 10:16:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Jul 2026 08:20:31 +0000</lastBuildDate>
     <item>
       <title>Производственно-пожарный центр вместо скалодрома — в Петербурге прощаются с «Северной стеной»</title>
       <link>https://mr-7.ru/articles/2026/05/19/proizvodstvenno-pozharnyi-tsentr-vmesto-skalodroma-v-peterburge-proshchaiutsia-s-severnoi-stenoi</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/10/sryvaiut-shapki-radi-vsm-mogut-steret-s-litsa-zemli-drevnie-kholmy</guid>
       <enclosure url="https://mr-7.ru/static/records/1c9977a631c3456c862dbd1c7147293c.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 10 Jul 2026 14:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Мы назвали дочь Мира»: депутат ЗакСа Дмитрий Анисимов рассказал о двух месяцах в парламенте, защите Петербурга и надежде на будущее</title>
+      <link>https://mr-7.ru/articles/2026/07/14/my-nazvali-doch-mira-deputat-zaksa-dmitrii-anisimov-rasskazal-o-dvukh-mesiatsakh-v-parlamente-zashchite-peterburga-i-nadezhde-na-budushchee</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/14/my-nazvali-doch-mira-deputat-zaksa-dmitrii-anisimov-rasskazal-o-dvukh-mesiatsakh-v-parlamente-zashchite-peterburga-i-nadezhde-na-budushchee</guid>
+      <enclosure url="https://mr-7.ru/static/records/e18fde81957e4d3296a9e8df9c5c6b74.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 07:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
