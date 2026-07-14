@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 14 Jul 2026 16:49:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 18:05:52 +0000</lastBuildDate>
     <item>
       <title>Зумеры против ИИ? Нападения на дом создателя ChatGPT вызвали дискуссию о кризисе доверия к искусственному интеллекту</title>
       <link>https://www.bbc.com/russian/articles/c3r357g88yyo</link>
@@ -174,6 +174,14 @@
       <description>Космос оказывает влияние на мозг астронавтов — и это может стать серьезной проблемой для более дальних миссий, чем полеты к Луне.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn4d5lwx404o</guid>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Круговорот министров»? Зачем Зеленский меняет премьера и кто может возглавить кабмин. Текстовая версия подкаста «Что это было?»</title>
+      <link>https://www.bbc.com/russian/articles/c9d27w7qy77o</link>
+      <description>Президент Украины Владимир Зеленский объявил, что Юлия Свириденко покинет пост премьер-министра. Президент связал это с изменением политической стратегии Украины. Что это значит? Почему Свириденко уходит и кто ее заменит?
+Ведущий подкаста Русской службы Би-би-си «Что это было» Олег Антоненко обсудил эти вопросы с обозревателем Константином Скоркиным.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c9d27w7qy77o</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
