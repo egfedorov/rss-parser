@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 15 Jul 2026 18:35:07 +0000</lastBuildDate>
-    <item>
-      <title>Театр, который сшивает время: как «НИТИ» стали хранителями памяти института Вавилова</title>
-      <link>https://mr-7.ru/articles/2026/05/21/teatr-kotoryi-sshivaet-vremia-kak-niti-stali-khraniteliami-pamiati-instituta-vavilova</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/05/21/teatr-kotoryi-sshivaet-vremia-kak-niti-stali-khraniteliami-pamiati-instituta-vavilova</guid>
-      <enclosure url="https://mr-7.ru/static/records/a73ef8d1f32442839b579c829ef410fe.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 21 May 2026 11:26:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 19:49:01 +0000</lastBuildDate>
     <item>
       <title>С роботами, Прилепиным и вьетнамцами — в Петербурге прошёл первый день Книжного салона-2026</title>
       <link>https://mr-7.ru/articles/2026/05/21/s-robotami-prilepinym-i-vetnamtsami-v-peterburge-proshel-pervyi-den-knizhnogo-salona-2026</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/14/nicheinoe-primirenie-istoriia-odnogo-pamiatnika-v-poliustrovo</guid>
       <enclosure url="https://mr-7.ru/static/records/e0e5ddab7836433dbc3201bcaa11cc5d.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 14 Jul 2026 14:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Наказание коммунисту Ивану Апостолевскому и градозащитнику Олегу Мухину менять не стали</title>
+      <link>https://mr-7.ru/articles/2026/07/15/nakazanie-kommunistu-ivanu-apostolevskomu-i-gradozashchitniku-olegu-mukhinu-meniat-ne-stali</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/15/nakazanie-kommunistu-ivanu-apostolevskomu-i-gradozashchitniku-olegu-mukhinu-meniat-ne-stali</guid>
+      <enclosure url="https://mr-7.ru/static/records/c1d059c6abba460abace70e7f7843522.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jul 2026 18:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
