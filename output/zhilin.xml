@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 15 Jul 2026 05:59:45 +0000</lastBuildDate>
-    <item>
-      <title>«Командиры говорили, что нас с цветами будут встречать» — История Артема с позывным Z, который плохо относится к пропаганде и знает, за что воевал сам</title>
-      <link>https://novayagazeta.ru/articles/2025/07/07/komandiry-govorili-chto-nas-s-tsvetami-budut-vstrechat</link>
-      <description>История Артема с позывным Z, который плохо относится к пропаганде и знает, за что воевал сам</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/07/07/komandiry-govorili-chto-nas-s-tsvetami-budut-vstrechat</guid>
-      <pubDate>Mon, 07 Jul 2025 10:33:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 08:30:18 +0000</lastBuildDate>
     <item>
       <title>«Дети там копируют взрослых: строят свои блокпосты» — История Станислава Егорова с позывным Суворовец, который был одним из командиров в «Вагнере»</title>
       <link>https://novayagazeta.ru/articles/2025/07/07/deti-tam-kopiruiut-vzroslykh-stroiat-svoi-blokposty</link>
@@ -287,6 +280,13 @@
       <description>Что происходит с ранеными на поле боя. Рассказывают участники боевых действий</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/07/01/sashka-dve-nedeli-v-zemlianke-lezhal-on-sebe-paltsy-otrezal</guid>
       <pubDate>Thu, 02 Jul 2026 07:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Человека нельзя делать разменной монетой» — Жительница Петербурга утверждает: ее отца обманом женили и отправили на СВО, чтоб получить деньги за его гибель</title>
+      <link>https://novayagazeta.ru/articles/2026/07/15/cheloveka-nelzia-delat-razmennoi-monetoi</link>
+      <description>Жительница Петербурга утверждает: ее отца обманом женили и отправили на СВО, чтоб получить деньги за его гибель</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/07/15/cheloveka-nelzia-delat-razmennoi-monetoi</guid>
+      <pubDate>Wed, 15 Jul 2026 07:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
