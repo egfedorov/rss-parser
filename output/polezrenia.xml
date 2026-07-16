@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 16 Jul 2026 04:28:29 +0000</lastBuildDate>
-    <item>
-      <title>Новая Москва — путь самурая</title>
-      <link>https://polezrenia.info/2026/06/03/novaya-moskva-put-samuraya/</link>
-      <description>От исторических проектов до современных человейников. Как живет ТиНАО спустя годы после расширения.</description>
-      <guid isPermaLink="false">https://polezrenia.info/2026/06/03/novaya-moskva-put-samuraya/</guid>
-      <enclosure url="https://polezrenia.info/wp-content/uploads/2026/06/front-e1780473752298.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 07:07:51 +0000</lastBuildDate>
     <item>
       <title>И вас «отрегулируют»</title>
       <link>https://polezrenia.info/2026/06/04/i-vas-otreguliruyut/</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://polezrenia.info/2026/07/13/na-kavkaze-travli-net/</guid>
       <enclosure url="https://polezrenia.info/wp-content/uploads/2026/07/01-1.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Не надо поить чудовищ»</title>
+      <link>https://polezrenia.info/2026/07/16/ne-nado-poit-chudovishh/</link>
+      <description>Внучка расстрелянного священника, исследовательница концлагеря в Екатеринбурге и активистка, осужденная за букву «Н». История Татьяны Знак.</description>
+      <guid isPermaLink="false">https://polezrenia.info/2026/07/16/ne-nado-poit-chudovishh/</guid>
+      <enclosure url="https://polezrenia.info/wp-content/uploads/2026/07/01-1-e1784103918546.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
