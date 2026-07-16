@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 16 Jul 2026 09:31:52 +0000</lastBuildDate>
-    <item>
-      <title>Доказательство от противного. Как Россия и Трамп сплотили Евросоюз, вернув ЕС популярность в обществе</title>
-      <link>https://theins.ru/politika/289504</link>
-      <guid isPermaLink="false">https://theins.ru/politika/289504</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 11:20:44 +0000</lastBuildDate>
     <item>
       <title>Система сдержек и виселиц: как иранский режим стал таким устойчивым</title>
       <link>https://theins.ru/politika/291437</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/politika/294421</link>
       <guid isPermaLink="false">https://theins.ru/politika/294421</guid>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Багдадские воришки. Как борьба нового премьера Ирака с нефтяной коррупцией ударит по интересам России</title>
+      <link>https://theins.ru/politika/294569</link>
+      <guid isPermaLink="false">https://theins.ru/politika/294569</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
