@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 20 Jul 2026 16:25:14 +0000</lastBuildDate>
-    <item>
-      <title>Зумеры против ИИ? Нападения на дом создателя ChatGPT вызвали дискуссию о кризисе доверия к искусственному интеллекту</title>
-      <link>https://www.bbc.com/russian/articles/c3r357g88yyo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3r357g88yyo</guid>
-      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Jul 2026 18:31:38 +0000</lastBuildDate>
     <item>
       <title>«Там темно и страшно». Как живет человек с одной из самых опасных работ в мире: спускаться под взорвавшийся реактор ЧАЭС</title>
       <link>https://www.bbc.com/russian/articles/c893vywdd7jo</link>
@@ -153,6 +147,12 @@
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Перспективы работы очень туманные». Могут ли продавцы Wildberries добиться компенсаций потерь из-за украинских ударов?</title>
+      <link>https://www.bbc.com/russian/articles/c6294pexndno</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6294pexndno</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Вечные страдания старой доброй Англии. Как страна переживает очередную футбольную трагедию</title>
       <link>https://www.bbc.com/russian/articles/cy8m4v1ry4go</link>
       <description>На последних пяти крупных турнирах набитая звездами команда проиграла два финала, два полуфинала и один четвертьфинал. Англичане спорят:  кто виноват и что делать?</description>
@@ -164,7 +164,7 @@
       <link>https://www.bbc.com/russian/articles/cj4g44e77xjo</link>
       <description>Интервью Бориса Надеждина</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cj4g44e77xjo</guid>
-      <pubDate>Mon, 20 Jul 2026 16:25:14 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 18:31:38 +0000</pubDate>
     </item>
     <item>
       <title>Беларусь экспортировала в Россию рекордный объем бензина в июне. Грозит ли это дефицитом и ростом цен внутри страны?</title>
