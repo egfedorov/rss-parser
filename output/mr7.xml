@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 20 Jul 2026 10:14:59 +0000</lastBuildDate>
-    <item>
-      <title>«Внук Т-34» и автоуничтожитель борщевика — что показывают на «ТранспортФесте-2026»</title>
-      <link>https://mr-7.ru/articles/2026/05/22/vnuk-t-34-i-avtounichtozhitel-borshchevika-chto-pokazyvaiut-na-transportfeste-2026</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/05/22/vnuk-t-34-i-avtounichtozhitel-borshchevika-chto-pokazyvaiut-na-transportfeste-2026</guid>
-      <enclosure url="https://mr-7.ru/static/records/aed5f3f1466648e8b11d822d48f6e7f9.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 22 May 2026 14:04:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Jul 2026 12:27:26 +0000</lastBuildDate>
     <item>
       <title>Семь поводов выйти из дома 23—24 мая</title>
       <link>https://mr-7.ru/articles/2026/05/22/7-povodov-vyiti-iz-doma-23-24-maia</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/19/kak-teper-zhit-pod-etim-solntsem-podkhody-v-lechenii-i-diagnostiki-meniaiutsia-no-faktory-riska-ostaiutsia</guid>
       <enclosure url="https://mr-7.ru/static/records/1002aa2667aa48b38936be298d38041d.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 19 Jul 2026 10:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Просто взять старую карту — это уже круто»: как петербургский гид изучает город через дореволюционные чертежи и планы</title>
+      <link>https://mr-7.ru/articles/2026/07/20/prosto-vziat-staruiu-kartu-eto-uzhe-kruto-kak-peterburgskii-gid-izuchaet-gorod-cherez-dorevoliutsionnye-chertezhi-i-plany</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/20/prosto-vziat-staruiu-kartu-eto-uzhe-kruto-kak-peterburgskii-gid-izuchaet-gorod-cherez-dorevoliutsionnye-chertezhi-i-plany</guid>
+      <enclosure url="https://mr-7.ru/static/records/1ac060ccc01344e38fd1f807641a507b.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 10:33:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
