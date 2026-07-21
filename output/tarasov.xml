@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 21 Jul 2026 04:36:17 +0000</lastBuildDate>
-    <item>
-      <title>Обедая с дьяволом, пользуйся длинной ложкой — Если выпало среди людоедов родиться: наброски к несостоявшемуся разговору со студентами</title>
-      <link>https://novayagazeta.ru/articles/2025/11/18/obedaia-s-diavolom-polzuisia-dlinnoi-lozhkoi</link>
-      <description>Если выпало среди людоедов родиться: наброски к несостоявшемуся разговору со студентами</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/11/18/obedaia-s-diavolom-polzuisia-dlinnoi-lozhkoi</guid>
-      <pubDate>Tue, 18 Nov 2025 07:05:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 07:18:13 +0000</lastBuildDate>
     <item>
       <title>Ной жив, или Бонус от старшего сына — Из семейного альбома, обращенного к моим детям. Но там нет секретов, и, может, это придаст сил еще кому-то</title>
       <link>https://novayagazeta.ru/articles/2025/10/28/noi-zhiv-ili-bonus-ot-starshego-syna</link>
@@ -287,6 +280,13 @@
       <description>Как детдомовец Витя стал наемным убийцей в маске клоуна, ушел из тюрьмы на СВО и теперь над ним никто больше не смеется</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/07/08/kill-zona</guid>
       <pubDate>Wed, 08 Jul 2026 07:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Репортаж с колеей на шее — Бензиновый кризис долго обходил Красноярск. Грянуло позже. Заметки из автомобильной пробки</title>
+      <link>https://novayagazeta.ru/articles/2026/07/21/reportazh-s-koleei-na-shee</link>
+      <description>Бензиновый кризис долго обходил Красноярск. Грянуло позже. Заметки из автомобильной пробки</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/07/21/reportazh-s-koleei-na-shee</guid>
+      <pubDate>Tue, 21 Jul 2026 07:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
