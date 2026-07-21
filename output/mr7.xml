@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 21 Jul 2026 11:48:21 +0000</lastBuildDate>
-    <item>
-      <title>Семь поводов выйти из дома 23—24 мая</title>
-      <link>https://mr-7.ru/articles/2026/05/22/7-povodov-vyiti-iz-doma-23-24-maia</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/05/22/7-povodov-vyiti-iz-doma-23-24-maia</guid>
-      <enclosure url="https://mr-7.ru/static/records/df18be65bd54444a83cd97fdd84b6270.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 22 May 2026 14:06:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 13:57:48 +0000</lastBuildDate>
     <item>
       <title>Бывший военный в суде признал вину в распространении «фейков об армии»</title>
       <link>https://mr-7.ru/articles/2026/05/25/byvshii-voennyi-v-sude-priznal-vinu-v-rasprostranenii-feikov-ob-armii</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/20/prosto-vziat-staruiu-kartu-eto-uzhe-kruto-kak-peterburgskii-gid-izuchaet-gorod-cherez-dorevoliutsionnye-chertezhi-i-plany</guid>
       <enclosure url="https://mr-7.ru/static/records/1ac060ccc01344e38fd1f807641a507b.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 20 Jul 2026 10:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Стеклянный городок: вокруг возрождённой Скорбященской церкви появляется новое культурное пространство</title>
+      <link>https://mr-7.ru/articles/2026/07/21/stekliannyi-gorodok-vokrug-vozrozhdennoi-skorbiashchenskoi-tserkvi-poiavliaetsia-novoe-kulturnoe-prostranstvo</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/21/stekliannyi-gorodok-vokrug-vozrozhdennoi-skorbiashchenskoi-tserkvi-poiavliaetsia-novoe-kulturnoe-prostranstvo</guid>
+      <enclosure url="https://mr-7.ru/static/records/eb2b513c22614a27a458a3251aecd6cc.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Jul 2026 13:11:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
