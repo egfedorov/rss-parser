@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 21 Jul 2026 07:18:29 +0000</lastBuildDate>
-    <item>
-      <title>«Китай понимает, что Россия никуда от него не денется» — Сможет ли Трамп поссорить Москву с Пекином? На вопросы «Новой газеты» отвечает востоковед Темур Умаров</title>
-      <link>https://novayagazeta.ru/articles/2025/06/18/kitai-ponimaet-chto-rossiia-nikuda-ot-nego-ne-denetsia</link>
-      <description>Сможет ли Трамп поссорить Москву с Пекином? На вопросы «Новой газеты» отвечает востоковед Темур Умаров</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/06/18/kitai-ponimaet-chto-rossiia-nikuda-ot-nego-ne-denetsia</guid>
-      <pubDate>Wed, 18 Jun 2025 08:13:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 09:45:40 +0000</lastBuildDate>
     <item>
       <title>«Академия наук еще не кладбище» — Что происходит в РАН и почему наука в России до сих пор существует? На вопросы «Новой» отвечает редактор издания для ученых T-invariant* Ольга Орлова</title>
       <link>https://novayagazeta.ru/articles/2025/06/20/akademiia-nauk-eshche-ne-kladbishche</link>
@@ -287,6 +280,13 @@
       <description>Кем был советский доктор, который испытывал яды на заключенных?</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/07/02/laboratoriia-kh</guid>
       <pubDate>Thu, 02 Jul 2026 10:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Этот режим не будет договариваться с Трампом» — Кто и как управляет Ираном сегодня? Объясняет востоковед Михаил Бородкин</title>
+      <link>https://novayagazeta.ru/articles/2026/07/21/etot-rezhim-ne-budet-dogovarivatsia-s-trampom</link>
+      <description>Кто и как управляет Ираном сегодня? Объясняет востоковед Михаил Бородкин</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/07/21/etot-rezhim-ne-budet-dogovarivatsia-s-trampom</guid>
+      <pubDate>Tue, 21 Jul 2026 09:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
