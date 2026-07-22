@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 22 Jul 2026 17:44:22 +0000</lastBuildDate>
-    <item>
-      <title>В масках Беглова и в «щели» градозащитники «вручили» антипремию «Непочётный гражданин Петербурга»</title>
-      <link>https://mr-7.ru/articles/2026/05/27/v-maskakh-beglova-i-v-shcheli-gradozashchitniki-vruchili-antipremiiu-nepochetnyi-grazhdanin-peterburga</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/05/27/v-maskakh-beglova-i-v-shcheli-gradozashchitniki-vruchili-antipremiiu-nepochetnyi-grazhdanin-peterburga</guid>
-      <enclosure url="https://mr-7.ru/static/records/db60f233d54d445fa9695ae62f6db4e5.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 May 2026 09:17:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Jul 2026 19:24:45 +0000</lastBuildDate>
     <item>
       <title>Сталактиты и ил: как разрушаются подвесные дворы Петербурга</title>
       <link>https://mr-7.ru/articles/2026/05/27/stalaktity-i-il-kak-razrushaiutsia-podvesnye-dvory-peterburga</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/22/ego-poseshchal-diuma-otets-ego-stirali-s-karty-rzhd-zapustili-tury-na-ostrov-konevets-news</guid>
       <enclosure url="https://mr-7.ru/static/records/fe703bc76b164bbea07cf2130d18a26f.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 22 Jul 2026 11:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Обвиняемая в «дискредитации армии» бывшая студентка колледжа полиции после депортации из Турции оказалась в СИЗО «Арсеналка»</title>
+      <link>https://mr-7.ru/articles/2026/07/22/obviniaemaia-v-diskreditatsii-armii-byvshaia-studentka-kolledzha-politsii-posle-deportatsii-iz-turtsii-okazalas-v-sizo-arsenalka</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/22/obviniaemaia-v-diskreditatsii-armii-byvshaia-studentka-kolledzha-politsii-posle-deportatsii-iz-turtsii-okazalas-v-sizo-arsenalka</guid>
+      <enclosure url="https://mr-7.ru/static/records/f30d0f0beb8648ba92ff74efe371b07c.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 22 Jul 2026 17:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
