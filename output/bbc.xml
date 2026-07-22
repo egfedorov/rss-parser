@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 22 Jul 2026 12:08:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 14:29:18 +0000</lastBuildDate>
     <item>
       <title>Чудо коммуникации или иллюзия? В России вышел доксериал о людях с аутизмом. К нему есть вопросы</title>
       <link>https://www.bbc.com/russian/articles/clypd78znvko</link>
@@ -147,24 +147,11 @@
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Финансовые итоги чемпионата мира по футболу: кто выиграл и кто в минусе</title>
-      <link>https://www.bbc.com/russian/articles/cm2g8n1x30no</link>
-      <description>Этот Кубок мира превзошел по своим масштабам любой из предыдущих. Больше стран-участниц, больше матчей, а значит — больше зрителей и больше способов заработать на этом. Звезды футбола творят историю на зеленом поле, а вокруг растут и пузырятся миллиарды долларов. Впрочем, кому доходы, а кому и убыток.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm2g8n1x30no</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Обнуление срока Токаева: зачем Казахстану новая конституция и вице-президент</title>
       <link>https://www.bbc.com/russian/articles/cj4kdvv212ko</link>
       <description>Новая конституция Казахстана позволила начать отсчет президентских сроков заново и открыла Касым-Жомарту Токаеву путь к участию в выборах 2029 года. Впрочем, как говорят аналитики, само по себе продление его власти — не главное в этой масштабной реформе.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cj4kdvv212ko</guid>
       <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Видео,Зачем Украина бьет по Wildberries? |  Видеоподкаст «Что это было?», Продолжительность 27,06</title>
-      <link>https://www.bbc.com/russian/articles/cdx8vwjq14ro</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cdx8vwjq14ro</guid>
-      <pubDate>Wed, 22 Jul 2026 12:08:04 +0000</pubDate>
     </item>
     <item>
       <title>Как выпускник китайского университета стал «фентаниловым королем» в Мексике</title>
@@ -174,11 +161,23 @@
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Видео,Зачем Украина бьет по Wildberries? |  Видеоподкаст «Что это было?», Продолжительность 27,06</title>
+      <link>https://www.bbc.com/russian/articles/cdx8vwjq14ro</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cdx8vwjq14ro</guid>
+      <pubDate>Wed, 22 Jul 2026 14:29:18 +0000</pubDate>
+    </item>
+    <item>
       <title>«Перспективы работы очень туманные». Могут ли продавцы Wildberries добиться компенсаций потерь из-за украинских ударов?</title>
       <link>https://www.bbc.com/russian/articles/c6294pexndno</link>
       <description>В ночь на субботу украинские дроны атаковали два склада крупнейшего российского маркетплейса Wildberries — в подмосковной Электростали и под Тамбовом. Склад в Московской области почти полностью выгорел вместе с товаром сотен продавцов, которые начали публично жаловаться на многомиллионные потери в социальных сетях. Русская служба Би-би-си поговорила с пострадавшими продавцами, юристом и экономистом о последствиях этих ударов.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6294pexndno</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Видео,Как выжить в войне городов и готова ли к ней Россия? | Военное время, Продолжительность 12,12</title>
+      <link>https://www.bbc.com/russian/articles/cx2rv3k19d7o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx2rv3k19d7o</guid>
+      <pubDate>Wed, 22 Jul 2026 14:29:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
