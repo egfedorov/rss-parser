@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 24 Jul 2026 21:06:23 +0000</lastBuildDate>
-    <item>
-      <title>Российско-украинская война может перекинуться на территорию Беларуси. И это было бы ошибкой Зеленского</title>
-      <link>https://mostmedia.org/ru/posts/rossysko-ukrainskaja-voina-mozhet-perekinutsja-na-territoriju-belarusi-i-eto-bylo-by-oshibkoi-zelenskogo</link>
-      <description>Эскалация взаимных угроз между Лукашенко и Зеленским последние три месяца идёт по нарастающей. Причем в ходу не только слова: всё очень серьёзно</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/rossysko-ukrainskaja-voina-mozhet-perekinutsja-na-territoriju-belarusi-i-eto-bylo-by-oshibkoi-zelenskogo</guid>
-      <enclosure url="https://mostmedia.org/uploads/files/8/c/d/0/b/8cd0b30e151c09031303320da8e5fc38.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 22 Jun 2026 02:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Jul 2026 22:30:16 +0000</lastBuildDate>
     <item>
       <title>Дом, который строят с крыши. Что общего у российской оппозиции в изгнании и «Единой России»</title>
       <link>https://mostmedia.org/ru/posts/dom-kotoryi-strojat-s-kryshi-chto-obshego-u-rossyskoi-oppozicii-v-izgnanii-i-edinoi-rossii</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/fauda-bez-priznakov-gollivuda-kak-7-oktjabrja-izmenilo-samyi-uspeshnyi-izrailsky-serial</guid>
       <enclosure url="https://mostmedia.org/uploads/files/c/3/5/1/4/c351450fe7fc0e9a93994d7e0ab0c160.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 17 Jul 2026 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Скажи ещё спасибо, что живой. В России вводят гражданскую казнь для политических эмигрантов</title>
+      <link>https://mostmedia.org/ru/posts/skazhi-eshe-spasibo-chto-zhivoi-v-rossii-vvodjat-grazhdanskuju-kazn-dlja-politicheskih-emigrantov</link>
+      <description>Закон, принятый на этой неделе Госдумой, не просто позволяет замораживать деньги и имущество политических эмигрантов, но и легализует издевательства над их родными в России</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/skazhi-eshe-spasibo-chto-zhivoi-v-rossii-vvodjat-grazhdanskuju-kazn-dlja-politicheskih-emigrantov</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/3/9/d/e/6/39de615bd3cd736e38f9ba53d89162f3.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 25 Jul 2026 00:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
