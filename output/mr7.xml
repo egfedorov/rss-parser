@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 24 Jul 2026 09:08:12 +0000</lastBuildDate>
-    <item>
-      <title>Сталактиты и ил: как разрушаются подвесные дворы Петербурга</title>
-      <link>https://mr-7.ru/articles/2026/05/27/stalaktity-i-il-kak-razrushaiutsia-podvesnye-dvory-peterburga</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/05/27/stalaktity-i-il-kak-razrushaiutsia-podvesnye-dvory-peterburga</guid>
-      <enclosure url="https://mr-7.ru/static/records/e15df968461e4e33aa7f30985ed2492e.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 27 May 2026 10:47:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Jul 2026 11:14:11 +0000</lastBuildDate>
     <item>
       <title>«История как она есть»: как прошла премьера фильма о петербургских краеведах</title>
       <link>https://mr-7.ru/articles/2026/05/28/istoriia-kak-ona-est-kak-proshla-premera-filma-o-peterburgskikh-kraevedakh</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/22/obviniaemaia-v-diskreditatsii-armii-byvshaia-studentka-kolledzha-politsii-posle-deportatsii-iz-turtsii-okazalas-v-sizo-arsenalka</guid>
       <enclosure url="https://mr-7.ru/static/records/2fd66742b39640b9a886ad41c2c52939.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 22 Jul 2026 17:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 поводов выйти из дома 25 — 26 июля</title>
+      <link>https://mr-7.ru/articles/2026/07/24/7-povodov-vyiti-iz-doma-25-26-iiulia</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/24/7-povodov-vyiti-iz-doma-25-26-iiulia</guid>
+      <enclosure url="https://mr-7.ru/static/records/a800a95966b440adaea27686396fff24.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jul 2026 09:21:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
