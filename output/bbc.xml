@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 25 Jul 2026 09:14:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 10:47:37 +0000</lastBuildDate>
     <item>
       <title>Найти рядового Бокиджона. Тайна советского солдата, бежавшего из лагеря на острове Джерси</title>
       <link>https://www.bbc.com/russian/articles/c302mr9gmdyo</link>
@@ -155,12 +155,6 @@
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Видео,Новый главком ВСУ: чего ждать от Михаила Драпатого? | Видеоподкаст «Что это было?», Продолжительность 35,14</title>
-      <link>https://www.bbc.com/russian/articles/cpq8lwrn82qo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cpq8lwrn82qo</guid>
-      <pubDate>Sat, 25 Jul 2026 09:14:17 +0000</pubDate>
-    </item>
-    <item>
       <title>«Беспокойства много у всех». Что происходит с повестками в военкомат и приближают ли они новую мобилизацию в России</title>
       <link>https://www.bbc.com/russian/articles/c77gj2v4zkeo</link>
       <description>В последние месяцы российские военкоматы стали чаще рассылать людям непризывного возраста повестки для уточнения данных воинского учета. Такие повестки получают не только мужчины, но и женщины — чаще всего с медицинским образованием. Многие из них повестки просто игнорируют. Русская служба Би-би-си поговорила с юристами и  правозащитниками о том, почему рассылают такие повестки и какая ответственность предусмотрена за их игнорирование.</description>
@@ -182,10 +176,17 @@
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Мир справился с первым нефтяным шоком из-за войны США с Ираном. Второй может быть хуже из-за войны России с Украиной</title>
+      <link>https://www.bbc.com/russian/articles/ckg6nxxnjwdo</link>
+      <description>Первый энергетический кризис из-за войны США с Ираном мир пережил относительно безболезненно. Грядущий усугубит война России с Украиной.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckg6nxxnjwdo</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>200 человек в день. Что мы знаем о потерях России в Украине к концу июля?</title>
       <link>https://www.bbc.com/russian/articles/crmr714l4w9o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/crmr714l4w9o</guid>
-      <pubDate>Sat, 25 Jul 2026 09:14:17 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 10:47:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
