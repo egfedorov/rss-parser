@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 26 Jul 2026 20:26:28 +0000</lastBuildDate>
-    <item>
-      <title>Дом, который строят с крыши. Что общего у российской оппозиции в изгнании и «Единой России»</title>
-      <link>https://mostmedia.org/ru/posts/dom-kotoryi-strojat-s-kryshi-chto-obshego-u-rossyskoi-oppozicii-v-izgnanii-i-edinoi-rossii</link>
-      <description>В июне российские оппозиционеры во главе с Ильёй Яшиным создали в Берлине партию «Мирная Россия», которая выступает против войны и Владимира Путина. Но её представления о будущем страны во многом воспроизводят ту же централизованную модель власти, которую сами оппозиционеры обычно критикуют</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/dom-kotoryi-strojat-s-kryshi-chto-obshego-u-rossyskoi-oppozicii-v-izgnanii-i-edinoi-rossii</guid>
-      <enclosure url="https://mostmedia.org/uploads/files/9/7/6/a/4/976a44b14060afd9a9cfa1f94a1a54ad.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 23 Jun 2026 01:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Jul 2026 21:36:09 +0000</lastBuildDate>
     <item>
       <title>«Русский язык не принадлежит Российской Федерации»</title>
       <link>https://mostmedia.org/ru/posts/russky-jazyk-ne-prinadlezhit-rossyskoi-federacii</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/skazhi-eshe-spasibo-chto-zhivoi-v-rossii-vvodjat-grazhdanskuju-kazn-dlja-politicheskih-emigrantov</guid>
       <enclosure url="https://mostmedia.org/uploads/files/3/9/d/e/6/39de615bd3cd736e38f9ba53d89162f3.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 25 Jul 2026 00:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Плачущие предприниматели как символ российского капитализма. Что показали удары ВСУ по складам Wildberries</title>
+      <link>https://mostmedia.org/ru/posts/plachushie-predprinimateli-kak-simvol-rossyskogo-kapitalizma-chto-pokazali-udary-vsu-po-skladam-wildberries</link>
+      <description>Почему государство не помогает продавцам, потерявшим товар после налётов украинских дронов, а выплаты Wildberries не спасают их от разорения? Объясняет экономист Николай Кульбака</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/plachushie-predprinimateli-kak-simvol-rossyskogo-kapitalizma-chto-pokazali-udary-vsu-po-skladam-wildberries</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/1/c/3/b/4/1c3b46f366a9ed527ca4227e0dea8ae7.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 00:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
