@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 27 Jul 2026 16:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 17:58:33 +0000</lastBuildDate>
     <item>
       <title>Найти рядового Бокиджона. Тайна советского солдата, бежавшего из лагеря на острове Джерси</title>
       <link>https://www.bbc.com/russian/articles/c302mr9gmdyo</link>
@@ -129,23 +129,16 @@
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Беспокойства много у всех». Что происходит с повестками в военкомат и приближают ли они новую мобилизацию в России</title>
+      <link>https://www.bbc.com/russian/articles/c77gj2v4zkeo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c77gj2v4zkeo</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Нужны новые идеи». После переговоров с Лавровым Рубио признал, что прошлогодний саммит на Аляске не принес результатов</title>
       <link>https://www.bbc.com/russian/articles/c04kn1wl679o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c04kn1wl679o</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Дальнобойные беспилотники и их дешевые убийцы. Как война в Украине изменила авиасалон Фарнборо</title>
-      <link>https://www.bbc.com/russian/articles/ce3qlqg8v9po</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ce3qlqg8v9po</guid>
-      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Беспокойства много у всех». Что происходит с повестками в военкомат и приближают ли они новую мобилизацию в России</title>
-      <link>https://www.bbc.com/russian/articles/c77gj2v4zkeo</link>
-      <description>В последние месяцы российские военкоматы стали чаще рассылать людям непризывного возраста повестки для уточнения данных воинского учета. Такие повестки получают не только мужчины, но и женщины — чаще всего с медицинским образованием. Многие из них повестки просто игнорируют. Русская служба Би-би-си поговорила с юристами и  правозащитниками о том, почему рассылают такие повестки и какая ответственность предусмотрена за их игнорирование.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c77gj2v4zkeo</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Чем обернется «война городов и танкеров» между Москвой и Киевом?</title>
@@ -174,6 +167,20 @@
       <description>Последние два года число подтвержденных нами погибших военных не опускается ниже уровня 200 человек в сутки. Это только те, чью смерть мы может верифицировать на основе публично доступных данных. Реальное число потерь будет еще выше.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/crmr714l4w9o</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Возможно ли научить людей распознавать, какое лицо сгенерировано ИИ?</title>
+      <link>https://www.bbc.com/russian/articles/ce8lynjpd10o</link>
+      <description>Люди плохо различают лица, созданные нейросетью: они могут казаться им даже более настоящими. Можно ли это исправить?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ce8lynjpd10o</guid>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дальнобойные беспилотники и их дешевые убийцы. Как война в Украине изменила авиасалон Фарнборо</title>
+      <link>https://www.bbc.com/russian/articles/ce3qlqg8v9po</link>
+      <description>Авиасалон, еще недавно бывший в большей степени мирной ярмаркой гражданской авиации, стремительно милитаризируется. Это заметно на стендах и открытых площадках, где число гражданских авиалайнеров сильно сократилось. Еще одно отличие — в этом году одним из самых заметных национальных участников авиасалона стала Украина.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ce3qlqg8v9po</guid>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
