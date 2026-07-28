@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 28 Jul 2026 18:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 20:17:30 +0000</lastBuildDate>
     <item>
       <title>Феномен Фараджа: как человек с сигаретой и пивом меняет Британию</title>
       <link>https://www.bbc.com/russian/articles/cp86d1v9v8ro</link>
@@ -174,6 +174,13 @@
       <description>Авиасалон, еще недавно бывший в большей степени мирной ярмаркой гражданской авиации, стремительно милитаризируется. Это заметно на стендах и открытых площадках, где число гражданских авиалайнеров сильно сократилось. Еще одно отличие — в этом году одним из самых заметных национальных участников авиасалона стала Украина.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/ce3qlqg8v9po</guid>
       <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зачем Токаев призывает Путина заморозить войну в Украине? Текстовая версия подкаста «Что это было» с Темуром Умаровым</title>
+      <link>https://www.bbc.com/russian/articles/cn8n08r4993o</link>
+      <description>Президент Казахстана Касым-Жомарт Токаев призвал Владимира Путина остановить войну в Украине. Почему Токаев заговорил о перемирии именно сейчас? Прислушается ли к нему Путин? И может ли президент Казахстана помочь России и Украине договориться?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn8n08r4993o</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
