@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 28 Jul 2026 05:49:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 08:37:52 +0000</lastBuildDate>
     <item>
       <title>Феномен Фараджа: как человек с сигаретой и пивом меняет Британию</title>
       <link>https://www.bbc.com/russian/articles/cp86d1v9v8ro</link>
@@ -148,13 +148,6 @@
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Мир справился с первым нефтяным шоком из-за войны США с Ираном. Второй может быть хуже из-за войны России с Украиной</title>
-      <link>https://www.bbc.com/russian/articles/ckg6nxxnjwdo</link>
-      <description>Первый энергетический кризис из-за войны США с Ираном мир пережил относительно безболезненно. Грядущий усугубит война России с Украиной.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckg6nxxnjwdo</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>От сцены Ла Скала до одиночной камеры в Рустави. Как оперный бас Бурчуладзе попал в грузинскую политику</title>
       <link>https://www.bbc.com/russian/articles/c9d8pxljn51o</link>
       <description>Он выступал в Ла Скала, Ковент-Гардене и Метрополитен-опере, получал престижные награды и был послом доброй воли ООН. Но последние десять месяцев место пребывания всемирно известного оперного баса Пааты Бурчуладзе — одиночная камера в Рустави, примерно в 30 км от грузинской столицы.</description>
@@ -169,11 +162,11 @@
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Возможно ли научить людей распознавать, какое лицо сгенерировано ИИ?</title>
-      <link>https://www.bbc.com/russian/articles/ce8lynjpd10o</link>
-      <description>Люди плохо различают лица, созданные нейросетью: они могут казаться им даже более настоящими. Можно ли это исправить?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ce8lynjpd10o</guid>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Мир справился с первым нефтяным шоком из-за войны США с Ираном. Второй может быть хуже из-за войны России с Украиной</title>
+      <link>https://www.bbc.com/russian/articles/ckg6nxxnjwdo</link>
+      <description>Первый энергетический кризис из-за войны США с Ираном мир пережил относительно безболезненно. Грядущий усугубит война России с Украиной.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckg6nxxnjwdo</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Дальнобойные беспилотники и их дешевые убийцы. Как война в Украине изменила авиасалон Фарнборо</title>
