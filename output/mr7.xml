@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 29 Jul 2026 11:27:29 +0000</lastBuildDate>
-    <item>
-      <title>7 поводов выйти из дома 30–31 мая</title>
-      <link>https://mr-7.ru/articles/2026/05/29/7-povodov-vyiti-iz-doma-30-31-maia</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/05/29/7-povodov-vyiti-iz-doma-30-31-maia</guid>
-      <enclosure url="https://mr-7.ru/static/records/25dd2b0361bc4a3bb3cea7b5d57e33dc.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 29 May 2026 15:08:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Jul 2026 13:21:16 +0000</lastBuildDate>
     <item>
       <title>В Смольном соборе начала работу выставка петербургских художников «Петербург Господу. Господь с Петербургом»</title>
       <link>https://mr-7.ru/articles/2026/05/30/v-smolnom-sobore-nachala-rabotu-vystavka-peterburgskikh-khudozhnikov-peterburg-gospodu-gospod-s-peterburgom</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/28/srok-osuzhdennoi-za-feiki-ob-armii-anne-aleksandrovoi-gorsud-vnov-ostavil-v-sile</guid>
       <enclosure url="https://mr-7.ru/static/records/77f733c0bc3a4200928a392f3e79e95a.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 28 Jul 2026 17:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Горсуд отказал градозащитникам в иске к КГИОП о признании памятником здания бывшей школы Берггольц</title>
+      <link>https://mr-7.ru/articles/2026/07/29/gorsud-otkazal-gradozashchitnikam-v-iske-k-kgiop-o-priznanii-pamiatnikom-zdaniia-byvshei-shkoly-berggolts</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/29/gorsud-otkazal-gradozashchitnikam-v-iske-k-kgiop-o-priznanii-pamiatnikom-zdaniia-byvshei-shkoly-berggolts</guid>
+      <enclosure url="https://mr-7.ru/static/records/246aefa40ffe43b49ceb51f8d4949450.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Jul 2026 12:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
