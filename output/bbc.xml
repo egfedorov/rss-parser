@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 30 Jul 2026 03:36:20 +0000</lastBuildDate>
-    <item>
-      <title>Как Елизавета II «сбежала» из Букингемского дворца и праздновала в толпе победу над нацистской Германией</title>
-      <link>https://www.bbc.com/russian/articles/c78qj6n56qvo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c78qj6n56qvo</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Jul 2026 06:11:50 +0000</lastBuildDate>
     <item>
       <title>Киберармия против «мамы Пашиняна». Как я ездила на саммит ЕС в Армении</title>
       <link>https://www.bbc.com/russian/articles/cq5pw4788qqo</link>
@@ -135,6 +129,12 @@
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Живем сегодняшним днем». Как Крым привыкает к жизни без света и воды</title>
+      <link>https://www.bbc.com/russian/articles/c5yek2851xzo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c5yek2851xzo</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Дальнобойные беспилотники и их дешевые убийцы. Как война в Украине изменила авиасалон Фарнборо</title>
       <link>https://www.bbc.com/russian/articles/ce3qlqg8v9po</link>
       <description>Авиасалон, еще недавно бывший в большей степени мирной ярмаркой гражданской авиации, стремительно милитаризируется. Это заметно на стендах и открытых площадках, где число гражданских авиалайнеров сильно сократилось. Еще одно отличие — в этом году одним из самых заметных национальных участников авиасалона стала Украина.</description>
@@ -149,16 +149,17 @@
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Видео,Зачем российских школьников вытесняют в колледжи? | Видеоподкаст «Что это было?», Продолжительность 26,27</title>
-      <link>https://www.bbc.com/russian/articles/clyqn95x5p2o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/clyqn95x5p2o</guid>
-      <pubDate>Thu, 30 Jul 2026 03:36:20 +0000</pubDate>
-    </item>
-    <item>
       <title>«Власти не нужно долго учить, нужно, чтобы шли работать». В России школьников вытесняют в колледжи, лишая шанса на высшее образование</title>
       <link>https://www.bbc.com/russian/articles/ckgd1rxp7gno</link>
       <description>Для российских школьников и их родителей переход из девятого класса в десятый превратился в квест: мест в старшей школе мало, а профильные классы не всем подходят. Государство подталкивает школьников к получению рабочих профессий, в вузы попасть все сложнее, а юношей после техникумов поджидает армия.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckgd1rxp7gno</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ИИ-апокалипсис: вероятность 10%. Эксперты составили рейтинг угроз искусственного интеллекта</title>
+      <link>https://www.bbc.com/russian/articles/cn5nxvdx9xxo</link>
+      <description>А если ничего не ограничивать и не регулировать, то вероятность катастрофы зашкаливает за 20%, согласно опросу 272 экспертов по искусственному интеллекту.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn5nxvdx9xxo</guid>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
