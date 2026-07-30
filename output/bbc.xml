@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 30 Jul 2026 00:15:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 03:36:20 +0000</lastBuildDate>
     <item>
       <title>Как Елизавета II «сбежала» из Букингемского дворца и праздновала в толпе победу над нацистской Германией</title>
       <link>https://www.bbc.com/russian/articles/c78qj6n56qvo</link>
@@ -135,19 +135,6 @@
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Система цементируется». Как Борис Надеждин проверил на себе изменения в российской власти</title>
-      <link>https://www.bbc.com/russian/articles/cly5gdnp2gzo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly5gdnp2gzo</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Мир справился с первым нефтяным шоком из-за войны США с Ираном. Второй может быть хуже из-за войны России с Украиной</title>
-      <link>https://www.bbc.com/russian/articles/ckg6nxxnjwdo</link>
-      <description>Первый энергетический кризис из-за войны США с Ираном мир пережил относительно безболезненно. Грядущий усугубит война России с Украиной.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckg6nxxnjwdo</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Дальнобойные беспилотники и их дешевые убийцы. Как война в Украине изменила авиасалон Фарнборо</title>
       <link>https://www.bbc.com/russian/articles/ce3qlqg8v9po</link>
       <description>Авиасалон, еще недавно бывший в большей степени мирной ярмаркой гражданской авиации, стремительно милитаризируется. Это заметно на стендах и открытых площадках, где число гражданских авиалайнеров сильно сократилось. Еще одно отличие — в этом году одним из самых заметных национальных участников авиасалона стала Украина.</description>
@@ -165,7 +152,7 @@
       <title>Видео,Зачем российских школьников вытесняют в колледжи? | Видеоподкаст «Что это было?», Продолжительность 26,27</title>
       <link>https://www.bbc.com/russian/articles/clyqn95x5p2o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/clyqn95x5p2o</guid>
-      <pubDate>Thu, 30 Jul 2026 00:15:39 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 03:36:20 +0000</pubDate>
     </item>
     <item>
       <title>«Власти не нужно долго учить, нужно, чтобы шли работать». В России школьников вытесняют в колледжи, лишая шанса на высшее образование</title>
@@ -173,6 +160,13 @@
       <description>Для российских школьников и их родителей переход из девятого класса в десятый превратился в квест: мест в старшей школе мало, а профильные классы не всем подходят. Государство подталкивает школьников к получению рабочих профессий, в вузы попасть все сложнее, а юношей после техникумов поджидает армия.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckgd1rxp7gno</guid>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Система цементируется». Как Борис Надеждин проверил на себе изменения в российской власти</title>
+      <link>https://www.bbc.com/russian/articles/cly5gdnp2gzo</link>
+      <description>«У вас хорошая политическая перспектива», — так в 2024 году глава ЦИК Элла Памфилова говорила Борису Надеждину, отказывая ему в регистрации кандидатом в президенты. За минувшие два года Надеждин стал банкротом, «Гражданскую инициативу», от которой он баллотировался, ликвидировали, а когда политик решил пойти на выборы в Госдуму, он получил статус «иноагента», запрет на выезд из страны и дело об экстремистской символике. Пример Надеждина показывает, что за два года стало с политическими перспективами в России.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly5gdnp2gzo</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
