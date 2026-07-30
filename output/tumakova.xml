@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 30 Jul 2026 06:11:41 +0000</lastBuildDate>
-    <item>
-      <title>«Академия наук еще не кладбище» — Что происходит в РАН и почему наука в России до сих пор существует? На вопросы «Новой» отвечает редактор издания для ученых T-invariant* Ольга Орлова</title>
-      <link>https://novayagazeta.ru/articles/2025/06/20/akademiia-nauk-eshche-ne-kladbishche</link>
-      <description>Что происходит в РАН и почему наука в России до сих пор существует? На вопросы «Новой» отвечает редактор издания для ученых T-invariant* Ольга Орлова</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/06/20/akademiia-nauk-eshche-ne-kladbishche</guid>
-      <pubDate>Fri, 20 Jun 2025 07:09:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Jul 2026 09:08:04 +0000</lastBuildDate>
     <item>
       <title>«Это победа армии и поражение политиков» — Чем, кроме победных реляций Трампа и аятоллы, закончилась для Израиля 12-дневная война с Ираном</title>
       <link>https://novayagazeta.ru/articles/2025/06/28/eto-pobeda-armii-i-porazhenie-politikov</link>
@@ -287,6 +280,13 @@
       <description>Кто и как управляет Ираном сегодня? Объясняет востоковед Михаил Бородкин</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/07/21/etot-rezhim-ne-budet-dogovarivatsia-s-trampom</guid>
       <pubDate>Tue, 21 Jul 2026 09:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Обыкновенное скотство — Зачем и за что в Сибири убивали коров. Расследование «Новой»</title>
+      <link>https://novayagazeta.ru/articles/2026/07/30/obyknovennoe-skotstvo</link>
+      <description>Зачем и за что в Сибири убивали коров. Расследование «Новой»</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/07/30/obyknovennoe-skotstvo</guid>
+      <pubDate>Thu, 30 Jul 2026 07:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
