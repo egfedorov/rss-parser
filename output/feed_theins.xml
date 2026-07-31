@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 31 Jul 2026 09:46:30 +0000</lastBuildDate>
-    <item>
-      <title>Сокрытие следов поступления. Российская таможня начала скрывать данные об импорте подсанкционных товаров</title>
-      <link>https://theins.ru/inv/287648</link>
-      <guid isPermaLink="false">https://theins.ru/inv/287648</guid>
-      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Jul 2026 12:01:52 +0000</lastBuildDate>
     <item>
       <title>Перевыполнение клана: продвинув Ткачева во главу военной контрразведки, Сечин подомнет под себя не только ФСБ, но и армию</title>
       <link>https://theins.ru/inv/288064</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/inv/294308</link>
       <guid isPermaLink="false">https://theins.ru/inv/294308</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Новый Коминтерн. Как Кремль вербует «социалистов» в США и Британии  для участия в войне и диверсиях</title>
+      <link>https://theins.ru/inv/293555</link>
+      <guid isPermaLink="false">https://theins.ru/inv/293555</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
