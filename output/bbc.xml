@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 31 Jul 2026 00:04:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 03:55:39 +0000</lastBuildDate>
     <item>
       <title>Киберармия против «мамы Пашиняна». Как я ездила на саммит ЕС в Армении</title>
       <link>https://www.bbc.com/russian/articles/cq5pw4788qqo</link>
@@ -129,17 +129,16 @@
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Дальнобойные беспилотники и их дешевые убийцы. Как война в Украине изменила авиасалон Фарнборо</title>
+      <link>https://www.bbc.com/russian/articles/ce3qlqg8v9po</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ce3qlqg8v9po</guid>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Живем сегодняшним днем». Как Крым привыкает к жизни без света и воды</title>
       <link>https://www.bbc.com/russian/articles/c5yek2851xzo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c5yek2851xzo</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Дальнобойные беспилотники и их дешевые убийцы. Как война в Украине изменила авиасалон Фарнборо</title>
-      <link>https://www.bbc.com/russian/articles/ce3qlqg8v9po</link>
-      <description>Авиасалон, еще недавно бывший в большей степени мирной ярмаркой гражданской авиации, стремительно милитаризируется. Это заметно на стендах и открытых площадках, где число гражданских авиалайнеров сильно сократилось. Еще одно отличие — в этом году одним из самых заметных национальных участников авиасалона стала Украина.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ce3qlqg8v9po</guid>
-      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Зачем Токаев призывает Путина заморозить войну в Украине? Текстовая версия подкаста «Что это было» с Темуром Умаровым</title>
@@ -167,6 +166,13 @@
       <link>https://www.bbc.com/russian/articles/cly5gdnp2gzo</link>
       <description>«У вас хорошая политическая перспектива», — так в 2024 году глава ЦИК Элла Памфилова говорила Борису Надеждину, отказывая ему в регистрации кандидатом в президенты. За минувшие два года Надеждин стал банкротом, «Гражданскую инициативу», от которой он баллотировался, ликвидировали, а когда политик решил пойти на выборы в Госдуму, он получил статус «иноагента», запрет на выезд из страны и дело об экстремистской символике. Пример Надеждина показывает, что за два года стало с политическими перспективами в России.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly5gdnp2gzo</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Иллюзий нет, надежда есть»: антивоенное «Яблоко» (пока) пустили на выборы в Госдуму</title>
+      <link>https://www.bbc.com/russian/articles/crk5645z61eo</link>
+      <description>Центризбирком зарегистрировал список «Яблока» на думские выборы. Во главе него малоизвестные региональные политики. Все медийные «яблочники» подверглись репрессиям и лишились возможности баллотироваться. Если Центризбирком не снимет «Яблоко» к сентябрьским выборам, граждане смогут проголосовать за единственную выступающую против войны с Украиной партию.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/crk5645z61eo</guid>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
