@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Aug 2026 15:32:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 16:35:31 +0000</lastBuildDate>
     <item>
       <title>Возвращаясь в гнездо кукушки: почему введение принудительной госпитализации в США не решит проблему бездомных и умалишенных</title>
       <link>https://theins.ru/obshestvo/288666</link>
