@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 02 Aug 2026 10:53:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 12:04:15 +0000</lastBuildDate>
     <item>
       <title>«Нам такие популярные не нужны». Чем запомнится ушедший в отставку губернатор Белгородской области Вячеслав Гладков</title>
       <link>https://www.bbc.com/russian/articles/c70dkd0pvrlo</link>
@@ -129,12 +129,6 @@
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Ведь он им самим нужен». Чем рискуют российские пользователи Telegram из-за «дела Дурова»</title>
-      <link>https://www.bbc.com/russian/articles/cgljnx5p25eo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cgljnx5p25eo</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ИИ-апокалипсис: вероятность 10%. Эксперты составили рейтинг угроз искусственного интеллекта</title>
       <link>https://www.bbc.com/russian/articles/cn5nxvdx9xxo</link>
       <description>А если ничего не ограничивать и не регулировать, то вероятность катастрофы зашкаливает за 20%, согласно опросу 272 экспертов по искусственному интеллекту.</description>
@@ -177,10 +171,17 @@
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Ведь он им самим нужен». Чем рискуют российские пользователи Telegram из-за «дела Дурова»</title>
+      <link>https://www.bbc.com/russian/articles/cgljnx5p25eo</link>
+      <description>ФСБ заочно предъявила основателю Telegram Павлу Дурову обвинение в содействии терроризму, а Росфинмониторинг 30 июля внес Дурова в список «экстремистов и террористов». Би-би-си поговорила с медиаюристами о том, есть ли риски у пользователей популярного мессенджера и владельцев телеграм-каналов прямо сейчас, могут ли они возникнуть в будущем и какие меры предосторожности стоит предпринять.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cgljnx5p25eo</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Эти закончатся — новых дадут». Как сменилось командование 114-й бригады российской армии</title>
       <link>https://www.bbc.com/russian/articles/cp8x514xxwpo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cp8x514xxwpo</guid>
-      <pubDate>Sun, 02 Aug 2026 10:53:12 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 12:04:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
