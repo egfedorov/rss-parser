@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 04 Aug 2026 06:29:38 +0000</lastBuildDate>
-    <item>
-      <title>Перевыполнение клана: продвинув Ткачева во главу военной контрразведки, Сечин подомнет под себя не только ФСБ, но и армию</title>
-      <link>https://theins.ru/inv/288064</link>
-      <guid isPermaLink="false">https://theins.ru/inv/288064</guid>
-      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Aug 2026 09:26:06 +0000</lastBuildDate>
     <item>
       <title>Алкоголь, проститутки и коррупция: о чем сотрудники СВР пишут в доносах друг на друга</title>
       <link>https://theins.ru/inv/288507</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/inv/293555</link>
       <guid isPermaLink="false">https://theins.ru/inv/293555</guid>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Террористы» поневоле: кого ФСБ назначила виновными по делу о взрыве Крымского моста</title>
+      <link>https://theins.ru/inv/295310</link>
+      <guid isPermaLink="false">https://theins.ru/inv/295310</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
