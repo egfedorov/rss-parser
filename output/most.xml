@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 04 Aug 2026 00:17:37 +0000</lastBuildDate>
-    <item>
-      <title>Таланты и поклонники. За что современный кинематограф и публика так любят биографические фильмы</title>
-      <link>https://mostmedia.org/ru/posts/talanty-i-poklonniki-za-chto-sovremennyi-kinematograf-i-publika-tak-ljubjat-biograficheskie-filmy</link>
-      <description>Интерес публики к жизни знаменитостей всегда был высок, а в эпоху открытого мира, интернета и соцсетей подскочил еще выше</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/talanty-i-poklonniki-za-chto-sovremennyi-kinematograf-i-publika-tak-ljubjat-biograficheskie-filmy</guid>
-      <enclosure url="https://mostmedia.org/uploads/files/a/d/5/f/1/ad5f101f8781f4f224a5a14602ded49a.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Jun 2026 01:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Aug 2026 03:44:11 +0000</lastBuildDate>
     <item>
       <title>Европейские города вновь не готовы к экстремальной жаре. Что нужно делать, чтобы исправить ситуацию прямо сейчас</title>
       <link>https://mostmedia.org/ru/posts/evropeyskie-goroda-vnov-ne-gotovy-k-extremalnoi-zhare-chto-nuzhno-delat-chtoby-ispravit-situaciju-prjamo-seychas</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/privatizacia-proshlogo-kak-putin-i-ego-okruzhenie-zarabatyvali-politichesky-kapital-na-rossyskoi-istorii</guid>
       <enclosure url="https://mostmedia.org/uploads/files/f/8/f/8/2/f8f8209066f469fed16116e8adc03ec9.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 02 Aug 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Миграционный кризис в Сеуте: что это было?</title>
+      <link>https://mostmedia.org/ru/posts/migracionnyi-krizis-v-seute-chto-eto-bylo</link>
+      <description>«Марокканские полицейские подталкивали нас к воде и кричали: "Плывите! Плывите!»</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/migracionnyi-krizis-v-seute-chto-eto-bylo</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/7/2/a/e/2/72ae2e70ed004f79291c3cc51bcb5128.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 02:51:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
