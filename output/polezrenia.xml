@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 04 Aug 2026 09:26:01 +0000</lastBuildDate>
-    <item>
-      <title>«Думал, дроны летят»</title>
-      <link>https://polezrenia.info/2026/06/30/dumal-drony-letyat/</link>
-      <description>Как уральская Кушва пережила смерч и кто сейчас действительно помогает местным</description>
-      <guid isPermaLink="false">https://polezrenia.info/2026/06/30/dumal-drony-letyat/</guid>
-      <enclosure url="https://polezrenia.info/wp-content/uploads/2026/06/01-e1782802456720.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Aug 2026 11:47:56 +0000</lastBuildDate>
     <item>
       <title>«Если знаешь, что грядет тоталитаризм, потерять последний шанс что-то сказать — глупо»</title>
       <link>https://polezrenia.info/2026/07/02/superbelgorodecz/</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://polezrenia.info/2026/07/30/gorod-starogo-sveta/</guid>
       <enclosure url="https://polezrenia.info/wp-content/uploads/2026/07/01-4-e1785396086650.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Город у цистерны</title>
+      <link>https://polezrenia.info/2026/08/04/gorod-u-czisterny/</link>
+      <description>Июльский паводок затопил Тюмень, а затем принес еще одну проблему: горожане опасаются пить водопроводную воду, готовить на ней и даже нюхать</description>
+      <guid isPermaLink="false">https://polezrenia.info/2026/08/04/gorod-u-czisterny/</guid>
+      <enclosure url="https://polezrenia.info/wp-content/uploads/2026/08/01-e1785837910230.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
