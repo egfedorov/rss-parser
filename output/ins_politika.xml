@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 05 Aug 2026 09:11:44 +0000</lastBuildDate>
-    <item>
-      <title>Похищение Европой: как Армения стала самой прозападной страной Кавказа</title>
-      <link>https://theins.ru/politika/292356</link>
-      <guid isPermaLink="false">https://theins.ru/politika/292356</guid>
-      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 05 Aug 2026 11:32:30 +0000</lastBuildDate>
     <item>
       <title>Колониализм по-кремлевски: как африканцев обманом заманивают на фронт</title>
       <link>https://theins.ru/politika/291983</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/politika/293726</link>
       <guid isPermaLink="false">https://theins.ru/politika/293726</guid>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кандидаты в претенденты. Почему Трампу будет сложно передать власть по наследству</title>
+      <link>https://theins.ru/politika/295433</link>
+      <guid isPermaLink="false">https://theins.ru/politika/295433</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
