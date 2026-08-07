@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 07 Aug 2026 14:59:25 +0000</lastBuildDate>
-    <item>
-      <title>Колониализм по-кремлевски: как африканцев обманом заманивают на фронт</title>
-      <link>https://theins.ru/politika/291983</link>
-      <guid isPermaLink="false">https://theins.ru/politika/291983</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 16:02:42 +0000</lastBuildDate>
     <item>
       <title>Зерно раздора. Как зерновой скандал осложнил отношения между Украиной и Израилем</title>
       <link>https://theins.ru/politika/292407</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/politika/295433</link>
       <guid isPermaLink="false">https://theins.ru/politika/295433</guid>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ястребы, застройщики, изоляционисты и приоритизаторы: какие силы борются за управление внешнеполитическим курсом США</title>
+      <link>https://theins.ru/politika/295561</link>
+      <guid isPermaLink="false">https://theins.ru/politika/295561</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
