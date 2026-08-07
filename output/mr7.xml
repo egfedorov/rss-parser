@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 07 Aug 2026 09:27:07 +0000</lastBuildDate>
-    <item>
-      <title>Очереди за кроксами, MAX и пленарное заседание с Путиным: чем запомнился третий день ПМЭФ</title>
-      <link>https://mr-7.ru/articles/2026/06/05/ocheredi-za-kroksami-max-i-plenarnoe-zasedanie-s-putinym-chem-zapomnilsia-tretii-den-pmef</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/06/05/ocheredi-za-kroksami-max-i-plenarnoe-zasedanie-s-putinym-chem-zapomnilsia-tretii-den-pmef</guid>
-      <enclosure url="https://mr-7.ru/static/records/509631bd51154d55a1a3fe203b8f6eed.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 05 Jun 2026 17:36:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 10:31:17 +0000</lastBuildDate>
     <item>
       <title>В Петербурге утвердили порядок установки шлагбаумов во дворах</title>
       <link>https://mr-7.ru/articles/2026/06/08/v-peterburge-utverdili-poriadok-ustanovki-shlagbaumov-vo-dvorakh</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/05/dom-repina-v-penatakh-vnov-otkroiut-dlia-posetitelei-14-avgusta-pokazyvaem-kak-on-preobrazilsia-posle-restavratsii</guid>
       <enclosure url="https://mr-7.ru/static/records/97072573353042399560102de8067edb.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 05 Aug 2026 15:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Это тоже Петербург: дворы Петроградской стороны</title>
+      <link>https://mr-7.ru/articles/2026/08/07/eto-tozhe-peterburg-dvory-petrogradskoi-storony</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/07/eto-tozhe-peterburg-dvory-petrogradskoi-storony</guid>
+      <enclosure url="https://mr-7.ru/static/records/31b4a9586de54a3bb318f15658bdd739.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 07 Aug 2026 08:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
