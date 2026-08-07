@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 07 Aug 2026 13:57:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 14:59:34 +0000</lastBuildDate>
     <item>
       <title>«Как-то так вышло, что штурмовики нужнее». Как российские студенты идут в беспилотные войска и погибают</title>
       <link>https://www.bbc.com/russian/articles/cdxd293plr5o</link>
@@ -99,10 +99,10 @@
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>В России растет спрос на наличные, у банков — нехватка ликвидности. Почему? И чем это грозит?</title>
-      <link>https://www.bbc.com/russian/articles/c0l590p8r2jo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0l590p8r2jo</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <title>«Система цементируется». Как Борис Надеждин проверил на себе изменения в российской власти</title>
+      <link>https://www.bbc.com/russian/articles/cly5gdnp2gzo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly5gdnp2gzo</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Российские самолеты-радары А-50 против украинских крылатых ракет — насколько они эффективны?</title>
@@ -123,25 +123,11 @@
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Система цементируется». Как Борис Надеждин проверил на себе изменения в российской власти</title>
-      <link>https://www.bbc.com/russian/articles/cly5gdnp2gzo</link>
-      <description>«У вас хорошая политическая перспектива», — так в 2024 году глава ЦИК Элла Памфилова говорила Борису Надеждину, отказывая ему в регистрации кандидатом в президенты. За минувшие два года Надеждин стал банкротом, «Гражданскую инициативу», от которой он баллотировался, ликвидировали, а когда политик решил пойти на выборы в Госдуму, он получил статус «иноагента», запрет на выезд из страны и дело об экстремистской символике. Пример Надеждина показывает, что за два года стало с политическими перспективами в России.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly5gdnp2gzo</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Живем сегодняшним днем». Как Крым привыкает к жизни без света и воды</title>
       <link>https://www.bbc.com/russian/articles/c5yek2851xzo</link>
       <description>В июле жители некоторых районов аннексированного Россией Крыма оставались без электричества и воды на несколько суток, а иногда и на несколько недель. После того как весной ВСУ начали наносить удары по дороге, соединяющей полуостров с Россией, в Крыму возникли перебои с топливом. Летом Украина усилила атаки на энергетическую инфраструктуру в ответ на аналогичные российские удары. Русская служба Би-би-си поговорила с жителями Крыма о том, как они приспосабливаются к такой жизни.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c5yek2851xzo</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Почему вялотекущая война с США может быть выгоднее Ирану, чем хрупкий мир?</title>
-      <link>https://www.bbc.com/russian/articles/c1e1jldnw55o</link>
-      <description>На первый взгляд неожиданный ракетный удар Ирана по американской базе в Иордании, нанесенный на этой неделе, трудно объяснить. Эта атака фактически положила конец хрупкой паузе в прямом противостоянии между США и Ираном и побудила Вашингтон возобновить удары по территории Ирана. Чем же был вызван этот шаг?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c1e1jldnw55o</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>«Эти закончатся — новых дадут». Как сменилось командование 114-й бригады российской армии</title>
@@ -165,10 +151,17 @@
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>В России растет спрос на наличные, у банков — нехватка ликвидности. Почему? И чем это грозит?</title>
+      <link>https://www.bbc.com/russian/articles/c0l590p8r2jo</link>
+      <description>Количество наличных денег в российской экономике растет самыми быстрыми темпами с осени 2023 года. Это происходит на фоне рекордной нехватки ликвидных денег у банков, наблюдаемой с конца 2025 года. Русская служба Би-би-си рассказывает, почему россияне предпочитают наличные и что об этом говорят экономисты.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0l590p8r2jo</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Люди же просто так не исчезают?»  Как родственники уже два года ищут пропавших после вторжения ВСУ жителей Курской области</title>
       <link>https://www.bbc.com/russian/articles/c0m7x02ej71o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0m7x02ej71o</guid>
-      <pubDate>Fri, 07 Aug 2026 13:57:03 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 14:59:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
