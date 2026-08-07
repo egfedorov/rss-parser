@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 07 Aug 2026 03:21:35 +0000</lastBuildDate>
-    <item>
-      <title>Скачок самолета на тысячу миль: в Европе резко участились случаи GPS-спуфинга</title>
-      <link>https://www.bbc.com/russian/articles/cn8pq9z1v6eo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn8pq9z1v6eo</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 05:21:34 +0000</lastBuildDate>
     <item>
       <title>«Долго так не может продолжаться». Как живут без топлива Крым и другие захваченные Россией территории</title>
       <link>https://www.bbc.com/russian/articles/cr47edy04gwo</link>
@@ -123,6 +117,12 @@
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Нам некуда возвращаться»: как Россия отбирает жилье на оккупированных территориях Украины</title>
+      <link>https://www.bbc.com/russian/articles/cvg9j02lw1no</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvg9j02lw1no</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Система цементируется». Как Борис Надеждин проверил на себе изменения в российской власти</title>
       <link>https://www.bbc.com/russian/articles/cly5gdnp2gzo</link>
       <description>«У вас хорошая политическая перспектива», — так в 2024 году глава ЦИК Элла Памфилова говорила Борису Надеждину, отказывая ему в регистрации кандидатом в президенты. За минувшие два года Надеждин стал банкротом, «Гражданскую инициативу», от которой он баллотировался, ликвидировали, а когда политик решил пойти на выборы в Госдуму, он получил статус «иноагента», запрет на выезд из страны и дело об экстремистской символике. Пример Надеждина показывает, что за два года стало с политическими перспективами в России.</description>
@@ -168,7 +168,7 @@
       <title>«Люди же просто так не исчезают?»  Как родственники уже два года ищут пропавших после вторжения ВСУ жителей Курской области</title>
       <link>https://www.bbc.com/russian/articles/c0m7x02ej71o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0m7x02ej71o</guid>
-      <pubDate>Fri, 07 Aug 2026 03:21:35 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 05:21:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
