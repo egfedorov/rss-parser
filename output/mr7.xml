@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 07 Aug 2026 10:31:17 +0000</lastBuildDate>
-    <item>
-      <title>В Петербурге утвердили порядок установки шлагбаумов во дворах</title>
-      <link>https://mr-7.ru/articles/2026/06/08/v-peterburge-utverdili-poriadok-ustanovki-shlagbaumov-vo-dvorakh</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/06/08/v-peterburge-utverdili-poriadok-ustanovki-shlagbaumov-vo-dvorakh</guid>
-      <enclosure url="https://mr-7.ru/static/records/ed77d6f26da8458d8b3b350eb1a50f46.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 12:01:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 11:29:16 +0000</lastBuildDate>
     <item>
       <title>Суд в апелляции отказал в освобождении по УДО осуждённой за дискредитацию армии переводчицы Елены Абрамовой</title>
       <link>https://mr-7.ru/articles/2026/06/09/sud-v-apelliatsii-otkazal-v-osvobozhdenii-po-udo-osuzhdennoi-za-diskreditatsiiu-armii-perevodchitse-eleny-abramovoi</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/07/eto-tozhe-peterburg-dvory-petrogradskoi-storony</guid>
       <enclosure url="https://mr-7.ru/static/records/31b4a9586de54a3bb318f15658bdd739.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 07 Aug 2026 08:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 поводов выйти из дома 8-9 августа</title>
+      <link>https://mr-7.ru/articles/2026/08/07/7-povodov-vyiti-iz-doma-8-9-avgusta</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/07/7-povodov-vyiti-iz-doma-8-9-avgusta</guid>
+      <enclosure url="https://mr-7.ru/static/records/9a314f7d580a46e58a49d8da8953f161.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 07 Aug 2026 10:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
