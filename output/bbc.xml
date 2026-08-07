@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 07 Aug 2026 17:11:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 18:06:21 +0000</lastBuildDate>
     <item>
       <title>«Как-то так вышло, что штурмовики нужнее». Как российские студенты идут в беспилотные войска и погибают</title>
       <link>https://www.bbc.com/russian/articles/cdxd293plr5o</link>
@@ -160,8 +160,15 @@
     <item>
       <title>«Люди же просто так не исчезают?»  Как родственники уже два года ищут пропавших после вторжения ВСУ жителей Курской области</title>
       <link>https://www.bbc.com/russian/articles/c0m7x02ej71o</link>
+      <description>Два года назад, 6 августа 2024 года, украинские войска вошли в Курскую область и на восемь месяцев взяли под контроль город Суджу и окрестные села. До сих пор неизвестной остается судьба 330 человек. Би-би-си рассказывает, как родные пытаются найти своих близких — живыми или мертвыми.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0m7x02ej71o</guid>
-      <pubDate>Fri, 07 Aug 2026 17:11:58 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Погибшие, о которых не написали. Что мы знаем о потерях России в Украине к августу</title>
+      <link>https://www.bbc.com/russian/articles/cn7nk3lmpk6o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn7nk3lmpk6o</guid>
+      <pubDate>Fri, 07 Aug 2026 18:06:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
