@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 08 Aug 2026 18:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 19:03:26 +0000</lastBuildDate>
     <item>
       <title>«Как-то так вышло, что штурмовики нужнее». Как российские студенты идут в беспилотные войска и погибают</title>
       <link>https://www.bbc.com/russian/articles/cdxd293plr5o</link>
@@ -111,10 +111,10 @@
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Нам некуда возвращаться»: как Россия отбирает жилье на оккупированных территориях Украины</title>
-      <link>https://www.bbc.com/russian/articles/cvg9j02lw1no</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvg9j02lw1no</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <title>«Ведь он им самим нужен». Чем рискуют российские пользователи Telegram из-за «дела Дурова»</title>
+      <link>https://www.bbc.com/russian/articles/cgljnx5p25eo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cgljnx5p25eo</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>«Все сдавали всех». Как закончилось дело издательства «Эксмо»</title>
@@ -127,13 +127,6 @@
       <link>https://www.bbc.com/russian/articles/cp8x514xxwpo</link>
       <description>Генерал Юрий Зазыкин, которого российские власти наградили званием Героя России за взятие Авдеевки, лишился должности командира 114-й мотострелковой бригады. По данным источников Би-би-си и информации в z-каналах, его сменил полковник Игорь Пузик, связанный с одним из самых громких скандалов внутри российской армии после ее вторжения в Украину. Что известно об этой перестановке?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cp8x514xxwpo</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Ведь он им самим нужен». Чем рискуют российские пользователи Telegram из-за «дела Дурова»</title>
-      <link>https://www.bbc.com/russian/articles/cgljnx5p25eo</link>
-      <description>ФСБ заочно предъявила основателю Telegram Павлу Дурову обвинение в содействии терроризму, а Росфинмониторинг 30 июля внес Дурова в список «экстремистов и террористов». Би-би-си поговорила с медиаюристами о том, есть ли риски у пользователей популярного мессенджера и владельцев телеграм-каналов прямо сейчас, могут ли они возникнуть в будущем и какие меры предосторожности стоит предпринять.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cgljnx5p25eo</guid>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -165,10 +158,17 @@
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Нам некуда возвращаться»: как Россия отбирает жилье на оккупированных территориях Украины</title>
+      <link>https://www.bbc.com/russian/articles/cvg9j02lw1no</link>
+      <description>Расследование BBC Verify и Русской службы Би-би-си показало, что с 2024 года больше 30 тысяч объектов недвижимости на оккупированных Россией территориях Украины, принадлежащих украинским гражданам, были конфискованы или определены для конфискации с целью передачи владельцам российских паспортов.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvg9j02lw1no</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Погибшие, о которых не написали. Что мы знаем о потерях России в Украине к августу</title>
       <link>https://www.bbc.com/russian/articles/cn7nk3lmpk6o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn7nk3lmpk6o</guid>
-      <pubDate>Sat, 08 Aug 2026 18:02:02 +0000</pubDate>
+      <pubDate>Sat, 08 Aug 2026 19:03:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
