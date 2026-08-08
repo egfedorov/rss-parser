@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 08 Aug 2026 00:04:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 02:25:00 +0000</lastBuildDate>
     <item>
       <title>«Как-то так вышло, что штурмовики нужнее». Как российские студенты идут в беспилотные войска и погибают</title>
       <link>https://www.bbc.com/russian/articles/cdxd293plr5o</link>
@@ -105,12 +105,6 @@
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Российские самолеты-радары А-50 против украинских крылатых ракет — насколько они эффективны?</title>
-      <link>https://www.bbc.com/russian/articles/c8dny5v6r85o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8dny5v6r85o</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Нам некуда возвращаться»: как Россия отбирает жилье на оккупированных территориях Украины</title>
       <link>https://www.bbc.com/russian/articles/cvg9j02lw1no</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvg9j02lw1no</guid>
@@ -158,6 +152,13 @@
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Российские самолеты-радары А-50 против украинских крылатых ракет — насколько они эффективны?</title>
+      <link>https://www.bbc.com/russian/articles/c8dny5v6r85o</link>
+      <description>Российская армия начала активно использовать самолеты дальнего радиолокационного обнаружения А-50У для защиты своего воздушного пространства. Каковы первые результаты применения А-50 против украинских крылатых ракет? Достаточно ли у России таких самолетов-радаров, чтобы отражать воздушные угрозы в условиях быстрого роста ракетного производства в Украине?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8dny5v6r85o</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Люди же просто так не исчезают?»  Как родственники уже два года ищут пропавших после вторжения ВСУ жителей Курской области</title>
       <link>https://www.bbc.com/russian/articles/c0m7x02ej71o</link>
       <description>Два года назад, 6 августа 2024 года, украинские войска вошли в Курскую область и на восемь месяцев взяли под контроль город Суджу и окрестные села. До сих пор неизвестной остается судьба 330 человек. Би-би-си рассказывает, как родные пытаются найти своих близких — живыми или мертвыми.</description>
@@ -168,7 +169,7 @@
       <title>Погибшие, о которых не написали. Что мы знаем о потерях России в Украине к августу</title>
       <link>https://www.bbc.com/russian/articles/cn7nk3lmpk6o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cn7nk3lmpk6o</guid>
-      <pubDate>Sat, 08 Aug 2026 00:04:23 +0000</pubDate>
+      <pubDate>Sat, 08 Aug 2026 02:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
