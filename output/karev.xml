@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 10 Aug 2026 17:33:29 +0000</lastBuildDate>
-    <item>
-      <title>Для комика Останина прокурор запросила 5 лет и 11 месяцев колонии со штрафом за две шутки</title>
-      <link>https://novayagazeta.ru/news/2026/01/27/dlia-komika-ostanina-prokuror-zaprosila-5-let-i-11-mesiatsev-kolonii-so-shtrafom-za-dve-shutki-news</link>
-      <description>Для комика Останина прокурор запросила 5 лет и 11 месяцев колонии со штрафом за две шутки</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/news/2026/01/27/dlia-komika-ostanina-prokuror-zaprosila-5-let-i-11-mesiatsev-kolonii-so-shtrafom-za-dve-shutki-news</guid>
-      <pubDate>Tue, 27 Jan 2026 13:05:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 18:30:37 +0000</lastBuildDate>
     <item>
       <title>По другую сторону стекла — «Новая» посетила в колонии фигуранта дела «Сети»* Илью Шакурского. Репортаж с короткого свидания в пензенской ИК-4</title>
       <link>https://novayagazeta.ru/articles/2026/01/28/po-druguiu-storonu-stekla</link>
@@ -287,6 +280,13 @@
       <description>Уголовные дела за пожертвования трехлетней давности, срок за комментарии, новые обвинения в госизмене и смерть после освобождения</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/08/08/ot-donata-do-melka</guid>
       <pubDate>Sat, 08 Aug 2026 07:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>За мир — вне выборов — Верховный суд вычеркнул из выборного бюллетеня «Яблоко». В иске «экстремизм» соседствовал с песней «Пусть всегда будет солнце»</title>
+      <link>https://novayagazeta.ru/articles/2026/08/10/za-mir-vne-vyborov</link>
+      <description>Верховный суд вычеркнул из выборного бюллетеня «Яблоко». В иске «экстремизм» соседствовал с песней «Пусть всегда будет солнце»</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/08/10/za-mir-vne-vyborov</guid>
+      <pubDate>Mon, 10 Aug 2026 17:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
