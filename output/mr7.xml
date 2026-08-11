@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 11 Aug 2026 14:59:49 +0000</lastBuildDate>
-    <item>
-      <title>Суд в апелляции отказал в освобождении по УДО осуждённой за дискредитацию армии переводчицы Елены Абрамовой</title>
-      <link>https://mr-7.ru/articles/2026/06/09/sud-v-apelliatsii-otkazal-v-osvobozhdenii-po-udo-osuzhdennoi-za-diskreditatsiiu-armii-perevodchitse-eleny-abramovoi</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/06/09/sud-v-apelliatsii-otkazal-v-osvobozhdenii-po-udo-osuzhdennoi-za-diskreditatsiiu-armii-perevodchitse-eleny-abramovoi</guid>
-      <enclosure url="https://mr-7.ru/static/records/c4663b56e6de4c539081cf97dd85e59a.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 09 Jun 2026 11:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 16:07:02 +0000</lastBuildDate>
     <item>
       <title>Инициаторам референдума против КРТ не удалось оспорить отказ Горизбиркома в проведении общегородского голосования</title>
       <link>https://mr-7.ru/articles/2026/06/09/initsiatoram-referenduma-protiv-krt-ne-udalos-osporit-otkaz-gorizbirkoma-v-provedenii-obshchegorodskogo-golosovaniia</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/07/7-povodov-vyiti-iz-doma-8-9-avgusta</guid>
       <enclosure url="https://mr-7.ru/static/records/9a314f7d580a46e58a49d8da8953f161.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 07 Aug 2026 10:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Не существует двух идеально похожих друг на друга мостов»: бывший проектировщик мостов теперь ведёт экскурсии и рассказывает о переправах</title>
+      <link>https://mr-7.ru/articles/2026/08/11/ne-sushchestvuet-dvukh-idealno-pokhozhikh-drug-na-druga-mostov-byvshii-proektirovshchik-mostov-teper-vedet-ekskursii-i-rasskazyvaet-o-perepravakh</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/11/ne-sushchestvuet-dvukh-idealno-pokhozhikh-drug-na-druga-mostov-byvshii-proektirovshchik-mostov-teper-vedet-ekskursii-i-rasskazyvaet-o-perepravakh</guid>
+      <enclosure url="https://mr-7.ru/static/records/28c345575feb49d9931fef3155e400ab.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 11 Aug 2026 14:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
