@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 11 Aug 2026 08:59:49 +0000</lastBuildDate>
-    <item>
-      <title>По другую сторону стекла — «Новая» посетила в колонии фигуранта дела «Сети»* Илью Шакурского. Репортаж с короткого свидания в пензенской ИК-4</title>
-      <link>https://novayagazeta.ru/articles/2026/01/28/po-druguiu-storonu-stekla</link>
-      <description>«Новая» посетила в колонии фигуранта дела «Сети»* Илью Шакурского. Репортаж с короткого свидания в пензенской ИК-4</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/28/po-druguiu-storonu-stekla</guid>
-      <pubDate>Wed, 28 Jan 2026 07:09:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 10:07:06 +0000</lastBuildDate>
     <item>
       <title>«Хоть бы нормально соврали» — Дело Antifa United: трех молодых людей осудили за создание «экстремистского сообщества» и хулиганство, четвертый умер перед началом процесса</title>
       <link>https://novayagazeta.ru/articles/2026/02/02/khot-by-normalno-sovrali</link>
@@ -287,6 +280,13 @@
       <description>Верховный суд вычеркнул из выборного бюллетеня «Яблоко». В иске «экстремизм» соседствовал с песней «Пусть всегда будет солнце»</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/08/10/za-mir-vne-vyborov</guid>
       <pubDate>Mon, 10 Aug 2026 17:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Поджечь вагон и исчезнуть на 17 лет — Трое подростков согласились выполнять задания из даркнета за деньги. Суд выбрал самую тяжелую статью — диверсия</title>
+      <link>https://novayagazeta.ru/articles/2026/08/11/podzhech-vagon-i-ischeznut-na-17-let</link>
+      <description>Трое подростков согласились выполнять задания из даркнета за деньги. Суд выбрал самую тяжелую статью — диверсия</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/08/11/podzhech-vagon-i-ischeznut-na-17-let</guid>
+      <pubDate>Tue, 11 Aug 2026 09:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
