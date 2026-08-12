@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 12 Aug 2026 15:34:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 16:33:03 +0000</lastBuildDate>
     <item>
       <title>«Штурма в кредит». Чем отличается фронт в отчетах российского Генштаба от реальности</title>
       <link>https://www.bbc.com/russian/articles/c4gyw21r4lno</link>
@@ -148,12 +148,6 @@
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Видео,«Яблоко» снимут с выборов? | Видеоподкаст «Что это было?», Продолжительность 33,23</title>
-      <link>https://www.bbc.com/russian/articles/cq89479eedzo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq89479eedzo</guid>
-      <pubDate>Wed, 12 Aug 2026 15:34:09 +0000</pubDate>
-    </item>
-    <item>
       <title>«Люди же просто так не исчезают?»  Как родственники уже два года ищут пропавших после вторжения ВСУ жителей Курской области</title>
       <link>https://www.bbc.com/russian/articles/c0m7x02ej71o</link>
       <description>Два года назад, 6 августа 2024 года, украинские войска вошли в Курскую область и на восемь месяцев взяли под контроль город Суджу и окрестные села. До сих пор неизвестной остается судьба 330 человек. Би-би-си рассказывает, как родные пытаются найти своих близких — живыми или мертвыми.</description>
@@ -182,10 +176,17 @@
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>У Украины нет ракет, чтобы сбивать российскую баллистику. Но можно ли поразить пусковые установки в России?</title>
+      <link>https://www.bbc.com/russian/articles/cvgv0edxjego</link>
+      <description>Россия продолжает наращивать производство и применение баллистических ракет против Украины. Это происходит на фоне острого дефицита в Украине противоракетных зарядов для систем Patriot, которые могли бы исправить ситуацию. Но если уничтожить ракеты невозможно, то можно ли вывести из строя пусковые установки?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgv0edxjego</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Сдерживание на троих. Как США меняют ядерную стратегию, чтобы противостоять России и Китаю</title>
       <link>https://www.bbc.com/russian/articles/ckg9w1wyddko</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckg9w1wyddko</guid>
-      <pubDate>Wed, 12 Aug 2026 15:34:09 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 16:33:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
