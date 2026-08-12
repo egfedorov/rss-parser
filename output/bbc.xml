@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 12 Aug 2026 03:23:48 +0000</lastBuildDate>
-    <item>
-      <title>«Как-то так вышло, что штурмовики нужнее». Как российские студенты идут в беспилотные войска и погибают</title>
-      <link>https://www.bbc.com/russian/articles/cdxd293plr5o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cdxd293plr5o</guid>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Aug 2026 05:17:31 +0000</lastBuildDate>
     <item>
       <title>«Штурма в кредит». Чем отличается фронт в отчетах российского Генштаба от реальности</title>
       <link>https://www.bbc.com/russian/articles/c4gyw21r4lno</link>
@@ -135,6 +129,12 @@
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Воняет фекалиями, но «безопасно». Почему паводок привел к кризису в Тюмени</title>
+      <link>https://www.bbc.com/russian/articles/cly9ekr46reo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly9ekr46reo</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Джанни Инфантино в осаде. Чем может закончиться футбольный скандал десятилетия для главы ФИФА</title>
       <link>https://www.bbc.com/russian/articles/cly54ve49qqo</link>
       <description>После чемпионата в Америке не было никаких сомнений в том, что бессменный вот уже десятилетие рулевой мирового футбола сохранит власть. Теперь же судьба 56-летнего швейцарского функционера висит на волоске.</description>
@@ -159,7 +159,7 @@
       <title>Видео,«Яблоко» снимут с выборов? | Видеоподкаст «Что это было?», Продолжительность 33,23</title>
       <link>https://www.bbc.com/russian/articles/cq89479eedzo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq89479eedzo</guid>
-      <pubDate>Wed, 12 Aug 2026 03:23:48 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 05:17:31 +0000</pubDate>
     </item>
     <item>
       <title>«Люди же просто так не исчезают?»  Как родственники уже два года ищут пропавших после вторжения ВСУ жителей Курской области</title>
@@ -193,7 +193,7 @@
       <title>Сдерживание на троих. Как США меняют ядерную стратегию, чтобы противостоять России и Китаю</title>
       <link>https://www.bbc.com/russian/articles/ckg9w1wyddko</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckg9w1wyddko</guid>
-      <pubDate>Wed, 12 Aug 2026 03:23:48 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 05:17:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
