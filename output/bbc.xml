@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 13 Aug 2026 06:04:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:57:28 +0000</lastBuildDate>
     <item>
       <title>«Штурма в кредит». Чем отличается фронт в отчетах российского Генштаба от реальности</title>
       <link>https://www.bbc.com/russian/articles/c4gyw21r4lno</link>
@@ -117,6 +117,12 @@
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Люди же просто так не исчезают?»  Как родственники уже два года ищут пропавших после вторжения ВСУ жителей Курской области</title>
+      <link>https://www.bbc.com/russian/articles/c0m7x02ej71o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0m7x02ej71o</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>В России растет спрос на наличные, у банков — нехватка ликвидности. Почему? И чем это грозит?</title>
       <link>https://www.bbc.com/russian/articles/c0l590p8r2jo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0l590p8r2jo</guid>
@@ -141,20 +147,6 @@
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Невидимые дети Судана: рожденные в огне войны, лишенные всех прав и будущего</title>
-      <link>https://www.bbc.com/russian/articles/cgewz1r5e25o</link>
-      <description>В Судане дети, появившиеся на свет в результате изнасилования, зачастую не могут получить свидетельство о рождении, что создает им проблемы на всю жизнь.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cgewz1r5e25o</guid>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Люди же просто так не исчезают?»  Как родственники уже два года ищут пропавших после вторжения ВСУ жителей Курской области</title>
-      <link>https://www.bbc.com/russian/articles/c0m7x02ej71o</link>
-      <description>Два года назад, 6 августа 2024 года, украинские войска вошли в Курскую область и на восемь месяцев взяли под контроль город Суджу и окрестные села. До сих пор неизвестной остается судьба 330 человек. Би-би-си рассказывает, как родные пытаются найти своих близких — живыми или мертвыми.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0m7x02ej71o</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Нам некуда возвращаться»: как Россия отбирает жилье на оккупированных территориях Украины</title>
       <link>https://www.bbc.com/russian/articles/cvg9j02lw1no</link>
       <description>Расследование BBC Verify и Русской службы Би-би-си показало, что с 2024 года больше 30 тысяч объектов недвижимости на оккупированных Россией территориях Украины, принадлежащих украинским гражданам, были конфискованы или определены для конфискации с целью передачи владельцам российских паспортов.</description>
@@ -162,18 +154,18 @@
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Солнце, каким вы его еще не видели: телескоп Иноуэ снял максимально детализированные изображения</title>
-      <link>https://www.bbc.com/russian/articles/ce8l6j996x2o</link>
-      <description>Благодаря самому мощному солнечному телескопу в мире ученым удалось запечатлеть поверхность Солнца с беспрецедентной детализацией. Они сделали фото и видео солнечных вихрей, о существовании которых было известно давно, но которые ранее не удавалось увидеть.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ce8l6j996x2o</guid>
-      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Застрявшие в Персидском заливе суда могут разнести по всему миру опасные инвазивные виды водорослей и беспозвоночных, предупреждают ученые</title>
       <link>https://www.bbc.com/russian/articles/cjd4r59j9elo</link>
       <description>Закрытие Ормузского пролива может привести к экологическому кризису, это биологическая опасность международного масштаба, предупреждают морские биологи в журнале Biological Invasions.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cjd4r59j9elo</guid>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Солнце, каким вы его еще не видели: телескоп Иноуэ снял максимально детализированные изображения</title>
+      <link>https://www.bbc.com/russian/articles/ce8l6j996x2o</link>
+      <description>Благодаря самому мощному солнечному телескопу в мире ученым удалось запечатлеть поверхность Солнца с беспрецедентной детализацией. Они сделали фото и видео солнечных вихрей, о существовании которых было известно давно, но которые ранее не удавалось увидеть.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ce8l6j996x2o</guid>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>У Украины нет ракет, чтобы сбивать российскую баллистику. Но можно ли поразить пусковые установки в России?</title>
@@ -185,8 +177,9 @@
     <item>
       <title>Сдерживание на троих. Как США меняют ядерную стратегию, чтобы противостоять России и Китаю</title>
       <link>https://www.bbc.com/russian/articles/ckg9w1wyddko</link>
+      <description>США разрабатывают новую стратегию ядерного сдерживания. Вашингтон побудили к этому два главных фактора — необходимость адаптироваться к развитию китайских ядерных сил и окончанию действия договора СНВ-3 с Россией. Речь, в частности, идет о расширении роли нестратегических ядерных вооружений, а также о привлечении к ядерному сдерживанию союзников.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckg9w1wyddko</guid>
-      <pubDate>Thu, 13 Aug 2026 06:04:49 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
