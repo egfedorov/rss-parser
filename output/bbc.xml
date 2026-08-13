@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 13 Aug 2026 10:32:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 11:25:52 +0000</lastBuildDate>
     <item>
       <title>«Штурма в кредит». Чем отличается фронт в отчетах российского Генштаба от реальности</title>
       <link>https://www.bbc.com/russian/articles/c4gyw21r4lno</link>
@@ -135,22 +135,15 @@
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Все сдавали всех». Как закончилось дело издательства «Эксмо»</title>
-      <link>https://www.bbc.com/russian/articles/cy4kpdvp10eo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy4kpdvp10eo</guid>
+      <title>«Нам некуда возвращаться»: как Россия отбирает жилье на оккупированных территориях Украины</title>
+      <link>https://www.bbc.com/russian/articles/cvg9j02lw1no</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvg9j02lw1no</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Воняет фекалиями, но «безопасно». Почему паводок привел к кризису в Тюмени</title>
-      <link>https://www.bbc.com/russian/articles/cly9ekr46reo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly9ekr46reo</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Нам некуда возвращаться»: как Россия отбирает жилье на оккупированных территориях Украины</title>
-      <link>https://www.bbc.com/russian/articles/cvg9j02lw1no</link>
-      <description>Расследование BBC Verify и Русской службы Би-би-си показало, что с 2024 года больше 30 тысяч объектов недвижимости на оккупированных Россией территориях Украины, принадлежащих украинским гражданам, были конфискованы или определены для конфискации с целью передачи владельцам российских паспортов.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvg9j02lw1no</guid>
+      <title>«Все сдавали всех». Как закончилось дело издательства «Эксмо»</title>
+      <link>https://www.bbc.com/russian/articles/cy4kpdvp10eo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy4kpdvp10eo</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -187,6 +180,20 @@
       <description>США разрабатывают новую стратегию ядерного сдерживания. Вашингтон побудили к этому два главных фактора — необходимость адаптироваться к развитию китайских ядерных сил и окончанию действия договора СНВ-3 с Россией. Речь, в частности, идет о расширении роли нестратегических ядерных вооружений, а также о привлечении к ядерному сдерживанию союзников.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckg9w1wyddko</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Воняет фекалиями, но «безопасно». Почему паводок привел к кризису в Тюмени</title>
+      <link>https://www.bbc.com/russian/articles/cly9ekr46reo</link>
+      <description>В Тюмени из кранов идет вода с запахом фекалий, а в реке Туре, откуда часть города получает питьевую воду, массово гибнет рыба. Тюменская система водоснабжения была рассчитана на сравнительно предсказуемую Туру и не справилась, когда уровень и состав воды резко изменились. Эксперты предупреждают: по мере изменения климата такие погодные аномалии могут происходить чаще.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly9ekr46reo</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Европа отвыкла было от российского газа, но зима снова грозит ЕС энергетическим кризисом</title>
+      <link>https://www.bbc.com/russian/articles/cx2m364p76ko</link>
+      <description>Спецпредставитель Кремля злорадствует: «ЕС перед угрозой энергетического кризиса по собственной вине». Почему Европе снова не хватает газа к отопительному сезону?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx2m364p76ko</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
