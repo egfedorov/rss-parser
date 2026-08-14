@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 14 Aug 2026 08:47:28 +0000</lastBuildDate>
-    <item>
-      <title>«Хоть бы нормально соврали» — Дело Antifa United: трех молодых людей осудили за создание «экстремистского сообщества» и хулиганство, четвертый умер перед началом процесса</title>
-      <link>https://novayagazeta.ru/articles/2026/02/02/khot-by-normalno-sovrali</link>
-      <description>Дело Antifa United: трех молодых людей осудили за создание «экстремистского сообщества» и хулиганство, четвертый умер перед началом процесса</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/02/khot-by-normalno-sovrali</guid>
-      <pubDate>Mon, 02 Feb 2026 10:35:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Aug 2026 10:05:01 +0000</lastBuildDate>
     <item>
       <title>«Улыбаться не надо. Плакать надо» — Комика Артемия Останина приговорили к 5 годам 9 месяцам и штрафу 300 тыс. рублей за две неудачные шутки.</title>
       <link>https://novayagazeta.ru/articles/2026/02/04/ulybatsia-ne-nado-plakat-nado</link>
@@ -287,6 +280,13 @@
       <description>Трое подростков согласились выполнять задания из даркнета за деньги. Суд выбрал самую тяжелую статью — диверсия</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/08/11/podzhech-vagon-i-ischeznut-na-17-let</guid>
       <pubDate>Tue, 11 Aug 2026 09:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зампреду «Яблока» Льву Шлосбергу* запросили 12 лет колонии. Дело связано с репостом карикатуры на Путина и призывах к миру в Украине</title>
+      <link>https://novayagazeta.ru/news/2026/08/14/zampredu-iabloka-lvu-shlosbergu-zaprosili-12-let-kolonii-delo-sviazano-s-repostom-karikatury-na-putina-i-prizyvakh-k-miru-v-ukraine-news</link>
+      <description>Зампреду «Яблока» Льву Шлосбергу* запросили 12 лет колонии. Дело связано с репостом карикатуры на Путина и призывах к миру в Украине</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/news/2026/08/14/zampredu-iabloka-lvu-shlosbergu-zaprosili-12-let-kolonii-delo-sviazano-s-repostom-karikatury-na-putina-i-prizyvakh-k-miru-v-ukraine-news</guid>
+      <pubDate>Fri, 14 Aug 2026 09:36:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
