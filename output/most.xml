@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 16 Aug 2026 20:55:55 +0000</lastBuildDate>
-    <item>
-      <title>Армен Захарян: «Чтение Пруста, возможно, ничем не полезно. Но оно может быть спасительно»</title>
-      <link>https://mostmedia.org/ru/posts/armen-zaharjan-chtenie-prusta-vozmozhno-nichem-ne-polezno-no-ono-mozhet-byt-spasitelno</link>
-      <description>В день рождения Марселя Пруста у литературоведа Армена Закаряна (YouTube-канал «Армен и Фёдор») выходит путеводитель по роману «В поисках утраченного времени». Поговорили с ним о том, чем сегодня может утешить прустовская проза</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/armen-zaharjan-chtenie-prusta-vozmozhno-nichem-ne-polezno-no-ono-mozhet-byt-spasitelno</guid>
-      <enclosure url="https://mostmedia.org/uploads/files/b/1/e/a/d/b1eadbc39ada47d1e0f54d34f76a2a05.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 10 Jul 2026 02:10:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 16 Aug 2026 21:23:00 +0000</lastBuildDate>
     <item>
       <title>Почему путинская Россия оказалась хуже СССР? Объясняют Рене Генон и Юлиус Эвола</title>
       <link>https://mostmedia.org/ru/posts/pochemu-putinskaja-rossia-okazalas-huzhe-sssr-objasnjajut-rene-genon-i-julius-evola</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/spasti-rjadovogo-wildberries-pochemu-gosudarstvo-ne-speshit-pomogat-krupneyshemu-rossyskomu-marketpleysu</guid>
       <enclosure url="https://mostmedia.org/uploads/files/1/f/e/f/a/1fefad928977458142469309ab4f4c7b.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 10 Aug 2026 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Иногда у представителей Еврокомиссии, которые пишут текст санкций, хочется спросить: вы чего хотели добиться?»</title>
+      <link>https://mostmedia.org/ru/posts/inogda-u-predstaviteley-evrokomissii-kotorye-pishut-text-sankcy-hochetsja-sprosit-vy-chego-hoteli-dobitsja</link>
+      <description>Интервью с Герой Угрюмовой — основательницей ассоциации «Искра», которая борется против дискриминации российских эмигрантов в Евросоюзе</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/inogda-u-predstaviteley-evrokomissii-kotorye-pishut-text-sankcy-hochetsja-sprosit-vy-chego-hoteli-dobitsja</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/a/5/d/9/9/a5d993bf416c3ceb5900071c1a12cd53.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
