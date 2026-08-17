@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 17 Aug 2026 10:13:53 +0000</lastBuildDate>
-    <item>
-      <title>7 поводов выйти из дома 12 — 14 июня</title>
-      <link>https://mr-7.ru/articles/2026/06/11/7-povodov-vyiti-iz-doma-12-14-iiunia</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/06/11/7-povodov-vyiti-iz-doma-12-14-iiunia</guid>
-      <enclosure url="https://mr-7.ru/static/records/a43621f4afb34bcf897d58f8c018a5c2.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 13:49:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 10:51:08 +0000</lastBuildDate>
     <item>
       <title>Хаски, «Базар» и гости из Японии — в Петербурге проходит Stereoleto с восточным акцентом</title>
       <link>https://mr-7.ru/articles/2026/06/14/khaski-bazar-i-gosti-iz-iaponii-v-peterburge-prokhodit-stereoleto-s-vostochnym-aktsentom</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/14/7-povodov-vyiti-iz-doma-15-16-avgusta</guid>
       <enclosure url="https://mr-7.ru/static/records/e0e52c37971e4d54856098c3801296f6.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 14 Aug 2026 11:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ботиночек, школьная ведомость июня 1941-го и керосинки: старый дом показал свои сокровища тем, кто его защищает</title>
+      <link>https://mr-7.ru/articles/2026/08/17/botinochek-shkolnaia-vedomost-iiunia-1941-go-i-kerosinki-staryi-dom-pokazal-svoi-sokrovishcha-tem-kto-ego-zashchishchaet</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/17/botinochek-shkolnaia-vedomost-iiunia-1941-go-i-kerosinki-staryi-dom-pokazal-svoi-sokrovishcha-tem-kto-ego-zashchishchaet</guid>
+      <enclosure url="https://mr-7.ru/static/records/9e87a0a2e8e04946bcaab3226c12ca39.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 10:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
