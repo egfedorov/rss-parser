@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 17 Aug 2026 12:54:24 +0000</lastBuildDate>
-    <item>
-      <title>Анекдот как улика — Колония — за слова, ШИЗО — за пуговицу, СИЗО после «карусельных арестов» и штраф за поцелуй</title>
-      <link>https://novayagazeta.ru/articles/2026/02/14/anekdot-kak-ulika</link>
-      <description>Колония — за слова, ШИЗО — за пуговицу, СИЗО после «карусельных арестов» и штраф за поцелуй</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/14/anekdot-kak-ulika</guid>
-      <pubDate>Sat, 14 Feb 2026 07:28:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 13:40:41 +0000</lastBuildDate>
     <item>
       <title>Оброк для зэка — ФСИН начала системно забирать до 75% переводов от родственников, превращая помощь близких в скрытый налог на выживание</title>
       <link>https://novayagazeta.ru/articles/2026/02/23/obrok-dlia-zeka</link>
@@ -287,6 +280,13 @@
       <description>На процессе Льва Шлосберга* суд не стал ждать адвокатов, не дал времени на подготовку к прениям и дал два часа на написание последнего слова</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/08/15/pravo-na-zashchitu-ne-predusmotreno</guid>
       <pubDate>Sat, 15 Aug 2026 08:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Суд приговорил Льва Шлосберга* к 11 годам и 1 месяцу колонии. От людоедского срока, запрошенного прокуратурой, скостили 1 год</title>
+      <link>https://novayagazeta.ru/news/2026/08/17/sud-prigovoril-lva-shlosberga-k-11-godam-i-1-mesiatsu-kolonii-ot-liudoedskogo-sroka-zaproshennogo-prokuraturoi-skostili-1-god-news</link>
+      <description>Суд приговорил Льва Шлосберга* к 11 годам и 1 месяцу колонии. От людоедского срока, запрошенного прокуратурой, скостили 1 год</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/news/2026/08/17/sud-prigovoril-lva-shlosberga-k-11-godam-i-1-mesiatsu-kolonii-ot-liudoedskogo-sroka-zaproshennogo-prokuraturoi-skostili-1-god-news</guid>
+      <pubDate>Mon, 17 Aug 2026 13:21:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
