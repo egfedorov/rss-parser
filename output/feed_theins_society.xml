@@ -6,7 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 08:22:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 09:22:14 +0000</lastBuildDate>
     <item>
       <title>«Мы проливали кровь не для того, чтобы с ними вели переговоры». Что происходит в Иране после расстрела протестов</title>
       <link>https://theins.ru/obshestvo/289382</link>
