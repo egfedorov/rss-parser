@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 17 Aug 2026 05:36:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 06:03:55 +0000</lastBuildDate>
     <item>
       <title>Буддист и Мефисто: куда война и репрессии завели режиссеров Кирилла Серебренникова и Константина Богомолова</title>
       <link>https://www.bbc.com/russian/articles/c39y7vypzl8o</link>
@@ -147,24 +147,10 @@
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Сдерживание на троих. Как США меняют ядерную стратегию, чтобы противостоять России и Китаю</title>
-      <link>https://www.bbc.com/russian/articles/ckg9w1wyddko</link>
-      <description>США разрабатывают новую стратегию ядерного сдерживания. Вашингтон побудили к этому два главных фактора — необходимость адаптироваться к развитию китайских ядерных сил и окончанию действия договора СНВ-3 с Россией. Речь, в частности, идет о расширении роли нестратегических ядерных вооружений, а также о привлечении к ядерному сдерживанию союзников.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckg9w1wyddko</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Воняет фекалиями, но «безопасно». Почему паводок привел к кризису в Тюмени</title>
       <link>https://www.bbc.com/russian/articles/cly9ekr46reo</link>
       <description>В Тюмени из кранов идет вода с запахом фекалий, а в реке Туре, откуда часть города получает питьевую воду, массово гибнет рыба. Тюменская система водоснабжения была рассчитана на сравнительно предсказуемую Туру и не справилась, когда уровень и состав воды резко изменились. Эксперты предупреждают: по мере изменения климата такие погодные аномалии могут происходить чаще.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly9ekr46reo</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Европа отвыкла было от российского газа, но зима снова грозит ЕС энергетическим кризисом</title>
-      <link>https://www.bbc.com/russian/articles/cx2m364p76ko</link>
-      <description>Спецпредставитель Кремля злорадствует: «ЕС перед угрозой энергетического кризиса по собственной вине». Почему Европе снова не хватает газа к отопительному сезону?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx2m364p76ko</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -182,13 +168,6 @@
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Она одевалась просто и выглядела честной». Как одинокие китайские мужчины становятся жертвами фиктивных невест</title>
-      <link>https://www.bbc.com/russian/articles/cgk402g3g74o</link>
-      <description>Мошенничество по схеме «молниеносных браков» является крайним проявлением демографического кризиса, который давно назревал в Китае.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cgk402g3g74o</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Наступление ВСУ на Александровском направлении: что о нем известно и каковы его перспективы</title>
       <link>https://www.bbc.com/russian/articles/cdewj2530k1o</link>
       <description>Результаты операции Вооруженных сил Украины на Александровском направлении — крупнейший территориальный успех ВСУ за три года. Но удалось ли украинским военным достичь всех поставленных целей?</description>
@@ -198,8 +177,9 @@
     <item>
       <title>Младший сержант ВСУ и бывший вице-президент Газпромбанка Игорь Волобуев: «Не жалею о том, что сделал»</title>
       <link>https://www.bbc.com/russian/articles/c934x8lqly7o</link>
+      <description>«Черная искра» называет себя подпольным российским движением, участники которого заявляют об атаках на НПЗ и другие объекты российской инфраструктуры. Его публичным представителем стал бывший топ-менеджер Газпромбанка Игорь Волобуев (власти РФ считают его  «иноагентом»). Би-би-си поговорила с Волобуевым об атаках на НПЗ, его взглядах и отношении к происходящему.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c934x8lqly7o</guid>
-      <pubDate>Mon, 17 Aug 2026 05:36:34 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
