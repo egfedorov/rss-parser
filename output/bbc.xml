@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 18 Aug 2026 19:54:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 20:26:38 +0000</lastBuildDate>
     <item>
       <title>Буддист и Мефисто: куда война и репрессии завели режиссеров Кирилла Серебренникова и Константина Богомолова</title>
       <link>https://www.bbc.com/russian/articles/c39y7vypzl8o</link>
@@ -141,17 +141,16 @@
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Воняет фекалиями, но «безопасно». Почему паводок привел к кризису в Тюмени</title>
+      <link>https://www.bbc.com/russian/articles/cly9ekr46reo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly9ekr46reo</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Битва за прошлое. В Тбилиси сносят символ эпохи Саакашвили</title>
       <link>https://www.bbc.com/russian/articles/c9356k4vlrpo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c9356k4vlrpo</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Воняет фекалиями, но «безопасно». Почему паводок привел к кризису в Тюмени</title>
-      <link>https://www.bbc.com/russian/articles/cly9ekr46reo</link>
-      <description>В Тюмени из кранов идет вода с запахом фекалий, а в реке Туре, откуда часть города получает питьевую воду, массово гибнет рыба. Тюменская система водоснабжения была рассчитана на сравнительно предсказуемую Туру и не справилась, когда уровень и состав воды резко изменились. Эксперты предупреждают: по мере изменения климата такие погодные аномалии могут происходить чаще.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly9ekr46reo</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>«Дело, наверное, в нашей национальности». Как пару россиян приняли за шпионов в Швеции</title>
@@ -159,13 +158,6 @@
       <description>Палаточный отдых двух россиян в живописном шведском городке Фурувик закончился арестом и выдворением из страны — из-за «русского акцента» и пары раций. Их история демонстрирует настроения в Швеции, которая после вторжения России в Украину сильнее многих в Европе ощущает угрозу со стороны Москвы.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx2d1envy42o</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Наступление ВСУ на Александровском направлении: что о нем известно и каковы его перспективы</title>
-      <link>https://www.bbc.com/russian/articles/cdewj2530k1o</link>
-      <description>Результаты операции Вооруженных сил Украины на Александровском направлении — крупнейший территориальный успех ВСУ за три года. Но удалось ли украинским военным достичь всех поставленных целей?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cdewj2530k1o</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Младший сержант ВСУ и бывший вице-президент Газпромбанка Игорь Волобуев: «Не жалею о том, что сделал»</title>
@@ -191,8 +183,15 @@
     <item>
       <title>«Яблоко» на выжженном поле. Куда завели партию попытки попасть во власть</title>
       <link>https://www.bbc.com/russian/articles/ce3440zr5q3o</link>
+      <description>Главным политическим событием лета в России неожиданно стало решение сначала допустить, а затем снять с выборов в Госдуму одну из старейших российских партий — «Яблоко». 17 августа она проиграла апелляцию в Верховном суде. Последние 25 лет «Яблоко» пыталось объединить либерально настроенный электорат, оставаясь частью системы, но война в Украине сделала это практически невозможным.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/ce3440zr5q3o</guid>
-      <pubDate>Tue, 18 Aug 2026 19:54:42 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Любовь к родине иногда требует идти против государства». История осужденного на 11 лет Льва Шлосберга</title>
+      <link>https://www.bbc.com/russian/articles/cy8ee2wngd8o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy8ee2wngd8o</guid>
+      <pubDate>Tue, 18 Aug 2026 20:26:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
