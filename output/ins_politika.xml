@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 18 Aug 2026 10:03:30 +0000</lastBuildDate>
-    <item>
-      <title>Отцы и сети. Как запрет соцсетей для подростков стал главным политическим оружием против big tech</title>
-      <link>https://theins.ru/politika/292171</link>
-      <guid isPermaLink="false">https://theins.ru/politika/292171</guid>
-      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 10:50:19 +0000</lastBuildDate>
     <item>
       <title>ХАМАС или Аббас: местные выборы в Палестине показали готовность сторон к компромиссу ради легитимности</title>
       <link>https://theins.ru/politika/292513</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/politika/296026</link>
       <guid isPermaLink="false">https://theins.ru/politika/296026</guid>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Возвращение блудного кандидата. Как Марин Ле Пен удалось вернуться из небытия и с кем ей придется сразиться в 2027 году</title>
+      <link>https://theins.ru/politika/295975</link>
+      <guid isPermaLink="false">https://theins.ru/politika/295975</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
