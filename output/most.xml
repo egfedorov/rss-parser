@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 18 Aug 2026 11:26:55 +0000</lastBuildDate>
-    <item>
-      <title>Почему путинская Россия оказалась хуже СССР? Объясняют Рене Генон и Юлиус Эвола</title>
-      <link>https://mostmedia.org/ru/posts/pochemu-putinskaja-rossia-okazalas-huzhe-sssr-objasnjajut-rene-genon-i-julius-evola</link>
-      <description>Актуальные ключи к пониманию российской идеологической эволюции дают два европейских мыслителя XX века</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/pochemu-putinskaja-rossia-okazalas-huzhe-sssr-objasnjajut-rene-genon-i-julius-evola</guid>
-      <enclosure url="https://mostmedia.org/uploads/files/b/b/f/9/a/bbf9a8bc985ca3259a09f9667ea2ca36.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 11:58:21 +0000</lastBuildDate>
     <item>
       <title>Карьера Марин Ле Пен, которой могло бы не быть. В 2027 году президентом Франции может стать женщина с уголовным приговором</title>
       <link>https://mostmedia.org/ru/posts/karera-marin-le-pen-kotoroi-moglo-by-ne-byt-v-2027-godu-prezidentom-francii-mozhet-stat-zhenshina-s-ugolovnym-prigovorom</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/inogda-u-predstaviteley-evrokomissii-kotorye-pishut-text-sankcy-hochetsja-sprosit-vy-chego-hoteli-dobitsja</guid>
       <enclosure url="https://mostmedia.org/uploads/files/a/5/d/9/9/a5d993bf416c3ceb5900071c1a12cd53.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Курильский парадокс. Зачем Путин летал на Итуруп</title>
+      <link>https://mostmedia.org/ru/posts/kurilsky-paradox-zachem-putin-letal-na-iturup</link>
+      <description>На прошлой неделе российский лидер впервые за 26 лет своего правления посетил Курильские острова. Эта демонстративная поездка резко обострила российско-японские отношения. Зато должна была понравиться китайским товарищам</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/kurilsky-paradox-zachem-putin-letal-na-iturup</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/5/9/e/5/6/59e56401fcf42dfdeb1693382bb6c634.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 14:43:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
