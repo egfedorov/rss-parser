@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 19 Aug 2026 09:41:25 +0000</lastBuildDate>
-    <item>
-      <title>Хаски, «Базар» и гости из Японии — в Петербурге проходит Stereoleto с восточным акцентом</title>
-      <link>https://mr-7.ru/articles/2026/06/14/khaski-bazar-i-gosti-iz-iaponii-v-peterburge-prokhodit-stereoleto-s-vostochnym-aktsentom</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/06/14/khaski-bazar-i-gosti-iz-iaponii-v-peterburge-prokhodit-stereoleto-s-vostochnym-aktsentom</guid>
-      <enclosure url="https://mr-7.ru/static/records/b34d486d6f0c4c1bb7eb24022a7c0fe6.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 14 Jun 2026 10:02:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 10:30:52 +0000</lastBuildDate>
     <item>
       <title>Ограничения продажи и запрет на канистры: что происходит с бензином в Петербурге</title>
       <link>https://mr-7.ru/articles/2026/06/15/ogranicheniia-prodazhi-i-zapret-na-kanistry-chto-proiskhodit-s-benzinom-v-peterburge</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/17/botinochek-shkolnaia-vedomost-iiunia-1941-go-i-kerosinki-staryi-dom-pokazal-svoi-sokrovishcha-tem-kto-ego-zashchishchaet</guid>
       <enclosure url="https://mr-7.ru/static/records/9e87a0a2e8e04946bcaab3226c12ca39.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 17 Aug 2026 10:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>За обрушение дома на Большой Зелениной никого не накажут — дело закрыто</title>
+      <link>https://mr-7.ru/articles/2026/08/19/za-obrushenie-doma-na-bolshoi-zeleninoi-nikogo-ne-nakazhut-delo-zakryto</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/19/za-obrushenie-doma-na-bolshoi-zeleninoi-nikogo-ne-nakazhut-delo-zakryto</guid>
+      <enclosure url="https://mr-7.ru/static/records/e57de7e0d74c4065b4b6f497e37f43dc.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 09:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
