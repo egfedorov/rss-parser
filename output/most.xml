@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 19 Aug 2026 18:43:25 +0000</lastBuildDate>
-    <item>
-      <title>«Иисус Христос действительно существовал. И звали его Радомир»</title>
-      <link>https://mostmedia.org/ru/posts/iisus-hristos-deystvitelno-sushestvoval-i-zvali-ego-radomir</link>
-      <description>Репортаж с главного праздника российских родноверов, которые возрождают дохристианскую веру славян</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/iisus-hristos-deystvitelno-sushestvoval-i-zvali-ego-radomir</guid>
-      <enclosure url="https://mostmedia.org/uploads/files/1/7/b/3/9/17b39310a41c6947ce5971bef516433c.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jul 2026 00:15:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 19:27:44 +0000</lastBuildDate>
     <item>
       <title>«Фауда» без признаков Голливуда. Как 7 октября изменило самый успешный израильский сериал</title>
       <link>https://mostmedia.org/ru/posts/fauda-bez-priznakov-gollivuda-kak-7-oktjabrja-izmenilo-samyi-uspeshnyi-izrailsky-serial</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/ssha-i-evrosojuz-gotovjat-samye-masshtabnye-sankcii-v-otnoshenii-rossii-pomozhet-li-eto-ostanovit-voinu</guid>
       <enclosure url="https://mostmedia.org/uploads/files/6/e/d/1/0/6ed100b0202d58c69a2b8a0b7cd2baa4.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Что происходило на баррикадах у Белого дома в августе 1991-го: личный опыт автора «Моста»</title>
+      <link>https://mostmedia.org/ru/posts/chto-proishodilo-na-barrikadah-u-belogo-doma-v-avguste-1991-go-lichnyi-opyt-avtora-mosta</link>
+      <description>«Смотри, – говорю я пятилетнему сыну. – Смотри и запоминай: даже если у нас ничего не получится – мы боролись».</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/chto-proishodilo-na-barrikadah-u-belogo-doma-v-avguste-1991-go-lichnyi-opyt-avtora-mosta</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/4/2/d/a/d/42dad6f58ec2fac809d8c63e40e80d33.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 21:19:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
