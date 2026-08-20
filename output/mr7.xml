@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 20 Aug 2026 10:51:30 +0000</lastBuildDate>
-    <item>
-      <title>Ограничения продажи и запрет на канистры: что происходит с бензином в Петербурге</title>
-      <link>https://mr-7.ru/articles/2026/06/15/ogranicheniia-prodazhi-i-zapret-na-kanistry-chto-proiskhodit-s-benzinom-v-peterburge</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/06/15/ogranicheniia-prodazhi-i-zapret-na-kanistry-chto-proiskhodit-s-benzinom-v-peterburge</guid>
-      <enclosure url="https://mr-7.ru/static/records/0d2781a2288f402dafa3026ed9e7f3fe.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 15 Jun 2026 14:55:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 11:28:12 +0000</lastBuildDate>
     <item>
       <title>«Алые паруса — 2026»: программа праздника, ограничения и транспорт</title>
       <link>https://mr-7.ru/articles/2026/06/16/alye-parusa-2026-programma-prazdnika-ogranicheniia-i-transport</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/19/za-obrushenie-doma-na-bolshoi-zeleninoi-nikogo-ne-nakazhut-delo-zakryto</guid>
       <enclosure url="https://mr-7.ru/static/records/e57de7e0d74c4065b4b6f497e37f43dc.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 19 Aug 2026 09:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«У меня нет ненависти к военнослужащим»: обвиняемого в «фейках об армии» Егора Гуляева допросили в суде</title>
+      <link>https://mr-7.ru/articles/2026/08/20/u-menia-net-nenavisti-k-voennosluzhashchim-obviniaemogo-v-feikakh-ob-armii-egora-guliaeva-doprosili-v-sude</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/20/u-menia-net-nenavisti-k-voennosluzhashchim-obviniaemogo-v-feikakh-ob-armii-egora-guliaeva-doprosili-v-sude</guid>
+      <enclosure url="https://mr-7.ru/static/records/91a07efb75734923a43e2978c5af1aa6.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 10:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
