@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 21 Aug 2026 14:37:11 +0000</lastBuildDate>
-    <item>
-      <title>7 поводов выйти из дома 20–21 июня</title>
-      <link>https://mr-7.ru/articles/2026/06/19/7-povodov-vyiti-iz-doma-20-21-iiunia</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/06/19/7-povodov-vyiti-iz-doma-20-21-iiunia</guid>
-      <enclosure url="https://mr-7.ru/static/records/19aa775a267a4565b0178d1c446b80e4.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 19 Jun 2026 12:19:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 15:08:38 +0000</lastBuildDate>
     <item>
       <title>Мечта о зоопарке. Насколько реалистичен проект, представленный на ПМЭФ</title>
       <link>https://mr-7.ru/articles/2026/06/22/mechta-o-zooparke-naskolko-realistichen-proekt-predstavlennyi-na-pmef</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/21/7-povodov-vyiti-iz-doma-22-23-avgusta</guid>
       <enclosure url="https://mr-7.ru/static/records/6306a883af614773b763ee5ca71cb105.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 21 Aug 2026 11:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>35 лет назад… Как петербуржцы вспоминают события путча 1991 года</title>
+      <link>https://mr-7.ru/articles/2026/08/21/35-let-nazad-kak-peterburzhtsy-vspominaiut-sobytiia-putcha-1991-goda</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/21/35-let-nazad-kak-peterburzhtsy-vspominaiut-sobytiia-putcha-1991-goda</guid>
+      <enclosure url="https://mr-7.ru/static/records/7018050aa98a44039880f3ff120da525.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 14:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
