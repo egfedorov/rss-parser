@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 21 Aug 2026 01:47:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 03:04:54 +0000</lastBuildDate>
     <item>
       <title>Буддист и Мефисто: куда война и репрессии завели режиссеров Кирилла Серебренникова и Константина Богомолова</title>
       <link>https://www.bbc.com/russian/articles/c39y7vypzl8o</link>
@@ -153,13 +153,6 @@
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Как меняется Афганистан под властью талибов? Текстовая версия подкаста «Что это было» с востоковедом Русланом Сулеймановым из Кабула</title>
-      <link>https://www.bbc.com/russian/articles/cp30xvjjd7zo</link>
-      <description>В августе 2021 года, к власти в Афганистане пришел «Талибан». За пять лет талибы смогли не потерять власть и добились пусть ограниченного, но все же международного признания. Тем временем гуманитарная ситуация в стране остается тяжелой, а положение женщин заметно ухудшилось. Эти и другие вопросы обсуждаем с востоковедом Русланом Сулеймановым.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cp30xvjjd7zo</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>На кладбище и у моря. Как в Украине женятся и разводятся онлайн</title>
       <link>https://www.bbc.com/russian/articles/cj36gl7yg62o</link>
       <description>На свадьбу Анастасия выбрала белый лонгслив, белую фату и самую высокую гору в Украине — Говерлу. Анастасия и Денис Мазорчуки поженились онлайн прямо на вершине горы. Для этого нужен только телефон, интернет и приложение «Дія».</description>
@@ -181,10 +174,17 @@
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Дилемма Федорова. О чем хотел сказать экс-министр в своем видеообращении и о чем он умолчал</title>
+      <link>https://www.bbc.com/russian/articles/c4gd1vvvxpyo</link>
+      <description>Бывший министр обороны призвал провести выборы в Украине. Но как это осуществить и в чем заключается главная проблема?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4gd1vvvxpyo</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Видео,США перестали бояться ядерной бомбы? | Военное время, Продолжительность 14,52</title>
       <link>https://www.bbc.com/russian/articles/cd6989vdn9zo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cd6989vdn9zo</guid>
-      <pubDate>Fri, 21 Aug 2026 01:47:30 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 03:04:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
