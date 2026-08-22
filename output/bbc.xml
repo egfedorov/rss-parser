@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 22 Aug 2026 06:42:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 07:33:39 +0000</lastBuildDate>
     <item>
       <title>Дефицит на колесах: как бензиновый кризис докатился до Дальнего Востока</title>
       <link>https://www.bbc.com/russian/articles/cddln976j76o</link>
@@ -153,13 +153,6 @@
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Яблоко» на выжженном поле. Куда завели партию попытки попасть во власть</title>
-      <link>https://www.bbc.com/russian/articles/ce3440zr5q3o</link>
-      <description>Главным политическим событием лета в России неожиданно стало решение сначала допустить, а затем снять с выборов в Госдуму одну из старейших российских партий — «Яблоко». 17 августа она проиграла апелляцию в Верховном суде. Последние 25 лет «Яблоко» пыталось объединить либерально настроенный электорат, оставаясь частью системы, но война в Украине сделала это практически невозможным.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ce3440zr5q3o</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Любовь к родине иногда требует идти против государства». История осужденного на 11 лет Льва Шлосберга</title>
       <link>https://www.bbc.com/russian/articles/cy8ee2wngd8o</link>
       <description>Русская служба Би-би-си рассказывает историю одного из самых заметных региональных политиков, который выступил против войны и остался в России.</description>
@@ -167,23 +160,30 @@
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Дилемма Федорова. О чем хотел сказать экс-министр в своем видеообращении и о чем он умолчал</title>
-      <link>https://www.bbc.com/russian/articles/c4gd1vvvxpyo</link>
-      <description>Бывший министр обороны призвал провести выборы в Украине. Но как это осуществить и в чем заключается главная проблема?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4gd1vvvxpyo</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <title>«Яблоко» на выжженном поле. Куда завели партию попытки попасть во власть</title>
+      <link>https://www.bbc.com/russian/articles/ce3440zr5q3o</link>
+      <description>Главным политическим событием лета в России неожиданно стало решение сначала допустить, а затем снять с выборов в Госдуму одну из старейших российских партий — «Яблоко». 17 августа она проиграла апелляцию в Верховном суде. Последние 25 лет «Яблоко» пыталось объединить либерально настроенный электорат, оставаясь частью системы, но война в Украине сделала это практически невозможным.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ce3440zr5q3o</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Видео,США перестали бояться ядерной бомбы? | Военное время, Продолжительность 14,52</title>
       <link>https://www.bbc.com/russian/articles/cd6989vdn9zo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cd6989vdn9zo</guid>
-      <pubDate>Sat, 22 Aug 2026 06:42:50 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 07:33:39 +0000</pubDate>
     </item>
     <item>
       <title>«Они все равно звезды». Что стало с американской мечтой принца Гарри и Меган — и чем они займутся в Британии?</title>
       <link>https://www.bbc.com/russian/articles/cvgv2n62306o</link>
       <description>Новость о возвращении в Великобританию принца Гарри и его жены Меган застала врасплох и многих жителей Соединенного Королевства, и некоторых обитателей Калифорнии, где чета прожила несколько лет, воспитывая сына и дочь. Их отъезд из Голливуда нельзя назвать бегством неудачников: отчасти американская мечта королевской пары сбылась.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgv2n62306o</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Что мы знаем о потерях России в Украине к концу августа</title>
+      <link>https://www.bbc.com/russian/articles/c05q3zp24rro</link>
+      <description>Не менее 241 088 российских военных погибли с начала полномасштабного вторжения в Украину, следует из подсчетов Би-би-си. Больше половины людей в нашем списке не имели отношения к армии в момент начала войны, а средний возраст погибших сейчас составляет 38 лет — на 13 лет больше, чем в первые месяцы вторжения.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c05q3zp24rro</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

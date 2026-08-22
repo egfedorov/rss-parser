@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 22 Aug 2026 06:42:47 +0000</lastBuildDate>
-    <item>
-      <title>Школьная скамья подсудимых&amp;nbsp; — В России все чаще возят в автозаках тех, кто вчера еще ходил на контрольные и ждал перемен. Их имена засекречены, что с ними происходит в тюрьмах и колониях — неизвестно</title>
-      <link>https://novayagazeta.ru/articles/2026/02/26/shkolnaia-skamia-podsudimykh</link>
-      <description>В России все чаще возят в автозаках тех, кто вчера еще ходил на контрольные и ждал перемен. Их имена засекречены, что с ними происходит в тюрьмах и колониях — неизвестно</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/26/shkolnaia-skamia-podsudimykh</guid>
-      <pubDate>Thu, 26 Feb 2026 07:09:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 07:33:34 +0000</lastBuildDate>
     <item>
       <title>Неизбежность весны — Как в петербургском горсуде экстремизм собирали из манифеста, комментариев анонима и вовремя не нажатой кнопки «удалить»</title>
       <link>https://novayagazeta.ru/articles/2026/02/27/neizbezhnost-vesny</link>
@@ -287,6 +280,13 @@
       <description>Как Верховный суд РФ зачистил избирательный бюллетень и отклонил апелляцию «Яблока»</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/08/17/pust-vsegda-budet-solntse-a-shaman-v-shtanakh</guid>
       <pubDate>Mon, 17 Aug 2026 15:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Репрессия по месту явки — Пришел к суду — получил протокол. Искал музыку — получил протокол. На тебя сослались — тоже получи протокол</title>
+      <link>https://novayagazeta.ru/articles/2026/08/22/repressiia-po-mestu-iavki</link>
+      <description>Пришел к суду — получил протокол. Искал музыку — получил протокол. На тебя сослались — тоже получи протокол</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/08/22/repressiia-po-mestu-iavki</guid>
+      <pubDate>Sat, 22 Aug 2026 07:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
