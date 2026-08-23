@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 23 Aug 2026 14:57:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 15:29:47 +0000</lastBuildDate>
     <item>
       <title>Дефицит на колесах: как бензиновый кризис докатился до Дальнего Востока</title>
       <link>https://www.bbc.com/russian/articles/cddln976j76o</link>
@@ -156,7 +156,7 @@
       <title>Видео,США перестали бояться ядерной бомбы? | Военное время, Продолжительность 14,52</title>
       <link>https://www.bbc.com/russian/articles/cd6989vdn9zo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cd6989vdn9zo</guid>
-      <pubDate>Sun, 23 Aug 2026 14:57:41 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 15:29:47 +0000</pubDate>
     </item>
     <item>
       <title>«Любовь к родине иногда требует идти против государства». История осужденного на 11 лет Льва Шлосберга</title>
@@ -169,7 +169,7 @@
       <title>Видео,Зачем Канье Уэст едет в Россию? | Видеоподкаст «Что это было», Продолжительность 30,58</title>
       <link>https://www.bbc.com/russian/articles/cj9dmr2lg40o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cj9dmr2lg40o</guid>
-      <pubDate>Sun, 23 Aug 2026 14:57:41 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 15:29:47 +0000</pubDate>
     </item>
     <item>
       <title>«Они все равно звезды». Что стало с американской мечтой принца Гарри и Меган — и чем они займутся в Британии?</title>
@@ -186,10 +186,17 @@
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Это и есть вторая волна». Как в России развивается топливный кризис</title>
+      <link>https://www.bbc.com/russian/articles/c8dnvp11lejo</link>
+      <description>В России на фоне усилившихся украинских ударов по российским НПЗ началась вторая волна топливного кризиса. По расчетам Русской службы Би-би-си, жалобы на проблемы с топливом поступали как минимум из 25 регионов России. С дефицитом столкнулась и Москва.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8dnvp11lejo</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Что мы знаем о потерях России в Украине к концу августа</title>
       <link>https://www.bbc.com/russian/articles/c05q3zp24rro</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c05q3zp24rro</guid>
-      <pubDate>Sun, 23 Aug 2026 14:57:41 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 15:29:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
