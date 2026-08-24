@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 24 Aug 2026 17:50:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 18:42:27 +0000</lastBuildDate>
     <item>
       <title>Дефицит на колесах: как бензиновый кризис докатился до Дальнего Востока</title>
       <link>https://www.bbc.com/russian/articles/cddln976j76o</link>
@@ -154,13 +154,6 @@
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Они все равно звезды». Что стало с американской мечтой принца Гарри и Меган — и чем они займутся в Британии?</title>
-      <link>https://www.bbc.com/russian/articles/cvgv2n62306o</link>
-      <description>Новость о возвращении в Великобританию принца Гарри и его жены Меган застала врасплох и многих жителей Соединенного Королевства, и некоторых обитателей Калифорнии, где чета прожила несколько лет, воспитывая сына и дочь. Их отъезд из Голливуда нельзя назвать бегством неудачников: отчасти американская мечта королевской пары сбылась.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgv2n62306o</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>У США снова долговые проблемы. Грозит ли Америке дефолт?</title>
       <link>https://www.bbc.com/russian/articles/cx2v04jxqvlo</link>
       <description>Почти 20 лет назад аналогичная ситуация оказалась предвестником самого масштабного финансового кризиса современности. На этот раз все не так плохо, уверены экономисты.</description>
@@ -189,6 +182,13 @@
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Пленные солдаты украинского происхождения рассказали Би-би-си, почему воевали на стороне России</title>
+      <link>https://www.bbc.com/russian/articles/cq56nn0pz8wo</link>
+      <description>Мужчины, родившиеся в Украине и сражавшиеся на стороне России, предстают перед судом по обвинению в государственной измене, однако в лагере для военнопленных на западе Украины многие из них рассказывают Би-би-си, что защищали свою родину.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq56nn0pz8wo</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Черноморскому флоту России стало опасно в бухте Новороссийска. Но уходить некуда</title>
       <link>https://www.bbc.com/russian/articles/c330grly764o</link>
       <description>Недавние удары ВСУ по двум фрегатам Черноморского флота прямо у причала порта Новороссийска продемонстрировали уязвимость этой военной базы и кораблей в ней. Русская служба Би-би-си попыталась разобраться в том, как Россия может попытаться сохранить свой Черноморский флот.</description>
@@ -199,7 +199,7 @@
       <title>Как профессор Ардей стал жертвой британской культурной войны</title>
       <link>https://www.bbc.com/russian/articles/c330gmje51no</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c330gmje51no</guid>
-      <pubDate>Mon, 24 Aug 2026 17:50:53 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 18:42:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
