@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 24 Aug 2026 20:40:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 21:31:44 +0000</lastBuildDate>
     <item>
       <title>Дефицит на колесах: как бензиновый кризис докатился до Дальнего Востока</title>
       <link>https://www.bbc.com/russian/articles/cddln976j76o</link>
@@ -147,13 +147,6 @@
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Мы глазам не могли поверить!» Как «настоящий Индиана Джонс» нашел древний город инков — но только часть сокровищ</title>
-      <link>https://www.bbc.com/russian/articles/cx25z6eywnxo</link>
-      <description>В 1911 году один американский профессор заявил, что обнаружил в самом сердце перуанских Анд древнюю цитадель последнего правителя инков. Однако 53 года спустя другой исследователь доказал, что профессор ошибался, и вскоре после этого съемочная группа Би-би-си прошла по его маршруту.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx25z6eywnxo</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>У США снова долговые проблемы. Грозит ли Америке дефолт?</title>
       <link>https://www.bbc.com/russian/articles/cx2v04jxqvlo</link>
       <description>Почти 20 лет назад аналогичная ситуация оказалась предвестником самого масштабного финансового кризиса современности. На этот раз все не так плохо, уверены экономисты.</description>
@@ -189,6 +182,13 @@
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Экс-министр обороны Украины Михаил Федоров  о Зеленском, выборах и своей отставке в интервью Би-би-си</title>
+      <link>https://www.bbc.com/russian/articles/cx2j2v3y2zro</link>
+      <description>Бывший министр обороны Украины Михаил Федоров долгие годы считался одним из самых доверенных соратников Владимира Зеленского. Сейчас он критикует власть, но не называет себя оппозиционером.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx2j2v3y2zro</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Черноморскому флоту России стало опасно в бухте Новороссийска. Но уходить некуда</title>
       <link>https://www.bbc.com/russian/articles/c330grly764o</link>
       <description>Недавние удары ВСУ по двум фрегатам Черноморского флота прямо у причала порта Новороссийска продемонстрировали уязвимость этой военной базы и кораблей в ней. Русская служба Би-би-си попыталась разобраться в том, как Россия может попытаться сохранить свой Черноморский флот.</description>
@@ -199,7 +199,7 @@
       <title>Как профессор Ардей стал жертвой британской культурной войны</title>
       <link>https://www.bbc.com/russian/articles/c330gmje51no</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c330gmje51no</guid>
-      <pubDate>Mon, 24 Aug 2026 20:40:58 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 21:31:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
