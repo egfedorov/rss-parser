@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 25 Aug 2026 11:48:15 +0000</lastBuildDate>
-    <item>
-      <title>Украина наносит удары по российским центрам космической связи. Зачем?</title>
-      <link>https://www.bbc.com/russian/articles/cd0mr27z9d0o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cd0mr27z9d0o</guid>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 12:51:12 +0000</lastBuildDate>
     <item>
       <title>«Решающий в истории альянса». Чего ждать от саммита НАТО на фоне разлада США и Европы?</title>
       <link>https://www.bbc.com/russian/articles/c1kyrdrkw9vo</link>
@@ -141,9 +135,9 @@
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Допросы в клетке и угрозы смертной казнью. Что происходит со студентами ЕГУ — белорусского вуза в изгнании</title>
-      <link>https://www.bbc.com/russian/articles/cvgwqzqgl2zo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgwqzqgl2zo</guid>
+      <title>Суд арестовал экс-замглавы офиса Зеленского Ирину Мудрую. Что нужно знать о ее деле</title>
+      <link>https://www.bbc.com/russian/articles/c20l4d1vpdlo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c20l4d1vpdlo</guid>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -186,7 +180,13 @@
       <link>https://www.bbc.com/programmes/p0p62bz7</link>
       <description>Новая цель — Ozon. Удары ВСУ подкосят экономику? | Видеоподкаст «Что это было»</description>
       <guid isPermaLink="false">https://www.bbc.com/programmes/p0p62bz7</guid>
-      <pubDate>Tue, 25 Aug 2026 11:48:15 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 12:51:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Допросы в клетке и угрозы смертной казнью. Что происходит со студентами ЕГУ — белорусского вуза в изгнании</title>
+      <link>https://www.bbc.com/russian/articles/cvgwqzqgl2zo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgwqzqgl2zo</guid>
+      <pubDate>Tue, 25 Aug 2026 12:51:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
