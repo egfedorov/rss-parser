@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 25 Aug 2026 17:15:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 17:49:02 +0000</lastBuildDate>
     <item>
       <title>«Решающий в истории альянса». Чего ждать от саммита НАТО на фоне разлада США и Европы?</title>
       <link>https://www.bbc.com/russian/articles/c1kyrdrkw9vo</link>
@@ -141,13 +141,6 @@
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Поколение Z все чаще заменяет алкоголь препаратами, которые продаются только по рецепту. Что это за новое веяние и в чем его риски?</title>
-      <link>https://www.bbc.com/russian/articles/c4gjvvz9z29o</link>
-      <description>Чтобы приятно провести вечер с друзьями, Мэтту — 22-летнему молодому человеку с севера Англии — раньше приходилось напиваться до тошноты. Без этого он весь вечер молчал, боясь сказать что-нибудь не то. Мэтт работает на складе. Он рассказывает, что ему казалось, будто он просто «никак не может включиться» в разговоры, которыми все остальные, судя по всему, легко наслаждались.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4gjvvz9z29o</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Черноморскому флоту России стало опасно в бухте Новороссийска. Но уходить некуда</title>
       <link>https://www.bbc.com/russian/articles/c330grly764o</link>
       <description>Недавние удары ВСУ по двум фрегатам Черноморского флота прямо у причала порта Новороссийска продемонстрировали уязвимость этой военной базы и кораблей в ней. Русская служба Би-би-си попыталась разобраться в том, как Россия может попытаться сохранить свой Черноморский флот.</description>
@@ -180,13 +173,20 @@
       <link>https://www.bbc.com/programmes/p0p62bz7</link>
       <description>Новая цель — Ozon. Удары ВСУ подкосят экономику? | Видеоподкаст «Что это было»</description>
       <guid isPermaLink="false">https://www.bbc.com/programmes/p0p62bz7</guid>
-      <pubDate>Tue, 25 Aug 2026 17:15:42 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 17:49:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Разводы, смартфоны и жесткий контроль. Репортаж Би-би-си о том, как талибы управляют Афганистаном</title>
+      <link>https://www.bbc.com/russian/articles/cd94dqdqnzdo</link>
+      <description>С момента второго пришествия движения «Талибан» к власти в Афганистане прошло пять лет. Би-би-си получила уникальную возможность встретиться с высокопоставленными талибами и увидеть, что изменилось за это время и в какую сторону.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cd94dqdqnzdo</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Допросы в клетке и угрозы смертной казнью. Что происходит со студентами ЕГУ — белорусского вуза в изгнании</title>
       <link>https://www.bbc.com/russian/articles/cvgwqzqgl2zo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgwqzqgl2zo</guid>
-      <pubDate>Tue, 25 Aug 2026 17:15:42 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 17:49:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
