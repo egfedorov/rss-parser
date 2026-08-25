@@ -6,7 +6,19 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 19:59:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:38:49 +0000</lastBuildDate>
+    <item>
+      <title>Гипервысылка. Почему в США россияне стали массово сталкиваться с депортациями и отказами в убежище</title>
+      <link>https://theins.ru/obshestvo/288028</link>
+      <guid isPermaLink="false">https://theins.ru/obshestvo/288028</guid>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Китайский WeChat, иранская Rubica и российский МAX. Как диктатуры навязывают мессенджеры для контроля за населением</title>
+      <link>https://theins.ru/obshestvo/288118</link>
+      <guid isPermaLink="false">https://theins.ru/obshestvo/288118</guid>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Наказание вместо лечения. Почему репрессивные меры Трампа лишь усугубляют проблему бездомных в США</title>
       <link>https://theins.ru/obshestvo/287293</link>
@@ -30,12 +42,6 @@
       <link>https://theins.ru/obshestvo/288404</link>
       <guid isPermaLink="false">https://theins.ru/obshestvo/288404</guid>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Гретые кирпичи в кровати, купленные в складчину генераторы, свечи вместо ламп: как Киев выживает без света и тепла</title>
-      <link>https://theins.ru/obshestvo/288748</link>
-      <guid isPermaLink="false">https://theins.ru/obshestvo/288748</guid>
-      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Всемирный поток. Как глобальное изменение климата заставляет сотни миллионов людей переселяться</title>
@@ -84,12 +90,6 @@
       <link>https://theins.ru/obshestvo/289681</link>
       <guid isPermaLink="false">https://theins.ru/obshestvo/289681</guid>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Они убили все конкурентные преимущества Москвы». Как российская столица перестала быть цифровым городом из-за отключения интернета</title>
-      <link>https://theins.ru/obshestvo/290424</link>
-      <guid isPermaLink="false">https://theins.ru/obshestvo/290424</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>У нас есть свой Starlink дома. Что не так с российскими проектами спутникового интернета</title>
