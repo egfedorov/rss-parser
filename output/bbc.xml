@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 25 Aug 2026 17:49:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 18:41:42 +0000</lastBuildDate>
     <item>
       <title>«Решающий в истории альянса». Чего ждать от саммита НАТО на фоне разлада США и Европы?</title>
       <link>https://www.bbc.com/russian/articles/c1kyrdrkw9vo</link>
@@ -173,7 +173,7 @@
       <link>https://www.bbc.com/programmes/p0p62bz7</link>
       <description>Новая цель — Ozon. Удары ВСУ подкосят экономику? | Видеоподкаст «Что это было»</description>
       <guid isPermaLink="false">https://www.bbc.com/programmes/p0p62bz7</guid>
-      <pubDate>Tue, 25 Aug 2026 17:49:02 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 18:41:42 +0000</pubDate>
     </item>
     <item>
       <title>Разводы, смартфоны и жесткий контроль. Репортаж Би-би-си о том, как талибы управляют Афганистаном</title>
@@ -183,10 +183,17 @@
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>В мировом океане — самая высокая температура в истории наблюдений. И это еще не настало лето в Южном полушарии</title>
+      <link>https://www.bbc.com/russian/articles/c0469dg6gq0o</link>
+      <description>Новые данные показывают, что температура мирового океана становится все выше. Причина — человеческая активность и регулярное климатическое явление Эль-Ниньо</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0469dg6gq0o</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Допросы в клетке и угрозы смертной казнью. Что происходит со студентами ЕГУ — белорусского вуза в изгнании</title>
       <link>https://www.bbc.com/russian/articles/cvgwqzqgl2zo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgwqzqgl2zo</guid>
-      <pubDate>Tue, 25 Aug 2026 17:49:02 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 18:41:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
