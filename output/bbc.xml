@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 25 Aug 2026 06:02:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:12:22 +0000</lastBuildDate>
     <item>
       <title>Украина наносит удары по российским центрам космической связи. Зачем?</title>
       <link>https://www.bbc.com/russian/articles/cd0mr27z9d0o</link>
@@ -147,13 +147,6 @@
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Это и есть вторая волна». Как в России развивается топливный кризис</title>
-      <link>https://www.bbc.com/russian/articles/c8dnvp11lejo</link>
-      <description>В России на фоне усилившихся украинских ударов по российским НПЗ началась вторая волна топливного кризиса. По расчетам Русской службы Би-би-си, жалобы на проблемы с топливом поступали как минимум из 25 регионов России. С дефицитом столкнулась и Москва.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8dnvp11lejo</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Поколение Z все чаще заменяет алкоголь препаратами, которые продаются только по рецепту. Что это за новое веяние и в чем его риски?</title>
       <link>https://www.bbc.com/russian/articles/c4gjvvz9z29o</link>
       <description>Чтобы приятно провести вечер с друзьями, Мэтту — 22-летнему молодому человеку с севера Англии — раньше приходилось напиваться до тошноты. Без этого он весь вечер молчал, боясь сказать что-нибудь не то. Мэтт работает на складе. Он рассказывает, что ему казалось, будто он просто «никак не может включиться» в разговоры, которыми все остальные, судя по всему, легко наслаждались.</description>
@@ -161,11 +154,11 @@
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Что мы знаем о потерях России в Украине к концу августа</title>
-      <link>https://www.bbc.com/russian/articles/c05q3zp24rro</link>
-      <description>Не менее 241 088 российских военных погибли с начала полномасштабного вторжения в Украину, следует из подсчетов Би-би-си. Больше половины людей в нашем списке не имели отношения к армии в момент начала войны, а средний возраст погибших сейчас составляет 38 лет — на 13 лет больше, чем в первые месяцы вторжения.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c05q3zp24rro</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Черноморскому флоту России стало опасно в бухте Новороссийска. Но уходить некуда</title>
+      <link>https://www.bbc.com/russian/articles/c330grly764o</link>
+      <description>Недавние удары ВСУ по двум фрегатам Черноморского флота прямо у причала порта Новороссийска продемонстрировали уязвимость этой военной базы и кораблей в ней. Русская служба Би-би-си попыталась разобраться в том, как Россия может попытаться сохранить свой Черноморский флот.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c330grly764o</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Пленные солдаты украинского происхождения рассказали Би-би-си, почему воевали на стороне России</title>
@@ -182,17 +175,11 @@
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Черноморскому флоту России стало опасно в бухте Новороссийска. Но уходить некуда</title>
-      <link>https://www.bbc.com/russian/articles/c330grly764o</link>
-      <description>Недавние удары ВСУ по двум фрегатам Черноморского флота прямо у причала порта Новороссийска продемонстрировали уязвимость этой военной базы и кораблей в ней. Русская служба Би-би-си попыталась разобраться в том, как Россия может попытаться сохранить свой Черноморский флот.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c330grly764o</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Как профессор Ардей стал жертвой британской культурной войны</title>
       <link>https://www.bbc.com/russian/articles/c330gmje51no</link>
+      <description>Джейсон Ардей покинул пост профессора Кембриджского университета из-за обвинений в плагиате, которые широко распространялись в СМИ. Через несколько дней его нашли мертвым. Этот случай вызвал вопросы как о том, почему он оказался на столь престижной должности, так и о мотивах СМИ, которые о нем писали.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c330gmje51no</guid>
-      <pubDate>Tue, 25 Aug 2026 06:02:53 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
