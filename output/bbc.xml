@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 26 Aug 2026 18:07:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 20:12:20 +0000</lastBuildDate>
     <item>
       <title>«Решающий в истории альянса». Чего ждать от саммита НАТО на фоне разлада США и Европы?</title>
       <link>https://www.bbc.com/russian/articles/c1kyrdrkw9vo</link>
@@ -161,13 +161,6 @@
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>В мировом океане — самая высокая температура в истории наблюдений. И это еще не настало лето в Южном полушарии</title>
-      <link>https://www.bbc.com/russian/articles/c0469dg6gq0o</link>
-      <description>Новые данные показывают, что температура мирового океана становится все выше. Причина — человеческая активность и регулярное климатическое явление Эль-Ниньо</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0469dg6gq0o</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Британская технология производства ракет Storm Shadow для Украины: полезный шаг, но не то, что Киеву нужно в первую очередь</title>
       <link>https://www.bbc.com/russian/articles/cvgy4d2lxyro</link>
       <description>Как пишет корреспондент Би-би-си по вопросам обороны, предоставление технологии производства ракет Storm Shadow — важный сигнал, который демонстрирует, что Запад готов делиться опытом и знаниями, чтобы помочь защите Украины. Но само по себе это не изменит кардинальным образом ход войны.</description>
@@ -189,11 +182,24 @@
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Пока ВСУ наносят удары по НПЗ, Россия атакует украинские АЗС. Каковы последствия этих атак?</title>
+      <link>https://www.bbc.com/russian/articles/c17jlrx8gyqo</link>
+      <description>Российские военные продолжают наносить удары по украинским автозаправочным станциям с помощью беспилотников и ракет, и число этих атак неуклонно растет. Между тем сама Россия из-за ударов украинских беспилотников по НПЗ за последние месяцы пережила две волны серьезной нехватки топлива, которые затронули почти все регионы страны.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c17jlrx8gyqo</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Допросы в клетке и угрозы смертной казнью. Что происходит со студентами ЕГУ — белорусского вуза в изгнании</title>
       <link>https://www.bbc.com/russian/articles/cvgwqzqgl2zo</link>
       <description>В апреле 2026 года белорусские власти признали Европейский государственный университет (ЕГУ) экстремистской организацией. Теперь студентам и педагогам в Беларуси грозят большие тюремные сроки.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgwqzqgl2zo</guid>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Китай выиграл войну в Иране». Как Дональд Трамп помогает Китаю снова стать великим</title>
+      <link>https://www.bbc.com/russian/articles/cd94dwp5kx5o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cd94dwp5kx5o</guid>
+      <pubDate>Wed, 26 Aug 2026 20:12:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
