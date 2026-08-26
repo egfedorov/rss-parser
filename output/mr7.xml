@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 26 Aug 2026 07:49:14 +0000</lastBuildDate>
-    <item>
-      <title>Власти Петербурга закупают, Крым не принимает — что происходит с путёвками в южные регионы России для льготников</title>
-      <link>https://mr-7.ru/articles/2026/06/22/vlasti-peterburga-zakupaiut-krym-ne-prinimaet-chto-proiskhodit-s-putevkami-v-iuzhnye-regiony-rossii-dlia-lgotnikov</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/06/22/vlasti-peterburga-zakupaiut-krym-ne-prinimaet-chto-proiskhodit-s-putevkami-v-iuzhnye-regiony-rossii-dlia-lgotnikov</guid>
-      <enclosure url="https://mr-7.ru/static/records/fecb271b88ac40eab8b32a1fec6f65e1.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 22 Jun 2026 15:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Чертёж сырников и письмо Михалкову: что обсуждали на презентации книги о Сокурове в «Подписных изданиях»</title>
-      <link>https://mr-7.ru/articles/2026/06/23/chertezh-syrnikov-i-pismo-mikhalkovu-chto-obsuzhdali-na-prezentatsii-knigi-o-sokurove-v-podpisnykh-izdaniiakh</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/06/23/chertezh-syrnikov-i-pismo-mikhalkovu-chto-obsuzhdali-na-prezentatsii-knigi-o-sokurove-v-podpisnykh-izdaniiakh</guid>
-      <enclosure url="https://mr-7.ru/static/records/5723a1de1cbd408089de12f8f251d4d5.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 23 Jun 2026 07:53:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 08:46:46 +0000</lastBuildDate>
     <item>
       <title>600 бамбуков и новый грот с видом на Исаакий? Что тревожит защитников ботанического сада СПбГУ</title>
       <link>https://mr-7.ru/articles/2026/06/23/600-bambukov-i-novyi-grot-s-vidom-na-isaakii-chto-trevozhit-zashchitnikov-botanicheskogo-sada-spbgu</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/22/muzykanty-mastera-i-kreativnye-prostranstva-kak-peterburg-meniaet-kulturnuiu-sredu</guid>
       <enclosure url="https://mr-7.ru/static/records/2300b955f07a46b8bb8ff3b1fb670a04.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 22 Aug 2026 15:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>В кулуарах бюрократии — из-за «опечатки» 20-летней давности петербурженка лишилась паспорта</title>
+      <link>https://mr-7.ru/articles/2026/08/26/v-kuluarakh-biurokratii-iz-za-opechatki-20-letnei-davnosti-peterburzhenka-lishilas-pasporta</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/26/v-kuluarakh-biurokratii-iz-za-opechatki-20-letnei-davnosti-peterburzhenka-lishilas-pasporta</guid>
+      <enclosure url="https://mr-7.ru/static/records/b756879f66834eceb6afa0e6a986f097.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 26 Aug 2026 08:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Лаборатории, новые классы и бережная реконструкция: как обновляют школы и детсады Адмиралтейского района</title>
+      <link>https://mr-7.ru/articles/2026/08/26/laboratorii-novye-klassy-i-berezhnaia-rekonstruktsiia-kak-obnovliaiut-shkoly-i-detsady-admiralteiskogo-raiona</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/26/laboratorii-novye-klassy-i-berezhnaia-rekonstruktsiia-kak-obnovliaiut-shkoly-i-detsady-admiralteiskogo-raiona</guid>
+      <enclosure url="https://mr-7.ru/static/records/c1a5524c42034b61b5eab40a6af468e8.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 26 Aug 2026 08:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
