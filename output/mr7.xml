@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 26 Aug 2026 11:49:44 +0000</lastBuildDate>
-    <item>
-      <title>7 поводов выйти из дома 27 — 28 июня</title>
-      <link>https://mr-7.ru/articles/2026/06/26/7-povodov-vyiti-iz-doma-27-28-iiunia</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/06/26/7-povodov-vyiti-iz-doma-27-28-iiunia</guid>
-      <enclosure url="https://mr-7.ru/static/records/48b34f65e1b040b69c6a182272880e1a.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Jun 2026 11:36:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 12:56:12 +0000</lastBuildDate>
     <item>
       <title>Танцевали у Исаакия, дрейфовали вдоль заграждений и послушали салют: какими были «Алые паруса — 2026» для тех, кого не позвали</title>
       <link>https://mr-7.ru/articles/2026/06/28/tantsevali-u-isaakiia-dreifovali-vdol-zagrazhdenii-i-poslushali-saliut-kakim-byli-alye-parusa-2026-dlia-tekh-kogo-ne-pozvali</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/26/ot-peremeshcheniia-rasshireniia-probki-ne-meniaiutsia-pochemu-mestnye-ne-rady-uluchsheniiu-dorogi-zhizni-vo-vsevolozhske</guid>
       <enclosure url="https://mr-7.ru/static/records/cd7f65c545e74357b49153e01536d2dd.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 26 Aug 2026 09:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Приговорить к трём и четырём годам лишения свободы просят обвиняемых по делу об осквернении «Блокадного трамвая»</title>
+      <link>https://mr-7.ru/articles/2026/08/26/prigovorit-k-trem-i-chetyrem-godam-lisheniia-svobody-prosiat-obviniaemykh-po-delu-ob-oskvernenii-blokadnogo-tramvaia</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/26/prigovorit-k-trem-i-chetyrem-godam-lisheniia-svobody-prosiat-obviniaemykh-po-delu-ob-oskvernenii-blokadnogo-tramvaia</guid>
+      <enclosure url="https://mr-7.ru/static/records/53cfa1e6bfc94e06830a249812414570.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 26 Aug 2026 12:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
