@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 26 Aug 2026 16:19:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 18:07:54 +0000</lastBuildDate>
     <item>
       <title>«Решающий в истории альянса». Чего ждать от саммита НАТО на фоне разлада США и Европы?</title>
       <link>https://www.bbc.com/russian/articles/c1kyrdrkw9vo</link>
@@ -147,25 +147,11 @@
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Экс-министр обороны Украины Михаил Федоров  о Зеленском, выборах и своей отставке в интервью Би-би-си</title>
-      <link>https://www.bbc.com/russian/articles/cx2j2v3y2zro</link>
-      <description>Бывший министр обороны Украины Михаил Федоров долгие годы считался одним из самых доверенных соратников Владимира Зеленского. Сейчас он критикует власть, но не называет себя оппозиционером.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx2j2v3y2zro</guid>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Как профессор Ардей стал жертвой британской культурной войны</title>
       <link>https://www.bbc.com/russian/articles/c330gmje51no</link>
       <description>Джейсон Ардей покинул пост профессора Кембриджского университета из-за обвинений в плагиате, которые широко распространялись в СМИ. Через несколько дней его нашли мертвым. Этот случай вызвал вопросы как о том, почему он оказался на столь престижной должности, так и о мотивах СМИ, которые о нем писали.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c330gmje51no</guid>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Видео,Новая цель — Ozon. Удары ВСУ подкосят экономику? | Видеоподкаст «Что это было», Продолжительность 24,27</title>
-      <link>https://www.bbc.com/programmes/p0p62bz7</link>
-      <description>Новая цель — Ozon. Удары ВСУ подкосят экономику? | Видеоподкаст «Что это было»</description>
-      <guid isPermaLink="false">https://www.bbc.com/programmes/p0p62bz7</guid>
-      <pubDate>Wed, 26 Aug 2026 16:19:33 +0000</pubDate>
     </item>
     <item>
       <title>Разводы, смартфоны и жесткий контроль. Репортаж Би-би-си о том, как талибы управляют Афганистаном</title>
@@ -189,6 +175,13 @@
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Пашинян разрывает связи с Россией? Текстовая версия подкаста «Что это было» с обозревателем Кириллом Кривошеевым</title>
+      <link>https://www.bbc.com/russian/articles/cgqd2wz52z3o</link>
+      <description>Армения вскоре подаст официальную заявку на вступление в ЕС, заявил премьер-министр Никол Пашинян. По его словам, после этого в стране пройдет референдум о том, быть ли Армении в ЕС. По словам Пашиняна, он был бы рад, если бы Армению исключили из военного союза ОДКБ с участием России. Тем временем в стране задержали одного из лидеров оппозиции и второго ее президента Роберта Кочаряна. Что стоит за всем этим?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cgqd2wz52z3o</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Китай массово производит роботов. К чему приведет новая технологическая революция?</title>
       <link>https://www.bbc.com/russian/articles/cx2zevzjv72o</link>
       <description>На китайских заводах работает более двух миллионов роботов — больше, чем в какой-либо еще стране, — и их количество продолжает расти с невероятной скоростью.</description>
@@ -198,8 +191,9 @@
     <item>
       <title>Допросы в клетке и угрозы смертной казнью. Что происходит со студентами ЕГУ — белорусского вуза в изгнании</title>
       <link>https://www.bbc.com/russian/articles/cvgwqzqgl2zo</link>
+      <description>В апреле 2026 года белорусские власти признали Европейский государственный университет (ЕГУ) экстремистской организацией. Теперь студентам и педагогам в Беларуси грозят большие тюремные сроки.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgwqzqgl2zo</guid>
-      <pubDate>Wed, 26 Aug 2026 16:19:33 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
