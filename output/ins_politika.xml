@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 27 Aug 2026 08:12:39 +0000</lastBuildDate>
-    <item>
-      <title>ХАМАС или Аббас: местные выборы в Палестине показали готовность сторон к компромиссу ради легитимности</title>
-      <link>https://theins.ru/politika/292513</link>
-      <guid isPermaLink="false">https://theins.ru/politika/292513</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Aug 2026 19:08:39 +0000</lastBuildDate>
     <item>
       <title>Дешево, но сердито. Как украинские дроны-перехватчики научились сбивать «Шахеды» и что это значит для войны в Иране</title>
       <link>https://theins.ru/politika/292499</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/politika/296325</link>
       <guid isPermaLink="false">https://theins.ru/politika/296325</guid>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Больше свободы — больше порядка: интеграция мигрантов успешнее там, где на них не налагают излишних ограничений</title>
+      <link>https://theins.ru/politika/296164</link>
+      <guid isPermaLink="false">https://theins.ru/politika/296164</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
