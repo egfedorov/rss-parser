@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 28 Aug 2026 03:36:51 +0000</lastBuildDate>
-    <item>
-      <title>«Дети там копируют взрослых: строят свои блокпосты» — История Станислава Егорова с позывным Суворовец, который был одним из командиров в «Вагнере»</title>
-      <link>https://novayagazeta.ru/articles/2025/07/07/deti-tam-kopiruiut-vzroslykh-stroiat-svoi-blokposty</link>
-      <description>История Станислава Егорова с позывным Суворовец, который был одним из командиров в «Вагнере»</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/07/07/deti-tam-kopiruiut-vzroslykh-stroiat-svoi-blokposty</guid>
-      <pubDate>Mon, 07 Jul 2025 10:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Под Соледаром на повороте очень долго лежала женщина…» — История Олега Жучкова с позывным «Ведант», который опасается, что «историю перевернут»</title>
-      <link>https://novayagazeta.ru/articles/2025/07/09/pod-soledarom-na-povorote-ochen-dolgo-lezhala-zhenshchina</link>
-      <description>История Олега Жучкова с позывным «Ведант», который опасается, что «историю перевернут»</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/07/09/pod-soledarom-na-povorote-ochen-dolgo-lezhala-zhenshchina</guid>
-      <pubDate>Wed, 09 Jul 2025 07:58:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Aug 2026 15:39:53 +0000</lastBuildDate>
     <item>
       <title>«К запаху смерти невозможно привыкнуть» — История Дмитрия с позывным «Яга», который не был сторонником Владимира Путина</title>
       <link>https://novayagazeta.ru/articles/2025/07/09/k-zapakhu-smerti-nevozmozhno-privyknut</link>
@@ -287,6 +273,20 @@
       <description>Жительница Петербурга утверждает: ее отца обманом женили и отправили на СВО, чтоб получить деньги за его гибель</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/07/15/cheloveka-nelzia-delat-razmennoi-monetoi</guid>
       <pubDate>Wed, 15 Jul 2026 07:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Это референдум об отношении к ***» — Репортаж из прифронтового Белгорода, где в Госдуму выдвигается 23-летний военный юрист</title>
+      <link>https://novayagazeta.ru/articles/2026/08/28/eto-referendum-ob-otnoshenii-k</link>
+      <description>Репортаж из прифронтового Белгорода, где в Госдуму выдвигается 23-летний военный юрист</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/08/28/eto-referendum-ob-otnoshenii-k</guid>
+      <pubDate>Fri, 28 Aug 2026 08:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Всё убранное станет явным — Власти отчитались, что завершили откачку мазута из затонувших танкеров под Анапой. Через четыре дня топливо вновь потекло в море</title>
+      <link>https://novayagazeta.ru/articles/2026/08/28/vse-ubrannoe-stanet-iavnym</link>
+      <description>Власти отчитались, что завершили откачку мазута из затонувших танкеров под Анапой. Через четыре дня топливо вновь потекло в море</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/08/28/vse-ubrannoe-stanet-iavnym</guid>
+      <pubDate>Fri, 28 Aug 2026 12:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

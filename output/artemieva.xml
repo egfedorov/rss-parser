@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 28 Aug 2026 03:36:50 +0000</lastBuildDate>
-    <item>
-      <title>Под маской эмпатии — Диалог о том, так ли уж на самом деле самоубийственна политика сочувствия для Америки и России</title>
-      <link>https://novayagazeta.ru/articles/2025/07/16/pod-maskoi-empatii</link>
-      <description>Диалог о том, так ли уж на самом деле самоубийственна политика сочувствия для Америки и России</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/07/16/pod-maskoi-empatii</guid>
-      <pubDate>Wed, 16 Jul 2025 14:50:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Aug 2026 15:39:52 +0000</lastBuildDate>
     <item>
       <title>Зоннушка — Портрет Надин Гейслер — девушки, которая спасла несколько тысяч человек, а потом была обвинена в госизмене</title>
       <link>https://novayagazeta.ru/articles/2025/07/31/zonnushka</link>
@@ -287,6 +280,13 @@
       <description>История о двух дезертирах, одном эмигранте — и обо всех, кто не слышит</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/08/25/piatisotye</guid>
       <pubDate>Tue, 25 Aug 2026 07:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Камертон между глухих стен — В Москве в 14-й раз вручили премию имени Анны Политковской</title>
+      <link>https://novayagazeta.ru/articles/2026/08/28/kamerton-mezhdu-glukhikh-sten</link>
+      <description>В Москве в 14-й раз вручили премию имени Анны Политковской</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/08/28/kamerton-mezhdu-glukhikh-sten</guid>
+      <pubDate>Fri, 28 Aug 2026 09:39:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
