@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 27 Aug 2026 19:08:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 03:36:51 +0000</lastBuildDate>
     <item>
       <title>«Решающий в истории альянса». Чего ждать от саммита НАТО на фоне разлада США и Европы?</title>
       <link>https://www.bbc.com/russian/articles/c1kyrdrkw9vo</link>
@@ -187,6 +187,13 @@
       <description>Долли Партон, суперзвезда кантри-музыки из Смоки-Маунтинс в Теннесси, прошла путь от девочки из бедной семьи до одной из самых популярных певиц в мире.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvgyld95y8jo</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Будет еще круче!» Благотворительный фонд рекламирует «Единую Россию» — хотя закон запрещает ему агитировать</title>
+      <link>https://www.bbc.com/russian/articles/cq5xe0w25l2o</link>
+      <description>За месяц до выборов в Госдуму соцсеть VK начала показывать баннеры в поддержку «Единой России». Рекламодатель — благотворительный фонд с единственным сотрудником и сотнями миллионов рублей финансирования ежегодно. Кто дает ему деньги, фонд не раскрывает, но ранее он был связан с медиахолдингом друга Путина.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq5xe0w25l2o</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
