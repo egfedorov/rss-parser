@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 28 Aug 2026 15:39:54 +0000</lastBuildDate>
-    <item>
-      <title>Единый Курултай. Как в Казахстане проходили парламентские выборы</title>
-      <link>https://mostmedia.org/ru/posts/edinyi-kurultai-kak-v-kazahstane-prohodili-parlamentskie-vybory</link>
-      <description>Выборы в Центральной Азии можно сравнить с культурой местных свадеб — мероприятий насколько красивых, настолько и затратных для практически всех их участников. Но шуткой это будет лишь отчасти. Рассказываем, чем важны новые парламентские выборы для ключевой страны региона</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/edinyi-kurultai-kak-v-kazahstane-prohodili-parlamentskie-vybory</guid>
-      <enclosure url="https://mostmedia.org/uploads/files/2/e/f/f/a/2effa42e2ab176a694fe3c43c9192064.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 25 Aug 2026 00:40:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Aug 2026 00:07:41 +0000</lastBuildDate>
     <item>
       <title>MSC приостановила прием заказов на рейсы в Новороссийск после атаки на контейнеровоз</title>
       <link>https://mostmedia.org/ru/posts/msc-priostanovila-priem-zakazov-na-reysy-v-novorossysk-posle-ataki-na-konteynerovoz</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/vas-razbombili-my-zaberem-chto-ostalos-novyi-pakt-vlasti-i-biznesa-v-rossii</guid>
       <enclosure url="https://mostmedia.org/uploads/files/7/7/4/c/1/774c1207598f918d7a77fd776fa13c10.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 24 Aug 2026 22:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Нашим истинным приоритетом является избавление от мусульманского населения»: как югославский генерал Ратко Младич стал военным преступником</title>
+      <link>https://mostmedia.org/ru/posts/nashim-istinnym-prioritetom-javljaetsja-izbavlenie-ot-musulmanskogo-naselenia-kak-jugoslavsky-general-ratko-mladich-stal-voennym-prestupnikom</link>
+      <description>Спустя 30 с лишним лет после резни боснийских мусульман сербскими националистами в Сребренице мир снова вспоминает те кошмарные события — на этой неделе не стало их главного организатора</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/nashim-istinnym-prioritetom-javljaetsja-izbavlenie-ot-musulmanskogo-naselenia-kak-jugoslavsky-general-ratko-mladich-stal-voennym-prestupnikom</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/9/f/c/0/1/9fc01a684415dc08eabdb22096079ac6.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 28 Aug 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
