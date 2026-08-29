@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 29 Aug 2026 00:07:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 07:10:39 +0000</lastBuildDate>
     <item>
       <title>«Решающий в истории альянса». Чего ждать от саммита НАТО на фоне разлада США и Европы?</title>
       <link>https://www.bbc.com/russian/articles/c1kyrdrkw9vo</link>
@@ -193,6 +193,13 @@
       <link>https://www.bbc.com/russian/articles/cq5xe0w25l2o</link>
       <description>За месяц до выборов в Госдуму соцсеть VK начала показывать баннеры в поддержку «Единой России». Рекламодатель — благотворительный фонд с единственным сотрудником и сотнями миллионов рублей финансирования ежегодно. Кто дает ему деньги, фонд не раскрывает, но ранее он был связан с медиахолдингом друга Путина.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq5xe0w25l2o</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Волна подозрительных инцидентов в Европе и война «сигналов» между Россией и Западом. Рассылка «Контекст»</title>
+      <link>https://www.bbc.com/russian/articles/cwyz11nrnx3o</link>
+      <description>Россия и страны Запада обмениваются «сигналами» на фоне зашедшей в тупик войны в Украине — и после необъявленного визита директора ЦРУ в Москву. Этот обмен идет при помощи публикаций в западной прессе, но проявляется и вполне реально: в целой волне подозрительных инцидентов, которые в последние недели произошли на европейских объектах, имеющих отношение к обороне.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwyz11nrnx3o</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
