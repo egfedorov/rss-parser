@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 29 Aug 2026 07:10:38 +0000</lastBuildDate>
-    <item>
-      <title>Не до жиру — С этого года цифры в «жировках» ряда регионов выросли не на обещанные 1,7, а на 12,4%</title>
-      <link>https://novayagazeta.ru/articles/2026/03/04/ne-do-zhiru</link>
-      <description>С этого года цифры в «жировках» ряда регионов выросли не на обещанные 1,7, а на 12,4%</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/04/ne-do-zhiru</guid>
-      <pubDate>Wed, 04 Mar 2026 08:08:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Aug 2026 13:12:10 +0000</lastBuildDate>
     <item>
       <title>Не сгорим, так полетаем — В Приморье взяли 3-миллиардный кредит на покрытие дефицита бюджета и урезали расходы на социалку и пожарную безопасность. Дроны — в приоритете</title>
       <link>https://novayagazeta.ru/articles/2026/03/06/ne-sgorim-tak-poletaem</link>
@@ -287,6 +280,13 @@
       <description>Почти месяц целый город в Приморье не видит нормальной воды</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/08/24/po-teleku-pokazyvaiut-drugie-strany-pust-pokazhut-dalnegorsk</guid>
       <pubDate>Mon, 24 Aug 2026 12:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Не роптать, из дома не выходить — Россия стоит в очередях на земле и воде и снимает наличку. Недельные приметы кризиса</title>
+      <link>https://novayagazeta.ru/articles/2026/08/29/ne-roptat-iz-doma-ne-vykhodit</link>
+      <description>Россия стоит в очередях на земле и воде и снимает наличку. Недельные приметы кризиса</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/08/29/ne-roptat-iz-doma-ne-vykhodit</guid>
+      <pubDate>Sat, 29 Aug 2026 08:43:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
