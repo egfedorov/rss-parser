@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 30 Aug 2026 19:40:04 +0000</lastBuildDate>
-    <item>
-      <title>У Казанского собора в Петербурге образовалась километровая очередь к деснице Спиридона Тримифунтского</title>
-      <link>https://mostmedia.org/ru/posts/u-kazanskogo-sobora-v-peterburge-obrazovalas-kilometrovaja-ochered-k-desnice-spiridona-trimifuntskogo</link>
-      <description>У Казанского собора в Петербурге выстроилась километровая очередь к деснице Спиридона Тримифунтского. Верующие приходят помолиться и приложиться к святыне, которую привезли в Россию с греческого острова Корфу.Об этом сообщил RSS телеканала «Санкт-Петербург». В сообщении говорится, что к святителю обращаются в разных...</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/u-kazanskogo-sobora-v-peterburge-obrazovalas-kilometrovaja-ochered-k-desnice-spiridona-trimifuntskogo</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/f/a/5/e/9/fa5e938a2b900f7e16ae3faf959fd606.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 29 Aug 2026 16:53:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 30 Aug 2026 22:05:55 +0000</lastBuildDate>
     <item>
       <title>Вас разбомбили? Мы заберём что осталось! Новый пакт власти и бизнеса в России</title>
       <link>https://mostmedia.org/ru/posts/vas-razbombili-my-zaberem-chto-ostalos-novyi-pakt-vlasti-i-biznesa-v-rossii</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/nashim-istinnym-prioritetom-javljaetsja-izbavlenie-ot-musulmanskogo-naselenia-kak-jugoslavsky-general-ratko-mladich-stal-voennym-prestupnikom</guid>
       <enclosure url="https://mostmedia.org/uploads/files/9/f/c/0/1/9fc01a684415dc08eabdb22096079ac6.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 28 Aug 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Хасавюртовским соглашениям — 30 лет. Как Александр Лебедь и Аслан Масхадов остановили первую чеченскую войну</title>
+      <link>https://mostmedia.org/ru/posts/hasavjurtovskim-soglasheniam-30-let-kak-alexandr-lebed-i-aslan-mashadov-ostanovili-pervuju-chechenskuju-voinu</link>
+      <description>Тогда никто не думал, что та война окажется лишь первой — Вторая чеченская началась в августе 1999-го. И оба ключевых участника Хасавюртовских соглашений не дожили до её окончания</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/hasavjurtovskim-soglasheniam-30-let-kak-alexandr-lebed-i-aslan-mashadov-ostanovili-pervuju-chechenskuju-voinu</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/2/a/c/0/3/2ac036fa89b937f96b63fcf12de7537e.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
