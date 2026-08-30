@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 30 Aug 2026 00:41:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 06:19:31 +0000</lastBuildDate>
     <item>
       <title>«Решающий в истории альянса». Чего ждать от саммита НАТО на фоне разлада США и Европы?</title>
       <link>https://www.bbc.com/russian/articles/c1kyrdrkw9vo</link>
@@ -153,13 +153,6 @@
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Пока ВСУ наносят удары по НПЗ, Россия атакует украинские АЗС. Каковы последствия этих атак?</title>
-      <link>https://www.bbc.com/russian/articles/c17jlrx8gyqo</link>
-      <description>Российские военные продолжают наносить удары по украинским автозаправочным станциям с помощью беспилотников и ракет, и число этих атак неуклонно растет. Между тем сама Россия из-за ударов украинских беспилотников по НПЗ за последние месяцы пережила две волны серьезной нехватки топлива, которые затронули почти все регионы страны.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c17jlrx8gyqo</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Китай массово производит роботов. К чему приведет новая технологическая революция?</title>
       <link>https://www.bbc.com/russian/articles/cx2zevzjv72o</link>
       <description>На китайских заводах работает более двух миллионов роботов — больше, чем в какой-либо еще стране, — и их количество продолжает расти с невероятной скоростью.</description>
@@ -193,6 +186,13 @@
       <description>Россия и страны Запада обмениваются «сигналами» на фоне зашедшей в тупик войны в Украине — и после необъявленного визита директора ЦРУ в Москву. Этот обмен идет при помощи публикаций в западной прессе, но проявляется и вполне реально: в целой волне подозрительных инцидентов, которые в последние недели произошли на европейских объектах, имеющих отношение к обороне.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwyz11nrnx3o</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ИИ-безработица или новые рабочие места? Как идут дела с заменой людей искусственным интеллектом</title>
+      <link>https://www.bbc.com/russian/articles/cr4vxeylqrno</link>
+      <description>У экономистов есть вопросы к тому, куда приведет нынешний путь, если ничего не корректировать.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cr4vxeylqrno</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
