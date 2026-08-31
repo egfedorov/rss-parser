@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 31 Aug 2026 06:13:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:04:49 +0000</lastBuildDate>
     <item>
       <title>«Решающий в истории альянса». Чего ждать от саммита НАТО на фоне разлада США и Европы?</title>
       <link>https://www.bbc.com/russian/articles/c1kyrdrkw9vo</link>
@@ -153,20 +153,6 @@
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Китай массово производит роботов. К чему приведет новая технологическая революция?</title>
-      <link>https://www.bbc.com/russian/articles/cx2zevzjv72o</link>
-      <description>На китайских заводах работает более двух миллионов роботов — больше, чем в какой-либо еще стране, — и их количество продолжает расти с невероятной скоростью.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx2zevzjv72o</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Китай выиграл войну в Иране». Как Дональд Трамп помогает Китаю снова стать великим</title>
-      <link>https://www.bbc.com/russian/articles/cd94dwp5kx5o</link>
-      <description>Китай не участвует в нынешней войне в Персидском заливе, однако несколько ведущих американских экспертов считают, что именно он выходит победителем.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cd94dwp5kx5o</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Долли Партон: жизнь легендарной звезды кантри в фотографиях</title>
       <link>https://www.bbc.com/russian/articles/cvgyld95y8jo</link>
       <description>Долли Партон, суперзвезда кантри-музыки из Смоки-Маунтинс в Теннесси, прошла путь от девочки из бедной семьи до одной из самых популярных певиц в мире.</description>
@@ -188,11 +174,38 @@
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>За что Ратко Младича прозвали «боснийским мясником»?</title>
+      <link>https://www.bbc.com/russian/articles/c89jv8150wzo</link>
+      <description>В четверг в Гааге умер 84-летний Ратко Младич, бывший главнокомандующий войском Республики Сербской (боснийских сербов), отбывавший пожизненное наказание за геноцид, военные преступления и преступления против человечности. Он печально прославился «этническими чистками» — количество его жертв исчисляется десятками тысяч.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c89jv8150wzo</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Раскол в спектре? Почему не прекращаются споры о том, что считать аутизмом</title>
+      <link>https://www.bbc.com/russian/articles/cqlxlwly77xo</link>
+      <description>Что именно называть аутизмом и имеет ли значение, что это определение прилагают к такому широкому спектру людей?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqlxlwly77xo</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Расследование Би-би-си: как созданные ИИ «врачи» на YouTube превратились в глобальный бизнес, нацеленный на пожилую аудиторию</title>
+      <link>https://www.bbc.com/russian/articles/cg596z4zr83o</link>
+      <description>82-летняя Сели Феррейра смотрела YouTube, когда на экране появился врач и посоветовал ей есть фрукты, чтобы сохранить зрение. Совет показался ей вполне правдоподобным. Но это был не настоящий медицинский канал, а самого врача не существовало — его лицо и голос были сгенерированы искусственным интеллектом.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cg596z4zr83o</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ИИ-безработица или новые рабочие места? Как идут дела с заменой людей искусственным интеллектом</title>
       <link>https://www.bbc.com/russian/articles/cr4vxeylqrno</link>
       <description>У экономистов есть вопросы к тому, куда приведет нынешний путь, если ничего не корректировать.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cr4vxeylqrno</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Превентивная мера». Почему Ильхам Алиев ужесточает репрессии</title>
+      <link>https://www.bbc.com/russian/articles/cwyz5pgez5po</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwyz5pgez5po</guid>
+      <pubDate>Mon, 31 Aug 2026 14:04:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
