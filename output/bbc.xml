@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 01 Sep 2026 14:17:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:52:29 +0000</lastBuildDate>
     <item>
       <title>Период шоков. Как на российской экономике и бюджете отразится топливный кризис</title>
       <link>https://www.bbc.com/russian/articles/c04yyxl99z4o</link>
@@ -147,12 +147,6 @@
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Самые тяжелые времена — сейчас». Объясняем в 100 и 500 словах зерновой кризис в России</title>
-      <link>https://www.bbc.com/russian/articles/c790dlrwz8no</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c790dlrwz8no</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ИИ-безработица или новые рабочие места? Как идут дела с заменой людей искусственным интеллектом</title>
       <link>https://www.bbc.com/russian/articles/cr4vxeylqrno</link>
       <description>У экономистов есть вопросы к тому, куда приведет нынешний путь, если ничего не корректировать.</description>
@@ -186,6 +180,13 @@
       <description>За последние пять лет число политзаключенных в Азербайджане выросло втрое, а средние сроки по политическим делам — в два раза, следует из подсчетов Би-би-си на основе списков правозащитников.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwyz5pgez5po</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Самые тяжелые времена — сейчас». Объясняем в 100 и 500 словах зерновой кризис в России</title>
+      <link>https://www.bbc.com/russian/articles/c790dlrwz8no</link>
+      <description>Этим летом украинские дроны атаковали российские порты на Азовском и Черном морях, что фактически остановило отгрузку пшеницы и других зерновых. От последствий войны страдают российские фермеры: они не могут продать зерно за границу, а цены внутри страны падают.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c790dlrwz8no</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
