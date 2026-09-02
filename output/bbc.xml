@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 02 Sep 2026 15:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 18:47:37 +0000</lastBuildDate>
     <item>
       <title>Период шоков. Как на российской экономике и бюджете отразится топливный кризис</title>
       <link>https://www.bbc.com/russian/articles/c04yyxl99z4o</link>
@@ -179,7 +179,7 @@
       <link>https://www.bbc.com/russian/articles/c624995y9ylo</link>
       <description>Почему с детьми важно честно говорить о смерти? Способны ли технологии однажды победить смерть?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c624995y9ylo</guid>
-      <pubDate>Wed, 02 Sep 2026 15:00:46 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 18:47:37 +0000</pubDate>
     </item>
     <item>
       <title>«Я никогда не была в Афганистане». Иран и Пакистан депортируют миллионы афганцев</title>
@@ -196,10 +196,17 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Изнасилование как кликбейт: как пророссийские телеграм-каналы используют фото украинок</title>
+      <link>https://www.bbc.com/russian/articles/c5ywd7w13lzo</link>
+      <description>Российские телеграм-каналы используют фейковые заявления об изнасилованиях и фотографии реальных украинских женщин, чтобы заманить миллионы пользователей в провоенные пропагандистские сети.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c5ywd7w13lzo</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Глава антикоррупционной прокуратуры Украины о «Форресте Гампе», Кирилле Буданове и фэншуе</title>
       <link>https://www.bbc.com/russian/articles/cj06q83ydd7o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cj06q83ydd7o</guid>
-      <pubDate>Wed, 02 Sep 2026 15:00:46 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 18:47:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
