@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:53:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:00:46 +0000</lastBuildDate>
     <item>
       <title>Период шоков. Как на российской экономике и бюджете отразится топливный кризис</title>
       <link>https://www.bbc.com/russian/articles/c04yyxl99z4o</link>
@@ -147,13 +147,6 @@
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>За что Ратко Младича прозвали «боснийским мясником»?</title>
-      <link>https://www.bbc.com/russian/articles/c89jv8150wzo</link>
-      <description>В четверг в Гааге умер 84-летний Ратко Младич, бывший главнокомандующий войском Республики Сербской (боснийских сербов), отбывавший пожизненное наказание за геноцид, военные преступления и преступления против человечности. Он печально прославился «этническими чистками» — количество его жертв исчисляется десятками тысяч.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c89jv8150wzo</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Расследование Би-би-си: как созданные ИИ «врачи» на YouTube превратились в глобальный бизнес, нацеленный на пожилую аудиторию</title>
       <link>https://www.bbc.com/russian/articles/cg596z4zr83o</link>
       <description>82-летняя Сели Феррейра смотрела YouTube, когда на экране появился врач и посоветовал ей есть фрукты, чтобы сохранить зрение. Совет показался ей вполне правдоподобным. Но это был не настоящий медицинский канал, а самого врача не существовало — его лицо и голос были сгенерированы искусственным интеллектом.</description>
@@ -186,7 +179,14 @@
       <link>https://www.bbc.com/russian/articles/c624995y9ylo</link>
       <description>Почему с детьми важно честно говорить о смерти? Способны ли технологии однажды победить смерть?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c624995y9ylo</guid>
-      <pubDate>Wed, 02 Sep 2026 10:53:13 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 15:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Я никогда не была в Афганистане». Иран и Пакистан депортируют миллионы афганцев</title>
+      <link>https://www.bbc.com/russian/articles/c4g797jrnxjo</link>
+      <description>Этот процесс выглядит как крупнейшее в мире перемещение людей между странами. На протяжении десятилетий миллионы афганцев бежали в Пакистан и Иран в поисках убежища или работы. Их число продолжало расти с момента захвата власти талибами в августе 2021 года. Большинство из них теперь вынуждены возвращаться — для них заканчивается одна тяжелая жизнь и начинается другая, не менее тяжелая.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c4g797jrnxjo</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>120 часов террора. Как и зачем Россия запускает волны реактивных дронов на Киев</title>
@@ -194,6 +194,12 @@
       <description>В чем заключается новая тактика России и что ей может противопоставить Украина?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwyzpelz01ro</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Глава антикоррупционной прокуратуры Украины о «Форресте Гампе», Кирилле Буданове и фэншуе</title>
+      <link>https://www.bbc.com/russian/articles/cj06q83ydd7o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cj06q83ydd7o</guid>
+      <pubDate>Wed, 02 Sep 2026 15:00:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

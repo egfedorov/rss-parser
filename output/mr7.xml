@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:53:11 +0000</lastBuildDate>
-    <item>
-      <title>Это тоже Петербург: окрестности проспекта Славы</title>
-      <link>https://mr-7.ru/articles/2026/07/02/eto-tozhe-peterburg-okrestnosti-prospekta-slavy</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/02/eto-tozhe-peterburg-okrestnosti-prospekta-slavy</guid>
-      <enclosure url="https://mr-7.ru/static/records/f5bc9ce8807f4cada4981015389375cf.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jul 2026 09:33:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 15:00:46 +0000</lastBuildDate>
     <item>
       <title>Следователя, жену и отца обвиняемого в «фейках об армии» Егора Гуляева допросили в суде</title>
       <link>https://mr-7.ru/articles/2026/07/02/sledovatelia-zhenu-i-ottsa-obviniaemogo-v-feikakh-ob-armii-egora-guliaeva-doprosili-v-sude</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/01/sud-smiagchil-nakazanie-uchastnikam-shibari-fotosessii-na-bolsheokhtinskom-kladbishche</guid>
       <enclosure url="https://mr-7.ru/static/records/0bb603b7b6844b6f9299be4bd6b59c24.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 01 Sep 2026 14:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Новая сборка: как Петербург перестраивает промышленную политику</title>
+      <link>https://mr-7.ru/articles/2026/09/02/novaia-sborka-kak-peterburg-perestraivaet-promyshlennuiu-politiku</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/02/novaia-sborka-kak-peterburg-perestraivaet-promyshlennuiu-politiku</guid>
+      <enclosure url="https://mr-7.ru/static/records/069e588ce0ce4d01acc3ae6d8c908154.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 02 Sep 2026 11:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
