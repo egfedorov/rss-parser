@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 03 Sep 2026 01:26:01 +0000</lastBuildDate>
-    <item>
-      <title>Период шоков. Как на российской экономике и бюджете отразится топливный кризис</title>
-      <link>https://www.bbc.com/russian/articles/c04yyxl99z4o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c04yyxl99z4o</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Sep 2026 06:28:49 +0000</lastBuildDate>
     <item>
       <title>Саммит смешанных чувств. Чем закончилась встреча лидеров НАТО в Анкаре</title>
       <link>https://www.bbc.com/russian/articles/c3vy0g14xkvo</link>
@@ -147,6 +141,12 @@
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Пляж на костях. Что происходит в России с могилами заключенных ГУЛАГа</title>
+      <link>https://www.bbc.com/russian/articles/cqjkr2008djo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqjkr2008djo</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Расследование Би-би-си: как созданные ИИ «врачи» на YouTube превратились в глобальный бизнес, нацеленный на пожилую аудиторию</title>
       <link>https://www.bbc.com/russian/articles/cg596z4zr83o</link>
       <description>82-летняя Сели Феррейра смотрела YouTube, когда на экране появился врач и посоветовал ей есть фрукты, чтобы сохранить зрение. Совет показался ей вполне правдоподобным. Но это был не настоящий медицинский канал, а самого врача не существовало — его лицо и голос были сгенерированы искусственным интеллектом.</description>
@@ -179,7 +179,7 @@
       <link>https://www.bbc.com/russian/articles/c624995y9ylo</link>
       <description>Почему с детьми важно честно говорить о смерти? Способны ли технологии однажды победить смерть?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c624995y9ylo</guid>
-      <pubDate>Thu, 03 Sep 2026 01:26:01 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 06:28:49 +0000</pubDate>
     </item>
     <item>
       <title>«Я никогда не была в Афганистане». Иран и Пакистан депортируют миллионы афганцев</title>
@@ -206,7 +206,7 @@
       <title>Глава антикоррупционной прокуратуры Украины о «Форресте Гампе», Кирилле Буданове и фэншуе</title>
       <link>https://www.bbc.com/russian/articles/cj06q83ydd7o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cj06q83ydd7o</guid>
-      <pubDate>Thu, 03 Sep 2026 01:26:01 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 06:28:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
