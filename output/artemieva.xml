@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 03 Sep 2026 06:28:48 +0000</lastBuildDate>
-    <item>
-      <title>Где русский дух и чем пахнет в столицах — Разговор с Константином Пахалюком* о русской древности, региональной политике памяти и о том, почему на Россию пора перестать смотреть из столиц</title>
-      <link>https://novayagazeta.ru/articles/2025/08/02/gde-russkii-dukh-i-chem-pakhnet-v-stolitsakh</link>
-      <description>Разговор с Константином Пахалюком* о русской древности, региональной политике памяти и о том, почему на Россию пора перестать смотреть из столиц</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/02/gde-russkii-dukh-i-chem-pakhnet-v-stolitsakh</guid>
-      <pubDate>Sat, 02 Aug 2025 07:03:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Sep 2026 11:42:16 +0000</lastBuildDate>
     <item>
       <title>Я мыслю — следовательно, я не боюсь — Четыре компонента банального зла. Рецензия на книгу Михаила Немцева «И я тоже»</title>
       <link>https://novayagazeta.ru/articles/2025/08/13/ia-mysliu-sledovatelno-ia-ne-boius</link>
@@ -287,6 +280,13 @@
       <description>Как устроена реклама подписания контрактов на рекрутинговых постерах</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/09/01/prisoediniaites-gospodin-soldat-prisoediniaites</guid>
       <pubDate>Tue, 01 Sep 2026 06:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Жертвоприношение — Дело Крымского моста — подробное описание того, сколько и каких жизней было принесено в жертву символу</title>
+      <link>https://novayagazeta.ru/articles/2026/09/03/zhertvoprinoshenie</link>
+      <description>Дело Крымского моста — подробное описание того, сколько и каких жизней было принесено в жертву символу</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/09/03/zhertvoprinoshenie</guid>
+      <pubDate>Thu, 03 Sep 2026 07:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

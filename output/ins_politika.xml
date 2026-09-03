@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 03 Sep 2026 06:28:43 +0000</lastBuildDate>
-    <item>
-      <title>Холодный расчет. Как Китай медленно захватывает российскую Арктику</title>
-      <link>https://theins.ru/politika/292081</link>
-      <guid isPermaLink="false">https://theins.ru/politika/292081</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Sep 2026 11:42:13 +0000</lastBuildDate>
     <item>
       <title>Подвели Мали. К чему приведут поражения России и Запада в Сахеле</title>
       <link>https://theins.ru/politika/292802</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/politika/296448</link>
       <guid isPermaLink="false">https://theins.ru/politika/296448</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дроны-смертники. Как беспилотники позволяют террористам из «Хезболлы» удерживать позиции в Ливане, несмотря на превосходство Израиля</title>
+      <link>https://theins.ru/politika/296348</link>
+      <guid isPermaLink="false">https://theins.ru/politika/296348</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
