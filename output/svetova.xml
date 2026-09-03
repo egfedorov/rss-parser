@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 03 Sep 2026 16:01:02 +0000</lastBuildDate>
-    <item>
-      <title>«Часто говорю себе: «Навальный бы смог, и я смогу» — Адвокат Вадим Кобзев, политический заключенный, о своем клиенте, судах и последнем «несвидании» с Алексеем Навальным</title>
-      <link>https://novayagazeta.ru/articles/2025/02/17/chasto-govoriu-sebe-navalnyi-by-smog-i-ia-smogu</link>
-      <description>Адвокат Вадим Кобзев, политический заключенный, о своем клиенте, судах и последнем «несвидании» с Алексеем Навальным</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/02/17/chasto-govoriu-sebe-navalnyi-by-smog-i-ia-smogu</guid>
-      <pubDate>Mon, 17 Feb 2025 10:57:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Sep 2026 19:19:41 +0000</lastBuildDate>
     <item>
       <title>«Буду восстанавливать свою фонотеку» — На свободу вышел 64-летний Владимир Румянцев, радиолюбитель из Вологды, отсидевший три года за «фейки»</title>
       <link>https://novayagazeta.ru/articles/2025/02/21/budu-vosstanavlivat-svoiu-fonoteku</link>
@@ -287,6 +280,13 @@
       <description>К 90-летию со дня рождения Натальи Горбаневской</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/05/26/eto-ia-ne-spasla-ni-varshavu-togda-i-ni-pragu-potom-eto-ia-eto-ia-i-vine-moei-net-iskuplenia</guid>
       <pubDate>Tue, 26 May 2026 09:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Следствие передумало арестовывать Лиду Мониаву. Судья — согласилась, запретив ей пользоваться интернетом два месяца. К суду пришли десятки друзей Лиды, журналисты и пациенты хосписа</title>
+      <link>https://novayagazeta.ru/news/2026/09/03/sledstvie-peredumalo-arestovyvat-lidu-moniavu-zaprosiv-dlia-nee-zapret-opredelennykh-deistvii-u-suda-desiatki-druzei-lidy-zhurnalisty-i-patsienty-khospisa-news</link>
+      <description>Следствие передумало арестовывать Лиду Мониаву. Судья — согласилась, запретив ей пользоваться интернетом два месяца. К суду пришли десятки друзей Лиды, журналисты и пациенты хосписа</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/news/2026/09/03/sledstvie-peredumalo-arestovyvat-lidu-moniavu-zaprosiv-dlia-nee-zapret-opredelennykh-deistvii-u-suda-desiatki-druzei-lidy-zhurnalisty-i-patsienty-khospisa-news</guid>
+      <pubDate>Thu, 03 Sep 2026 16:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
