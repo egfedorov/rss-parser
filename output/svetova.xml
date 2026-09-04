@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 04 Sep 2026 12:46:27 +0000</lastBuildDate>
-    <item>
-      <title>«Буду восстанавливать свою фонотеку» — На свободу вышел 64-летний Владимир Румянцев, радиолюбитель из Вологды, отсидевший три года за «фейки»</title>
-      <link>https://novayagazeta.ru/articles/2025/02/21/budu-vosstanavlivat-svoiu-fonoteku</link>
-      <description>На свободу вышел 64-летний Владимир Румянцев, радиолюбитель из Вологды, отсидевший три года за «фейки»</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/02/21/budu-vosstanavlivat-svoiu-fonoteku</guid>
-      <pubDate>Fri, 21 Feb 2025 13:15:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Sep 2026 16:46:58 +0000</lastBuildDate>
     <item>
       <title>«Ты не можешь подняться с колен за другого человека» — Политзаключенный адвокат Дмитрий Талантов, осужденный на семь лет за «фейки», из СИЗО о том, что происходящее не отменило здравого смысла</title>
       <link>https://novayagazeta.ru/articles/2025/02/28/ty-ne-mozhesh-podniatsia-s-kolen-za-drugogo-cheloveka</link>
@@ -287,6 +280,13 @@
       <description>Следствие передумало арестовывать Лиду Мониаву. Судья — согласилась, запретив ей пользоваться интернетом два месяца. К суду пришли десятки друзей Лиды, журналисты и пациенты хосписа</description>
       <guid isPermaLink="true">https://novayagazeta.ru/news/2026/09/03/sledstvie-peredumalo-arestovyvat-lidu-moniavu-zaprosiv-dlia-nee-zapret-opredelennykh-deistvii-u-suda-desiatki-druzei-lidy-zhurnalisty-i-patsienty-khospisa-news</guid>
       <pubDate>Thu, 03 Sep 2026 16:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Я думала, что меня на 10 лет посадят. Чудеса какие-то…» — Репортаж из Симоновского райсуда, где избирали меру пресечения Лиде Мониаве</title>
+      <link>https://novayagazeta.ru/articles/2026/09/04/ia-dumala-chto-menia-na-10-let-posadiat-chudesa-kakie-to</link>
+      <description>Репортаж из Симоновского райсуда, где избирали меру пресечения Лиде Мониаве</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/09/04/ia-dumala-chto-menia-na-10-let-posadiat-chudesa-kakie-to</guid>
+      <pubDate>Fri, 04 Sep 2026 13:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
