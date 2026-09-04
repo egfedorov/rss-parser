@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 04 Sep 2026 03:33:48 +0000</lastBuildDate>
-    <item>
-      <title>7 поводов выйти из дома 4–5 июля</title>
-      <link>https://mr-7.ru/articles/2026/07/03/7-povodov-vyiti-iz-doma-4-5-iiulia</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/03/7-povodov-vyiti-iz-doma-4-5-iiulia</guid>
-      <enclosure url="https://mr-7.ru/static/records/5fbf4ae3b3a546d9b2c76bd96a10ed26.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jul 2026 12:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Фестиваль уличных театров проходит на набережной Карповки</title>
-      <link>https://mr-7.ru/articles/2026/07/05/festival-ulichnykh-teatrov-prokhodit-na-naberezhnoi-karpovki</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/05/festival-ulichnykh-teatrov-prokhodit-na-naberezhnoi-karpovki</guid>
-      <enclosure url="https://mr-7.ru/static/records/519caa4e7aa749a5afa988c73940b7ec.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 16:33:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Sep 2026 08:13:06 +0000</lastBuildDate>
     <item>
       <title>Экспертизы постов и документы о здоровье обвиняемого в «фейках об армии» врача изучили в суде Петербурга</title>
       <link>https://mr-7.ru/articles/2026/07/07/ekspertizy-postov-i-dokumenty-o-zdorove-obviniaemogo-v-feikakh-ob-armii-vracha-izuchili-v-sude-peterburga</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/03/85-ia-godovshchina-so-dnia-nachala-blokady-spiski-tsvety-i-spektakli-kak-proidet-8-sentiabria-v-2026-godu</guid>
       <enclosure url="https://mr-7.ru/static/records/651649dc803c4f56a4b7fcc064513244.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 03 Sep 2026 10:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Новый поворот: как Петербург обеспечивает возможности для образования</title>
+      <link>https://mr-7.ru/articles/2026/09/04/novyi-povorot-kak-peterburg-obespechivaet-vozmozhnosti-dlia-obrazovaniia</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/04/novyi-povorot-kak-peterburg-obespechivaet-vozmozhnosti-dlia-obrazovaniia</guid>
+      <enclosure url="https://mr-7.ru/static/records/2c8f6156b57446ff8420a4a835036ef6.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 04 Sep 2026 06:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Я никуда не ухожу и лошадей не отдам»: как старейший конный клуб Петербурга борется за право остаться на Крестовском</title>
+      <link>https://mr-7.ru/articles/2026/09/04/ia-nikuda-ne-ukhozhu-i-loshadei-ne-otdam-kak-stareishii-konnyi-klub-peterburga-boretsia-za-pravo-ostatsia-na-krestovskom</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/04/ia-nikuda-ne-ukhozhu-i-loshadei-ne-otdam-kak-stareishii-konnyi-klub-peterburga-boretsia-za-pravo-ostatsia-na-krestovskom</guid>
+      <enclosure url="https://mr-7.ru/static/records/13175ec6085746bfbab5427face52a9a.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 04 Sep 2026 07:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
