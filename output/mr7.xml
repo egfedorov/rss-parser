@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:11:02 +0000</lastBuildDate>
-    <item>
-      <title>Индивидуальное «лекарство» от тяжёлых форм рака крови создали в Петербурге</title>
-      <link>https://mr-7.ru/articles/2026/07/07/individualnoe-lekarstvo-ot-tiazhelykh-form-raka-krovi-sozdali-v-peterburge</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/07/individualnoe-lekarstvo-ot-tiazhelykh-form-raka-krovi-sozdali-v-peterburge</guid>
-      <enclosure url="https://mr-7.ru/static/records/2a0f255a888e467db53a86530a16703c.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Jul 2026 17:03:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 05 Sep 2026 13:28:30 +0000</lastBuildDate>
     <item>
       <title>Вседозволенность, страх или осознанное воспитание ребёнка — где грань, объясняет психолог</title>
       <link>https://mr-7.ru/articles/2026/07/08/vsedozvolennost-strakh-ili-osoznannoe-vospitanie-rebenka-gde-gran-obiasniaet-psikholog</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/04/7-povodov-vyiti-iz-doma-5-6-sentiabria</guid>
       <enclosure url="https://mr-7.ru/static/records/a6a97c304ae34239b9dc904f49bfaaf3.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 04 Sep 2026 11:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Мы устали ждать»: дольщики недостроенного ЖК в Сестрорецке просят власти взять ситуацию на контроль</title>
+      <link>https://mr-7.ru/articles/2026/09/05/my-ustali-zhdat-dolshchiki-nedostroennogo-zhk-v-sestroretske-prosiat-vlasti-vziat-situatsiiu-na-kontrol</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/05/my-ustali-zhdat-dolshchiki-nedostroennogo-zhk-v-sestroretske-prosiat-vlasti-vziat-situatsiiu-na-kontrol</guid>
+      <enclosure url="https://mr-7.ru/static/records/3f6189ac694e486e880365aa183afadd.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 05 Sep 2026 12:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
