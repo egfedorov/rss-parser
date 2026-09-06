@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 06 Sep 2026 09:40:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 13:27:37 +0000</lastBuildDate>
     <item>
       <title>«Ариадна, ты меня бесишь!» Как семейный конфликт привел к депортации антивоенной активистки из Турции в Россию</title>
       <link>https://www.bbc.com/russian/articles/c70ygd99529o</link>
@@ -135,17 +135,16 @@
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Самые тяжелые времена — сейчас». Объясняем в 100 и 500 словах зерновой кризис в России</title>
+      <link>https://www.bbc.com/russian/articles/c790dlrwz8no</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c790dlrwz8no</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Убежище в ЕС или ловушка? Работает ли для россиян «балканский путь» в Европу</title>
       <link>https://www.bbc.com/russian/articles/c79034j78yyo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c79034j78yyo</guid>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Самые тяжелые времена — сейчас». Объясняем в 100 и 500 словах зерновой кризис в России</title>
-      <link>https://www.bbc.com/russian/articles/c790dlrwz8no</link>
-      <description>Этим летом украинские дроны атаковали российские порты на Азовском и Черном морях, что фактически остановило отгрузку пшеницы и других зерновых. От последствий войны страдают российские фермеры: они не могут продать зерно за границу, а цены внутри страны падают.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c790dlrwz8no</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Глава антикоррупционной прокуратуры Украины о «Форресте Гампе», Кирилле Буданове и фэншуе</title>
@@ -159,7 +158,7 @@
       <link>https://www.bbc.com/russian/articles/c624995y9ylo</link>
       <description>Почему с детьми важно честно говорить о смерти? Способны ли технологии однажды победить смерть?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c624995y9ylo</guid>
-      <pubDate>Sun, 06 Sep 2026 09:40:42 +0000</pubDate>
+      <pubDate>Sun, 06 Sep 2026 13:27:37 +0000</pubDate>
     </item>
     <item>
       <title>Нефтяное соглашение США-Венесуэла — сделка, которая озадачивает аналитиков и злит многих венесуэльцев</title>
@@ -187,7 +186,7 @@
       <link>https://www.bbc.com/russian/articles/cm2revmdg3xo</link>
       <description>Президент Украины Владимир Зеленский предупредил, что небо над Россией становится опасным для гражданской авиации. Насколько реализуема угроза Зеленского «закрыть небо над Россией» и действительно ли летать станет опаснее?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm2revmdg3xo</guid>
-      <pubDate>Sun, 06 Sep 2026 09:40:42 +0000</pubDate>
+      <pubDate>Sun, 06 Sep 2026 13:27:37 +0000</pubDate>
     </item>
     <item>
       <title>Пляж на костях. Что происходит в России с могилами заключенных ГУЛАГа</title>
@@ -204,10 +203,17 @@
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Зловещая комета и король-клятвопреступник. Знаменитый гобелен из Байё впервые покажут в Британском музее</title>
+      <link>https://www.bbc.com/russian/articles/c0j3z88vx0lo</link>
+      <description>Знаменитый гобелен XI века из Байё, на котором изображены сцены подготовки нормандского завоевания Англии и битвы при Гастингсе, впервые за 950 лет вывезли за пределы Франции и выставили в Британском музее. Би-би-си рассказывает о его истории и пяти ключевых  сценах.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0j3z88vx0lo</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Нужна ли Путину новая мобилизация для перелома в войне с Украиной?</title>
       <link>https://www.bbc.com/russian/articles/c2l8z18xrn9o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c2l8z18xrn9o</guid>
-      <pubDate>Sun, 06 Sep 2026 09:40:42 +0000</pubDate>
+      <pubDate>Sun, 06 Sep 2026 13:27:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
