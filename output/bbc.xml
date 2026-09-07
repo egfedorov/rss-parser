@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 07 Sep 2026 17:30:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 20:46:49 +0000</lastBuildDate>
     <item>
       <title>«Ариадна, ты меня бесишь!» Как семейный конфликт привел к депортации антивоенной активистки из Турции в Россию</title>
       <link>https://www.bbc.com/russian/articles/c70ygd99529o</link>
@@ -141,13 +141,6 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Путин требует от Армении референдума о ЕС, Пашинян не согласен. Что будет дальше?</title>
-      <link>https://www.bbc.com/russian/articles/cy5zng9lgv5o</link>
-      <description>На встрече с премьером Армении во вторник Владимир Путин потребовал провести референдум о выборе между Европейским и Евразийским экономическим союзами. Никол Пашинян это требование отверг и был приглашен в Москву детально обсудить двусторонние отношения.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy5zng9lgv5o</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Пляж на костях. Что происходит в России с могилами заключенных ГУЛАГа</title>
       <link>https://www.bbc.com/russian/articles/cqjkr2008djo</link>
       <description>В маленьком городе Емва, построенном в Республике Коми узниками ГУЛАГа, жители десятилетиями находят валяющиеся на берегу искусственного водоема человеческие кости. Ни креста, ни памятного знака на диком пляже не появилось, зато летом 2026 года чиновники установили табличку — «Купание запрещено». Почему в России с ее «традиционными ценностями» возможно такое отношение к мертвым?</description>
@@ -197,6 +190,13 @@
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Авиацию ждут все более жаркие и ветреные времена — и пассажирам придется мириться с последствиями</title>
+      <link>https://www.bbc.com/russian/articles/c99d150de18o</link>
+      <description>Придется ли авиапассажирам все чаще мириться с задержками рейсов и изменениями маршрутов по мере усиления последствий изменения климата?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c99d150de18o</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Волна диверсий или череда совпадений? В Европе неизвестные повреждают инфраструктуру и поджигают оборонные заводы</title>
       <link>https://www.bbc.com/russian/articles/cm2rek52ypmo</link>
       <description>Инцидент в аэропорту Лейпцига, где месяц назад был обнаружен начиненный взрывчаткой беспилотник, стал первым случаем, когда Германия официально обвинила Россию в попытке диверсии. Но только за этот месяц произошло не менее семи подозрительных инцидентов — и это только в Германии. С начала августа пожары и взрывы на оборонных предприятиях были зафиксированы в Польше, Словакии, Болгарии и Италии.</description>
@@ -207,7 +207,7 @@
       <title>Убежище в ЕС или ловушка? Работает ли для россиян «балканский путь» в Европу</title>
       <link>https://www.bbc.com/russian/articles/c79034j78yyo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c79034j78yyo</guid>
-      <pubDate>Mon, 07 Sep 2026 17:30:59 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 20:46:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
