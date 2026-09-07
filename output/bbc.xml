@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 07 Sep 2026 05:48:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:55:24 +0000</lastBuildDate>
     <item>
       <title>«Ариадна, ты меня бесишь!» Как семейный конфликт привел к депортации антивоенной активистки из Турции в Россию</title>
       <link>https://www.bbc.com/russian/articles/c70ygd99529o</link>
@@ -141,19 +141,6 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Убежище в ЕС или ловушка? Работает ли для россиян «балканский путь» в Европу</title>
-      <link>https://www.bbc.com/russian/articles/c79034j78yyo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c79034j78yyo</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Нефтяное соглашение США-Венесуэла — сделка, которая озадачивает аналитиков и злит многих венесуэльцев</title>
-      <link>https://www.bbc.com/russian/articles/cpve41943z8o</link>
-      <description>США получают контроль над 65 миллиардами баррелей, или одной пятой нефтяных запасов Венесуэлы.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cpve41943z8o</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Изнасилование как кликбейт: как пророссийские телеграм-каналы используют фото украинок</title>
       <link>https://www.bbc.com/russian/articles/c5ywd7w13lzo</link>
       <description>Российские телеграм-каналы используют фейковые заявления об изнасилованиях и фотографии реальных украинских женщин, чтобы заманить миллионы пользователей в провоенные пропагандистские сети.</description>
@@ -172,7 +159,7 @@
       <link>https://www.bbc.com/russian/articles/cm2revmdg3xo</link>
       <description>Президент Украины Владимир Зеленский предупредил, что небо над Россией становится опасным для гражданской авиации. Насколько реализуема угроза Зеленского «закрыть небо над Россией» и действительно ли летать станет опаснее?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm2revmdg3xo</guid>
-      <pubDate>Mon, 07 Sep 2026 05:48:47 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 11:55:24 +0000</pubDate>
     </item>
     <item>
       <title>Пляж на костях. Что происходит в России с могилами заключенных ГУЛАГа</title>
@@ -212,8 +199,15 @@
     <item>
       <title>Волна диверсий или череда совпадений? В Европе неизвестные повреждают инфраструктуру и поджигают оборонные заводы</title>
       <link>https://www.bbc.com/russian/articles/cm2rek52ypmo</link>
+      <description>Инцидент в аэропорту Лейпцига, где месяц назад был обнаружен начиненный взрывчаткой беспилотник, стал первым случаем, когда Германия официально обвинила Россию в попытке диверсии. Но только за этот месяц произошло не менее семи подозрительных инцидентов — и это только в Германии. С начала августа пожары и взрывы на оборонных предприятиях были зафиксированы в Польше, Словакии, Болгарии и Италии.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm2rek52ypmo</guid>
-      <pubDate>Mon, 07 Sep 2026 05:48:47 +0000</pubDate>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Убежище в ЕС или ловушка? Работает ли для россиян «балканский путь» в Европу</title>
+      <link>https://www.bbc.com/russian/articles/c79034j78yyo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c79034j78yyo</guid>
+      <pubDate>Mon, 07 Sep 2026 11:55:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
