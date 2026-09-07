@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 07 Sep 2026 11:55:28 +0000</lastBuildDate>
-    <item>
-      <title>Констатация смерти, отрицание жизни — Только один месяц. Только хроники семейной жизни. Только те случаи, что получили огласку</title>
-      <link>https://novayagazeta.ru/articles/2025/12/25/konstatatsiia-smerti-otritsanie-zhizni</link>
-      <description>Только один месяц. Только хроники семейной жизни. Только те случаи, что получили огласку</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/25/konstatatsiia-smerti-otritsanie-zhizni</guid>
-      <pubDate>Thu, 25 Dec 2025 07:18:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Sep 2026 17:31:02 +0000</lastBuildDate>
     <item>
       <title>Парамоновы и Некрасовы — Нас никому не победить. Когда-нибудь мы победим себя сами</title>
       <link>https://novayagazeta.ru/articles/2026/01/06/paramonovy-i-nekrasovy</link>
@@ -287,6 +280,13 @@
       <description>Почему только сейчас Татарину предъявили двойное убийство 33-летней давности</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/09/05/ekho-90-kh-vremia-nazad</guid>
       <pubDate>Sat, 05 Sep 2026 08:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Наскальная идеология — В Красноярске — война объектов монументального искусства и архитектуры. А маленькие люди уходят в миниатюрную живопись и ваяние</title>
+      <link>https://novayagazeta.ru/articles/2026/09/07/naskalnaia-ideologiia</link>
+      <description>В Красноярске — война объектов монументального искусства и архитектуры. А маленькие люди уходят в миниатюрную живопись и ваяние</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/09/07/naskalnaia-ideologiia</guid>
+      <pubDate>Mon, 07 Sep 2026 12:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
