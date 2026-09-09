@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 11:53:46 +0000</lastBuildDate>
-    <item>
-      <title>«Это исследовали явно не для лечения»: институт, синтезировавший яд, которым отравили Навального, изучал способы его обнаружения</title>
-      <link>https://theins.ru/inv/289573</link>
-      <guid isPermaLink="false">https://theins.ru/inv/289573</guid>
-      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Sep 2026 16:09:59 +0000</lastBuildDate>
     <item>
       <title>Воровство, любовницы и гражданство США: как живут члены IT-комитета Госдумы, строящие «цифровой ГУЛАГ» под предлогом защиты ценностей</title>
       <link>https://theins.ru/inv/289385</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/inv/296395</link>
       <guid isPermaLink="false">https://theins.ru/inv/296395</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Антилатышские стрелки. Кто в Кремле курирует выборы в Латвии, шпионит под «крышей» посольства в Риге и продвигает «Русский мир»</title>
+      <link>https://theins.ru/inv/296889</link>
+      <guid isPermaLink="false">https://theins.ru/inv/296889</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
