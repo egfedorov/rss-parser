@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 19:19:35 +0000</lastBuildDate>
-    <item>
-      <title>В России заочно арестовали основательницу и гендиректора канала «Дождь»</title>
-      <link>https://mostmedia.org/ru/posts/presnensky-sud-moskvy-zaochno-arestoval-natalju-sindeevu-i-marka-tena</link>
-      <description>Пресненский районный суд Москвы выбрал меру пресечения для основательницы медиа Натальи Синдеевой и генерального директора канала Марка Тена. Их обвиняют по части 3 статьи 284.3 УК — в организации работы «нежелательной организации».</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/presnensky-sud-moskvy-zaochno-arestoval-natalju-sindeevu-i-marka-tena</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/0/3/e/2/3/03e234e375a649e4e3db295d2abc07d2.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 09 Sep 2026 19:10:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Sep 2026 21:46:31 +0000</lastBuildDate>
     <item>
       <title>Прокуратура запросила 8 лет колонии историку Павлу Сюткину по делу о военных «фейках»</title>
       <link>https://mostmedia.org/ru/posts/prokuratura-zaprosila-8-let-kolonii-istoriku-pavlu-sjutkinu-po-delu-o-voennyh-feykah</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/est-li-u-germanii-alternativa-fashizmu-posle-triumfa-alternativy-dlja-germanii</guid>
       <enclosure url="https://mostmedia.org/uploads/files/7/c/3/8/b/7c38b2a1d31549feb047cfc820172540.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 09 Sep 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Последняя тайна Trump Tower. Как Дональд Трамп перестал бояться и полюбил Россию</title>
+      <link>https://mostmedia.org/ru/posts/poslednjaja-taina-trump-tower-kak-donald-tramp-perestal-bojatsja-i-poljubil-rossiju</link>
+      <description>Эта история успеха не обошлась без КГБ и его агентов влияния в так называемой «русской мафии»</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/poslednjaja-taina-trump-tower-kak-donald-tramp-perestal-bojatsja-i-poljubil-rossiju</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/e/3/b/5/6/e3b565ae8cee51d412d893cd07c80dcf.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 10 Sep 2026 00:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
