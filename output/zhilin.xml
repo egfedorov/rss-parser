@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 06:40:19 +0000</lastBuildDate>
-    <item>
-      <title>«К запаху смерти невозможно привыкнуть» — История Дмитрия с позывным «Яга», который не был сторонником Владимира Путина</title>
-      <link>https://novayagazeta.ru/articles/2025/07/09/k-zapakhu-smerti-nevozmozhno-privyknut</link>
-      <description>История Дмитрия с позывным «Яга», который не был сторонником Владимира Путина</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/07/09/k-zapakhu-smerti-nevozmozhno-privyknut</guid>
-      <pubDate>Wed, 09 Jul 2025 07:59:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 09 Sep 2026 11:53:46 +0000</lastBuildDate>
     <item>
       <title>Могильный крест для Байкала — Госдума вот-вот одобрит сплошные рубки леса по берегам озера. Одна из целей — аномальное расширение кладбищ</title>
       <link>https://novayagazeta.ru/articles/2025/07/15/mogilnyi-krest-dlia-baikala</link>
@@ -287,6 +280,13 @@
       <description>Власти отчитались, что завершили откачку мазута из затонувших танкеров под Анапой. Через четыре дня топливо вновь потекло в море</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/08/28/vse-ubrannoe-stanet-iavnym</guid>
       <pubDate>Fri, 28 Aug 2026 12:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Насилие и власть — «Русская община» медленно оформляется в политическую силу. Пока она борется с либералами, но не факт, что ими ограничится</title>
+      <link>https://novayagazeta.ru/articles/2026/09/09/nasilie-i-vlast</link>
+      <description>«Русская община» медленно оформляется в политическую силу. Пока она борется с либералами, но не факт, что ими ограничится</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/09/09/nasilie-i-vlast</guid>
+      <pubDate>Wed, 09 Sep 2026 07:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
