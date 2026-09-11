@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 09:24:42 +0000</lastBuildDate>
-    <item>
-      <title>Без трапов, но с часовней — В Мурманске открыли новый терминал аэропорта. Но что-то пошло не так…</title>
-      <link>https://novayagazeta.ru/articles/2025/12/06/bez-trapov-no-s-chasovnei</link>
-      <description>В Мурманске открыли новый терминал аэропорта. Но что-то пошло не так…</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/12/06/bez-trapov-no-s-chasovnei</guid>
-      <pubDate>Sat, 06 Dec 2025 11:53:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 11 Sep 2026 13:48:54 +0000</lastBuildDate>
     <item>
       <title>Почему молчит РПЦ? — Протоиерей Андрей Кордочкин* о политических заключенных, обменах и роли церкви в условиях СВО и репрессий</title>
       <link>https://novayagazeta.ru/videos/2025/12/16/pochemu-molchit-rpts</link>
@@ -287,6 +280,13 @@
       <description>Топ-10 августовской дури</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/09/03/borshchevik-na-sluzhbe-kafe-strogogo-rezhima-i-slishkom-umnaia-alisa</guid>
       <pubDate>Thu, 03 Sep 2026 08:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дюймовочку убили — Скончалась дочь политзаключенной Александры Стрилец. Ей не дали отсрочку для ухода за ребенком, который с рождения был в реанимации</title>
+      <link>https://novayagazeta.ru/articles/2026/09/11/diuimovochku-ubili</link>
+      <description>Скончалась дочь политзаключенной Александры Стрилец. Ей не дали отсрочку для ухода за ребенком, который с рождения был в реанимации</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/09/11/diuimovochku-ubili</guid>
+      <pubDate>Fri, 11 Sep 2026 10:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
