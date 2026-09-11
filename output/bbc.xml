@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 04:50:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:24:44 +0000</lastBuildDate>
     <item>
       <title>«Перспективы работы очень туманные». Могут ли продавцы Wildberries добиться компенсаций потерь из-за украинских ударов?</title>
       <link>https://www.bbc.com/russian/articles/c6294pexndno</link>
@@ -141,16 +141,8 @@
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Волна диверсий или череда совпадений? В Европе неизвестные повреждают инфраструктуру и поджигают оборонные заводы</title>
-      <link>https://www.bbc.com/russian/articles/cm2rek52ypmo</link>
-      <description>Инцидент в аэропорту Лейпцига, где месяц назад был обнаружен начиненный взрывчаткой беспилотник, стал первым случаем, когда Германия официально обвинила Россию в попытке диверсии. Но только за этот месяц произошло не менее семи подозрительных инцидентов — и это только в Германии. С начала августа пожары и взрывы на оборонных предприятиях были зафиксированы в Польше, Словакии, Болгарии и Италии.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm2rek52ypmo</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Убежище в ЕС или ловушка? Работает ли для россиян «балканский путь» в Европу</title>
       <link>https://www.bbc.com/russian/articles/c79034j78yyo</link>
-      <description>Для некоторых россиян одним из немногих способов оказаться в безопасности остается политическое убежище в ЕС. Но на этом пути они часто сталкиваются с непредвиденными обстоятельствами. Би-би-си отправилась в Хорватию, где ежегодно фиксируется один из самых низких уровней одобрения прошений об убежище в Евросоюзе и где формальным поводом для отказа может стать само политическое преследование в России.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c79034j78yyo</guid>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -172,7 +164,7 @@
       <title>Видео,Какая она — «Альтернатива для Германии»? | Видеоподкаст «Что это было», Продолжительность 32,53</title>
       <link>https://www.bbc.com/russian/articles/c3wjnpl5225o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3wjnpl5225o</guid>
-      <pubDate>Fri, 11 Sep 2026 04:50:52 +0000</pubDate>
+      <pubDate>Fri, 11 Sep 2026 09:24:44 +0000</pubDate>
     </item>
     <item>
       <title>Путин заявил о взятии Святогорска, но генерал ВСУ записал видео в центре города. Что известно о наступлении Украины под Лиманом</title>
@@ -187,6 +179,19 @@
       <description>Крупнейшие медицинские вузы в этом году не добрали более тысячи студентов на целевые места, а как минимум 500 бюджетных мест так и остались пустовать после начала учебы, подсчитала Русская служба Би-би-си и поговорила со студентами и врачами о том, как новое регулирование повлияет на их будущее.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cgqd7lnnyqwo</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Теракты 11 сентября 2001 года минута за минутой. День, навсегда изменивший мир</title>
+      <link>https://www.bbc.com/russian/features-58492899</link>
+      <description>Би-би-си рассказывает, как в то утро в течение 149 минут разворачивались события, изменившие ход истории.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/features-58492899</guid>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>От талибов - к талибам. История терактов 11 сентября и войны США с мировым терроризмом</title>
+      <link>https://www.bbc.com/russian/features-58517941</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/features-58517941</guid>
+      <pubDate>Fri, 11 Sep 2026 09:24:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
