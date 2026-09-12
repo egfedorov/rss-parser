@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 05:06:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 09:26:13 +0000</lastBuildDate>
     <item>
       <title>«Перспективы работы очень туманные». Могут ли продавцы Wildberries добиться компенсаций потерь из-за украинских ударов?</title>
       <link>https://www.bbc.com/russian/articles/c6294pexndno</link>
@@ -147,12 +147,6 @@
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Видео,Какая она — «Альтернатива для Германии»? | Видеоподкаст «Что это было», Продолжительность 32,53</title>
-      <link>https://www.bbc.com/russian/articles/c3wjnpl5225o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3wjnpl5225o</guid>
-      <pubDate>Sat, 12 Sep 2026 05:06:44 +0000</pubDate>
-    </item>
-    <item>
       <title>Перед решающим штурмом? Каким было лето на российско-украинском фронте и что будет осенью</title>
       <link>https://www.bbc.com/russian/articles/cpvejjpvprzo</link>
       <description>Весенне-летняя наступательная кампания российской армии показала, что Москва может столкнуться с новыми проблемами на фронте уже в ближайшие месяцы. Остановит ли это ее наступление?</description>
@@ -179,6 +173,13 @@
       <description>Би-би-си рассказывает, как в то утро в течение 149 минут разворачивались события, изменившие ход истории.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/features-58492899</guid>
       <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Я просто хочу, чтобы их осудили». 25 лет нападениям 11 сентября: судебный процесс буксует, родные жертв теряют надежду</title>
+      <link>https://www.bbc.com/russian/articles/clyqxv7qqx3o</link>
+      <description>Спустя четверть века после нападений 11 сентября суд над предполагаемым их организатором все еще не начался, и родные погибших в тот день опасаются, что все меньше времени остается для того, чтобы добиться справедливости.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/clyqxv7qqx3o</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
