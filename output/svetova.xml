@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 05:56:47 +0000</lastBuildDate>
-    <item>
-      <title>«Ты не можешь подняться с колен за другого человека» — Политзаключенный адвокат Дмитрий Талантов, осужденный на семь лет за «фейки», из СИЗО о том, что происходящее не отменило здравого смысла</title>
-      <link>https://novayagazeta.ru/articles/2025/02/28/ty-ne-mozhesh-podniatsia-s-kolen-za-drugogo-cheloveka</link>
-      <description>Политзаключенный адвокат Дмитрий Талантов, осужденный на семь лет за «фейки», из СИЗО о том, что происходящее не отменило здравого смысла</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/02/28/ty-ne-mozhesh-podniatsia-s-kolen-za-drugogo-cheloveka</guid>
-      <pubDate>Fri, 28 Feb 2025 07:09:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Sep 2026 11:30:16 +0000</lastBuildDate>
     <item>
       <title>«Убивают меня за то, что я говорю правду о них» — Политзаключенная Людмила Разумова седьмой день держит в колонии голодовку</title>
       <link>https://novayagazeta.ru/articles/2025/03/06/ubivaiut-menia-za-to-chto-ia-govoriu-pravdu-o-nikh</link>
@@ -287,6 +280,13 @@
       <description>Репортаж из Симоновского райсуда, где избирали меру пресечения Лиде Мониаве</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/09/04/ia-dumala-chto-menia-na-10-let-posadiat-chudesa-kakie-to</guid>
       <pubDate>Fri, 04 Sep 2026 13:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Дом с маяком» спас моему сыну жизнь, он уже школу закончил» — Еще раз о Лидии Мониава — человеке-маяке и человеке-буксире</title>
+      <link>https://novayagazeta.ru/articles/2026/09/15/dom-s-maiakom-spas-moemu-synu-zhizn-on-uzhe-shkolu-zakonchil</link>
+      <description>Еще раз о Лидии Мониава — человеке-маяке и человеке-буксире</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/09/15/dom-s-maiakom-spas-moemu-synu-zhizn-on-uzhe-shkolu-zakonchil</guid>
+      <pubDate>Tue, 15 Sep 2026 08:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

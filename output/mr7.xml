@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 05:56:58 +0000</lastBuildDate>
-    <item>
-      <title>Наказание коммунисту Ивану Апостолевскому и градозащитнику Олегу Мухину менять не стали</title>
-      <link>https://mr-7.ru/articles/2026/07/15/nakazanie-kommunistu-ivanu-apostolevskomu-i-gradozashchitniku-olegu-mukhinu-meniat-ne-stali</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/15/nakazanie-kommunistu-ivanu-apostolevskomu-i-gradozashchitniku-olegu-mukhinu-meniat-ne-stali</guid>
-      <enclosure url="https://mr-7.ru/static/records/c1d059c6abba460abace70e7f7843522.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jul 2026 18:58:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Sep 2026 11:30:27 +0000</lastBuildDate>
     <item>
       <title>7 поводов выйти из дома 18–19 июля</title>
       <link>https://mr-7.ru/articles/2026/07/17/7-povodov-vyiti-iz-doma-18-19-iiulia</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/11/7-povodov-vyiti-iz-doma-12-13-sentiabria</guid>
       <enclosure url="https://mr-7.ru/static/records/f0e30c182e0f4412bc0a9b47b1eda686.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 11 Sep 2026 12:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Памятник актёру Кириллу Лаврову открыли на Петроградской стороне</title>
+      <link>https://mr-7.ru/articles/2026/09/15/pamiatnik-akteru-kirillu-lavrovu-otkryli-na-petrogradskoi-storone</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/15/pamiatnik-akteru-kirillu-lavrovu-otkryli-na-petrogradskoi-storone</guid>
+      <enclosure url="https://mr-7.ru/static/records/be5d88e4398f46669e89372ed3298dce.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Sep 2026 08:39:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
