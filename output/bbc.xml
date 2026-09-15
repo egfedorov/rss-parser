@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 00:53:36 +0000</lastBuildDate>
-    <item>
-      <title>«Перспективы работы очень туманные». Могут ли продавцы Wildberries добиться компенсаций потерь из-за украинских ударов?</title>
-      <link>https://www.bbc.com/russian/articles/c6294pexndno</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6294pexndno</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Sep 2026 05:56:47 +0000</lastBuildDate>
     <item>
       <title>«Беспокойства много у всех». Что происходит с повестками в военкомат и приближают ли они новую мобилизацию в России</title>
       <link>https://www.bbc.com/russian/articles/c77gj2v4zkeo</link>
@@ -149,9 +143,14 @@
     <item>
       <title>«Я принципиально не подпишу целевой договор». Почему крупные медицинские вузы в России недобрали в этом году сотни студентов</title>
       <link>https://www.bbc.com/russian/articles/cgqd7lnnyqwo</link>
-      <description>Крупнейшие медицинские вузы в этом году не добрали более тысячи студентов на целевые места, а как минимум 500 бюджетных мест так и остались пустовать после начала учебы, подсчитала Русская служба Би-би-си и поговорила со студентами и врачами о том, как новое регулирование повлияет на их будущее.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cgqd7lnnyqwo</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Все подыгрывают этому фарсу». Чего (не) ждать от возобновления переговоров о завершении войны в Украине</title>
+      <link>https://www.bbc.com/russian/articles/c3x2zp0xkqk2o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3x2zp0xkqk2o</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Теракты 11 сентября 2001 года минута за минутой. День, навсегда изменивший мир</title>
