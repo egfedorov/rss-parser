@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 10:02:28 +0000</lastBuildDate>
-    <item>
-      <title>От сцены Ла Скала до одиночной камеры в Рустави. Как оперный бас Бурчуладзе попал в грузинскую политику</title>
-      <link>https://www.bbc.com/russian/articles/c9d8pxljn51o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c9d8pxljn51o</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 15:01:53 +0000</lastBuildDate>
     <item>
       <title>Дальнобойные беспилотники и их дешевые убийцы. Как война в Украине изменила авиасалон Фарнборо</title>
       <link>https://www.bbc.com/russian/articles/ce3qlqg8v9po</link>
@@ -141,6 +135,12 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Топливный кризис в Петербурге: горожане привыкают к дефициту</title>
+      <link>https://www.bbc.com/russian/articles/cwdr7ep6lke3o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwdr7ep6lke3o</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Шпионы, стратегии и упущенные возможности: какие уроки 11 сентября мир продолжает усваивать до сих пор</title>
       <link>https://www.bbc.com/russian/articles/cj067pp5lg1o</link>
       <description>Первейшая обязанность любого правительства, как на протяжении десятилетий заявляли бесчисленные политические лидеры, — обеспечить безопасность своих граждан. 11 сентября 2001 года Соединенные Штаты с этой задачей очевидным образом не справились. Разведданные были, но, к трагическим последствиям, никто не сумел вовремя сложить отдельные фрагменты в единую картину.</description>
@@ -165,7 +165,14 @@
       <title>Видео,Энергетическое перемирие: миф или реальность? | Видеоподкаст «Что это было?», Продолжительность 27,06</title>
       <link>https://www.bbc.com/russian/articles/cxj06nr878mvo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cxj06nr878mvo</guid>
-      <pubDate>Wed, 16 Sep 2026 10:02:29 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 15:01:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Все подыгрывают этому фарсу». Чего (не) ждать от возобновления переговоров о завершении войны в Украине</title>
+      <link>https://www.bbc.com/russian/articles/c3x2zp0xkqk2o</link>
+      <description>Москва, Киев и Вашингтон, судя по всему, готовятся возобновить переговоры о завершении войны в Украине. Последняя встреча представителей трех стран прошла зимой 2026 года, и тогда дискуссии о том, как остановить войну, явно зашли в тупик. За полгода после той встречи многое изменилось и на поле боя, и в риторике сторон, но, по оценке экспертов, с которыми поговорила Би-би-си, эти перемены вряд ли приблизили мир.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3x2zp0xkqk2o</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>«Для меня это не мясо. Это был член нашей семьи». В Иркутской области уничтожают скот, фермеры подозревают ящур</title>
@@ -175,10 +182,10 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Все подыгрывают этому фарсу». Чего (не) ждать от возобновления переговоров о завершении войны в Украине</title>
-      <link>https://www.bbc.com/russian/articles/c3x2zp0xkqk2o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3x2zp0xkqk2o</guid>
-      <pubDate>Wed, 16 Sep 2026 10:02:29 +0000</pubDate>
+      <title>Россия приближается к «поясу крепостей», несмотря на поражение под Лиманом. Что происходит на Славянско-Краматорском направлении</title>
+      <link>https://www.bbc.com/russian/articles/cwp804e5l0z1o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwp804e5l0z1o</guid>
+      <pubDate>Wed, 16 Sep 2026 15:01:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 10:02:39 +0000</lastBuildDate>
-    <item>
-      <title>«Важные истории» обещают рассказать об устройстве системы «Выборы» 2.0: данные о ней журналистам передали хакеры</title>
-      <link>https://mostmedia.org/ru/posts/hakery-zajavili-o-dostupe-k-dannym-o-gas-vybory-20-u-podrjadchikov-cik</link>
-      <description>Анонимная группировка проникла в инфраструктуру ЦИК и его подрядчиков. По утверждению взломщиков, они получила доступ к внутренним документам, исходному коду, записям созвонов и перепискам, связанным с ГАС «Выборы» 2.0.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/hakery-zajavili-o-dostupe-k-dannym-o-gas-vybory-20-u-podrjadchikov-cik</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/c/6/9/1/4/c6914b48e2b8a2246ab26120b94aeb9b.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 16 Sep 2026 09:28:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 15:02:01 +0000</lastBuildDate>
     <item>
       <title>В США будут судить пятерых человек обвинили за подготовку диверсий и убийств российских политэмигрантов</title>
       <link>https://mostmedia.org/ru/posts/v-ssha-pjateryh-chelovek-obvinili-v-podgotovke-ubystv-oppozicionerov-i-diversy-v-evrope</link>
@@ -65,19 +57,19 @@
       <pubDate>Wed, 16 Sep 2026 10:36:00 +0000</pubDate>
     </item>
     <item>
-      <title>МВД РФ объявило в розыск британскую активистку российского происхождения: ранее та отменила в Лондоне концерт Инстасамки</title>
-      <link>https://mostmedia.org/ru/posts/mvd-vneslo-v-rozysk-glavu-russian-democratic-society-xeniju-maximovu</link>
-      <description>МВД РФ объявило в розыск британскую активистку российского происхождения: ранее та отменила в Лондоне концерт Инстасамки</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/mvd-vneslo-v-rozysk-glavu-russian-democratic-society-xeniju-maximovu</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/9/a/9/b/6/9a9b6c8deae082e3b9bb741235d89d61.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 16 Sep 2026 10:39:00 +0000</pubDate>
-    </item>
-    <item>
       <title>В России за 15 лет рекордно сократилось число абортов, но при этом стало втрое больше и выкидышей</title>
       <link>https://mostmedia.org/ru/posts/v-rossii-za-15-let-zaregistrirovannye-aborty-sokratilis-bolee-chem-v-chetyre-raza</link>
       <description>За 15 лет число зарегистрированных в России абортов сократилось с 1,01 млн до 235 700, подсчитали «Ведомости» на основе данных Росстата, Минздрава и экспертных оценок.</description>
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/v-rossii-za-15-let-zaregistrirovannye-aborty-sokratilis-bolee-chem-v-chetyre-raza</guid>
       <enclosure url="https://mostmedia.org/uploads/ogimages/8/6/2/2/e/8622eef1a33db3288fb07dc818bb0d37.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 16 Sep 2026 10:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>МВД РФ объявило в розыск британскую активистку российского происхождения: ранее та отменила в Лондоне концерт Инстасамки</title>
+      <link>https://mostmedia.org/ru/posts/mvd-vneslo-v-rozysk-glavu-russian-democratic-society-xeniju-maximovu</link>
+      <description>МВД РФ объявило в розыск британскую активистку российского происхождения: ранее та отменила в Лондоне концерт Инстасамки</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/mvd-vneslo-v-rozysk-glavu-russian-democratic-society-xeniju-maximovu</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/9/a/9/b/6/9a9b6c8deae082e3b9bb741235d89d61.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 16 Sep 2026 10:39:00 +0000</pubDate>
     </item>
     <item>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/eto-ne-borba-s-boleznju-eto-popytka-skryt-bolezn-v-sibiri-snova-zabivajut-skot</guid>
       <enclosure url="https://mostmedia.org/uploads/files/7/8/9/1/5/78915f9930582fb60b1e632d2e05de3b.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 14 Sep 2026 23:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Шотландия, Уэльс и Северная Ирландия впервые вместе выступили за право на самоопределение. Что теперь будет с Британией?</title>
+      <link>https://mostmedia.org/ru/posts/shotlandia-uels-i-severnaja-irlandia-vpervye-vmeste-vystupili-za-pravo-na-samoopredelenie-chto-teper-budet-s-britaniey</link>
+      <description>Вопреки радости российских пропагандистов, никакого распада Британии в ближайшее время не предвидится. Но тема для серьёзного разговора всё равно есть</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/shotlandia-uels-i-severnaja-irlandia-vpervye-vmeste-vystupili-za-pravo-na-samoopredelenie-chto-teper-budet-s-britaniey</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/3/1/2/a/6/312a6385a8d37b2cab9a4ac3687310aa.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
