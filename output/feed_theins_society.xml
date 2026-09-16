@@ -6,13 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Sep 2026 05:14:30 +0000</lastBuildDate>
-    <item>
-      <title>Не про лайф: как антиабортные законы в США убивают матерей и младенцев</title>
-      <link>https://theins.ru/obshestvo/287866</link>
-      <guid isPermaLink="false">https://theins.ru/obshestvo/287866</guid>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 10:02:27 +0000</lastBuildDate>
     <item>
       <title>Диссиденты поневоле: как изменниками и террористами в России стали назначать случайных людей</title>
       <link>https://theins.ru/obshestvo/288501</link>
@@ -144,6 +138,12 @@
       <link>https://theins.ru/obshestvo/293882</link>
       <guid isPermaLink="false">https://theins.ru/obshestvo/293882</guid>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Выход на несвободу: как административный надзор становится по сути вторым сроком для политзаключенных</title>
+      <link>https://theins.ru/obshestvo/294047</link>
+      <guid isPermaLink="false">https://theins.ru/obshestvo/294047</guid>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Фильмосодержащий продукт. Как цензура убивает российский кинобизнес</title>

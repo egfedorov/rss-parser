@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:14:42 +0000</lastBuildDate>
-    <item>
-      <title>«Как теперь жить под этим солнцем?» Подходы в лечении и диагностике меняются, но факторы риска остаются</title>
-      <link>https://mr-7.ru/articles/2026/07/19/kak-teper-zhit-pod-etim-solntsem-podkhody-v-lechenii-i-diagnostiki-meniaiutsia-no-faktory-riska-ostaiutsia</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/19/kak-teper-zhit-pod-etim-solntsem-podkhody-v-lechenii-i-diagnostiki-meniaiutsia-no-faktory-riska-ostaiutsia</guid>
-      <enclosure url="https://mr-7.ru/static/records/1002aa2667aa48b38936be298d38041d.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 19 Jul 2026 10:29:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 10:02:42 +0000</lastBuildDate>
     <item>
       <title>«Просто взять старую карту — это уже круто»: как петербургский гид изучает город через дореволюционные чертежи и планы</title>
       <link>https://mr-7.ru/articles/2026/07/20/prosto-vziat-staruiu-kartu-eto-uzhe-kruto-kak-peterburgskii-gid-izuchaet-gorod-cherez-dorevoliutsionnye-chertezhi-i-plany</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/15/obvinenie-zaprosilo-piat-let-lisheniia-svobody-deputatu-zaksa-peterburga-elene-rakhovoi-po-delu-o-moshennichestve</guid>
       <enclosure url="https://mr-7.ru/static/records/56c81c35798c4779a787b6f300a9806b.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 15 Sep 2026 15:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зачем голосовать? Кого амнистировать? Как начинать мирные переговоры? Члены и сторонники партии «Яблоко» встретились в Петербурге</title>
+      <link>https://mr-7.ru/articles/2026/09/16/zachem-golosovat-kogo-amnistirovat-kak-nachinat-mirnye-peregovory-chleny-i-storonniki-partii-iabloko-vstretilis-v-peterburge</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/16/zachem-golosovat-kogo-amnistirovat-kak-nachinat-mirnye-peregovory-chleny-i-storonniki-partii-iabloko-vstretilis-v-peterburge</guid>
+      <enclosure url="https://mr-7.ru/static/records/453d5cb385174157be257ea222acd541.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 16 Sep 2026 07:21:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
