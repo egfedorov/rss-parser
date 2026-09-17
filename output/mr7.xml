@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:05:23 +0000</lastBuildDate>
-    <item>
-      <title>«Просто взять старую карту — это уже круто»: как петербургский гид изучает город через дореволюционные чертежи и планы</title>
-      <link>https://mr-7.ru/articles/2026/07/20/prosto-vziat-staruiu-kartu-eto-uzhe-kruto-kak-peterburgskii-gid-izuchaet-gorod-cherez-dorevoliutsionnye-chertezhi-i-plany</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/20/prosto-vziat-staruiu-kartu-eto-uzhe-kruto-kak-peterburgskii-gid-izuchaet-gorod-cherez-dorevoliutsionnye-chertezhi-i-plany</guid>
-      <enclosure url="https://mr-7.ru/static/records/1ac060ccc01344e38fd1f807641a507b.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 10:33:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Sep 2026 19:06:05 +0000</lastBuildDate>
     <item>
       <title>Стеклянный городок: вокруг возрождённой Скорбященской церкви появляется новое культурное пространство</title>
       <link>https://mr-7.ru/articles/2026/07/21/stekliannyi-gorodok-vokrug-vozrozhdennoi-skorbiashchenskoi-tserkvi-poiavliaetsia-novoe-kulturnoe-prostranstvo</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/16/zachem-golosovat-kogo-amnistirovat-kak-nachinat-mirnye-peregovory-chleny-i-storonniki-partii-iabloko-vstretilis-v-peterburge</guid>
       <enclosure url="https://mr-7.ru/static/records/453d5cb385174157be257ea222acd541.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 16 Sep 2026 07:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бензин найти сложнее человека. Как новую волну топливного кризиса переживают петербургские поисковики</title>
+      <link>https://mr-7.ru/articles/2026/09/17/benzin-naiti-slozhnee-cheloveka-kak-novuiu-volnu-toplivnogo-krizisa-perezhivaiut-peterburgskie-poiskoviki</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/17/benzin-naiti-slozhnee-cheloveka-kak-novuiu-volnu-toplivnogo-krizisa-perezhivaiut-peterburgskie-poiskoviki</guid>
+      <enclosure url="https://mr-7.ru/static/records/b224a2a7e3754e08971b4ea7728ad357.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 17 Sep 2026 17:09:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
