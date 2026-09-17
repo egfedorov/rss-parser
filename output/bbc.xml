@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 05:01:19 +0000</lastBuildDate>
-    <item>
-      <title>Дальнобойные беспилотники и их дешевые убийцы. Как война в Украине изменила авиасалон Фарнборо</title>
-      <link>https://www.bbc.com/russian/articles/ce3qlqg8v9po</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ce3qlqg8v9po</guid>
-      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 17 Sep 2026 10:05:33 +0000</lastBuildDate>
     <item>
       <title>«Власти не нужно долго учить, нужно, чтобы шли работать». В России школьников вытесняют в колледжи, лишая шанса на высшее образование</title>
       <link>https://www.bbc.com/russian/articles/ckgd1rxp7gno</link>
@@ -129,30 +123,16 @@
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Лик со «шрамом». Что происходит с «Троицей» Андрея Рублева</title>
-      <link>https://www.bbc.com/russian/articles/cmz7zyed8pe1o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmz7zyed8pe1o</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Топливный кризис в Петербурге: горожане привыкают к дефициту</title>
       <link>https://www.bbc.com/russian/articles/cwdr7ep6lke3o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwdr7ep6lke3o</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Шпионы, стратегии и упущенные возможности: какие уроки 11 сентября мир продолжает усваивать до сих пор</title>
-      <link>https://www.bbc.com/russian/articles/cj067pp5lg1o</link>
-      <description>Первейшая обязанность любого правительства, как на протяжении десятилетий заявляли бесчисленные политические лидеры, — обеспечить безопасность своих граждан. 11 сентября 2001 года Соединенные Штаты с этой задачей очевидным образом не справились. Разведданные были, но, к трагическим последствиям, никто не сумел вовремя сложить отдельные фрагменты в единую картину.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cj067pp5lg1o</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Прощание с углем откладывается. Грязное топливо снова в моде благодаря Трампу, Путину и глобальному потеплению</title>
-      <link>https://www.bbc.com/russian/articles/c3wj500pyj6o</link>
-      <description>Угольную отрасль хоронили не раз. Но снова ей на помощь спешат война и климатические изменения.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3wj500pyj6o</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Золотой пистолет и «русский Харви Вайнштейн»: как депутатам Госдумы зачищают биографии в «Рувики»</title>
+      <link>https://www.bbc.com/russian/articles/c8ly49p66gg4o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8ly49p66gg4o</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Мао Цзэдун умер 50 лет назад —  почему же поколение Z в Китае так увлечено «Учителем»?</title>
@@ -192,8 +172,15 @@
     <item>
       <title>Россия приближается к «поясу крепостей», несмотря на поражение под Лиманом. Что происходит на Славянско-Краматорском направлении</title>
       <link>https://www.bbc.com/russian/articles/cwp804e5l0z1o</link>
+      <description>Армия РФ продолжает наступать на агломерацию Славянск–Краматорск, захват которой аналитики называют первоочередной задачей военной кампании Москвы. ВСУ провели успешные контрудары в районе Лимана, но в целом обстановка на всем ключевом участке фронта для ВСУ остается тяжелой. Что именно происходит на четырех основных направлениях российских ударов?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwp804e5l0z1o</guid>
-      <pubDate>Thu, 17 Sep 2026 05:01:19 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Лик со «шрамом». Что происходит с «Троицей» Андрея Рублева</title>
+      <link>https://www.bbc.com/russian/articles/cmz7zyed8pe1o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmz7zyed8pe1o</guid>
+      <pubDate>Thu, 17 Sep 2026 10:05:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
