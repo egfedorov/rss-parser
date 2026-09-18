@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 05:10:36 +0000</lastBuildDate>
-    <item>
-      <title>«Система цементируется». Как Борис Надеждин проверил на себе изменения в российской власти</title>
-      <link>https://www.bbc.com/russian/articles/cly5gdnp2gzo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cly5gdnp2gzo</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Sep 2026 09:52:33 +0000</lastBuildDate>
     <item>
       <title>«Живем сегодняшним днем». Как Крым привыкает к жизни без света и воды</title>
       <link>https://www.bbc.com/russian/articles/c5yek2851xzo</link>
@@ -117,6 +111,12 @@
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Все подыгрывают этому фарсу». Чего (не) ждать от возобновления переговоров о завершении войны в Украине</title>
+      <link>https://www.bbc.com/russian/articles/c3x2zp0xkqk2o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3x2zp0xkqk2o</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Топливный кризис в Петербурге: горожане привыкают к дефициту</title>
       <link>https://www.bbc.com/russian/articles/cwdr7ep6lke3o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwdr7ep6lke3o</guid>
@@ -129,11 +129,10 @@
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Все подыгрывают этому фарсу». Чего (не) ждать от возобновления переговоров о завершении войны в Украине</title>
-      <link>https://www.bbc.com/russian/articles/c3x2zp0xkqk2o</link>
-      <description>Москва, Киев и Вашингтон, судя по всему, готовятся возобновить переговоры о завершении войны в Украине. Последняя встреча представителей трех стран прошла зимой 2026 года, и тогда дискуссии о том, как остановить войну, явно зашли в тупик. За полгода после той встречи многое изменилось и на поле боя, и в риторике сторон, но, по оценке экспертов, с которыми поговорила Би-би-си, эти перемены вряд ли приблизили мир.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3x2zp0xkqk2o</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <title>«Защиты от такого нет». Как Wildberries справляется с последствиями атак украинских дронов</title>
+      <link>https://www.bbc.com/russian/articles/c94gm0kg07nro</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c94gm0kg07nro</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>«Для меня это не мясо. Это был член нашей семьи». В Иркутской области уничтожают скот, фермеры подозревают ящур</title>
@@ -178,10 +177,17 @@
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Нарисованные победы». Как российские военные с помощью ИИ имитируют успехи на фронте</title>
+      <link>https://www.bbc.com/russian/articles/cw5y46r06v1eo</link>
+      <description>Эксперты обнаружили десятки видео, в которых успехи российских военнослужащих оказались смонтированными с помощью ИИ.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cw5y46r06v1eo</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Художники против Кремля. Кому и зачем нужна выставка российского антивоенного искусства в Европе?</title>
       <link>https://www.bbc.com/russian/articles/cq5y4j6z1r8mo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq5y4j6z1r8mo</guid>
-      <pubDate>Fri, 18 Sep 2026 05:10:36 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 09:52:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
