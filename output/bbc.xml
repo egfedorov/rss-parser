@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 14:12:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 17:43:34 +0000</lastBuildDate>
     <item>
       <title>«Живем сегодняшним днем». Как Крым привыкает к жизни без света и воды</title>
       <link>https://www.bbc.com/russian/articles/c5yek2851xzo</link>
@@ -117,6 +117,12 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Для меня это не мясо. Это был член нашей семьи». В Иркутской области уничтожают скот, фермеры подозревают ящур</title>
+      <link>https://www.bbc.com/russian/articles/cvp8d90e9d84o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvp8d90e9d84o</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Топливный кризис в Петербурге: горожане привыкают к дефициту</title>
       <link>https://www.bbc.com/russian/articles/cwdr7ep6lke3o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwdr7ep6lke3o</guid>
@@ -135,24 +141,10 @@
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Для меня это не мясо. Это был член нашей семьи». В Иркутской области уничтожают скот, фермеры подозревают ящур</title>
-      <link>https://www.bbc.com/russian/articles/cvp8d90e9d84o</link>
-      <description>В Иркутской области изымают у людей скот и сжигают его. Некоторые фермеры убеждены, что так власти борются со вспышкой опасного заболевания — ящура. Если болезнь подтвердится, России станет гораздо сложнее продавать за границу продукты животноводства.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvp8d90e9d84o</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Трамп обвиняет Украину в рекордных ценах на дизель. Кто виноват на самом деле?</title>
       <link>https://www.bbc.com/russian/articles/c3x2z0j49j4eo</link>
       <description>Дональд Трамп утверждает, что во всем виновата Украина, которая в процессе отражения российской агрессии вывела из строя половину российской нефтепереработки. Факты и статистика говорят о другом.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3x2z0j49j4eo</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Россия приближается к «поясу крепостей», несмотря на поражение под Лиманом. Что происходит на Славянско-Краматорском направлении</title>
-      <link>https://www.bbc.com/russian/articles/cwp804e5l0z1o</link>
-      <description>Армия РФ продолжает наступать на агломерацию Славянск–Краматорск, захват которой аналитики называют первоочередной задачей военной кампании Москвы. ВСУ провели успешные контрудары в районе Лимана, но в целом обстановка на всем ключевом участке фронта для ВСУ остается тяжелой. Что именно происходит на четырех основных направлениях российских ударов?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwp804e5l0z1o</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -184,10 +176,16 @@
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Видео,Опасно ли летать над Россией во время войны? | Военное время, Продолжительность 10,50</title>
+      <link>https://www.bbc.com/russian/articles/c6ew9zdgylx4o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6ew9zdgylx4o</guid>
+      <pubDate>Fri, 18 Sep 2026 17:43:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Художники против Кремля. Кому и зачем нужна выставка российского антивоенного искусства в Европе?</title>
       <link>https://www.bbc.com/russian/articles/cq5y4j6z1r8mo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq5y4j6z1r8mo</guid>
-      <pubDate>Fri, 18 Sep 2026 14:12:22 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 17:43:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

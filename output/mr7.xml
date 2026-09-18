@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 14:12:35 +0000</lastBuildDate>
-    <item>
-      <title>В Подпорожье пытаются сохранить остатки церкви XVI века — сруб несколько десятилетий «прятался» в сельпо</title>
-      <link>https://mr-7.ru/articles/2026/07/22/v-podporozhe-pytaiutsia-sokhranit-ostatki-tserkvi-xvi-veka-srub-neskolko-desiatiletii-priatalsia-v-selpo</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/22/v-podporozhe-pytaiutsia-sokhranit-ostatki-tserkvi-xvi-veka-srub-neskolko-desiatiletii-priatalsia-v-selpo</guid>
-      <enclosure url="https://mr-7.ru/static/records/9b19865e754e40bfa977823666e308b3.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 07:53:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Sep 2026 17:43:48 +0000</lastBuildDate>
     <item>
       <title>Его посещал Дюма-отец, его стирали с карты: РЖД запустили туры на остров Коневец</title>
       <link>https://mr-7.ru/articles/2026/07/22/ego-poseshchal-diuma-otets-ego-stirali-s-karty-rzhd-zapustili-tury-na-ostrov-konevets-news</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/18/uiki-dlinnykh-biulletenei-kak-v-peterburge-golosuiut-na-uchastkakh-gde-prokhodiat-vybory-trekh-urovnei</guid>
       <enclosure url="https://mr-7.ru/static/records/7c9ee27a31614532baf75dbcc720ffb8.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 18 Sep 2026 11:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 поводов выйти из дома 19-20 сентября</title>
+      <link>https://mr-7.ru/articles/2026/09/18/7-povodov-vyiti-iz-doma-19-20-sentiabria</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/18/7-povodov-vyiti-iz-doma-19-20-sentiabria</guid>
+      <enclosure url="https://mr-7.ru/static/records/1b93e67cf2ff4920a875122d4e24f23d.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 18 Sep 2026 11:43:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
