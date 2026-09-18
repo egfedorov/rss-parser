@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 09:52:45 +0000</lastBuildDate>
-    <item>
-      <title>Стеклянный городок: вокруг возрождённой Скорбященской церкви появляется новое культурное пространство</title>
-      <link>https://mr-7.ru/articles/2026/07/21/stekliannyi-gorodok-vokrug-vozrozhdennoi-skorbiashchenskoi-tserkvi-poiavliaetsia-novoe-kulturnoe-prostranstvo</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/21/stekliannyi-gorodok-vokrug-vozrozhdennoi-skorbiashchenskoi-tserkvi-poiavliaetsia-novoe-kulturnoe-prostranstvo</guid>
-      <enclosure url="https://mr-7.ru/static/records/eb2b513c22614a27a458a3251aecd6cc.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Jul 2026 13:11:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Sep 2026 14:12:35 +0000</lastBuildDate>
     <item>
       <title>В Подпорожье пытаются сохранить остатки церкви XVI века — сруб несколько десятилетий «прятался» в сельпо</title>
       <link>https://mr-7.ru/articles/2026/07/22/v-podporozhe-pytaiutsia-sokhranit-ostatki-tserkvi-xvi-veka-srub-neskolko-desiatiletii-priatalsia-v-selpo</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/17/benzin-naiti-slozhnee-cheloveka-kak-novuiu-volnu-toplivnogo-krizisa-perezhivaiut-peterburgskie-poiskoviki</guid>
       <enclosure url="https://mr-7.ru/static/records/b224a2a7e3754e08971b4ea7728ad357.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 17 Sep 2026 17:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>УИКи длинных бюллетеней: как в Петербурге голосуют на участках, где проходят выборы трёх уровней</title>
+      <link>https://mr-7.ru/articles/2026/09/18/uiki-dlinnykh-biulletenei-kak-v-peterburge-golosuiut-na-uchastkakh-gde-prokhodiat-vybory-trekh-urovnei</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/18/uiki-dlinnykh-biulletenei-kak-v-peterburge-golosuiut-na-uchastkakh-gde-prokhodiat-vybory-trekh-urovnei</guid>
+      <enclosure url="https://mr-7.ru/static/records/7c9ee27a31614532baf75dbcc720ffb8.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 18 Sep 2026 11:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
