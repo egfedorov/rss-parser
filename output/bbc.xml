@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 01:01:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 05:59:47 +0000</lastBuildDate>
     <item>
       <title>«Живем сегодняшним днем». Как Крым привыкает к жизни без света и воды</title>
       <link>https://www.bbc.com/russian/articles/c5yek2851xzo</link>
@@ -129,12 +129,6 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ветераны, спойлеры и «паровозы»: кто идет на выборы в Госдуму</title>
-      <link>https://www.bbc.com/russian/articles/c6evw7d22lv0o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6evw7d22lv0o</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Защиты от такого нет». Как Wildberries справляется с последствиями атак украинских дронов</title>
       <link>https://www.bbc.com/russian/articles/c94gm0kg07nro</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c94gm0kg07nro</guid>
@@ -179,13 +173,20 @@
       <title>Видео,Опасно ли летать над Россией во время войны? | Военное время, Продолжительность 10,50</title>
       <link>https://www.bbc.com/russian/articles/c6ew9zdgylx4o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6ew9zdgylx4o</guid>
-      <pubDate>Sat, 19 Sep 2026 01:01:16 +0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 05:59:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ветераны, спойлеры и «паровозы»: кто идет на выборы в Госдуму</title>
+      <link>https://www.bbc.com/russian/articles/c6evw7d22lv0o</link>
+      <description>В бюллетене на думских выборах россияне смогут проголосовать за одну из десяти партий. Би-би-си рассказывает, чем известны партии-участницы этих выборов.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6evw7d22lv0o</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Художники против Кремля. Кому и зачем нужна выставка российского антивоенного искусства в Европе?</title>
       <link>https://www.bbc.com/russian/articles/cq5y4j6z1r8mo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq5y4j6z1r8mo</guid>
-      <pubDate>Sat, 19 Sep 2026 01:01:16 +0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 05:59:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
