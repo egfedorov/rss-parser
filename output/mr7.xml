@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 17:19:24 +0000</lastBuildDate>
-    <item>
-      <title>Обвиняемая в «дискредитации армии» бывшая студентка колледжа полиции после депортации из Турции оказалась в СИЗО «Арсеналка»</title>
-      <link>https://mr-7.ru/articles/2026/07/22/obviniaemaia-v-diskreditatsii-armii-byvshaia-studentka-kolledzha-politsii-posle-deportatsii-iz-turtsii-okazalas-v-sizo-arsenalka</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/22/obviniaemaia-v-diskreditatsii-armii-byvshaia-studentka-kolledzha-politsii-posle-deportatsii-iz-turtsii-okazalas-v-sizo-arsenalka</guid>
-      <enclosure url="https://mr-7.ru/static/records/2fd66742b39640b9a886ad41c2c52939.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 17:01:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 19 Sep 2026 19:23:56 +0000</lastBuildDate>
     <item>
       <title>7 поводов выйти из дома 25 — 26 июля</title>
       <link>https://mr-7.ru/articles/2026/07/24/7-povodov-vyiti-iz-doma-25-26-iiulia</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/18/pervyi-den-vyborov-peterburg-itogi</guid>
       <enclosure url="https://mr-7.ru/static/records/8b9009d94ba44d2bb84c8d995c50545b.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 18 Sep 2026 18:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Второй день выборов в Петербурге. Итоги</title>
+      <link>https://mr-7.ru/articles/2026/09/19/vtoroi-den-vyborov-v-peterburge-itogi</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/19/vtoroi-den-vyborov-v-peterburge-itogi</guid>
+      <enclosure url="https://mr-7.ru/static/records/91dd071ab68e468e922d372101f10205.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 19 Sep 2026 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
