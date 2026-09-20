@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 17:20:13 +0000</lastBuildDate>
-    <item>
-      <title>«Живем сегодняшним днем». Как Крым привыкает к жизни без света и воды</title>
-      <link>https://www.bbc.com/russian/articles/c5yek2851xzo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c5yek2851xzo</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 20 Sep 2026 19:34:13 +0000</lastBuildDate>
     <item>
       <title>«Эти закончатся — новых дадут». Как сменилось командование 114-й бригады российской армии</title>
       <link>https://www.bbc.com/russian/articles/cp8x514xxwpo</link>
@@ -135,6 +129,12 @@
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Первые выборы в Госдуму военного времени: рекорды по явке, проходят те же пять партий</title>
+      <link>https://www.bbc.com/russian/articles/ckq63p2m3m5do</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckq63p2m3m5do</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Золотой пистолет и «русский Харви Вайнштейн»: как депутатам Госдумы зачищают биографии в «Рувики»</title>
       <link>https://www.bbc.com/russian/articles/c8ly49p66gg4o</link>
       <description>Русская служба Би-би-си сравнила статьи обо всех депутатах Госдумы нынешнего созыва (большинство из которых идут на переизбрание) в «Википедии» и в ее окологосударственном клоне «Рувики» — и обнаружила параллельную «рувики»-реальность, в которой из биографий исчезают неудобные факты.</description>
@@ -152,7 +152,7 @@
       <title>Видео,Опасно ли летать над Россией во время войны? | Военное время, Продолжительность 10,50</title>
       <link>https://www.bbc.com/russian/articles/c6ew9zdgylx4o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6ew9zdgylx4o</guid>
-      <pubDate>Sun, 20 Sep 2026 17:20:13 +0000</pubDate>
+      <pubDate>Sun, 20 Sep 2026 19:34:13 +0000</pubDate>
     </item>
     <item>
       <title>«Защиты от такого нет». Как Wildberries справляется с последствиями атак украинских дронов</title>
@@ -179,7 +179,7 @@
       <title>Как устроен мошеннический бизнес колл-центров и каковы его масштабы в Украине</title>
       <link>https://www.bbc.com/russian/articles/cmwyz1v832wlo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmwyz1v832wlo</guid>
-      <pubDate>Sun, 20 Sep 2026 17:20:13 +0000</pubDate>
+      <pubDate>Sun, 20 Sep 2026 19:34:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

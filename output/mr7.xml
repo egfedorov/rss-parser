@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 17:20:25 +0000</lastBuildDate>
-    <item>
-      <title>Срок осуждённой за «фейки об армии» Анне Александровой Горсуд вновь оставил в силе</title>
-      <link>https://mr-7.ru/articles/2026/07/28/srok-osuzhdennoi-za-feiki-ob-armii-anne-aleksandrovoi-gorsud-vnov-ostavil-v-sile</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/28/srok-osuzhdennoi-za-feiki-ob-armii-anne-aleksandrovoi-gorsud-vnov-ostavil-v-sile</guid>
-      <enclosure url="https://mr-7.ru/static/records/77f733c0bc3a4200928a392f3e79e95a.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Jul 2026 17:38:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 20 Sep 2026 19:34:27 +0000</lastBuildDate>
     <item>
       <title>Горсуд отказал градозащитникам в иске к КГИОП о признании памятником здания бывшей школы Берггольц</title>
       <link>https://mr-7.ru/articles/2026/07/29/gorsud-otkazal-gradozashchitnikam-v-iske-k-kgiop-o-priznanii-pamiatnikom-zdaniia-byvshei-shkoly-berggolts</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/20/dazhe-nechego-pokazat-kogda-prosiat-narushenie-kak-v-peterburge-rabotaet-tsentr-obshchestvennogo-nabliudeniia-za-vyborami</guid>
       <enclosure url="https://mr-7.ru/static/records/5c39f1196d94475c9a847a6fe1745f2e.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 20 Sep 2026 07:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Выборы в Петербурге — всё. Итоги третьего дня голосования</title>
+      <link>https://mr-7.ru/articles/2026/09/20/vybory-v-peterburge-vse-itogi-tretego-dnia-golosovaniia</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/20/vybory-v-peterburge-vse-itogi-tretego-dnia-golosovaniia</guid>
+      <enclosure url="https://mr-7.ru/static/records/6a50a57a9f6e49c4a657b1d10021a959.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 20 Sep 2026 18:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
