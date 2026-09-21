@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 21 Sep 2026 10:11:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 16:30:24 +0000</lastBuildDate>
     <item>
       <title>«Эти закончатся — новых дадут». Как сменилось командование 114-й бригады российской армии</title>
       <link>https://www.bbc.com/russian/articles/cp8x514xxwpo</link>
@@ -123,12 +123,6 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ветераны, спойлеры и «паровозы»: кто идет на выборы в Госдуму</title>
-      <link>https://www.bbc.com/russian/articles/c6evw7d22lv0o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6evw7d22lv0o</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Выборы в Госдуму: у «Единой России» снова будет конституционное большинство, а «Справедливая Россия» может не попасть в парламент</title>
       <link>https://www.bbc.com/russian/articles/ckq63p2m3m5do</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckq63p2m3m5do</guid>
@@ -152,7 +146,14 @@
       <title>Видео,Опасно ли летать над Россией во время войны? | Военное время, Продолжительность 10,50</title>
       <link>https://www.bbc.com/russian/articles/c6ew9zdgylx4o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6ew9zdgylx4o</guid>
-      <pubDate>Mon, 21 Sep 2026 10:11:55 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 16:30:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ветераны, спойлеры и «паровозы»: кто идет на выборы в Госдуму</title>
+      <link>https://www.bbc.com/russian/articles/c6evw7d22lv0o</link>
+      <description>В бюллетене на думских выборах россияне смогут проголосовать за одну из десяти партий. Би-би-си рассказывает, чем известны партии-участницы этих выборов.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6evw7d22lv0o</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>«Защиты от такого нет». Как Wildberries справляется с последствиями атак украинских дронов</title>
@@ -179,7 +180,7 @@
       <title>Как устроен мошеннический бизнес колл-центров и каковы его масштабы в Украине</title>
       <link>https://www.bbc.com/russian/articles/cmwyz1v832wlo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmwyz1v832wlo</guid>
-      <pubDate>Mon, 21 Sep 2026 10:11:55 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 16:30:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

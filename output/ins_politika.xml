@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 21 Sep 2026 10:11:52 +0000</lastBuildDate>
-    <item>
-      <title>Месть за блокаду. Почему российские силовики отлавливают на оккупированных территориях крымских татар</title>
-      <link>https://theins.ru/politika/292944</link>
-      <guid isPermaLink="false">https://theins.ru/politika/292944</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Голосование исхода: будущее Нетаньяху определят российские иммигранты</title>
-      <link>https://theins.ru/politika/293021</link>
-      <guid isPermaLink="false">https://theins.ru/politika/293021</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Sep 2026 16:30:21 +0000</lastBuildDate>
     <item>
       <title>Война роботов: как фронт в Украине превратился в полигон для наземных беспилотников</title>
       <link>https://theins.ru/politika/293271</link>
@@ -223,6 +211,18 @@
       <link>https://theins.ru/politika/296791</link>
       <guid isPermaLink="false">https://theins.ru/politika/296791</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Генералы против Нетаньяху. Выборы в Израиле превращаются в войну всех против всех</title>
+      <link>https://theins.ru/politika/297004</link>
+      <guid isPermaLink="false">https://theins.ru/politika/297004</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Совет без мира: проект Трампа не принес прогресса в мирном урегулировании, превратившись в клуб друзей президента США</title>
+      <link>https://theins.ru/politika/296603</link>
+      <guid isPermaLink="false">https://theins.ru/politika/296603</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
