@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 22 Sep 2026 12:49:26 +0000</lastBuildDate>
-    <item>
-      <title>Петербурженка просит проверить цирк-шапито на парковке у ТЦ</title>
-      <link>https://mr-7.ru/articles/2026/07/29/peterburzhenka-prosit-proverit-tsirke-shapito-na-parkovke-u-tts</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/29/peterburzhenka-prosit-proverit-tsirke-shapito-na-parkovke-u-tts</guid>
-      <enclosure url="https://mr-7.ru/static/records/1f3662e2eb354568815f885bf02804c5.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Jul 2026 13:56:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Sep 2026 17:33:36 +0000</lastBuildDate>
     <item>
       <title>Проект благоустройства Яблоневого сада в Купчино предложили местным жителям — они его не поддержали</title>
       <link>https://mr-7.ru/articles/2026/07/29/proekt-blagoustroistva-iablonevogo-sada-v-kupchino-predlozhili-mestnym-zhiteliam-oni-ego-ne-podderzhali</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/22/v-sude-po-delu-o-feikakh-ob-armii-vyiasnilos-chto-ni-vk-ni-roskomnadzor-ne-znaiut-kto-smotrit-posty-zablokirovannogo-v-rf-polzovatelia</guid>
       <enclosure url="https://mr-7.ru/static/records/45545b93b5cb413eb7791f71b34cd09d.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 22 Sep 2026 12:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Побуждение к насилию» нашли эксперты в надписях обвиняемой в «дискредитации армии» экс-студентки колледжа полиции</title>
+      <link>https://mr-7.ru/articles/2026/09/22/pobuzhdenie-k-nasiliiu-nashli-eksperty-v-nadpisiakh-obviniaemoi-v-diskreditatsii-armii-eks-studentki-kolledzha-politsii</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/22/pobuzhdenie-k-nasiliiu-nashli-eksperty-v-nadpisiakh-obviniaemoi-v-diskreditatsii-armii-eks-studentki-kolledzha-politsii</guid>
+      <enclosure url="https://mr-7.ru/static/records/b2b3903def4f4486832dfcbb017712af.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 22 Sep 2026 13:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
