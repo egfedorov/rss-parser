@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 22 Sep 2026 07:28:27 +0000</lastBuildDate>
-    <item>
-      <title>Горсуд отказал градозащитникам в иске к КГИОП о признании памятником здания бывшей школы Берггольц</title>
-      <link>https://mr-7.ru/articles/2026/07/29/gorsud-otkazal-gradozashchitnikam-v-iske-k-kgiop-o-priznanii-pamiatnikom-zdaniia-byvshei-shkoly-berggolts</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/07/29/gorsud-otkazal-gradozashchitnikam-v-iske-k-kgiop-o-priznanii-pamiatnikom-zdaniia-byvshei-shkoly-berggolts</guid>
-      <enclosure url="https://mr-7.ru/static/records/246aefa40ffe43b49ceb51f8d4949450.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Jul 2026 12:06:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 22 Sep 2026 12:49:26 +0000</lastBuildDate>
     <item>
       <title>Петербурженка просит проверить цирк-шапито на парковке у ТЦ</title>
       <link>https://mr-7.ru/articles/2026/07/29/peterburzhenka-prosit-proverit-tsirke-shapito-na-parkovke-u-tts</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/20/vybory-v-peterburge-vse-itogi-tretego-dnia-golosovaniia</guid>
       <enclosure url="https://mr-7.ru/static/records/6a50a57a9f6e49c4a657b1d10021a959.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 20 Sep 2026 18:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>В суде по делу о «фейках об армии» выяснилось, что ни ВК, ни Роскомнадзор не знают, кто смотрит посты заблокированного в РФ пользователя</title>
+      <link>https://mr-7.ru/articles/2026/09/22/v-sude-po-delu-o-feikakh-ob-armii-vyiasnilos-chto-ni-vk-ni-roskomnadzor-ne-znaiut-kto-smotrit-posty-zablokirovannogo-v-rf-polzovatelia</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/22/v-sude-po-delu-o-feikakh-ob-armii-vyiasnilos-chto-ni-vk-ni-roskomnadzor-ne-znaiut-kto-smotrit-posty-zablokirovannogo-v-rf-polzovatelia</guid>
+      <enclosure url="https://mr-7.ru/static/records/45545b93b5cb413eb7791f71b34cd09d.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 22 Sep 2026 12:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
