@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 22 Sep 2026 01:51:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 07:28:15 +0000</lastBuildDate>
     <item>
       <title>«Эти закончатся — новых дадут». Как сменилось командование 114-й бригады российской армии</title>
       <link>https://www.bbc.com/russian/articles/cp8x514xxwpo</link>
@@ -123,44 +123,16 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Выборы в Госдуму: у «Единой России» снова будет конституционное большинство, а «Справедливая Россия» может не попасть в парламент</title>
-      <link>https://www.bbc.com/russian/articles/ckq63p2m3m5do</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckq63p2m3m5do</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Золотой пистолет и «русский Харви Вайнштейн»: как депутатам Госдумы зачищают биографии в «Рувики»</title>
-      <link>https://www.bbc.com/russian/articles/c8ly49p66gg4o</link>
-      <description>Русская служба Би-би-си сравнила статьи обо всех депутатах Госдумы нынешнего созыва (большинство из которых идут на переизбрание) в «Википедии» и в ее окологосударственном клоне «Рувики» — и обнаружила параллельную «рувики»-реальность, в которой из биографий исчезают неудобные факты.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8ly49p66gg4o</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Нарисованные победы». Как российские военные с помощью ИИ имитируют успехи на фронте</title>
-      <link>https://www.bbc.com/russian/articles/cw5y46r06v1eo</link>
-      <description>Эксперты обнаружили десятки видео, в которых успехи российских военнослужащих оказались смонтированными с помощью ИИ.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cw5y46r06v1eo</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Видео,Опасно ли летать над Россией во время войны? | Военное время, Продолжительность 10,50</title>
-      <link>https://www.bbc.com/russian/articles/c6ew9zdgylx4o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6ew9zdgylx4o</guid>
-      <pubDate>Tue, 22 Sep 2026 01:51:47 +0000</pubDate>
-    </item>
-    <item>
       <title>Ветераны, спойлеры и «паровозы»: кто идет на выборы в Госдуму</title>
       <link>https://www.bbc.com/russian/articles/c6evw7d22lv0o</link>
-      <description>В бюллетене на думских выборах россияне смогут проголосовать за одну из десяти партий. Би-би-си рассказывает, чем известны партии-участницы этих выборов.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6evw7d22lv0o</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Защиты от такого нет». Как Wildberries справляется с последствиями атак украинских дронов</title>
-      <link>https://www.bbc.com/russian/articles/c94gm0kg07nro</link>
-      <description>С середины июля украинские беспилотники атакуют склады Wildberries. С тех пор компания, как утверждает источник Би-би-си, потратила 20 млрд рублей на выплаты пострадавшим сотрудникам и селлерам. Сейчас маркетплейс пытается полностью поменять модель и отказаться от крупных складов.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c94gm0kg07nro</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Выборы в Госдуму: у «Единой России» снова будет конституционное большинство, а «Справедливая Россия» может не попасть в парламент</title>
+      <link>https://www.bbc.com/russian/articles/ckq63p2m3m5do</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckq63p2m3m5do</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Лик со «шрамом». Что происходит с «Троицей» Андрея Рублева</title>
@@ -170,6 +142,13 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Золотой пистолет и «русский Харви Вайнштейн»: как депутатам Госдумы зачищают биографии в «Рувики»</title>
+      <link>https://www.bbc.com/russian/articles/c8ly49p66gg4o</link>
+      <description>Русская служба Би-би-си сравнила статьи обо всех депутатах Госдумы нынешнего созыва (большинство из которых идут на переизбрание) в «Википедии» и в ее окологосударственном клоне «Рувики» — и обнаружила параллельную «рувики»-реальность, в которой из биографий исчезают неудобные факты.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8ly49p66gg4o</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Художники против Кремля. Кому и зачем нужна выставка российского антивоенного искусства в Европе?</title>
       <link>https://www.bbc.com/russian/articles/cq5y4j6z1r8mo</link>
       <description>В Амстердаме в третий раз подряд прошла выставка Artists Against the Kremlin, крупнейшая в Европе экспозиция антивоенных и протестных работ русскоязычных художников. Участие в ней сопряжено с рисками — и не всегда встречает поддержку в Европе и Украине.</description>
@@ -177,10 +156,18 @@
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Защиты от такого нет». Как Wildberries справляется с последствиями атак украинских дронов</title>
+      <link>https://www.bbc.com/russian/articles/c94gm0kg07nro</link>
+      <description>С середины июля украинские беспилотники атакуют склады Wildberries. С тех пор компания, как утверждает источник Би-би-си, потратила 20 млрд рублей на выплаты пострадавшим сотрудникам и селлерам. Сейчас маркетплейс пытается полностью поменять модель и отказаться от крупных складов.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c94gm0kg07nro</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Как устроен мошеннический бизнес колл-центров и каковы его масштабы в Украине</title>
       <link>https://www.bbc.com/russian/articles/cmwyz1v832wlo</link>
+      <description>За последние годы тысячи людей стали жертвами мошенников, а теперь они узнают, что в этих схемах были задействованы должностные лица одного из правоохранительных органов Украины.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmwyz1v832wlo</guid>
-      <pubDate>Tue, 22 Sep 2026 01:51:47 +0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
