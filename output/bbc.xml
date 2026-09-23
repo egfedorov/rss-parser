@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 23 Sep 2026 17:13:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 20:29:23 +0000</lastBuildDate>
     <item>
       <title>«Эти закончатся — новых дадут». Как сменилось командование 114-й бригады российской армии</title>
       <link>https://www.bbc.com/russian/articles/cp8x514xxwpo</link>
@@ -168,6 +168,12 @@
       <description>За последние годы тысячи людей стали жертвами мошенников, а теперь они узнают, что в этих схемах были задействованы должностные лица одного из правоохранительных органов Украины.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmwyz1v832wlo</guid>
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Непростой бюджет российских иллюзий. Рассылка «Контекст»</title>
+      <link>https://www.bbc.com/russian/articles/c623xy0p7mgyo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c623xy0p7mgyo</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
