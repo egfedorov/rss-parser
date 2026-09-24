@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 24 Sep 2026 12:36:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 17:32:14 +0000</lastBuildDate>
     <item>
       <title>«Ведь он им самим нужен». Чем рискуют российские пользователи Telegram из-за «дела Дурова»</title>
       <link>https://www.bbc.com/russian/articles/cgljnx5p25eo</link>
@@ -173,6 +173,13 @@
       <link>https://www.bbc.com/russian/articles/c623xy0p7mgyo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c623xy0p7mgyo</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сеть маяков: что это такое и как она позволяет украинским беспилотникам летать в Россию</title>
+      <link>https://www.bbc.com/russian/articles/cm4gly5j6j91o</link>
+      <description>Технологическая гонка в ходе российско-украинской войны заставляет обе стороны искать новые решения, позволяющие обеспечить работу беспилотных систем. Одно из направлений такого поиска — навигация в условиях, когда не работает ни спутниковая связь, ни радиосвязь. Идеи, как решить эту проблему, уже есть.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm4gly5j6j91o</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>«Китайцы уверены в себе». Чего ждать от визита Си Цзиньпина к Дональду Трампу</title>
