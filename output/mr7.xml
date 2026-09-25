@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 25 Sep 2026 19:10:12 +0000</lastBuildDate>
-    <item>
-      <title>Книжная полка августа: 20 романов и детективов для вдумчивого чтения в конце лета</title>
-      <link>https://mr-7.ru/articles/2026/08/05/knizhnaia-polka-avgusta-20-romanov-i-detektivov-dlia-vdumchivogo-chteniia-v-kontse-leta</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/05/knizhnaia-polka-avgusta-20-romanov-i-detektivov-dlia-vdumchivogo-chteniia-v-kontse-leta</guid>
-      <enclosure url="https://mr-7.ru/static/records/fd7f0a9b857648789db3482de2a85202.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 05 Aug 2026 09:08:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 25 Sep 2026 22:29:34 +0000</lastBuildDate>
     <item>
       <title>Дом Репина в «Пенатах» вновь откроют для посетителей 14 августа — показываем, как он преобразился после реставрации</title>
       <link>https://mr-7.ru/articles/2026/08/05/dom-repina-v-penatakh-vnov-otkroiut-dlia-posetitelei-14-avgusta-pokazyvaem-kak-on-preobrazilsia-posle-restavratsii</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/25/rossiia-bez-gollivuda-kak-vypuskat-52-cheburashki-v-god-i-borotsia-s-nelegalnym-prokatom-kino-obsudili-na-kulturnom-forume</guid>
       <enclosure url="https://mr-7.ru/static/records/84f38504a9a646b8b168a768b9723264.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 25 Sep 2026 15:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>А это точно искусство? Что происходит с Петербургом, когда город превращают в экран</title>
+      <link>https://mr-7.ru/articles/2026/09/25/a-eto-tochno-iskusstvo-chto-proiskhodit-s-peterburgom-kogda-gorod-prevrashchaiut-v-ekran</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/25/a-eto-tochno-iskusstvo-chto-proiskhodit-s-peterburgom-kogda-gorod-prevrashchaiut-v-ekran</guid>
+      <enclosure url="https://mr-7.ru/static/records/f4134ad512d549dabc4b0c638a900758.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 25 Sep 2026 18:21:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
