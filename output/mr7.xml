@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 26 Sep 2026 05:57:18 +0000</lastBuildDate>
-    <item>
-      <title>Дом Репина в «Пенатах» вновь откроют для посетителей 14 августа — показываем, как он преобразился после реставрации</title>
-      <link>https://mr-7.ru/articles/2026/08/05/dom-repina-v-penatakh-vnov-otkroiut-dlia-posetitelei-14-avgusta-pokazyvaem-kak-on-preobrazilsia-posle-restavratsii</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/05/dom-repina-v-penatakh-vnov-otkroiut-dlia-posetitelei-14-avgusta-pokazyvaem-kak-on-preobrazilsia-posle-restavratsii</guid>
-      <enclosure url="https://mr-7.ru/static/records/97072573353042399560102de8067edb.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 05 Aug 2026 15:11:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 26 Sep 2026 11:13:24 +0000</lastBuildDate>
     <item>
       <title>Это тоже Петербург: дворы Петроградской стороны</title>
       <link>https://mr-7.ru/articles/2026/08/07/eto-tozhe-peterburg-dvory-petrogradskoi-storony</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/25/a-eto-tochno-iskusstvo-chto-proiskhodit-s-peterburgom-kogda-gorod-prevrashchaiut-v-ekran</guid>
       <enclosure url="https://mr-7.ru/static/records/f4134ad512d549dabc4b0c638a900758.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 25 Sep 2026 18:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Воспитывать детей через театр</title>
+      <link>https://mr-7.ru/articles/2026/09/26/vospityvat-detei-cherez-teatr</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/26/vospityvat-detei-cherez-teatr</guid>
+      <enclosure url="https://mr-7.ru/static/records/d4095893d964472d9675183478d9c9da.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 26 Sep 2026 08:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
