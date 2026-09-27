@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 27 Sep 2026 10:11:41 +0000</lastBuildDate>
-    <item>
-      <title>Это тоже Петербург: дворы Петроградской стороны</title>
-      <link>https://mr-7.ru/articles/2026/08/07/eto-tozhe-peterburg-dvory-petrogradskoi-storony</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/07/eto-tozhe-peterburg-dvory-petrogradskoi-storony</guid>
-      <enclosure url="https://mr-7.ru/static/records/31b4a9586de54a3bb318f15658bdd739.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 08:40:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 27 Sep 2026 15:12:11 +0000</lastBuildDate>
     <item>
       <title>7 поводов выйти из дома 8-9 августа</title>
       <link>https://mr-7.ru/articles/2026/08/07/7-povodov-vyiti-iz-doma-8-9-avgusta</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/26/vospityvat-detei-cherez-teatr</guid>
       <enclosure url="https://mr-7.ru/static/records/d4095893d964472d9675183478d9c9da.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 26 Sep 2026 08:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Генетическая лотерея с шансом 1:10 000. Как в Петербурге прошла уже десятая встреча доноров и реципиентов костного мозга</title>
+      <link>https://mr-7.ru/articles/2026/09/27/geneticheskaia-lotereia-s-shansom-1-10-000-kak-v-peterburge-proshla-uzhe-desiataia-vstrecha-donorov-i-retsipientov-kostnogo-mozga</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/27/geneticheskaia-lotereia-s-shansom-1-10-000-kak-v-peterburge-proshla-uzhe-desiataia-vstrecha-donorov-i-retsipientov-kostnogo-mozga</guid>
+      <enclosure url="https://mr-7.ru/static/records/076e367a03d24ea4934f62c18a598ba4.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 27 Sep 2026 14:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
