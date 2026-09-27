@@ -7,46 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 27 Sep 2026 04:22:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 10:11:32 +0000</lastBuildDate>
     <item>
-      <title>От действий ВС РФ в украинском тылу погибли еще две женщины</title>
-      <link>https://mostmedia.org/ru/posts/pri-atake-dronov-na-ukrainu-v-zaporozhe-pogibli-dve-zhenshiny</link>
-      <description>В ночь на 26 сентября российские войска атаковали Украину 173 ударными дронами разных типов, в том числе реактивными, сообщили Воздушные силы ВСУ. В Запорожье при ударе дрона разрушен частный дом, под завалами погибли две женщины, еще двое человек получили ранения.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/pri-atake-dronov-na-ukrainu-v-zaporozhe-pogibli-dve-zhenshiny</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/6/7/3/9/4/673945c53bc77306b961508ad5c8184b.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 26 Sep 2026 14:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Книга Константина Гаазе вошла в шорт-лист престижной литературной награды</title>
-      <link>https://mostmedia.org/ru/posts/objavlen-short-list-specnagrady-politprosvet-premii-prosvetitel</link>
-      <description>На сайте премии «Просветитель» объявили шорт-лист специальной номинации «ПолитПросвет». В финал вышли пять книг, посвященных темам из российской общественно-политической жизни.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/objavlen-short-list-specnagrady-politprosvet-premii-prosvetitel</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/4/9/5/7/2/4957227fbe48d6d5e0c0d34cf55585c3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 26 Sep 2026 14:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Минэнерго готовит внешнее управление на крупной сети заправок</title>
-      <link>https://mostmedia.org/ru/posts/minenergo-predlozhilo-vvesti-vneshnee-upravlenie-aktivami-evrotransa</link>
-      <description>Ведомство предложило госорганам рассмотреть эту меру в отношении активов «ЕвроТранса», которому принадлежит сеть АЗС «Трасса». Решение может стать прецедентным в контексте нового указа Владимира Путина, который позволяет вводить внешнее управление на предприятиях «критической инфраструктуры».</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/minenergo-predlozhilo-vvesti-vneshnee-upravlenie-aktivami-evrotransa</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/b/7/c/a/5/b7ca5f36893147fc57a940c6ae70aae5.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 26 Sep 2026 14:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Мордовии историка-политзаключенного госпитализировали с подозрением на инсульт</title>
-      <link>https://mostmedia.org/ru/posts/juria-dmitrieva-perevezli-iz-mordovskoi-kolonii-v-lechebnoe-uchrezhdenie-s-podozreniem-na-insult</link>
-      <description>Историка Юрия Дмитриева 25 сентября экстренно перевезли из ИК-18 в Мордовии в лечебно-исправительное учреждение в поселке Барашево с подозрением на инсульт. Об этом сообщил правозащитный проект ЗПЧ.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/juria-dmitrieva-perevezli-iz-mordovskoi-kolonii-v-lechebnoe-uchrezhdenie-s-podozreniem-na-insult</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/6/7/b/4/4/67b44e642d09e2e08247505dcc717709.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 26 Sep 2026 14:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Вёрстка»: Александра Кынева задержали без согласования с администрацией президента</title>
-      <link>https://mostmedia.org/ru/posts/verstka-v-administracii-prezidenta-ne-znali-o-zaderzhanii-politologa-alexandra-kyneva</link>
-      <description>Во внутриполитическом блоке не знали, что ФСБ готовит арест политолога по делу о наркотиках, пишет издание со ссылкой на четырех собеседников, близких к Кремлю.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/verstka-v-administracii-prezidenta-ne-znali-o-zaderzhanii-politologa-alexandra-kyneva</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/c/9/9/0/0/c99001ce12cc27fc3997ca7ab6da7fb8.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 26 Sep 2026 14:58:00 +0000</pubDate>
+      <title>В Санкт-Петербурге готовятся официально закончить ковидные ограничения</title>
+      <link>https://mostmedia.org/ru/posts/peterburg-s-1-oktjabrja-otmenit-koronavirusnye-ogranichenia</link>
+      <description>Правительство Северной столицы отменит постановление от 13 марта 2020 года «О мерах по противодействию распространению в Санкт-Петербурге новой коронавирусной инфекции (COVID-19)».</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/peterburg-s-1-oktjabrja-otmenit-koronavirusnye-ogranichenia</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/9/a/5/a/7/9a5a7fb13bdbe222a0cab6b234228ac0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 26 Sep 2026 15:59:00 +0000</pubDate>
     </item>
     <item>
       <title>Российские миллиардеры, чтобы выйти из-под санкций, будут использовать как прецедент дела Усманова и Фридмана</title>
@@ -54,14 +22,6 @@
       <description>Bloomberg сообщил, что уже как минимум двое крупных бизнесменов из РФ намерены опираться на кейс «помилованных» ЕС олигархов в собственных исках.</description>
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/rossyskie-milliardery-izuchajut-dela-usmanova-i-fridmana-kak-precedent-dlja-sporov-s-es</guid>
       <enclosure url="https://mostmedia.org/uploads/ogimages/a/c/4/0/4/ac40417bba96074253f9865f29512f89.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 26 Sep 2026 15:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Санкт-Петербурге готовятся официально закончить ковидные ограничения</title>
-      <link>https://mostmedia.org/ru/posts/peterburg-s-1-oktjabrja-otmenit-koronavirusnye-ogranichenia</link>
-      <description>Правительство Северной столицы отменит постановление от 13 марта 2020 года «О мерах по противодействию распространению в Санкт-Петербурге новой коронавирусной инфекции (COVID-19)».</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/peterburg-s-1-oktjabrja-otmenit-koronavirusnye-ogranichenia</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/9/a/5/a/7/9a5a7fb13bdbe222a0cab6b234228ac0.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 26 Sep 2026 15:59:00 +0000</pubDate>
     </item>
     <item>
@@ -87,6 +47,46 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/adskie-sankcii-ssha-protiv-rossii-deystvitelno-adskie</guid>
       <enclosure url="https://mostmedia.org/uploads/files/0/8/7/d/0/087d000e6ee7db7900cd86ef4db86ef8.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Москве люди, представившиеся участниками «СВО», избили сторонницу «Яблока» и ее мужа</title>
+      <link>https://mostmedia.org/ru/posts/v-moskve-izbili-aktivistku-varvaru-koshelevu-i-ee-muzha</link>
+      <description>Возле собственного дома избили активистку Варвару Кошелеву и ее мужа. По словам Кошелевой, нападавшие представились участниками «СВО»; ей диагностировали ушибы головы, отек тканей носа и множественные кровоподтеки на лице.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/v-moskve-izbili-aktivistku-varvaru-koshelevu-i-ee-muzha</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/c/f/b/2/2/cfb228c873e2e10581b224dafcb93a4a.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 27 Sep 2026 12:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Премьер Литвы призвал сограждан быть готовыми к мобилизации</title>
+      <link>https://mostmedia.org/ru/posts/premer-litvy-prizval-banki-i-magaziny-podgotovit-raschety-na-sluchai-krizisa-i-mobilizacii</link>
+      <description>Премьер-министр Литвы Миндаугас Синкявичюс призвал подготовить банки, торговые предприятия и часть банкоматов к работе при сбоях связи и энергоснабжения.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/premer-litvy-prizval-banki-i-magaziny-podgotovit-raschety-na-sluchai-krizisa-i-mobilizacii</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/7/b/1/1/e/7b11e715d84b406108ab16ae29ff5484.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 27 Sep 2026 12:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Новинский получил гражданство Сербии</title>
+      <link>https://mostmedia.org/ru/posts/novinsky-poluchil-grazhdanstvo-serbii</link>
+      <description>Сербия предоставила гражданство украинскому бизнесмену и бывшему депутату Верховной рады Вадиму Новинскому, которого в Украине разыскивают по подозрению в государственной измене. Решение официально опубликовали в пятницу, его подписал премьер-министр Сербии Джуро Мацут.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/novinsky-poluchil-grazhdanstvo-serbii</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/2/b/d/3/8/2bd38ebb801853276588e626b74a1cb1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 27 Sep 2026 12:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Казахстане после трагедии на Каспийском море поменяли главу Минобороны</title>
+      <link>https://mostmedia.org/ru/posts/tokaev-naznachil-aidosa-myrzahmetova-ministrom-oborony-kazahstana</link>
+      <description>Президент Казахстана Касым-Жомарт Токаев назначил Айдоса Мырзахметова министром обороны и освободил от должности Даурена Косанова.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/tokaev-naznachil-aidosa-myrzahmetova-ministrom-oborony-kazahstana</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/7/4/b/0/3/74b037d72c819a13cde4dc9957ecb573.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 27 Sep 2026 12:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Молен: ВСУ в 2026 году освободили больше территории, чем за контрнаступление 2023 года</title>
+      <link>https://mostmedia.org/ru/posts/molen-vsu-v-2026-godu-osvobodili-bolshe-territorii-chem-za-kontrnastuplenie-2023-goda</link>
+      <description>Французский OSINT-аналитик Клеман Молен заявил, что в 2026 году украинская армия освободила вдвое больше территории, чем во время контрнаступления 2023 года. По его словам, продвижение идет на участке фронта длиной около 90 км между Боровой в Харьковской области и Славянском в Донецкой области.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/molen-vsu-v-2026-godu-osvobodili-bolshe-territorii-chem-za-kontrnastuplenie-2023-goda</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/e/b/3/f/0/eb3f0b41d807d5e2bc5592b09fe6b19d.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 27 Sep 2026 12:59:00 +0000</pubDate>
     </item>
     <item>
       <title>Как российский народ приспособился к войне в Украине. Новый роман Дмитрия Глуховского «Регистрация» — о том, что невиноватых нет</title>
