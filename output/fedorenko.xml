@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 28 Sep 2026 06:32:04 +0000</lastBuildDate>
-    <item>
-      <title>Атомное «пугало» — Об огромной опасности обстрелов маленькой АЭС «Бушер» в Иране — физик-ядерщик Андрей Ожаровский</title>
-      <link>https://novayagazeta.ru/articles/2026/04/08/atomnoe-pugalo</link>
-      <description>Об огромной опасности обстрелов маленькой АЭС «Бушер» в Иране — физик-ядерщик Андрей Ожаровский</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/04/08/atomnoe-pugalo</guid>
-      <pubDate>Wed, 08 Apr 2026 12:01:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Sep 2026 14:27:12 +0000</lastBuildDate>
     <item>
       <title>Крестный ход за деньгами — В Комсомольске-на-Амуре китайцы из компании-подрядчика НПЗ устроили митинг из-за долгов работодателя</title>
       <link>https://novayagazeta.ru/articles/2026/04/13/krestnyi-khod-za-dengami</link>
@@ -287,6 +280,13 @@
       <description>«Туманган» завоевывает Владивосток</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/09/26/severnokoreiskii-lager-18</guid>
       <pubDate>Sat, 26 Sep 2026 11:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>На юге Приморья насосные станции встали из-за аварии на электросетях. Питьевая вода в магазинах кончилась, жители скупают минералку</title>
+      <link>https://novayagazeta.ru/news/2026/09/28/na-iuge-primoria-nasosnye-stantsii-vstali-iz-za-avarii-na-elektrosetiakh-pitevaia-voda-v-magazinakh-konchilas-zhiteli-skupaiut-mineralku-news</link>
+      <description>На юге Приморья насосные станции встали из-за аварии на электросетях. Питьевая вода в магазинах кончилась, жители скупают минералку</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/news/2026/09/28/na-iuge-primoria-nasosnye-stantsii-vstali-iz-za-avarii-na-elektrosetiakh-pitevaia-voda-v-magazinakh-konchilas-zhiteli-skupaiut-mineralku-news</guid>
+      <pubDate>Mon, 28 Sep 2026 13:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

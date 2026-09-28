@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 28 Sep 2026 06:32:06 +0000</lastBuildDate>
-    <item>
-      <title>7 поводов выйти из дома 8-9 августа</title>
-      <link>https://mr-7.ru/articles/2026/08/07/7-povodov-vyiti-iz-doma-8-9-avgusta</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/07/7-povodov-vyiti-iz-doma-8-9-avgusta</guid>
-      <enclosure url="https://mr-7.ru/static/records/9a314f7d580a46e58a49d8da8953f161.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 10:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Не существует двух идеально похожих друг на друга мостов»: бывший проектировщик мостов теперь ведёт экскурсии и рассказывает о переправах</title>
-      <link>https://mr-7.ru/articles/2026/08/11/ne-sushchestvuet-dvukh-idealno-pokhozhikh-drug-na-druga-mostov-byvshii-proektirovshchik-mostov-teper-vedet-ekskursii-i-rasskazyvaet-o-perepravakh</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/11/ne-sushchestvuet-dvukh-idealno-pokhozhikh-drug-na-druga-mostov-byvshii-proektirovshchik-mostov-teper-vedet-ekskursii-i-rasskazyvaet-o-perepravakh</guid>
-      <enclosure url="https://mr-7.ru/static/records/28c345575feb49d9931fef3155e400ab.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 11 Aug 2026 14:13:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 28 Sep 2026 14:27:14 +0000</lastBuildDate>
     <item>
       <title>Уголовное дело об обрушении дома на Большой Зелениной начали слушать в Петроградском райсуде</title>
       <link>https://mr-7.ru/articles/2026/08/13/ugolovnoe-delo-ob-obrushenii-doma-na-bolshoi-zeleninoi-nachali-slushat-v-petrogradskom-raisude</link>
@@ -352,11 +338,25 @@
       <pubDate>Sat, 26 Sep 2026 08:07:00 +0000</pubDate>
     </item>
     <item>
+      <title>Путь бюллетеня</title>
+      <link>https://mr-7.ru/articles/2026/09/27/put-biulletenia</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/27/put-biulletenia</guid>
+      <enclosure url="https://mr-7.ru/static/records/ecdc1fba1ff24420966c7e7e6e5caef6.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 27 Sep 2026 11:05:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Генетическая лотерея с шансом 1:10 000. Как в Петербурге прошла уже десятая встреча доноров и реципиентов костного мозга</title>
       <link>https://mr-7.ru/articles/2026/09/27/geneticheskaia-lotereia-s-shansom-1-10-000-kak-v-peterburge-proshla-uzhe-desiataia-vstrecha-donorov-i-retsipientov-kostnogo-mozga</link>
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/27/geneticheskaia-lotereia-s-shansom-1-10-000-kak-v-peterburge-proshla-uzhe-desiataia-vstrecha-donorov-i-retsipientov-kostnogo-mozga</guid>
       <enclosure url="https://mr-7.ru/static/records/076e367a03d24ea4934f62c18a598ba4.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 27 Sep 2026 14:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Прокурор просит приговорить обвиняемого в «фейках об армии» Егора Гуляева к 12 годам лишения свободы за три репоста</title>
+      <link>https://mr-7.ru/articles/2026/09/28/prokuror-prosit-prigovorit-obviniaemogo-v-feikakh-ob-armii-egora-guliaeva-k-12-godam-lisheniia-svobody-za-tri-reposta</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/28/prokuror-prosit-prigovorit-obviniaemogo-v-feikakh-ob-armii-egora-guliaeva-k-12-godam-lisheniia-svobody-za-tri-reposta</guid>
+      <enclosure url="https://mr-7.ru/static/records/7a5a8e17c74d4907b39aa516dee0b40f.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 28 Sep 2026 14:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
