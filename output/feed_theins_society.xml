@@ -6,13 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 13:20:53 +0000</lastBuildDate>
-    <item>
-      <title>ИИ-девочка. Как искусственный интеллект постепенно заменяет офлайн отношения и порносайты</title>
-      <link>https://theins.ru/obshestvo/288404</link>
-      <guid isPermaLink="false">https://theins.ru/obshestvo/288404</guid>
-      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Sep 2026 18:51:40 +0000</lastBuildDate>
     <item>
       <title>Всемирный поток. Как глобальное изменение климата заставляет сотни миллионов людей переселяться</title>
       <link>https://theins.ru/obshestvo/288606</link>
@@ -222,6 +216,12 @@
       <link>https://theins.ru/obshestvo/297459</link>
       <guid isPermaLink="false">https://theins.ru/obshestvo/297459</guid>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ложь во сношение: как манипуляции статистикой изнасилований стали оружием правых популистов</title>
+      <link>https://theins.ru/obshestvo/296491</link>
+      <guid isPermaLink="false">https://theins.ru/obshestvo/296491</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
