@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 29 Sep 2026 00:51:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 06:39:41 +0000</lastBuildDate>
     <item>
       <title>«Люди же просто так не исчезают?»  Как родственники уже два года ищут пропавших после вторжения ВСУ жителей Курской области</title>
       <link>https://www.bbc.com/russian/articles/c0m7x02ej71o</link>
@@ -155,6 +155,13 @@
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Си Цзиньпин в гостях у Дональда Трампа. Почему лидеры Китая и США так ни о чем и не договорились?</title>
+      <link>https://www.bbc.com/russian/articles/c875006174v2o</link>
+      <description>Визит Си в Америку обернулся торжественным мероприятием с минимальным выхлопом. Си одолжил двух панд, Трамп похвастался вертолетной площадкой, но в итоге все остались при своих.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c875006174v2o</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Я лучше потрачу тысячи на отдых». Все больше пенсионеров расходуют деньги, которые могли бы оставить в наследство детям</title>
       <link>https://www.bbc.com/russian/articles/cm9dw2e6l1vzo</link>
       <description>В Великобритании все больше пенсионеров предпочитают тратить честно заработанные фунты, а не откладывать их для потомства.</description>
@@ -162,18 +169,10 @@
       <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Дата-центры — новый пейзаж сельского Китая</title>
-      <link>https://www.bbc.com/russian/articles/cr1e5yyjwpjxo</link>
-      <description>Би-би-си посетила китайскую Внутреннюю Монголию, где разворачивается новый фронт в гонке в сфере искусственного интеллекта между Пекином и Вашингтоном.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cr1e5yyjwpjxo</guid>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Си Цзиньпин в гостях у Дональда Трампа. Почему лидеры Китая и США так ни о чем и не договорились?</title>
-      <link>https://www.bbc.com/russian/articles/c875006174v2o</link>
-      <description>Визит Си в Америку обернулся торжественным мероприятием с минимальным выхлопом. Си одолжил двух панд, Трамп похвастался вертолетной площадкой, но в итоге все остались при своих.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c875006174v2o</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Видео,Жителям России угрожают медведи? | Видеоподкаст «Что это было?», Продолжительность 24,59</title>
+      <link>https://www.bbc.com/russian/articles/c64g714ywyw1o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c64g714ywyw1o</guid>
+      <pubDate>Tue, 29 Sep 2026 06:39:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
