@@ -6,13 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Sep 2026 08:10:17 +0000</lastBuildDate>
-    <item>
-      <title>Всемирный поток. Как глобальное изменение климата заставляет сотни миллионов людей переселяться</title>
-      <link>https://theins.ru/obshestvo/288606</link>
-      <guid isPermaLink="false">https://theins.ru/obshestvo/288606</guid>
-      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Sep 2026 14:59:14 +0000</lastBuildDate>
     <item>
       <title>Возвращаясь в гнездо кукушки: почему введение принудительной госпитализации в США не решит проблему бездомных и умалишенных</title>
       <link>https://theins.ru/obshestvo/288666</link>
@@ -222,6 +216,12 @@
       <link>https://theins.ru/obshestvo/296491</link>
       <guid isPermaLink="false">https://theins.ru/obshestvo/296491</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Умеючи — долго. Как ученые ищут способы продлевать жизнь и как шарлатаны их находят</title>
+      <link>https://theins.ru/obshestvo/297020</link>
+      <guid isPermaLink="false">https://theins.ru/obshestvo/297020</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

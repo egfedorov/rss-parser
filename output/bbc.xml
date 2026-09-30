@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 30 Sep 2026 08:10:04 +0000</lastBuildDate>
-    <item>
-      <title>«Люди же просто так не исчезают?»  Как родственники уже два года ищут пропавших после вторжения ВСУ жителей Курской области</title>
-      <link>https://www.bbc.com/russian/articles/c0m7x02ej71o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c0m7x02ej71o</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Sep 2026 14:58:55 +0000</lastBuildDate>
     <item>
       <title>В России растет спрос на наличные, у банков — нехватка ликвидности. Почему? И чем это грозит?</title>
       <link>https://www.bbc.com/russian/articles/c0l590p8r2jo</link>
@@ -141,6 +135,12 @@
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Погиб мирный житель». Как в России говорят о жертвах среди гражданского населения</title>
+      <link>https://www.bbc.com/russian/articles/cwg59l097pg5o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwg59l097pg5o</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Объект стратегический», оплата наличкой. Путину построили новую резиденцию в Сочи</title>
       <link>https://www.bbc.com/russian/articles/cm1dlyy6zl34o</link>
       <description>На месте снесенного главного здания сочинской резиденции Владимира Путина «Бочаров ручей» заканчивается масштабное строительство. Би-би-си выяснила, что работы ведутся по гособоронзаказу ФСО, и обнаружила подрядчика из орбиты друга президента. В вакансиях для строителей проект называли «стратегическим», обещали оплату наличными и жилье «в хостеле с бассейном».</description>
@@ -172,7 +172,7 @@
       <title>Видео,Жителям России угрожают медведи? | Видеоподкаст «Что это было?», Продолжительность 24,59</title>
       <link>https://www.bbc.com/russian/articles/c64g714ywyw1o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c64g714ywyw1o</guid>
-      <pubDate>Wed, 30 Sep 2026 08:10:04 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 14:58:55 +0000</pubDate>
     </item>
     <item>
       <title>«Мы думали, что нам конец». Как живет прифронтовой город в Йемене, на который наступают хуситы</title>
@@ -180,6 +180,19 @@
       <description>В ходе одной из редких поездок в зону конфликта в Йемене корреспондент Би-би-си попал в город Таиз на юго-западе страны, лежащий на пути наступающих повстанцев.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq5yjngelyr1o</guid>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>США уходят из Ирака после 20 лет военного присутствия. Что они оставляют после себя и что будет дальше?</title>
+      <link>https://www.bbc.com/russian/articles/c8p30vz6l4q4o</link>
+      <description>США планируют завершить вывод оставшегося военного контингента из Ирака к 30 сентября, что положит конец военному присутствию, определявшему облик этой ближневосточной страны на протяжении более чем двух десятилетий.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8p30vz6l4q4o</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Дума не дом офицеров». Зачем Путину ветераны войны во власти — и почему их оказалось меньше, чем ожидали</title>
+      <link>https://www.bbc.com/russian/articles/c3n07l97vpr9o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3n07l97vpr9o</guid>
+      <pubDate>Wed, 30 Sep 2026 14:58:55 +0000</pubDate>
     </item>
   </channel>
 </rss>

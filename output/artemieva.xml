@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 30 Sep 2026 08:10:14 +0000</lastBuildDate>
-    <item>
-      <title>Имя им — Легион — «Госизменники» из телеграма — как их судят, как пытают и как отличить их от тех, кто действительно завербован Украиной</title>
-      <link>https://novayagazeta.ru/articles/2025/09/08/imia-im-legion</link>
-      <description>«Госизменники» из телеграма — как их судят, как пытают и как отличить их от тех, кто действительно завербован Украиной</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/08/imia-im-legion</guid>
-      <pubDate>Mon, 08 Sep 2025 07:05:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Sep 2026 14:59:11 +0000</lastBuildDate>
     <item>
       <title>Жажда — Четвертый год жители Донецка и области вынуждены проходить квест на выживание: найти воду в обезвоженном городе</title>
       <link>https://novayagazeta.ru/articles/2025/09/09/zhazhda</link>
@@ -287,6 +280,13 @@
       <description>В Херсонской области этой зимой может умереть множество людей. В репортаже — ответ на вопрос «из-за чего на этот раз?»</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/09/18/troianych</guid>
       <pubDate>Fri, 18 Sep 2026 07:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Не регистрация, а регистратура — О том, какие диагнозы поставили читателям многодневные споры вокруг нового романа Дмитрия Глуховского* «Регистрация»</title>
+      <link>https://novayagazeta.ru/articles/2026/09/30/ne-registratsiia-a-registratura</link>
+      <description>О том, какие диагнозы поставили читателям многодневные споры вокруг нового романа Дмитрия Глуховского* «Регистрация»</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/09/30/ne-registratsiia-a-registratura</guid>
+      <pubDate>Wed, 30 Sep 2026 11:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 30 Sep 2026 08:10:05 +0000</lastBuildDate>
-    <item>
-      <title>Дети спрашивают: «Как в России жить дальше?» — После теракта в «Крокус Сити Холле» мигранты в России столкнулись с новой волной ненависти, агрессии и давления властей</title>
-      <link>https://novayagazeta.ru/articles/2024/04/26/deti-sprashivaiut-kak-v-rossii-zhit-dalshe</link>
-      <description>После теракта в «Крокус Сити Холле» мигранты в России столкнулись с новой волной ненависти, агрессии и давления властей</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/04/26/deti-sprashivaiut-kak-v-rossii-zhit-dalshe</guid>
-      <pubDate>Fri, 26 Apr 2024 07:46:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 30 Sep 2026 14:58:57 +0000</lastBuildDate>
     <item>
       <title>«Не сгорим, так поплаваем» — В Петербурге в страшные дорожные аварии с трагичным исходом все чаще попадают автобусы, троллейбусы и трамваи. Что тому виной?</title>
       <link>https://novayagazeta.ru/articles/2024/06/03/ne-sgorim-tak-poplavaem</link>
@@ -287,6 +280,13 @@
       <description>52-летний Михаил Фетисов потерял сознание после «неспровоцированной агрессии» одного из сотрудников «Крестов». Защита добивается уголовного дела</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/09/12/vracha-izbili-v-sizo</guid>
       <pubDate>Sat, 12 Sep 2026 08:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Что происходит с ценами в Санкт-Петербурге — «До зарплаты — без мяса, а дальше — считаю деньги»</title>
+      <link>https://novayagazeta.ru/articles/2026/09/30/chto-proiskhodit-s-tsenami-v-sankt-peterburge</link>
+      <description>«До зарплаты — без мяса, а дальше — считаю деньги»</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/09/30/chto-proiskhodit-s-tsenami-v-sankt-peterburge</guid>
+      <pubDate>Wed, 30 Sep 2026 08:53:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
