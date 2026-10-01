@@ -6,13 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Oct 2026 09:25:21 +0000</lastBuildDate>
-    <item>
-      <title>Возвращаясь в гнездо кукушки: почему введение принудительной госпитализации в США не решит проблему бездомных и умалишенных</title>
-      <link>https://theins.ru/obshestvo/288666</link>
-      <guid isPermaLink="false">https://theins.ru/obshestvo/288666</guid>
-      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Oct 2026 16:41:46 +0000</lastBuildDate>
     <item>
       <title>В зоне доступа сети сопротивления. Как иранцы оставались на связи во время блокировок интернета и чем этот опыт полезен для россиян</title>
       <link>https://theins.ru/obshestvo/288946</link>
@@ -222,6 +216,12 @@
       <link>https://theins.ru/obshestvo/297020</link>
       <guid isPermaLink="false">https://theins.ru/obshestvo/297020</guid>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Инфантино террибль. Как президент ФИФА чуть не продал мировой футбол и чем это грозит</title>
+      <link>https://theins.ru/obshestvo/297705</link>
+      <guid isPermaLink="false">https://theins.ru/obshestvo/297705</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

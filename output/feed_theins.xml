@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 01 Oct 2026 09:25:11 +0000</lastBuildDate>
-    <item>
-      <title>Приключения «Алисы» в стране для взрослых: Номма Зарубина призналась в сотрудничестве с ФСБ и проституции</title>
-      <link>https://theins.ru/inv/289695</link>
-      <guid isPermaLink="false">https://theins.ru/inv/289695</guid>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Oct 2026 16:41:30 +0000</lastBuildDate>
     <item>
       <title>Собутыльник: держатель активов Медведева зарабатывает на производстве «Орешника», и это не мешает ему производить вино в Италии</title>
       <link>https://theins.ru/inv/289742</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/inv/297192</link>
       <guid isPermaLink="false">https://theins.ru/inv/297192</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кара Куму: Как экс-охранник Путина Алексей Дюмин «зачистил» генерала ФСБ по кличке Кум</title>
+      <link>https://theins.ru/inv/297651</link>
+      <guid isPermaLink="false">https://theins.ru/inv/297651</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
