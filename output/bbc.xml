@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 02 Oct 2026 13:56:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 19:05:55 +0000</lastBuildDate>
     <item>
       <title>«Нам некуда возвращаться»: как Россия отбирает жилье на оккупированных территориях Украины</title>
       <link>https://www.bbc.com/russian/articles/cvg9j02lw1no</link>
@@ -135,12 +135,6 @@
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Самая возрастная, самая женская. Новая Госдума в трех графиках</title>
-      <link>https://www.bbc.com/russian/articles/cky9z9xx43yyo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cky9z9xx43yyo</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Лето в секторе Газа: кишащие крысами лагеря и незаживающие раны</title>
       <link>https://www.bbc.com/russian/articles/cq8e30zrr771o</link>
       <description>Палестинцы рассказывают Би-би-си о своих трудностях в Газе после почти полного разрушения инфраструктуры, от которой зависит их жизнь.</description>
@@ -166,7 +160,7 @@
       <link>https://www.bbc.com/russian/articles/cqj3d3yrgkn0o</link>
       <description>Афганская журналистка Захра Джойя и ее подруга Эми Феррис-Ротман каждый день документируют преступления, совершенные представителями радикального исламистского движения «Талибан» против женщин, мужчин и детей в Афганистане. Они рассказали корреспонденту Би-би-си Юлии Джеймс о том, как афганские женщины живут в условиях «гендерного апартеида».</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqj3d3yrgkn0o</guid>
-      <pubDate>Fri, 02 Oct 2026 13:56:43 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 19:05:55 +0000</pubDate>
     </item>
     <item>
       <title>Большой скандал на фотоконкурсе микроизображений Nikon: победителя заподозрили в применении ИИ</title>
@@ -176,6 +170,13 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Дума не дом офицеров». Зачем Путину ветераны войны во власти — и почему их оказалось меньше, чем ожидали</title>
+      <link>https://www.bbc.com/russian/articles/c3n07l97vpr9o</link>
+      <description>В России завершились парламентские выборы — первые с момента начала полномасштабного вторжения в Украину. По предварительным данным ЦИК, «Единая Россия» получит 355 из 450 мест — больше, чем когда-либо.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3n07l97vpr9o</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Русский Старлинк». Кто его создает и зачем он нужен?</title>
       <link>https://www.bbc.com/russian/articles/cm3eqglvg8n4o</link>
       <description>Россия несколько лет разрабатывает низкоорбитальную систему спутниковой связи и широкополосного доступа в интернет «Рассвет». Ее часто называют «российским Старлинком» из-за архитектуры, схожей с американской спутниковой сетью. Однако «Рассвет» во много раз меньше Starlink, и задачи у него, вероятно, узкоспециальные — спутниковый интернет в России нужен прежде всего военным.</description>
@@ -183,10 +184,10 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Дума не дом офицеров». Зачем Путину ветераны войны во власти — и почему их оказалось меньше, чем ожидали</title>
-      <link>https://www.bbc.com/russian/articles/c3n07l97vpr9o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3n07l97vpr9o</guid>
-      <pubDate>Fri, 02 Oct 2026 13:56:43 +0000</pubDate>
+      <title>Самая возрастная, самая женская. Новая Госдума в трех графиках</title>
+      <link>https://www.bbc.com/russian/articles/cky9z9xx43yyo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cky9z9xx43yyo</guid>
+      <pubDate>Fri, 02 Oct 2026 19:05:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
