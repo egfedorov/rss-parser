@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 02 Oct 2026 07:04:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 13:56:43 +0000</lastBuildDate>
     <item>
       <title>«Нам некуда возвращаться»: как Россия отбирает жилье на оккупированных территориях Украины</title>
       <link>https://www.bbc.com/russian/articles/cvg9j02lw1no</link>
@@ -141,20 +141,6 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Мы думали, что нам конец». Как живет прифронтовой город в Йемене, на который наступают хуситы</title>
-      <link>https://www.bbc.com/russian/articles/cq5yjngelyr1o</link>
-      <description>В ходе одной из редких поездок в зону конфликта в Йемене корреспондент Би-би-си попал в город Таиз на юго-западе страны, лежащий на пути наступающих повстанцев.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq5yjngelyr1o</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>США уходят из Ирака после 20 лет военного присутствия. Что они оставляют после себя и что будет дальше?</title>
-      <link>https://www.bbc.com/russian/articles/c8p30vz6l4q4o</link>
-      <description>США планируют завершить вывод оставшегося военного контингента из Ирака к 30 сентября, что положит конец военному присутствию, определявшему облик этой ближневосточной страны на протяжении более чем двух десятилетий.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8p30vz6l4q4o</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Лето в секторе Газа: кишащие крысами лагеря и незаживающие раны</title>
       <link>https://www.bbc.com/russian/articles/cq8e30zrr771o</link>
       <description>Палестинцы рассказывают Би-би-си о своих трудностях в Газе после почти полного разрушения инфраструктуры, от которой зависит их жизнь.</description>
@@ -176,6 +162,20 @@
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Видео,«Талибро», неудобные вопросы мулле, переодевание мальчиком: как живут женщины в Афганистане, Продолжительность 46,14</title>
+      <link>https://www.bbc.com/russian/articles/cqj3d3yrgkn0o</link>
+      <description>Афганская журналистка Захра Джойя и ее подруга Эми Феррис-Ротман каждый день документируют преступления, совершенные представителями радикального исламистского движения «Талибан» против женщин, мужчин и детей в Афганистане. Они рассказали корреспонденту Би-би-си Юлии Джеймс о том, как афганские женщины живут в условиях «гендерного апартеида».</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqj3d3yrgkn0o</guid>
+      <pubDate>Fri, 02 Oct 2026 13:56:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Большой скандал на фотоконкурсе микроизображений Nikon: победителя заподозрили в применении ИИ</title>
+      <link>https://www.bbc.com/russian/articles/c64grg7jeyd8o</link>
+      <description>Работу-победителя престижного конкурса научной фотографии решили повторно проверить после того, как ученые заподозрили, что при ее создании использовался искусственный интеллект.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c64grg7jeyd8o</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Русский Старлинк». Кто его создает и зачем он нужен?</title>
       <link>https://www.bbc.com/russian/articles/cm3eqglvg8n4o</link>
       <description>Россия несколько лет разрабатывает низкоорбитальную систему спутниковой связи и широкополосного доступа в интернет «Рассвет». Ее часто называют «российским Старлинком» из-за архитектуры, схожей с американской спутниковой сетью. Однако «Рассвет» во много раз меньше Starlink, и задачи у него, вероятно, узкоспециальные — спутниковый интернет в России нужен прежде всего военным.</description>
@@ -186,7 +186,7 @@
       <title>«Дума не дом офицеров». Зачем Путину ветераны войны во власти — и почему их оказалось меньше, чем ожидали</title>
       <link>https://www.bbc.com/russian/articles/c3n07l97vpr9o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3n07l97vpr9o</guid>
-      <pubDate>Fri, 02 Oct 2026 07:04:43 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 13:56:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
