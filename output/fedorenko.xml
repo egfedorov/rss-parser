@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 03 Oct 2026 08:16:27 +0000</lastBuildDate>
-    <item>
-      <title>430 «анонимок» за квартал — Власти Приморья отчитались о работе «Стукачата» за первые три месяца 2026 года</title>
-      <link>https://novayagazeta.ru/articles/2026/04/14/430-anonimok-za-kvartal</link>
-      <description>Власти Приморья отчитались о работе «Стукачата» за первые три месяца 2026 года</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/04/14/430-anonimok-za-kvartal</guid>
-      <pubDate>Tue, 14 Apr 2026 07:40:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Oct 2026 13:30:44 +0000</lastBuildDate>
     <item>
       <title>«Там территория все время шевелится»&amp;nbsp; — В Приморье решили строить АЭС, но площадку под строительство выбрали на «живом» геологическом разломе</title>
       <link>https://novayagazeta.ru/articles/2026/04/24/tam-territoriia-vse-vremia-shevelitsia</link>
@@ -287,6 +280,13 @@
       <description>Хлеб и курицу не едим, переходим на гречку</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/09/30/chto-proiskhodit-s-tsenami-vo-vladivostoke</guid>
       <pubDate>Wed, 30 Sep 2026 09:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Столуется на свалках и в курятниках — Медведей на Дальнем Востоке отпугивают электроизгородью и трехэтажным матом</title>
+      <link>https://novayagazeta.ru/articles/2026/10/03/stoluetsia-na-svalkakh-i-v-kuriatnikakh</link>
+      <description>Медведей на Дальнем Востоке отпугивают электроизгородью и трехэтажным матом</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/03/stoluetsia-na-svalkakh-i-v-kuriatnikakh</guid>
+      <pubDate>Sat, 03 Oct 2026 08:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
