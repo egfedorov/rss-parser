@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 03 Oct 2026 02:05:20 +0000</lastBuildDate>
-    <item>
-      <title>«Нам некуда возвращаться»: как Россия отбирает жилье на оккупированных территориях Украины</title>
-      <link>https://www.bbc.com/russian/articles/cvg9j02lw1no</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvg9j02lw1no</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Oct 2026 08:16:10 +0000</lastBuildDate>
     <item>
       <title>«Все сдавали всех». Как закончилось дело издательства «Эксмо»</title>
       <link>https://www.bbc.com/russian/articles/cy4kpdvp10eo</link>
@@ -135,6 +129,12 @@
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Правящие реформисты, неизбежность коалиции и «русский вопрос». В Латвии проходят парламентские выборы</title>
+      <link>https://www.bbc.com/russian/articles/cm750290d0e2o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm750290d0e2o</guid>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Лето в секторе Газа: кишащие крысами лагеря и незаживающие раны</title>
       <link>https://www.bbc.com/russian/articles/cq8e30zrr771o</link>
       <description>Палестинцы рассказывают Би-би-си о своих трудностях в Газе после почти полного разрушения инфраструктуры, от которой зависит их жизнь.</description>
@@ -160,7 +160,7 @@
       <link>https://www.bbc.com/russian/articles/cqj3d3yrgkn0o</link>
       <description>Афганская журналистка Захра Джойя и ее подруга Эми Феррис-Ротман каждый день документируют преступления, совершенные представителями радикального исламистского движения «Талибан» против женщин, мужчин и детей в Афганистане. Они рассказали корреспонденту Би-би-си Юлии Джеймс о том, как афганские женщины живут в условиях «гендерного апартеида».</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqj3d3yrgkn0o</guid>
-      <pubDate>Sat, 03 Oct 2026 02:05:20 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 08:16:10 +0000</pubDate>
     </item>
     <item>
       <title>Большой скандал на фотоконкурсе микроизображений Nikon: победителя заподозрили в применении ИИ</title>
@@ -187,7 +187,7 @@
       <title>Самая возрастная, самая женская. Новая Госдума в трех графиках</title>
       <link>https://www.bbc.com/russian/articles/cky9z9xx43yyo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cky9z9xx43yyo</guid>
-      <pubDate>Sat, 03 Oct 2026 02:05:20 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 08:16:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
