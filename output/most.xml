@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 05 Oct 2026 06:12:11 +0000</lastBuildDate>
-    <item>
-      <title>Более 10% новых случаев рака в 2024 году были связаны с инфекциями</title>
-      <link>https://mostmedia.org/ru/posts/infekcii-svjazany-s-23-mln-novyh-sluchaev-raka-v-mire-v-2024-godu</link>
-      <description>Около 2,3 млн новых случаев рака, выявленных в мире в 2024 году, были связаны с инфекциями — это примерно 12% всех новых онкологических заболеваний, или каждый восьмой случай. Такой вывод сделали исследователи Международного агентства по изучению рака (IARC), входящего в структуру ВОЗ</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/infekcii-svjazany-s-23-mln-novyh-sluchaev-raka-v-mire-v-2024-godu</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/5/b/1/2/b/5b12b6bf235151aa7e5c3358ac20bf09.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 04 Oct 2026 23:11:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Oct 2026 14:56:20 +0000</lastBuildDate>
     <item>
       <title>Black Bird Group: Россия в сентябре потеряла в Украине около 190 кв. км</title>
       <link>https://mostmedia.org/ru/posts/black-bird-group-rossia-v-sentjabre-poterjala-v-ukraine-okolo-190-kv-km</link>
@@ -89,20 +81,28 @@
       <pubDate>Mon, 05 Oct 2026 00:48:00 +0000</pubDate>
     </item>
     <item>
-      <title>Лула да Силва уступил Флавио Болсонару в первом туре президентских выборов в Бразилии</title>
+      <title>В первом туре президентских выборов в Бразилии действующий глава государства уступил сыну предшественника</title>
       <link>https://mostmedia.org/ru/posts/lula-da-silva-ustupil-flavio-bolsonaru-v-pervom-ture-prezidentskih-vyborov-v-brazilii</link>
-      <description>В Бразилии прошел первый тур президентских выборов: действующий президент Луис Инасиу Лула да Силва получил около 45% голосов и уступил бразильскому сенатору Флавио Болсонару, сыну бывшего президента Жаира Болсонару, у которого около 47%. Второй тур назначен на 25 октября; для победы кандидату нужно набрать не менее 50% голосов.</description>
+      <description>Левый президент Луис Инасиу Лула да Силва получил около 45% голосов и уступил правому сенатору Флавиу Болсонару, сыну бывшего президента Жаира Болсонару, у которого около 47%. Второй тур назначен на 25 октября.</description>
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/lula-da-silva-ustupil-flavio-bolsonaru-v-pervom-ture-prezidentskih-vyborov-v-brazilii</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/7/0/f/9/1/70f915cc7850d68dfcd36aa92aea1a54.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/f/9/e/d/a/f9edad6eac17b211cb8aca67bd071fee.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 05 Oct 2026 09:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>В Харькове при ударе реактивных дронов погиб человек, восемь ранены</title>
+      <title>Российская армия ударила реактивным дроном по жилому дому в Харькове: есть погибший</title>
       <link>https://mostmedia.org/ru/posts/v-harkove-pri-udare-reaktivnyh-dronov-pogib-chelovek-vosem-raneny</link>
-      <description>Поздно вечером 4 октября Харьков атаковали реактивные дроны «Бандероль»: в Индустриальном районе погиб один человек, еще восемь получили ранения. Три беспилотника ударили рядом с жилыми домами, выбили окна в пяти из них и повредили крыши.</description>
+      <description>Вечером 4 октября украинский город атаковали БПЛА «Бандероль». Помимо погибшего еще восемь человек получили ранения.</description>
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/v-harkove-pri-udare-reaktivnyh-dronov-pogib-chelovek-vosem-raneny</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/1/0/d/2/1/10d21eb60c9f25a68eae4b121b0c49cd.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/3/3/1/0/5/33105324eb3d83b13f89557e45ee0f63.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 05 Oct 2026 09:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Руководство США отслеживает сообщения о возможном случае чумы в России</title>
+      <link>https://mostmedia.org/ru/posts/administracia-trampa-otslezhivaet-soobshenia-o-vozmozhnom-sluchae-chumy-v-rossii</link>
+      <description>По словам представителя Белого дома, администрация Дональда Трампа «в курсе» происходящего и «оценивает варианты» развития ситуации, — сообщает Axios.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/administracia-trampa-otslezhivaet-soobshenia-o-vozmozhnom-sluchae-chumy-v-rossii</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/7/6/6/b/e/766be1581758b2e5164450ea3a99c2d3.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 05 Oct 2026 09:14:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

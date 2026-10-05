@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 05 Oct 2026 06:12:11 +0000</lastBuildDate>
-    <item>
-      <title>Собутыльник: держатель активов Медведева зарабатывает на производстве «Орешника», и это не мешает ему производить вино в Италии</title>
-      <link>https://theins.ru/inv/289742</link>
-      <guid isPermaLink="false">https://theins.ru/inv/289742</guid>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Oct 2026 14:56:19 +0000</lastBuildDate>
     <item>
       <title>«Как могли эти ублюдки построить школу на территории базы КСИР?!» Что жители иранского Минаба говорят об ударе по школе</title>
       <link>https://theins.ru/inv/289977</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/inv/297651</link>
       <guid isPermaLink="false">https://theins.ru/inv/297651</guid>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Охотники за пушечным мясом. Как устроен рынок частных вербовщиков на войну с Украиной</title>
+      <link>https://theins.ru/inv/297257</link>
+      <guid isPermaLink="false">https://theins.ru/inv/297257</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
