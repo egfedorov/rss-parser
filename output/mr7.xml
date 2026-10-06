@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 06 Oct 2026 16:01:26 +0000</lastBuildDate>
-    <item>
-      <title>«У меня нет ненависти к военнослужащим»: обвиняемого в «фейках об армии» Егора Гуляева допросили в суде</title>
-      <link>https://mr-7.ru/articles/2026/08/20/u-menia-net-nenavisti-k-voennosluzhashchim-obviniaemogo-v-feikakh-ob-armii-egora-guliaeva-doprosili-v-sude</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/20/u-menia-net-nenavisti-k-voennosluzhashchim-obviniaemogo-v-feikakh-ob-armii-egora-guliaeva-doprosili-v-sude</guid>
-      <enclosure url="https://mr-7.ru/static/records/91a07efb75734923a43e2978c5af1aa6.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 10:53:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Oct 2026 21:03:15 +0000</lastBuildDate>
     <item>
       <title>Старинный декор, витраж и воздуховод: что открыли реставраторы за время летнего капремонта в Петербурге</title>
       <link>https://mr-7.ru/articles/2026/08/18/chto-peterburg-nakhodit-pod-sloiami-vremeni-otkrytiia-restavratorov</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/10/02/7-povodov-vyiti-iz-doma-3-4-oktiabria</guid>
       <enclosure url="https://mr-7.ru/static/records/f68bfb635de44117b59b29df203271a5.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 02 Oct 2026 12:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>В деле обвиняемого в «фейках об армии» Михаила Фетисова оказались два постановления о проведении одной и той же экспертизы</title>
+      <link>https://mr-7.ru/articles/2026/10/06/v-dele-obviniaemogo-v-feikakh-ob-armii-mikhaila-fetisova-okazalis-dva-postanovleniia-o-provedenii-odnoi-i-toi-zhe-ekspertizy</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/10/06/v-dele-obviniaemogo-v-feikakh-ob-armii-mikhaila-fetisova-okazalis-dva-postanovleniia-o-provedenii-odnoi-i-toi-zhe-ekspertizy</guid>
+      <enclosure url="https://mr-7.ru/static/records/7199eb14fd844ba3bf116d61fe5db211.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 06 Oct 2026 16:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
