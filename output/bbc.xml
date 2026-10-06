@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 06 Oct 2026 02:06:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 09:06:02 +0000</lastBuildDate>
     <item>
       <title>«Все сдавали всех». Как закончилось дело издательства «Эксмо»</title>
       <link>https://www.bbc.com/russian/articles/cy4kpdvp10eo</link>
@@ -160,20 +160,6 @@
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>От ретритов в Южной Америке до клинических исследований: рост популярности психоделической терапии</title>
-      <link>https://www.bbc.com/russian/articles/cm4gln4w8930o</link>
-      <description>Психоделическая терапия привлекает все большее внимание как возможный метод лечения депрессии. В Британии уже ведутся научные исследования, однако врачи предупреждают, что психоделические препараты — не панацея.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm4gln4w8930o</guid>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Почему Канада готовится к (маловероятному) вторжению США</title>
-      <link>https://www.bbc.com/russian/articles/cw5yn5rj8n0yo</link>
-      <description>На прошлой неделе премьер-министр Марк Карни признал, что подготовился к некогда немыслимому сценарию — вторжению США.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cw5yn5rj8n0yo</guid>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Мое детство, прошедшее в бегах от ФБР». История сына одних из самых разыскивавшихся в США радикалов</title>
       <link>https://www.bbc.com/russian/articles/cq0kl6l1rympo</link>
       <description>Когда Зайд родился, его мать Бернардин Дорн была одной из самых разыскиваемых ФБР беглянок. Она входила в руководство Weather Underground — радикальной антивоенной организации, которая стремилась привлечь внимание к социальному неравенству и расовой несправедливости в США с помощью серии взрывов в знаковых правительственных зданиях. Среди ее целей были Капитолий, Пентагон и Государственный департамент.</description>
@@ -181,17 +167,17 @@
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Видео,Возможна ли в России вспышка чумы? | Видеоподкаст «Что это было?», Продолжительность 24,41</title>
-      <link>https://www.bbc.com/russian/articles/cqm249gx2kp4o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqm249gx2kp4o</guid>
-      <pubDate>Tue, 06 Oct 2026 02:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>«Зима будет трудной». Европа не готова к отопительному сезону: вернется ли в ЕС российский газ?</title>
       <link>https://www.bbc.com/russian/articles/crje8ek1z815o</link>
       <description>Из-за иранской войны цены на газ в ЕС уже в два с лишним раза выше прошлогодних, а запасы на зиму — не рекордно низком уровне. На этом фоне все громче звучат призывы отложить отказ от российского газа. Реально ли это?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/crje8ek1z815o</guid>
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Видео,Возможна ли в России вспышка чумы? | Видеоподкаст «Что это было?», Продолжительность 24,41</title>
+      <link>https://www.bbc.com/russian/articles/cqm249gx2kp4o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqm249gx2kp4o</guid>
+      <pubDate>Tue, 06 Oct 2026 09:06:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
