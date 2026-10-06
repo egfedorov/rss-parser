@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 06 Oct 2026 09:06:10 +0000</lastBuildDate>
-    <item>
-      <title>Большой стрим «НО.Медиа из России» — Кынев, Тумакова*, Кузнецов, Орехъ и Соколов</title>
-      <link>https://novayagazeta.ru/videos/2025/08/07/bolshoi-strim-no-media-iz-rossii</link>
-      <description>Кынев, Тумакова*, Кузнецов, Орехъ и Соколов</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/videos/2025/08/07/bolshoi-strim-no-media-iz-rossii</guid>
-      <pubDate>Thu, 07 Aug 2025 16:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Oct 2026 16:01:19 +0000</lastBuildDate>
     <item>
       <title>«Это персональный опер в вашем телефоне» — Эксперт по телекому Михаил Климарев* объясняет, что случится дальше с рунетом</title>
       <link>https://novayagazeta.ru/articles/2025/08/11/eto-personalnyi-oper-v-vashem-telefone</link>
@@ -287,6 +280,13 @@
       <description>Никто не знает, какого качества горючее сегодня попадает в бензобак. На чем будут ездить в России? Объясняет нефтегазовый аналитик Борис Аронштейн</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/02/dvigatel-prevrashchaetsia-v-chernyi-iashchik</guid>
       <pubDate>Fri, 02 Oct 2026 07:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Официального подтверждения не будет» — Что происходит в Иркутской области и почему о болезни решили молчать, объясняет врач-эпидемиолог</title>
+      <link>https://novayagazeta.ru/articles/2026/10/06/ofitsialnogo-podtverzhdeniia-ne-budet</link>
+      <description>Что происходит в Иркутской области и почему о болезни решили молчать, объясняет врач-эпидемиолог</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/06/ofitsialnogo-podtverzhdeniia-ne-budet</guid>
+      <pubDate>Tue, 06 Oct 2026 13:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
