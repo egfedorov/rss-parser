@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 07 Oct 2026 14:24:04 +0000</lastBuildDate>
-    <item>
-      <title>«Все сдавали всех». Как закончилось дело издательства «Эксмо»</title>
-      <link>https://www.bbc.com/russian/articles/cy4kpdvp10eo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cy4kpdvp10eo</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Oct 2026 20:08:13 +0000</lastBuildDate>
     <item>
       <title>Воняет фекалиями, но «безопасно». Почему паводок привел к кризису в Тюмени</title>
       <link>https://www.bbc.com/russian/articles/cly9ekr46reo</link>
@@ -153,6 +147,12 @@
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Как в фильме-катастрофе». Чем грозит побережью и жителям Сочи пожар на атакованном танкере</title>
+      <link>https://www.bbc.com/russian/articles/cwd09g04yky0o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwd09g04yky0o</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Генерал Святогорско-Купянский. «Контекст» от Ильи Барабанова</title>
       <link>https://www.bbc.com/russian/articles/c9zrdg7ge3k0o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c9zrdg7ge3k0o</guid>
@@ -185,6 +185,12 @@
       <description>От атак реактивных «шахедов», которыми российская армия уже более месяца уничтожает инфраструктуру Киева, украинскую столицу теперь должны защищать роботизированные огневые установки. Эту инновационную технологию Украина уже использует на фронте. Как она работает?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmq5nex9v748o</guid>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Путин не понимает, что у человека есть права». Одно из последних интервью Анны Политковской</title>
+      <link>https://www.bbc.com/russian/articles/cmkgqlezdqr7o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmkgqlezdqr7o</guid>
+      <pubDate>Wed, 07 Oct 2026 20:08:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
