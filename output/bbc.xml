@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 06 Oct 2026 21:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:48:10 +0000</lastBuildDate>
     <item>
       <title>«Все сдавали всех». Как закончилось дело издательства «Эксмо»</title>
       <link>https://www.bbc.com/russian/articles/cy4kpdvp10eo</link>
@@ -135,6 +135,12 @@
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Русский Старлинк». Кто его создает и зачем он нужен?</title>
+      <link>https://www.bbc.com/russian/articles/cm3eqglvg8n4o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm3eqglvg8n4o</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Самая возрастная, самая женская. Новая Госдума в трех графиках</title>
       <link>https://www.bbc.com/russian/articles/cky9z9xx43yyo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cky9z9xx43yyo</guid>
@@ -145,13 +151,6 @@
       <link>https://www.bbc.com/russian/articles/cm750290d0e2o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm750290d0e2o</guid>
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Русский Старлинк». Кто его создает и зачем он нужен?</title>
-      <link>https://www.bbc.com/russian/articles/cm3eqglvg8n4o</link>
-      <description>Россия несколько лет разрабатывает низкоорбитальную систему спутниковой связи и широкополосного доступа в интернет «Рассвет». Ее часто называют «российским Старлинком» из-за архитектуры, схожей с американской спутниковой сетью. Однако «Рассвет» во много раз меньше Starlink, и задачи у него, вероятно, узкоспециальные — спутниковый интернет в России нужен прежде всего военным.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm3eqglvg8n4o</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Генерал Святогорско-Купянский. «Контекст» от Ильи Барабанова</title>
@@ -174,10 +173,11 @@
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Видео,Возможна ли в России вспышка чумы? | Видеоподкаст «Что это было?», Продолжительность 24,41</title>
-      <link>https://www.bbc.com/russian/articles/cqm249gx2kp4o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqm249gx2kp4o</guid>
-      <pubDate>Tue, 06 Oct 2026 21:03:00 +0000</pubDate>
+      <title>«В развитых странах риска эпидемии чумы нет». Текстовая версия подкаста «Что это было» с биологом Ириной Якутенко</title>
+      <link>https://www.bbc.com/russian/articles/c6lyk40w542vo</link>
+      <description>СМИ пишут о возможной вспышке чумы в Иркутской области. Расшифровка подкаста Русской службы Би-би-си с молекулярным биологом и популяризатором науки Ириной Якутенко.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6lyk40w542vo</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
