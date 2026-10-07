@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 07 Oct 2026 00:48:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:57:55 +0000</lastBuildDate>
     <item>
       <title>«Все сдавали всех». Как закончилось дело издательства «Эксмо»</title>
       <link>https://www.bbc.com/russian/articles/cy4kpdvp10eo</link>
@@ -177,6 +177,13 @@
       <link>https://www.bbc.com/russian/articles/c6lyk40w542vo</link>
       <description>СМИ пишут о возможной вспышке чумы в Иркутской области. Расшифровка подкаста Русской службы Би-би-си с молекулярным биологом и популяризатором науки Ириной Якутенко.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6lyk40w542vo</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Что такое роботизированные турели, которые должны защитить Киев от реактивных «шахедов»</title>
+      <link>https://www.bbc.com/russian/articles/cmq5nex9v748o</link>
+      <description>От атак реактивных «шахедов», которыми российская армия уже более месяца уничтожает инфраструктуру Киева, украинскую столицу теперь должны защищать роботизированные огневые установки. Эту инновационную технологию Украина уже использует на фронте. Как она работает?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmq5nex9v748o</guid>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
