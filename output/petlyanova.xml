@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 07 Oct 2026 06:57:58 +0000</lastBuildDate>
-    <item>
-      <title>«Не сгорим, так поплаваем» — В Петербурге в страшные дорожные аварии с трагичным исходом все чаще попадают автобусы, троллейбусы и трамваи. Что тому виной?</title>
-      <link>https://novayagazeta.ru/articles/2024/06/03/ne-sgorim-tak-poplavaem</link>
-      <description>В Петербурге в страшные дорожные аварии с трагичным исходом все чаще попадают автобусы, троллейбусы и трамваи. Что тому виной?</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/06/03/ne-sgorim-tak-poplavaem</guid>
-      <pubDate>Mon, 03 Jun 2024 14:07:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Oct 2026 14:24:05 +0000</lastBuildDate>
     <item>
       <title>«Здесь нет такого: нам можно, а вам нельзя» — Инклюзивные мастерские «Простые вещи», где работают люди с ментальными особенностями, исчезнут, если им не помочь</title>
       <link>https://novayagazeta.ru/articles/2024/06/26/zdes-net-takogo-nam-mozhno-a-vam-nelzia</link>
@@ -149,17 +142,17 @@
       <pubDate>Mon, 11 Nov 2024 07:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Глаза тех, кого пришлось бросить, я не забуду никогда» — Почти две тысячи жителей, по неофициальным данным, остаются сегодня в занятой ВСУ Судже и Суджанском районе</title>
-      <link>https://novayagazeta.ru/articles/2024/11/13/glaza-tekh-kogo-prishlos-brosit-ia-ne-zabudu-nikogda</link>
-      <description>Почти две тысячи жителей, по неофициальным данным, остаются сегодня в занятой ВСУ Судже и Суджанском районе</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/11/13/glaza-tekh-kogo-prishlos-brosit-ia-ne-zabudu-nikogda</guid>
-      <pubDate>Wed, 13 Nov 2024 08:35:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Дайте коридор!&amp;nbsp; — Наши родные погибают в Судже</title>
       <link>https://novayagazeta.ru/videos/2024/11/13/daite-koridor</link>
       <description>Наши родные погибают в Судже</description>
       <guid isPermaLink="true">https://novayagazeta.ru/videos/2024/11/13/daite-koridor</guid>
+      <pubDate>Wed, 13 Nov 2024 08:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Глаза тех, кого пришлось бросить, я не забуду никогда» — Почти две тысячи жителей, по неофициальным данным, остаются сегодня в занятой ВСУ Судже и Суджанском районе</title>
+      <link>https://novayagazeta.ru/articles/2024/11/13/glaza-tekh-kogo-prishlos-brosit-ia-ne-zabudu-nikogda</link>
+      <description>Почти две тысячи жителей, по неофициальным данным, остаются сегодня в занятой ВСУ Судже и Суджанском районе</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2024/11/13/glaza-tekh-kogo-prishlos-brosit-ia-ne-zabudu-nikogda</guid>
       <pubDate>Wed, 13 Nov 2024 08:35:00 +0000</pubDate>
     </item>
     <item>
@@ -287,6 +280,13 @@
       <description>«До зарплаты — без мяса, а дальше — считаю деньги»</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/09/30/chto-proiskhodit-s-tsenami-v-sankt-peterburge</guid>
       <pubDate>Wed, 30 Sep 2026 08:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Что такое социальная группа «Российское государство»»? — Экспертизы по делу врача-невролога Фетисова, обвиненного в распространении «фейков», изучили эксперты лаборатории Минюста и СК РФ</title>
+      <link>https://novayagazeta.ru/articles/2026/10/07/chto-takoe-sotsialnaia-gruppa-rossiiskoe-gosudarstvo</link>
+      <description>Экспертизы по делу врача-невролога Фетисова, обвиненного в распространении «фейков», изучили эксперты лаборатории Минюста и СК РФ</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/07/chto-takoe-sotsialnaia-gruppa-rossiiskoe-gosudarstvo</guid>
+      <pubDate>Wed, 07 Oct 2026 13:28:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
