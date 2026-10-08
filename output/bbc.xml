@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 08 Oct 2026 13:43:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 19:42:49 +0000</lastBuildDate>
     <item>
       <title>Воняет фекалиями, но «безопасно». Почему паводок привел к кризису в Тюмени</title>
       <link>https://www.bbc.com/russian/articles/cly9ekr46reo</link>
@@ -147,37 +147,10 @@
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Как в фильме-катастрофе». Чем грозит побережью и жителям Сочи пожар на атакованном танкере</title>
-      <link>https://www.bbc.com/russian/articles/cwd09g04yky0o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwd09g04yky0o</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Мое детство, прошедшее в бегах от ФБР». История сына одних из самых разыскивавшихся в США радикалов</title>
-      <link>https://www.bbc.com/russian/articles/cq0kl6l1rympo</link>
-      <description>Когда Зайд родился, его мать Бернардин Дорн была одной из самых разыскиваемых ФБР беглянок. Она входила в руководство Weather Underground — радикальной антивоенной организации, которая стремилась привлечь внимание к социальному неравенству и расовой несправедливости в США с помощью серии взрывов в знаковых правительственных зданиях. Среди ее целей были Капитолий, Пентагон и Государственный департамент.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq0kl6l1rympo</guid>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Зима будет трудной». Европа не готова к отопительному сезону: вернется ли в ЕС российский газ?</title>
-      <link>https://www.bbc.com/russian/articles/crje8ek1z815o</link>
-      <description>Из-за иранской войны цены на газ в ЕС уже в два с лишним раза выше прошлогодних, а запасы на зиму — не рекордно низком уровне. На этом фоне все громче звучат призывы отложить отказ от российского газа. Реально ли это?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/crje8ek1z815o</guid>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«В развитых странах риска эпидемии чумы нет». Текстовая версия подкаста «Что это было» с биологом Ириной Якутенко</title>
-      <link>https://www.bbc.com/russian/articles/c6lyk40w542vo</link>
-      <description>СМИ пишут о возможной вспышке чумы в Иркутской области. Расшифровка подкаста Русской службы Би-би-си с молекулярным биологом и популяризатором науки Ириной Якутенко.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6lyk40w542vo</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Видео,Почему протестуют французские школьники? | Видеоподкаст «Что это было?», Продолжительность 35,09</title>
       <link>https://www.bbc.com/russian/articles/cmwyv5y0xgp1o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmwyv5y0xgp1o</guid>
-      <pubDate>Thu, 08 Oct 2026 13:43:38 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 19:42:49 +0000</pubDate>
     </item>
     <item>
       <title>Снайперы и минометные обстрелы. Как дети в Йемене ходят в школу рядом с линией фронта</title>
@@ -191,7 +164,7 @@
       <link>https://www.bbc.com/russian/articles/cmkgqlezdqr7o</link>
       <description>Би-би-си публикует ранее не изданное на русском языке видео из архивов в 20-ю годовщину убийства журналистки.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmkgqlezdqr7o</guid>
-      <pubDate>Thu, 08 Oct 2026 13:43:38 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 19:42:49 +0000</pubDate>
     </item>
     <item>
       <title>Нападение 7 октября: жители кибуца Нир-Оз, уничтоженного ХАМАС, хотят вернуться домой, но это непросто</title>
@@ -201,10 +174,24 @@
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Как в фильме-катастрофе». Чем грозит побережью и жителям Сочи пожар на атакованном танкере</title>
+      <link>https://www.bbc.com/russian/articles/cwd09g04yky0o</link>
+      <description>Вечером 6 октября у берегов Сочи, казалось, горит само море: на фоне заката над танкером поднимался черный столб дыма. К утру огонь потушили, и власти заявили, что загрязнения акватории нет. Но экологи предупреждают: опасные продукты горения могли остаться в воздухе и выпадут на землю вместе с прогнозируемыми дождями.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwd09g04yky0o</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Венгрия снимает вето на переговоры Украины с ЕС. На какие уступки пойдет Киев?</title>
+      <link>https://www.bbc.com/russian/articles/cq9vznv3wnddo</link>
+      <description>Принятие закона о языке обучения нацменьшинств может завершить эру прохладных отношений между Киевом и Будапештом, которая продолжалась при премьерстве Виктора Орбана и мешала европейской интеграции Украины.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq9vznv3wnddo</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Можно ли разбить пробирку? Этот и другие вопросы о смерти сотрудницы противочумного института</title>
       <link>https://www.bbc.com/russian/articles/c3vgx5gjrnd2o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3vgx5gjrnd2o</guid>
-      <pubDate>Thu, 08 Oct 2026 13:43:38 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 19:42:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
