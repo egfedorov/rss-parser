@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 08 Oct 2026 00:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 06:17:29 +0000</lastBuildDate>
     <item>
       <title>Воняет фекалиями, но «безопасно». Почему паводок привел к кризису в Тюмени</title>
       <link>https://www.bbc.com/russian/articles/cly9ekr46reo</link>
@@ -187,10 +187,17 @@
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Снайперы и минометные обстрелы. Как дети в Йемене ходят в школу рядом с линией фронта</title>
+      <link>https://www.bbc.com/russian/articles/c69qzlw49g7xo</link>
+      <description>Воспользовавшись редкой возможностью попасть в Таиз, Всемирная служба Би-би-си пообщалась с детьми, учителями и семьями, пострадавшими от боевых действий между хуситами и правительственными войсками в Йемене.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c69qzlw49g7xo</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Путин не понимает, что у человека есть права». Одно из последних интервью Анны Политковской</title>
       <link>https://www.bbc.com/russian/articles/cmkgqlezdqr7o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmkgqlezdqr7o</guid>
-      <pubDate>Thu, 08 Oct 2026 00:15:26 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 06:17:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
