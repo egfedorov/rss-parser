@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 08 Oct 2026 06:17:41 +0000</lastBuildDate>
-    <item>
-      <title>35 лет назад… Как петербуржцы вспоминают события путча 1991 года</title>
-      <link>https://mr-7.ru/articles/2026/08/21/35-let-nazad-kak-peterburzhtsy-vspominaiut-sobytiia-putcha-1991-goda</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/21/35-let-nazad-kak-peterburzhtsy-vspominaiut-sobytiia-putcha-1991-goda</guid>
-      <enclosure url="https://mr-7.ru/static/records/7018050aa98a44039880f3ff120da525.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 14:45:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Oct 2026 13:43:50 +0000</lastBuildDate>
     <item>
       <title>Музыканты, мастера и креативные пространства: как Петербург меняет культурную среду</title>
       <link>https://mr-7.ru/articles/2026/08/22/muzykanty-mastera-i-kreativnye-prostranstva-kak-peterburg-meniaet-kulturnuiu-sredu</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/10/07/status-za-status-advokat-smirnov-podal-novyi-vstrechnyi-isk-k-sotrudnikam-miniusta</guid>
       <enclosure url="https://mr-7.ru/static/records/e482444e1d314847a164ef75aa61c3b4.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 07 Oct 2026 17:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Обвинения бывшему пресс-секретарю петербургского главка Вячеславу Степченко огласят без слушателей</title>
+      <link>https://mr-7.ru/articles/2026/10/08/obvineniia-byvshemu-press-sekretariu-peterburgskogo-glavka-viacheslavu-stepchenko-oglasiat-bez-slushatelei</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/10/08/obvineniia-byvshemu-press-sekretariu-peterburgskogo-glavka-viacheslavu-stepchenko-oglasiat-bez-slushatelei</guid>
+      <enclosure url="https://mr-7.ru/static/records/5fc6f935f78144abb6f5c7ae225b48dc.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 08 Oct 2026 09:31:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

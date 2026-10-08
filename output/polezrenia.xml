@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 08 Oct 2026 06:17:35 +0000</lastBuildDate>
-    <item>
-      <title>«Вопрос только в том, какая из групп будет грабить»</title>
-      <link>https://polezrenia.info/2026/08/25/vopros-tolko-v-tom-kakaya-iz-grupp-budet-grabit/</link>
-      <description>Как в новосибирском Бердске «Единая Россия» воюет с «Единой Россией» — на фоне коммунальных проблем, которые не решаются годами</description>
-      <guid isPermaLink="false">https://polezrenia.info/2026/08/25/vopros-tolko-v-tom-kakaya-iz-grupp-budet-grabit/</guid>
-      <enclosure url="https://polezrenia.info/wp-content/uploads/2026/08/12-e1787650584355.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Oct 2026 13:43:45 +0000</lastBuildDate>
     <item>
       <title>«Экстремистский» клик</title>
       <link>https://polezrenia.info/2026/08/27/ekstremistskij-klik/</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://polezrenia.info/2026/10/02/reki-takoe-zhe-pole-kotoroe-nuzhno-zasazhivat/</guid>
       <enclosure url="https://polezrenia.info/wp-content/uploads/2026/10/655602403_35700543279544570_8251697181003716352_n.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Не мешай фальсификатору!</title>
+      <link>https://polezrenia.info/2026/10/08/narusheniya-izbiratelnogo-zakonodatelstva/</link>
+      <description>Кого и как наказывают в России за нарушения избирательного законодательства</description>
+      <guid isPermaLink="false">https://polezrenia.info/2026/10/08/narusheniya-izbiratelnogo-zakonodatelstva/</guid>
+      <enclosure url="https://polezrenia.info/wp-content/uploads/2026/10/756324830930096-e1791449873840.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

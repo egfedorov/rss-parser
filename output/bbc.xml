@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 08 Oct 2026 06:17:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:43:38 +0000</lastBuildDate>
     <item>
       <title>Воняет фекалиями, но «безопасно». Почему паводок привел к кризису в Тюмени</title>
       <link>https://www.bbc.com/russian/articles/cly9ekr46reo</link>
@@ -153,12 +153,6 @@
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Генерал Святогорско-Купянский. «Контекст» от Ильи Барабанова</title>
-      <link>https://www.bbc.com/russian/articles/c9zrdg7ge3k0o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c9zrdg7ge3k0o</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Мое детство, прошедшее в бегах от ФБР». История сына одних из самых разыскивавшихся в США радикалов</title>
       <link>https://www.bbc.com/russian/articles/cq0kl6l1rympo</link>
       <description>Когда Зайд родился, его мать Бернардин Дорн была одной из самых разыскиваемых ФБР беглянок. Она входила в руководство Weather Underground — радикальной антивоенной организации, которая стремилась привлечь внимание к социальному неравенству и расовой несправедливости в США с помощью серии взрывов в знаковых правительственных зданиях. Среди ее целей были Капитолий, Пентагон и Государственный департамент.</description>
@@ -180,11 +174,10 @@
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Что такое роботизированные турели, которые должны защитить Киев от реактивных «шахедов»</title>
-      <link>https://www.bbc.com/russian/articles/cmq5nex9v748o</link>
-      <description>От атак реактивных «шахедов», которыми российская армия уже более месяца уничтожает инфраструктуру Киева, украинскую столицу теперь должны защищать роботизированные огневые установки. Эту инновационную технологию Украина уже использует на фронте. Как она работает?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmq5nex9v748o</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Видео,Почему протестуют французские школьники? | Видеоподкаст «Что это было?», Продолжительность 35,09</title>
+      <link>https://www.bbc.com/russian/articles/cmwyv5y0xgp1o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmwyv5y0xgp1o</guid>
+      <pubDate>Thu, 08 Oct 2026 13:43:38 +0000</pubDate>
     </item>
     <item>
       <title>Снайперы и минометные обстрелы. Как дети в Йемене ходят в школу рядом с линией фронта</title>
@@ -194,10 +187,24 @@
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Путин не понимает, что у человека есть права». Одно из последних интервью Анны Политковской</title>
+      <title>Видео,«Путин не понимает, что у человека есть права». Одно из последних интервью Анны Политковской, Продолжительность 28,57</title>
       <link>https://www.bbc.com/russian/articles/cmkgqlezdqr7o</link>
+      <description>Би-би-си публикует ранее не изданное на русском языке видео из архивов в 20-ю годовщину убийства журналистки.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmkgqlezdqr7o</guid>
-      <pubDate>Thu, 08 Oct 2026 06:17:29 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 13:43:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нападение 7 октября: жители кибуца Нир-Оз, уничтоженного ХАМАС, хотят вернуться домой, но это непросто</title>
+      <link>https://www.bbc.com/russian/articles/cm62y94l24ldo</link>
+      <description>В опустевшей столовой кибуца Нир-Оз теперь воркуют птицы, устроившиеся среди потолочных панелей. Когда-то здесь кипела жизнь сплоченной израильской общины из 400 человек, практически уничтоженной в результате нападения ХАМАС и других вооруженных группировок 7 октября 2023 года.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm62y94l24ldo</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Можно ли разбить пробирку? Этот и другие вопросы о смерти сотрудницы противочумного института</title>
+      <link>https://www.bbc.com/russian/articles/c3vgx5gjrnd2o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3vgx5gjrnd2o</guid>
+      <pubDate>Thu, 08 Oct 2026 13:43:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

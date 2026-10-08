@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 08 Oct 2026 06:17:32 +0000</lastBuildDate>
-    <item>
-      <title>Не туда лайкнул — Срок — за слова, уголовка — за донат, арест — за логотип соцсети и штраф — за реакцию в «Одноклассниках»</title>
-      <link>https://novayagazeta.ru/articles/2026/03/07/ne-tuda-laiknul</link>
-      <description>Срок — за слова, уголовка — за донат, арест — за логотип соцсети и штраф — за реакцию в «Одноклассниках»</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/07/ne-tuda-laiknul</guid>
-      <pubDate>Sat, 07 Mar 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Мысли под следствием — Как слова, лайки и даже поиски в Гугле могут обернуться наказанием</title>
-      <link>https://novayagazeta.ru/articles/2026/03/21/mysli-pod-sledstviem</link>
-      <description>Как слова, лайки и даже поиски в Гугле могут обернуться наказанием</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/03/21/mysli-pod-sledstviem</guid>
-      <pubDate>Sat, 21 Mar 2026 07:07:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Oct 2026 13:43:42 +0000</lastBuildDate>
     <item>
       <title>Перелом с конфискацией — Дело об избиении обернулось обвинительным приговором пострадавшему, его сестру за одиночный пикет пытались отправить в психушку</title>
       <link>https://novayagazeta.ru/articles/2026/03/26/perelom-s-konfiskatsiei</link>
@@ -287,6 +273,20 @@
       <description>Платные реакции в Telegram, ссылка не на ту организацию в домашнем задании и другие поводы, за которые отправляют в колонию</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/09/26/292-rublia-vosem-let-ssylka-piat-tysiach</guid>
       <pubDate>Sat, 26 Sep 2026 07:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Саксофониста и политзаключенного Шабанова, отбывающего 6-летний срок в самарской ИК-10, дважды избили после жалоб на условия содержания</title>
+      <link>https://novayagazeta.ru/news/2026/10/08/saksofonista-i-politzakliuchennogo-shabanova-otbyvaiushchego-6-letnii-srok-v-samarskoi-ik-10-dvazhdy-izbili-posle-zhalob-na-usloviia-soderzhaniia-news</link>
+      <description>Саксофониста и политзаключенного Шабанова, отбывающего 6-летний срок в самарской ИК-10, дважды избили после жалоб на условия содержания</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/news/2026/10/08/saksofonista-i-politzakliuchennogo-shabanova-otbyvaiushchego-6-letnii-srok-v-samarskoi-ik-10-dvazhdy-izbili-posle-zhalob-na-usloviia-soderzhaniia-news</guid>
+      <pubDate>Thu, 08 Oct 2026 10:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Тюрьма — еще и место свободы» — Историк русской кухни Павел Сюткин — о Бутырке, тюремной еде, книгах и романе, который он пишет за решеткой</title>
+      <link>https://novayagazeta.ru/articles/2026/10/08/tiurma-eshche-i-mesto-svobody</link>
+      <description>Историк русской кухни Павел Сюткин — о Бутырке, тюремной еде, книгах и романе, который он пишет за решеткой</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/08/tiurma-eshche-i-mesto-svobody</guid>
+      <pubDate>Thu, 08 Oct 2026 11:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

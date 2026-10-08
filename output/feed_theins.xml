@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 08 Oct 2026 06:17:33 +0000</lastBuildDate>
-    <item>
-      <title>«Как могли эти ублюдки построить школу на территории базы КСИР?!» Что жители иранского Минаба говорят об ударе по школе</title>
-      <link>https://theins.ru/inv/289977</link>
-      <guid isPermaLink="false">https://theins.ru/inv/289977</guid>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Oct 2026 13:43:43 +0000</lastBuildDate>
     <item>
       <title>«Самое масштабное сокрытие правды за всю мою взрослую жизнь». Как ЦРУ пыталось замолчать гаванский синдром</title>
       <link>https://theins.ru/inv/290072</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/inv/297257</link>
       <guid isPermaLink="false">https://theins.ru/inv/297257</guid>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дрон на службе ГРУ. Как российские спецслужбы организовали (и провалили) диверсию в аэропорту Лейпцига</title>
+      <link>https://theins.ru/inv/297778</link>
+      <guid isPermaLink="false">https://theins.ru/inv/297778</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
