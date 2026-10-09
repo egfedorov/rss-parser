@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 09 Oct 2026 06:20:15 +0000</lastBuildDate>
-    <item>
-      <title>Музыканты, мастера и креативные пространства: как Петербург меняет культурную среду</title>
-      <link>https://mr-7.ru/articles/2026/08/22/muzykanty-mastera-i-kreativnye-prostranstva-kak-peterburg-meniaet-kulturnuiu-sredu</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/22/muzykanty-mastera-i-kreativnye-prostranstva-kak-peterburg-meniaet-kulturnuiu-sredu</guid>
-      <enclosure url="https://mr-7.ru/static/records/2300b955f07a46b8bb8ff3b1fb670a04.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 22 Aug 2026 15:46:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Oct 2026 13:31:22 +0000</lastBuildDate>
     <item>
       <title>В кулуарах бюрократии — из-за «опечатки» 20-летней давности петербурженка лишилась паспорта</title>
       <link>https://mr-7.ru/articles/2026/08/26/v-kuluarakh-biurokratii-iz-za-opechatki-20-letnei-davnosti-peterburzhenka-lishilas-pasporta</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/10/08/obvineniia-byvshemu-press-sekretariu-peterburgskogo-glavka-viacheslavu-stepchenko-oglasiat-bez-slushatelei</guid>
       <enclosure url="https://mr-7.ru/static/records/5fc6f935f78144abb6f5c7ae225b48dc.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 08 Oct 2026 09:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 поводов выйти из дома 10-11 октября</title>
+      <link>https://mr-7.ru/articles/2026/10/09/7-povodov-vyiti-iz-doma-10-11-oktiabria</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/10/09/7-povodov-vyiti-iz-doma-10-11-oktiabria</guid>
+      <enclosure url="https://mr-7.ru/static/records/00cc07d6a9c04651b18ea7bb133169f6.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 09 Oct 2026 12:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

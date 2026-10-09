@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 09 Oct 2026 06:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 13:31:04 +0000</lastBuildDate>
     <item>
       <title>Битва за прошлое. В Тбилиси сносят символ эпохи Саакашвили</title>
       <link>https://www.bbc.com/russian/articles/c9356k4vlrpo</link>
@@ -150,21 +150,14 @@
       <title>Видео,Почему протестуют французские школьники? | Видеоподкаст «Что это было?», Продолжительность 35,09</title>
       <link>https://www.bbc.com/russian/articles/cmwyv5y0xgp1o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmwyv5y0xgp1o</guid>
-      <pubDate>Fri, 09 Oct 2026 06:20:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Снайперы и минометные обстрелы. Как дети в Йемене ходят в школу рядом с линией фронта</title>
-      <link>https://www.bbc.com/russian/articles/c69qzlw49g7xo</link>
-      <description>Воспользовавшись редкой возможностью попасть в Таиз, Всемирная служба Би-би-си пообщалась с детьми, учителями и семьями, пострадавшими от боевых действий между хуситами и правительственными войсками в Йемене.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c69qzlw49g7xo</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 13:31:04 +0000</pubDate>
     </item>
     <item>
       <title>Видео,«Путин не понимает, что у человека есть права». Одно из последних интервью Анны Политковской, Продолжительность 28,57</title>
       <link>https://www.bbc.com/russian/articles/cmkgqlezdqr7o</link>
       <description>Би-би-си публикует ранее не изданное на русском языке видео из архивов в 20-ю годовщину убийства журналистки.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmkgqlezdqr7o</guid>
-      <pubDate>Fri, 09 Oct 2026 06:20:02 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 13:31:04 +0000</pubDate>
     </item>
     <item>
       <title>Нападение 7 октября: жители кибуца Нир-Оз, уничтоженного ХАМАС, хотят вернуться домой, но это непросто</title>
@@ -197,8 +190,15 @@
     <item>
       <title>Можно ли разбить пробирку? Этот и другие вопросы о смерти сотрудницы противочумного института</title>
       <link>https://www.bbc.com/russian/articles/c3vgx5gjrnd2o</link>
+      <description>После смерти сотрудницы Иркутского противочумного института Дарьи Шипиловой появились сообщения о возможном заражении чумой. Зачем сегодня нужны такие институты, может ли разбитая пробирка привести к заражению и есть ли риск эпидемии? Би-би-си вместе с учеными отвечает на пять вопросов о чуме, лабораторной безопасности и том, почему эта история привлекла международное внимание.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3vgx5gjrnd2o</guid>
-      <pubDate>Fri, 09 Oct 2026 06:20:02 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Россия усилила атаки реактивными «Геранями». Это новый этап «войны городов». Как может защититься Украина?</title>
+      <link>https://www.bbc.com/russian/articles/cmzxl5rkqvgzo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmzxl5rkqvgzo</guid>
+      <pubDate>Fri, 09 Oct 2026 13:31:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
