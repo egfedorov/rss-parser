@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 09 Oct 2026 00:11:51 +0000</lastBuildDate>
-    <item>
-      <title>В Краматорске после удара ВС РФ по двум рейсовым автобусам погибли 33 человека</title>
-      <link>https://mostmedia.org/ru/posts/v-kramatorske-pri-udare-po-dvum-reysovym-avtobusam-pogibli-30-chelovek</link>
-      <description>Еще 18 жителей Украины получили ранения. Удар стал самым смертоносным для города с апреля 2022 года.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/v-kramatorske-pri-udare-po-dvum-reysovym-avtobusam-pogibli-30-chelovek</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/d/c/b/c/d/dcbcd212c98ab9a447ecc3b451a674b7.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 08 Oct 2026 17:47:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Oct 2026 06:20:06 +0000</lastBuildDate>
     <item>
       <title>Украина второй раз за войну атаковала НПЗ в Западной Сибири</title>
       <link>https://mostmedia.org/ru/posts/bespilotniki-atakovali-omskuju-oblast-dron-dostig-promyshlennogo-uzla-s-omskim-npz</link>
@@ -41,19 +33,19 @@
       <pubDate>Thu, 08 Oct 2026 18:34:00 +0000</pubDate>
     </item>
     <item>
-      <title>РКН запретил ставшую популярной антиутопию про Россию. По книге в стране стоит вечная зима, а несогласных сажают в морозильные камеры</title>
-      <link>https://mostmedia.org/ru/posts/roskomnadzor-zapretil-dva-romana-olgi-pticevoi-odin-iz-nih-popal-v-dlinnyi-spisok-premii-chitatelja</link>
-      <description>Под давлением структуры из продажи изъяты книги писательницы Ольги Птицевой «Двести третий день зимы» и «Весна воды».</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/roskomnadzor-zapretil-dva-romana-olgi-pticevoi-odin-iz-nih-popal-v-dlinnyi-spisok-premii-chitatelja</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/4/6/b/1/0/46b108fdfbba24770f97f0d0d19b015a.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 08 Oct 2026 18:37:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Матрешка» запустила новые фейки против западноевропейских политиков</title>
       <link>https://mostmedia.org/ru/posts/matreshka-zapustila-feyki-protiv-makrona-i-merca</link>
       <description>Кремлёвская бот-сеть «Матрёшка» обвиняет канцлера ФРГ Фридриха Мерца в коррупции, а президента Франции Эмманюэля Макрона — в токсичной маскулинности и использовании ИИ в официальных видео.</description>
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/matreshka-zapustila-feyki-protiv-makrona-i-merca</guid>
       <enclosure url="https://mostmedia.org/uploads/ogimages/6/4/0/a/5/640a584c780cbfe188a086cf104670dc.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 08 Oct 2026 18:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>РКН запретил ставшую популярной антиутопию про Россию. По книге в стране стоит вечная зима, а несогласных сажают в морозильные камеры</title>
+      <link>https://mostmedia.org/ru/posts/roskomnadzor-zapretil-dva-romana-olgi-pticevoi-odin-iz-nih-popal-v-dlinnyi-spisok-premii-chitatelja</link>
+      <description>Под давлением структуры из продажи изъяты книги писательницы Ольги Птицевой «Двести третий день зимы» и «Весна воды».</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/roskomnadzor-zapretil-dva-romana-olgi-pticevoi-odin-iz-nih-popal-v-dlinnyi-spisok-premii-chitatelja</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/4/6/b/1/0/46b108fdfbba24770f97f0d0d19b015a.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 08 Oct 2026 18:37:00 +0000</pubDate>
     </item>
     <item>
@@ -79,6 +71,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/juzhnaja-koreja-zajavila-chto-otzovet-posla-iz-ukrainy-posle-spora-o-plennyh-iz-kndr</guid>
       <enclosure url="https://mostmedia.org/uploads/ogimages/3/3/7/9/2/3379266ea3366f0fdb7f63e612a6a6ce.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 08 Oct 2026 19:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Суд в Москве приговорил члена «Яблока» к четырём годам колонии по делу о переводах ФБК</title>
+      <link>https://mostmedia.org/ru/posts/sud-v-moskve-prigovoril-chlena-jabloka-k-chetyrem-godam-kolonii-po-delu-o-perevodah-fbk</link>
+      <description>Симоновский суд Москвы приговорил к четырём годам колонии 60-летнюю Елену Перепелицу, члена московского отделения «Яблока», признав её виновной в финансировании экстремистской организации. По данным дела, в 2021 и 2022 годах она семь раз перевела Фонду борьбы с коррупцией по 500 рублей — всего 3500 рублей.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/sud-v-moskve-prigovoril-chlena-jabloka-k-chetyrem-godam-kolonii-po-delu-o-perevodah-fbk</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/b/2/b/f/0/b2bf02583af06c0699adcbe1ff3b6ebd.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 09 Oct 2026 09:04:00 +0000</pubDate>
     </item>
     <item>
       <title>«Выглядеть гетеросексуально — это моя защита». Как квир-женщины в России вступают в брак с мужчинами, чтобы выжить</title>
