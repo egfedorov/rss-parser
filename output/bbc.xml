@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:31:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 18:59:14 +0000</lastBuildDate>
     <item>
       <title>Битва за прошлое. В Тбилиси сносят символ эпохи Саакашвили</title>
       <link>https://www.bbc.com/russian/articles/c9356k4vlrpo</link>
@@ -147,17 +147,11 @@
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Видео,Почему протестуют французские школьники? | Видеоподкаст «Что это было?», Продолжительность 35,09</title>
-      <link>https://www.bbc.com/russian/articles/cmwyv5y0xgp1o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmwyv5y0xgp1o</guid>
-      <pubDate>Fri, 09 Oct 2026 13:31:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Видео,«Путин не понимает, что у человека есть права». Одно из последних интервью Анны Политковской, Продолжительность 28,57</title>
       <link>https://www.bbc.com/russian/articles/cmkgqlezdqr7o</link>
       <description>Би-би-си публикует ранее не изданное на русском языке видео из архивов в 20-ю годовщину убийства журналистки.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmkgqlezdqr7o</guid>
-      <pubDate>Fri, 09 Oct 2026 13:31:04 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 18:59:14 +0000</pubDate>
     </item>
     <item>
       <title>Нападение 7 октября: жители кибуца Нир-Оз, уничтоженного ХАМАС, хотят вернуться домой, но это непросто</title>
@@ -195,10 +189,17 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Нельзя прогибаться под Путина» или «договариваться обо всем на свете»? Как в Украине спорят о переговорах с Россией</title>
+      <link>https://www.bbc.com/russian/articles/c9gkvx2m452no</link>
+      <description>На фоне все более жестоких российских ударов по Украине в стране развернулась общественная дискуссия, в ходе которой некоторые политики призвали к трудным компромиссам с Россией, а другие ответили, что никакие уступки не заставят Владимира Путина отказаться от идеи полностью подчинить себе Украину.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c9gkvx2m452no</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Россия усилила атаки реактивными «Геранями». Это новый этап «войны городов». Как может защититься Украина?</title>
       <link>https://www.bbc.com/russian/articles/cmzxl5rkqvgzo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmzxl5rkqvgzo</guid>
-      <pubDate>Fri, 09 Oct 2026 13:31:04 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 18:59:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

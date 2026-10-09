@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:31:15 +0000</lastBuildDate>
-    <item>
-      <title>Вакуум силы. Как Трамп разрушает архитектуру безопасности на Балканах</title>
-      <link>https://theins.ru/politika/294195</link>
-      <guid isPermaLink="false">https://theins.ru/politika/294195</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Oct 2026 18:59:24 +0000</lastBuildDate>
     <item>
       <title>Одной ногой в НАТО: как Украина встраивается в военно-промышленный комплекс Европы</title>
       <link>https://theins.ru/politika/294421</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/politika/297813</link>
       <guid isPermaLink="false">https://theins.ru/politika/297813</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ВИЧ-бумеранг: как закрытие Трампом программ по борьбе со СПИДом в ЮАР угрожает самим США</title>
+      <link>https://theins.ru/politika/297750</link>
+      <guid isPermaLink="false">https://theins.ru/politika/297750</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

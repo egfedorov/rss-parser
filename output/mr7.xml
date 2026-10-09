@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:31:22 +0000</lastBuildDate>
-    <item>
-      <title>В кулуарах бюрократии — из-за «опечатки» 20-летней давности петербурженка лишилась паспорта</title>
-      <link>https://mr-7.ru/articles/2026/08/26/v-kuluarakh-biurokratii-iz-za-opechatki-20-letnei-davnosti-peterburzhenka-lishilas-pasporta</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/26/v-kuluarakh-biurokratii-iz-za-opechatki-20-letnei-davnosti-peterburzhenka-lishilas-pasporta</guid>
-      <enclosure url="https://mr-7.ru/static/records/b756879f66834eceb6afa0e6a986f097.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 26 Aug 2026 08:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Лаборатории, новые классы и бережная реконструкция: как обновляют школы и детсады Адмиралтейского района</title>
-      <link>https://mr-7.ru/articles/2026/08/26/laboratorii-novye-klassy-i-berezhnaia-rekonstruktsiia-kak-obnovliaiut-shkoly-i-detsady-admiralteiskogo-raiona</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/26/laboratorii-novye-klassy-i-berezhnaia-rekonstruktsiia-kak-obnovliaiut-shkoly-i-detsady-admiralteiskogo-raiona</guid>
-      <enclosure url="https://mr-7.ru/static/records/c1a5524c42034b61b5eab40a6af468e8.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 26 Aug 2026 08:30:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Oct 2026 18:59:28 +0000</lastBuildDate>
     <item>
       <title>От перемещения расширения пробки не меняются? Почему местные не рады улучшению Дороги жизни во Всеволожске</title>
       <link>https://mr-7.ru/articles/2026/08/26/ot-peremeshcheniia-rasshireniia-probki-ne-meniaiutsia-pochemu-mestnye-ne-rady-uluchsheniiu-dorogi-zhizni-vo-vsevolozhske</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/10/09/7-povodov-vyiti-iz-doma-10-11-oktiabria</guid>
       <enclosure url="https://mr-7.ru/static/records/00cc07d6a9c04651b18ea7bb133169f6.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 09 Oct 2026 12:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Семь фолк-групп из Петербурга, которые оживляют народную музыку на современной сцене</title>
+      <link>https://mr-7.ru/articles/2026/10/09/sem-folk-grupp-iz-peterburga-kotorye-ozhivliaiut-narodnuiu-muzyku-na-sovremennoi-stsene</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/10/09/sem-folk-grupp-iz-peterburga-kotorye-ozhivliaiut-narodnuiu-muzyku-na-sovremennoi-stsene</guid>
+      <enclosure url="https://mr-7.ru/static/records/5c21862a8c6b46cb8ac826dbc3f0d016.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 09 Oct 2026 13:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Это тоже Петербург: Коломяги</title>
+      <link>https://mr-7.ru/articles/2026/10/09/eto-tozhe-peterburg-kolomiagi</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/10/09/eto-tozhe-peterburg-kolomiagi</guid>
+      <enclosure url="https://mr-7.ru/static/records/9baffbbc7eaa4007bc089d20603670f1.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 09 Oct 2026 16:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
