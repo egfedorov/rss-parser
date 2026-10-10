@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 10 Oct 2026 08:58:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 15:13:31 +0000</lastBuildDate>
     <item>
       <title>Битва за прошлое. В Тбилиси сносят символ эпохи Саакашвили</title>
       <link>https://www.bbc.com/russian/articles/c9356k4vlrpo</link>
@@ -141,24 +141,11 @@
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Алиев: «Нам никто не помог». Может ли Израиль разлучить Баку и Анкару?</title>
-      <link>https://www.bbc.com/russian/articles/cmy4xpdk4153o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmy4xpdk4153o</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Видео,«Путин не понимает, что у человека есть права». Одно из последних интервью Анны Политковской, Продолжительность 28,57</title>
       <link>https://www.bbc.com/russian/articles/cmkgqlezdqr7o</link>
       <description>Би-би-си публикует ранее не изданное на русском языке видео из архивов в 20-ю годовщину убийства журналистки.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmkgqlezdqr7o</guid>
-      <pubDate>Sat, 10 Oct 2026 08:58:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Нападение 7 октября: жители кибуца Нир-Оз, уничтоженного ХАМАС, хотят вернуться домой, но это непросто</title>
-      <link>https://www.bbc.com/russian/articles/cm62y94l24ldo</link>
-      <description>В опустевшей столовой кибуца Нир-Оз теперь воркуют птицы, устроившиеся среди потолочных панелей. Когда-то здесь кипела жизнь сплоченной израильской общины из 400 человек, практически уничтоженной в результате нападения ХАМАС и других вооруженных группировок 7 октября 2023 года.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm62y94l24ldo</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 15:13:31 +0000</pubDate>
     </item>
     <item>
       <title>«Как в фильме-катастрофе». Чем грозит побережью и жителям Сочи пожар на атакованном танкере</title>
@@ -166,13 +153,6 @@
       <description>Вечером 6 октября у берегов Сочи, казалось, горит само море: на фоне заката над танкером поднимался черный столб дыма. К утру огонь потушили, и власти заявили, что загрязнения акватории нет. Но экологи предупреждают: опасные продукты горения могли остаться в воздухе и выпадут на землю вместе с прогнозируемыми дождями.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwd09g04yky0o</guid>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Венгрия снимает вето на переговоры Украины с ЕС. На какие уступки пойдет Киев?</title>
-      <link>https://www.bbc.com/russian/articles/cq9vznv3wnddo</link>
-      <description>Принятие закона о языке обучения нацменьшинств может завершить эру прохладных отношений между Киевом и Будапештом, которая продолжалась при премьерстве Виктора Орбана и мешала европейской интеграции Украины.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq9vznv3wnddo</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Наследники Золотой Орды. Как и зачем Казахстан при президенте Токаеве проводит «ребрендинг» своей истории</title>
@@ -196,10 +176,17 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Алиев: «Нам никто не помог». Может ли Израиль разлучить Баку и Анкару?</title>
+      <link>https://www.bbc.com/russian/articles/cmy4xpdk4153o</link>
+      <description>«Две страны — один народ». С таким лозунгом в Азербайджане жили с 90-х, видя в Турции военного и политического союзника. Президент Ильхам Алиев много раз благодарил Турцию за поддержку в войне в Карабахе, а в Баку развевались флаги Турции. Но война Израиля в Газе показала, насколько разнятся интересы Баку и Анкары. Почему так получилось?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmy4xpdk4153o</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Россия усилила атаки реактивными «Геранями». Это новый этап «войны городов». Как может защититься Украина?</title>
       <link>https://www.bbc.com/russian/articles/cmzxl5rkqvgzo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmzxl5rkqvgzo</guid>
-      <pubDate>Sat, 10 Oct 2026 08:58:41 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 15:13:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
