@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 10 Oct 2026 02:25:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:58:48 +0000</lastBuildDate>
     <item>
       <title>Россия просит США снять санкции в обмен на отказ от ударов по украинской энергетике</title>
       <link>https://mostmedia.org/ru/posts/rossia-prosit-ssha-snjat-sankcii-v-obmen-na-otkaz-ot-udarov-po-ukrainskoi-energetike</link>
@@ -33,6 +33,14 @@
       <pubDate>Sat, 10 Oct 2026 01:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>ИИ-стартап Flock Safety, разрабатывающий системы слежки для силовиков, сократит около 18% сотрудников</title>
+      <link>https://mostmedia.org/ru/posts/flock-safety-sokratit-okolo-18-sotrudnikov-posle-programmy-dobrovolnogo-uhoda</link>
+      <description>Американский стартап Flock Safety планирует сократить примерно 270 человек после критики по поводу сотрудничества с силовыми структурами</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/flock-safety-sokratit-okolo-18-sotrudnikov-posle-programmy-dobrovolnogo-uhoda</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/7/d/1/5/1/7d1517a91164761a7b1ec7d9ce0eaefa.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 10 Oct 2026 01:36:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Куртку Майкла Джексона из клипа Thriller выставят на аукцион в Абу-Даби</title>
       <link>https://mostmedia.org/ru/posts/kurtku-maikla-dzhexona-iz-klipa-thriller-vystavjat-na-aukcion-v-abu-dabi</link>
       <description>Куртку Майкла Джексона из клипа Thriller выставят на аукцион в Абу-Даби. Оценочная стоимость лота составляет от $200 000 до $400 000.</description>
@@ -41,17 +49,9 @@
       <pubDate>Sat, 10 Oct 2026 01:36:00 +0000</pubDate>
     </item>
     <item>
-      <title>Flock Safety сократит около 18% сотрудников после программы добровольного ухода</title>
-      <link>https://mostmedia.org/ru/posts/flock-safety-sokratit-okolo-18-sotrudnikov-posle-programmy-dobrovolnogo-uhoda</link>
-      <description>Американский стартап Flock Safety планирует сократить около 18% сотрудников — примерно 270 человек — после программы добровольного ухода. Увольнения должны пройти к концу месяца.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/flock-safety-sokratit-okolo-18-sotrudnikov-posle-programmy-dobrovolnogo-uhoda</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/0/f/4/5/e/0f45eb497995b1844e8747e5a0b7e9d6.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 10 Oct 2026 01:36:00 +0000</pubDate>
-    </item>
-    <item>
       <title>В БПЛА «Герань-4» заметили 32-элементную CRPA-антенну</title>
       <link>https://mostmedia.org/ru/posts/v-bpla-geran-4-zametili-32-elementnuju-crpa-antennu</link>
-      <description>В Telegram-каналах появились фото 32-элементной CRPA-антенны, снятой с упавшего в Украине БПЛА «Герань-4». По оценке The Insider, антенна очень похожа на изделие Harxon и указывает на связь с «Алабугой».</description>
+      <description>В Telegram-каналах появились По оценке The Insider, антенна очень похожа на изделие китайской компании Harxon и указывает на связь с «Алабугой».</description>
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/v-bpla-geran-4-zametili-32-elementnuju-crpa-antennu</guid>
       <enclosure url="https://mostmedia.org/uploads/ogimages/e/d/9/e/8/ed9e8ea39930429370df82dc03d0dc74.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 10 Oct 2026 01:39:00 +0000</pubDate>
@@ -73,11 +73,11 @@
       <pubDate>Sat, 10 Oct 2026 01:48:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ави Гиль заявил, что часть заложников могли освободить раньше, и рассказал о попытке изменить стенограмму 7 октября</title>
+      <title>Бывший военный секретарь Нетаньяху: часть израильских заложников в Газе погибла из-за политических соображений</title>
       <link>https://mostmedia.org/ru/posts/avi-gil-zajavil-chto-chast-zalozhnikov-mogli-osvobodit-ranshe-i-rasskazal-o-popytke-izmenit-stenogrammu-7-oktjabrja</link>
-      <description>Бывший военный секретарь премьер-министра Израиля Биньямина Нетаньяху генерал-майор запаса Ави Гиль в интервью 12-му каналу израильского телевидения заявил, что некоторые заложники в Газе погибли из-за политических соображений, хотя их можно было освободить раньше. Он также рассказал о попытке изменить стенограмму его разговора с Нетаньяху утром 7 октября 2023 года.</description>
+      <description>Бывший военный секретарь премьер-министра Израиля Биньямина Нетаньяху генерал-майор запаса Ави Гиль в интервью 12-му каналу израильского телевидения заявил, что некоторых заложников в Газе можно было освободить раньше.</description>
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/avi-gil-zajavil-chto-chast-zalozhnikov-mogli-osvobodit-ranshe-i-rasskazal-o-popytke-izmenit-stenogrammu-7-oktjabrja</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/5/9/5/6/5/59565ffb03468585e5967d39bce48acf.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/e/8/b/c/5/e8bc54e91b456f0f446f8be2cc711f53.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 10 Oct 2026 01:51:00 +0000</pubDate>
     </item>
     <item>

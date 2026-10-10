@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 10 Oct 2026 02:25:38 +0000</lastBuildDate>
-    <item>
-      <title>«Там территория все время шевелится»&amp;nbsp; — В Приморье решили строить АЭС, но площадку под строительство выбрали на «живом» геологическом разломе</title>
-      <link>https://novayagazeta.ru/articles/2026/04/24/tam-territoriia-vse-vremia-shevelitsia</link>
-      <description>В Приморье решили строить АЭС, но площадку под строительство выбрали на «живом» геологическом разломе</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/04/24/tam-territoriia-vse-vremia-shevelitsia</guid>
-      <pubDate>Fri, 24 Apr 2026 07:16:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 10 Oct 2026 08:58:53 +0000</lastBuildDate>
     <item>
       <title>Из «принципа гуманизма» — Чтобы оставить онкобольного политзэка Самсонова за решеткой, кассация во Владивостоке проигнорировала даже решение ВС</title>
       <link>https://novayagazeta.ru/articles/2026/04/25/iz-printsipa-gumanizma</link>
@@ -287,6 +280,13 @@
       <description>Медведей на Дальнем Востоке отпугивают электроизгородью и трехэтажным матом</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/03/stoluetsia-na-svalkakh-i-v-kuriatnikakh</guid>
       <pubDate>Sat, 03 Oct 2026 08:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сентябрьские доносы — Приморцы продолжают жаловаться силовикам в заблокированный телеграм</title>
+      <link>https://novayagazeta.ru/articles/2026/10/10/sentiabrskie-donosy</link>
+      <description>Приморцы продолжают жаловаться силовикам в заблокированный телеграм</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/10/sentiabrskie-donosy</guid>
+      <pubDate>Sat, 10 Oct 2026 08:14:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
