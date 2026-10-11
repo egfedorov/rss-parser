@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 11 Oct 2026 14:44:49 +0000</lastBuildDate>
-    <item>
-      <title>Полиция Польши заявила, что на главу правительства и министра обороны могло готовиться покушение</title>
-      <link>https://mostmedia.org/ru/posts/v-policiju-polshi-postupila-informacia-o-vozmozhnom-pokushenii-na-tuska-i-kosinjaka-kamysha</link>
-      <description>В Варшаве намечена экстренная встречу сотрудников контрразведки ABW и представителей подчиненных МВД и администрации служб.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/v-policiju-polshi-postupila-informacia-o-vozmozhnom-pokushenii-na-tuska-i-kosinjaka-kamysha</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/e/e/e/4/9/eee4918e1c75aa5062a2a7d60e370d60.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 11 Oct 2026 12:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FT: спецслужбы России готовы убивать руководителей оборонных компаний Европы</title>
-      <link>https://mostmedia.org/ru/posts/ft-specsluzhby-rossii-usilili-podgotovku-pokusheny-na-rukovoditeley-oboronnyh-kompany-evropy</link>
-      <description>По данным издания со ссылками на пять национальных разведок, агенты Кремля расширяют свои гибридные операции в ЕС, стремясь ослабить поддержку Украины.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/ft-specsluzhby-rossii-usilili-podgotovku-pokusheny-na-rukovoditeley-oboronnyh-kompany-evropy</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/c/e/b/b/e/cebbe5ca6807b139d19da0af92f06959.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 11 Oct 2026 12:55:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Oct 2026 19:23:35 +0000</lastBuildDate>
     <item>
       <title>Конгресс США вопреки воле Дональда Трампа может запретить любые покупки российской нефти</title>
       <link>https://mostmedia.org/ru/posts/v-kongresse-ssha-gotovjat-zapret-na-zakupki-rossyskoi-nefti-posle-snjatia-trampom-sankcy-s-dizelnogo-topliva</link>
@@ -65,19 +49,19 @@
       <pubDate>Sun, 11 Oct 2026 13:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>В Кирове возбудили дело против блогера-юриста. По официальной версии, он ударил на улице сотрудника ФСИН</title>
-      <link>https://mostmedia.org/ru/posts/v-kirove-vozbudili-delo-o-nasilii-protiv-jurista-i-blogera-antona-dolgih</link>
-      <description>Антон Долгих стал известен благодаря видеоблогу с 1,5 млн подписчиков, где он критиковал власти, произвол силовиков и судебную систему.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/v-kirove-vozbudili-delo-o-nasilii-protiv-jurista-i-blogera-antona-dolgih</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/4/d/c/8/0/4dc805304e92620d0b64118d8bbf9627.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 11 Oct 2026 13:56:00 +0000</pubDate>
-    </item>
-    <item>
       <title>От удара ВС РФ по Запорожью погибли 23 человека. Среди них три школьницы и три поколения одной семьи</title>
       <link>https://mostmedia.org/ru/posts/pri-udare-po-zaporozhju-pogibli-23-cheloveka-sredi-nih-tri-shkolnicy-i-tri-pokolenia-odnoi-semi</link>
       <description>Атака российской армии против Украины от 10 октября снова обернулась крупным числом жертв среди гражданского населения.</description>
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/pri-udare-po-zaporozhju-pogibli-23-cheloveka-sredi-nih-tri-shkolnicy-i-tri-pokolenia-odnoi-semi</guid>
       <enclosure url="https://mostmedia.org/uploads/ogimages/c/9/4/b/f/c94bfcc4f06de9cca0bb01eb7a594fbb.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 11 Oct 2026 13:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Кирове возбудили дело против блогера-юриста. По официальной версии, он ударил на улице сотрудника ФСИН</title>
+      <link>https://mostmedia.org/ru/posts/v-kirove-vozbudili-delo-o-nasilii-protiv-jurista-i-blogera-antona-dolgih</link>
+      <description>Антон Долгих стал известен благодаря видеоблогу с 1,5 млн подписчиков, где он критиковал власти, произвол силовиков и судебную систему.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/v-kirove-vozbudili-delo-o-nasilii-protiv-jurista-i-blogera-antona-dolgih</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/4/d/c/8/0/4dc805304e92620d0b64118d8bbf9627.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 11 Oct 2026 13:56:00 +0000</pubDate>
     </item>
     <item>
@@ -87,6 +71,22 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/vagon-raskachivaetsja-no-ne-edet-osobennosti-nacionalnogo-vranja</guid>
       <enclosure url="https://mostmedia.org/uploads/files/7/3/a/0/1/73a0115761fc905f61db5796f5151643.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 06 Oct 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Киеве не подтвердили своего «энергетического перемирия» с Москвой, о котором ранее заявил Дональд Трамп</title>
+      <link>https://mostmedia.org/ru/posts/v-kieve-ne-podtverdili-energeticheskoe-peremirie-o-kotorom-skazal-tramp</link>
+      <description>Financial Times заявляет, что никто в украинском руководстве ничего не знает о каких-либо соглашениях с российскими коллегами насчет ограничения взаимных воздушных ударов.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/v-kieve-ne-podtverdili-energeticheskoe-peremirie-o-kotorom-skazal-tramp</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/0/d/9/d/9/0d9d9b94e21bcc719f7cd5234cf175e0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 11 Oct 2026 17:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Владимир Зеленский готов провести выборы президента Украины — при условии, что Россия согласится на два месяца перемирия</title>
+      <link>https://mostmedia.org/ru/posts/zelensky-zajavil-o-gotovnosti-provesti-vybory-pri-60-dnevnom-prekrashenii-ognja</link>
+      <description>Глава государства заявил в интервью ABC News, что согласен на выборы, если Кремль пойдет на двустороннее прекращение огня.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/zelensky-zajavil-o-gotovnosti-provesti-vybory-pri-60-dnevnom-prekrashenii-ognja</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/9/8/8/0/8/98808892f67a96f63c3f7c48db591b3d.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 11 Oct 2026 17:57:00 +0000</pubDate>
     </item>
     <item>
       <title>Апартеид, геноцид, оккупация: насколько справедливы обвинения западной общественности в адрес Израиля</title>
