@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 12 Oct 2026 02:29:18 +0000</lastBuildDate>
-    <item>
-      <title>«Не-не, брат, снимать не надо, мы хотим спокойно поскорбеть» — Репортаж с места крушения самолета с основателями ЧВК «Вагнер» Пригожиным и Уткиным во вторую годовщину их гибели</title>
-      <link>https://novayagazeta.ru/articles/2025/08/23/ne-ne-brat-snimat-ne-nado-my-khotim-spokoino-poskorbet</link>
-      <description>Репортаж с места крушения самолета с основателями ЧВК «Вагнер» Пригожиным и Уткиным во вторую годовщину их гибели</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/08/23/ne-ne-brat-snimat-ne-nado-my-khotim-spokoino-poskorbet</guid>
-      <pubDate>Sat, 23 Aug 2025 15:29:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Oct 2026 09:44:07 +0000</lastBuildDate>
     <item>
       <title>«Инфраструктура канала была многократно взорвана» — Эколог Евгений Симонов* — о нехватке воды в Донбассе и ее загрязненности</title>
       <link>https://novayagazeta.ru/articles/2025/09/09/infrastruktura-kanala-byla-mnogokratno-vzorvana</link>
@@ -287,6 +280,13 @@
       <description>В Белгороде дроны летают едва ли не каждый день. Но местные жители признаются, что даже они готовы не ко всему</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/09/my-srazu-gotovilis-k-khudshemu-variantu</guid>
       <pubDate>Fri, 09 Oct 2026 09:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Мне писали: «Вы, «яблочники», не достойны жить» — Экс-кандидат в Госдуму от «Яблока» Илья Костюков — о работе военным юристом, угрозах и отъезде из страны</title>
+      <link>https://novayagazeta.ru/articles/2026/10/12/mne-pisali-vy-iablochniki-ne-dostoiny-zhit</link>
+      <description>Экс-кандидат в Госдуму от «Яблока» Илья Костюков — о работе военным юристом, угрозах и отъезде из страны</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/12/mne-pisali-vy-iablochniki-ne-dostoiny-zhit</guid>
+      <pubDate>Mon, 12 Oct 2026 07:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

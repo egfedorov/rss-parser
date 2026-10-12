@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 12 Oct 2026 02:29:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:44:04 +0000</lastBuildDate>
     <item>
       <title>Битва за прошлое. В Тбилиси сносят символ эпохи Саакашвили</title>
       <link>https://www.bbc.com/russian/articles/c9356k4vlrpo</link>
@@ -143,22 +143,21 @@
     <item>
       <title>«Как в фильме-катастрофе». Чем грозит побережью и жителям Сочи пожар на атакованном танкере</title>
       <link>https://www.bbc.com/russian/articles/cwd09g04yky0o</link>
-      <description>Вечером 6 октября у берегов Сочи, казалось, горит само море: на фоне заката над танкером поднимался черный столб дыма. К утру огонь потушили, и власти заявили, что загрязнения акватории нет. Но экологи предупреждают: опасные продукты горения могли остаться в воздухе и выпадут на землю вместе с прогнозируемыми дождями.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwd09g04yky0o</guid>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Наследники Золотой Орды. Как и зачем Казахстан при президенте Токаеве проводит «ребрендинг» своей истории</title>
-      <link>https://www.bbc.com/russian/articles/c68xzje78xk8o</link>
-      <description>Казахстан при президенте Касым-Жомарте Токаеве начал кампанию самостоятельного переосмысления и «ребрендинга» своей истории. Казахское государство теперь преподносится и внутри страны, и на международной арене как наследник Золотой Орды.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c68xzje78xk8o</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Можно ли разбить пробирку? Этот и другие вопросы о смерти сотрудницы противочумного института</title>
       <link>https://www.bbc.com/russian/articles/c3vgx5gjrnd2o</link>
       <description>После смерти сотрудницы Иркутского противочумного института Дарьи Шипиловой появились сообщения о возможном заражении чумой. Зачем сегодня нужны такие институты, может ли разбитая пробирка привести к заражению и есть ли риск эпидемии? Би-би-си вместе с учеными отвечает на пять вопросов о чуме, лабораторной безопасности и том, почему эта история привлекла международное внимание.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3vgx5gjrnd2o</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Наследники Золотой Орды. Как и зачем Казахстан при президенте Токаеве проводит «ребрендинг» своей истории</title>
+      <link>https://www.bbc.com/russian/articles/c68xzje78xk8o</link>
+      <description>Казахстан при президенте Касым-Жомарте Токаеве начал кампанию самостоятельного переосмысления и «ребрендинга» своей истории. Казахское государство теперь преподносится и внутри страны, и на международной арене как наследник Золотой Орды.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c68xzje78xk8o</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -174,6 +173,13 @@
       <description>Россия усилила комбинированные воздушные атаки по Украине, а эффективность украинской ПВО заметно снизилась. Почему российские реактивные дроны стали чаще достигать целей, как это может отразиться на ходе войны и как Украина собирается отвечать на новые угрозы?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmzxl5rkqvgzo</guid>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Аэростаты возвращаются на поле боя: как их использует Украина и могут ли они защитить мосты Киева?</title>
+      <link>https://www.bbc.com/russian/articles/cjr4y6qvpxdno</link>
+      <description>Технология, которой уже почти 250 лет, неожиданно стала востребованной в ходе современной российско-украинской войны. Как Украина и Россия пытаются использовать воздушные шары в бою?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cjr4y6qvpxdno</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
