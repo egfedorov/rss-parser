@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 12 Oct 2026 09:44:16 +0000</lastBuildDate>
-    <item>
-      <title>От перемещения расширения пробки не меняются? Почему местные не рады улучшению Дороги жизни во Всеволожске</title>
-      <link>https://mr-7.ru/articles/2026/08/26/ot-peremeshcheniia-rasshireniia-probki-ne-meniaiutsia-pochemu-mestnye-ne-rady-uluchsheniiu-dorogi-zhizni-vo-vsevolozhske</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/26/ot-peremeshcheniia-rasshireniia-probki-ne-meniaiutsia-pochemu-mestnye-ne-rady-uluchsheniiu-dorogi-zhizni-vo-vsevolozhske</guid>
-      <enclosure url="https://mr-7.ru/static/records/cd7f65c545e74357b49153e01536d2dd.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 26 Aug 2026 09:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Приговорить к трём и четырём годам лишения свободы просят обвиняемых по делу об осквернении «Блокадного трамвая»</title>
-      <link>https://mr-7.ru/articles/2026/08/26/prigovorit-k-trem-i-chetyrem-godam-lisheniia-svobody-prosiat-obviniaemykh-po-delu-ob-oskvernenii-blokadnogo-tramvaia</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/08/26/prigovorit-k-trem-i-chetyrem-godam-lisheniia-svobody-prosiat-obviniaemykh-po-delu-ob-oskvernenii-blokadnogo-tramvaia</guid>
-      <enclosure url="https://mr-7.ru/static/records/53cfa1e6bfc94e06830a249812414570.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 26 Aug 2026 12:13:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Oct 2026 19:40:54 +0000</lastBuildDate>
     <item>
       <title>7 поводов выйти из дома 29-30 августа</title>
       <link>https://mr-7.ru/articles/2026/08/28/7-povodov-vyiti-iz-doma-29-30-avgusta</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/10/09/eto-tozhe-peterburg-kolomiagi</guid>
       <enclosure url="https://mr-7.ru/static/records/9baffbbc7eaa4007bc089d20603670f1.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 09 Oct 2026 16:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Лучше вообще не издавать, чем выходить с чёрными квадратиками»: Дмитрий Яковлев о состоянии издательства «Бумкнига», ограничениях и будущем комиксов в России</title>
+      <link>https://mr-7.ru/articles/2026/10/12/luchshe-voobshche-ne-izdavat-chem-vykhodit-s-chernymi-kvadratikami-dmitrii-iakovlev-o-sostoianii-izdatelstva-bumkniga-ogranicheniiakh-i-budushchem-komiksov-v-rossii</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/10/12/luchshe-voobshche-ne-izdavat-chem-vykhodit-s-chernymi-kvadratikami-dmitrii-iakovlev-o-sostoianii-izdatelstva-bumkniga-ogranicheniiakh-i-budushchem-komiksov-v-rossii</guid>
+      <enclosure url="https://mr-7.ru/static/records/96fb9534f7ae4fe5ae66108fd7c075d7.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 12 Oct 2026 11:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Послание к человеку — 2026»: что покажут на ежегодном международном кинофестивале в Петербурге</title>
+      <link>https://mr-7.ru/articles/2026/10/12/poslanie-k-cheloveku-2026-chto-pokazhut-na-ezhegodnom-mezhdunarodnom-kinofestivale-v-peterburge</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/10/12/poslanie-k-cheloveku-2026-chto-pokazhut-na-ezhegodnom-mezhdunarodnom-kinofestivale-v-peterburge</guid>
+      <enclosure url="https://mr-7.ru/static/records/6a43c4ab90bb43a28b32a59a00bba671.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 12 Oct 2026 11:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 12 Oct 2026 09:44:08 +0000</lastBuildDate>
-    <item>
-      <title>«Привязали меня к дереву, говорят: “Ну все, сейчас тебя обнулять будут”. А рядом в яме уже 20–30 трупов лежат» — исповедь дезертира</title>
-      <link>https://theins.ru/confession/273225</link>
-      <guid isPermaLink="false">https://theins.ru/confession/273225</guid>
-      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Oct 2026 19:40:43 +0000</lastBuildDate>
     <item>
       <title>«72 дня меня били током, избивали, не давали есть и спать». Как российских зэков загоняют на «мясные штурмы»</title>
       <link>https://theins.ru/confession/275365</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/confession/297897</link>
       <guid isPermaLink="false">https://theins.ru/confession/297897</guid>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Поставили задачу: добиться, чтобы он признался, что он тоже ЛГБТ-персона». Исповедь трансдевушки, сбежавшей после вербовки ФСБ</title>
+      <link>https://theins.ru/confession/297336</link>
+      <guid isPermaLink="false">https://theins.ru/confession/297336</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
