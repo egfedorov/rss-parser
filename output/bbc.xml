@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 13 Oct 2026 09:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:00:01 +0000</lastBuildDate>
     <item>
       <title>Битва за прошлое. В Тбилиси сносят символ эпохи Саакашвили</title>
       <link>https://www.bbc.com/russian/articles/c9356k4vlrpo</link>
@@ -154,13 +154,6 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Россия усилила атаки реактивными «Геранями». Это новый этап «войны городов». Как может защититься Украина?</title>
-      <link>https://www.bbc.com/russian/articles/cmzxl5rkqvgzo</link>
-      <description>Россия усилила комбинированные воздушные атаки по Украине, а эффективность украинской ПВО заметно снизилась. Почему российские реактивные дроны стали чаще достигать целей, как это может отразиться на ходе войны и как Украина собирается отвечать на новые угрозы?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmzxl5rkqvgzo</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Алиев: «Нам никто не помог». Может ли Израиль разлучить Баку и Анкару?</title>
       <link>https://www.bbc.com/russian/articles/cmy4xpdk4153o</link>
       <description>«Две страны — один народ». С таким лозунгом в Азербайджане жили с 90-х, видя в Турции военного и политического союзника. Президент Ильхам Алиев много раз благодарил Турцию за поддержку в войне в Карабахе, а в Баку развевались флаги Турции. Но война Израиля в Газе показала, насколько разнятся интересы Баку и Анкары. Почему так получилось?</description>
@@ -180,6 +173,25 @@
       <description>Двое, уединившись в ванной, открыли краны и включили радио. Они боялись, что их будут подслушивать спецслужбы революционного исламского Ирана. Это была вторая встреча сотрудника британской разведки и его гостя в квартире на территории посольства Великобритании.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm1exz535zv3o</guid>
       <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Видео,Как Трамп заключил «перемирие» между Путиным и Зеленским без них | Видеоподкаст «Что это было?», Продолжительность 35,54</title>
+      <link>https://www.bbc.com/russian/articles/cmly0jwpqd2no</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmly0jwpqd2no</guid>
+      <pubDate>Tue, 13 Oct 2026 17:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Видео,Русофобия в Грузии – реальность или пропаганда? | Большой репортаж Би-би-си, Продолжительность 42,23</title>
+      <link>https://www.bbc.com/russian/articles/c9j34nd7drn7o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c9j34nd7drn7o</guid>
+      <pubDate>Tue, 13 Oct 2026 17:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Они большие, хорошо горят». Что происходит с дата-центрами российских компаний и почему на их защите может заработать сын генерала ФСБ</title>
+      <link>https://www.bbc.com/russian/articles/cwn8drkez9vpo</link>
+      <description>С 8 по 11 октября украинские дроны атаковали три дата-центра «Яндекса», вызвав перебои в работе его сервисов. Защиту от таких атак в отрасли искали заранее: еще с конца лета рос спрос на мобильные центры обработки данных. «Новостной фон благоприятный для новых продаж, — говорит собеседник Би-би-си на этом рынке, — даже чересчур».</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwn8drkez9vpo</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
