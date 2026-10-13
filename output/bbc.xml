@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 13 Oct 2026 01:53:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:05:40 +0000</lastBuildDate>
     <item>
       <title>Битва за прошлое. В Тбилиси сносят символ эпохи Саакашвили</title>
       <link>https://www.bbc.com/russian/articles/c9356k4vlrpo</link>
@@ -154,13 +154,6 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Алиев: «Нам никто не помог». Может ли Израиль разлучить Баку и Анкару?</title>
-      <link>https://www.bbc.com/russian/articles/cmy4xpdk4153o</link>
-      <description>«Две страны — один народ». С таким лозунгом в Азербайджане жили с 90-х, видя в Турции военного и политического союзника. Президент Ильхам Алиев много раз благодарил Турцию за поддержку в войне в Карабахе, а в Баку развевались флаги Турции. Но война Израиля в Газе показала, насколько разнятся интересы Баку и Анкары. Почему так получилось?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmy4xpdk4153o</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Россия усилила атаки реактивными «Геранями». Это новый этап «войны городов». Как может защититься Украина?</title>
       <link>https://www.bbc.com/russian/articles/cmzxl5rkqvgzo</link>
       <description>Россия усилила комбинированные воздушные атаки по Украине, а эффективность украинской ПВО заметно снизилась. Почему российские реактивные дроны стали чаще достигать целей, как это может отразиться на ходе войны и как Украина собирается отвечать на новые угрозы?</description>
@@ -168,11 +161,11 @@
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Быстрее «Формулы-1»: женщины опережают мужчин в самом экстремальном виде автоспорта</title>
-      <link>https://www.bbc.com/russian/articles/ckpqg9vx2v35o</link>
-      <description>Как будто тебя выстреливают из пушки — это ближайшая аналогия, которую может подобрать гонщица Сюзанна Каллин, описывая свой опыт в драг-рейсинге.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckpqg9vx2v35o</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Алиев: «Нам никто не помог». Может ли Израиль разлучить Баку и Анкару?</title>
+      <link>https://www.bbc.com/russian/articles/cmy4xpdk4153o</link>
+      <description>«Две страны — один народ». С таким лозунгом в Азербайджане жили с 90-х, видя в Турции военного и политического союзника. Президент Ильхам Алиев много раз благодарил Турцию за поддержку в войне в Карабахе, а в Баку развевались флаги Турции. Но война Израиля в Газе показала, насколько разнятся интересы Баку и Анкары. Почему так получилось?</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmy4xpdk4153o</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Аэростаты возвращаются на поле боя: как их использует Украина и могут ли они защитить мосты Киева?</title>
