@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 14 Oct 2026 00:56:37 +0000</lastBuildDate>
-    <item>
-      <title>Французские военные задержали еще один танкер из российского «теневого флота»</title>
-      <link>https://mostmedia.org/ru/posts/francuzskie-voennye-zaderzhali-tanker-df-peak-iz-rossyskogo-tenevogo-flota</link>
-      <description>Моряки остановили в Индийском океане транспорт DF Peak. После досмотра командование заявило, что их подозрения в незаконном использовании флага Бенина подтвердились.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/francuzskie-voennye-zaderzhali-tanker-df-peak-iz-rossyskogo-tenevogo-flota</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/2/e/1/7/d/2e17db6bdf077861e04c62f71a5d6c72.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 13 Oct 2026 18:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ФСБ задержала на Сахалине японского журналиста по подозрению в шпионаже</title>
-      <link>https://mostmedia.org/ru/posts/fsb-zaderzhala-na-sahaline-korrespondenta-hokkaido-simbun-po-podozreniju-v-shpionazhe</link>
-      <description>Корреспондента газеты «Хоккайдо Симбун» уже доставили в Москву, где Лефортовский суд отправил его под арест.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/fsb-zaderzhala-na-sahaline-korrespondenta-hokkaido-simbun-po-podozreniju-v-shpionazhe</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/b/8/8/c/0/b88c0cdc07538b7741a4373ea083754e.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 13 Oct 2026 18:31:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Oct 2026 05:58:02 +0000</lastBuildDate>
     <item>
       <title>К возможным ударам украинских сил готовятся уже на Камчатке</title>
       <link>https://mostmedia.org/ru/posts/kamchatka-utverdila-porjadok-vydelenia-deneg-na-avarynoe-vosstanovlenie-obektov-tek-i-zhkh</link>
@@ -57,19 +41,19 @@
       <pubDate>Tue, 13 Oct 2026 18:46:00 +0000</pubDate>
     </item>
     <item>
-      <title>Российские банки сообщили о миллионах запросов от приставов о счетах должников</title>
-      <link>https://mostmedia.org/ru/posts/nsfr-soobshil-o-millionah-zaprosov-fssp-k-bankam-o-schetah-dolzhnikov</link>
-      <description>В Национальном совете финансового рынка предупредили, что такой поток обращений может поставить под угрозу финансовую устойчивость отдельных банков.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/nsfr-soobshil-o-millionah-zaprosov-fssp-k-bankam-o-schetah-dolzhnikov</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/8/8/6/4/4/88644ce26187b36bc914f3bea5e17ff8.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 13 Oct 2026 18:49:00 +0000</pubDate>
-    </item>
-    <item>
       <title>В России отчисленным «за дисциплину» студентам могут запретить возвращаться в вузы</title>
       <link>https://mostmedia.org/ru/posts/minobrnauki-predlozhilo-na-pjat-let-zapretit-otchislennym-za-disciplinu-vozvrashatsja-v-vuzy</link>
       <description>Если документ утвердят, он вступит в силу 1 марта 2027 года и одновременно изменит правила платного и олимпиадного поступления.</description>
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/minobrnauki-predlozhilo-na-pjat-let-zapretit-otchislennym-za-disciplinu-vozvrashatsja-v-vuzy</guid>
       <enclosure url="https://mostmedia.org/uploads/ogimages/b/0/b/9/e/b0b9ee1a1fddf06637528b243752df65.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 13 Oct 2026 18:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Российские банки сообщили о миллионах запросов от приставов о счетах должников</title>
+      <link>https://mostmedia.org/ru/posts/nsfr-soobshil-o-millionah-zaprosov-fssp-k-bankam-o-schetah-dolzhnikov</link>
+      <description>В Национальном совете финансового рынка предупредили, что такой поток обращений может поставить под угрозу финансовую устойчивость отдельных банков.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/nsfr-soobshil-o-millionah-zaprosov-fssp-k-bankam-o-schetah-dolzhnikov</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/8/8/6/4/4/88644ce26187b36bc914f3bea5e17ff8.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 13 Oct 2026 18:49:00 +0000</pubDate>
     </item>
     <item>
@@ -79,6 +63,22 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/predstaviteli-trampa-svjazali-dizelnuju-sdelku-s-peregovorami-po-ukraine</guid>
       <enclosure url="https://mostmedia.org/uploads/ogimages/8/e/0/c/f/8e0cf9f59da9b62a425e277219d79997.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 13 Oct 2026 18:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Германии задержали двух граждан Турции по делу о поджоге станции Starlink под Варшавой</title>
+      <link>https://mostmedia.org/ru/posts/v-germanii-zaderzhali-dvuh-grazhdan-turcii-po-delu-o-podzhoge-stancii-starlink-pod-varshavoi</link>
+      <description>Немецкая полиция задержала в немецком Нюртингене двух граждан Турции по делу о поджоге станции Starlink в Мазовецком воеводстве под Варшавой. По данным польских властей, им собираются предъявить обвинения в саботаже по поручению иностранной спецслужбы.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/v-germanii-zaderzhali-dvuh-grazhdan-turcii-po-delu-o-podzhoge-stancii-starlink-pod-varshavoi</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/f/8/1/e/e/f81ee0a1352cc6deff2ec06f6ae6cebf.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 14 Oct 2026 08:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Новокузнецке пенсионерка заявила об избиении людьми, назвавшимися военной полицией</title>
+      <link>https://mostmedia.org/ru/posts/v-novokuznecke-pensionerka-zajavila-ob-izbienii-ljudmi-nazvavshimisja-voennoi-policiey</link>
+      <description>В Новокузнецке Ирина Котикова заявила, что неизвестные, представившиеся сотрудниками военной полиции, избили ее у дома. Женщину с множественными травмами госпитализировали.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/v-novokuznecke-pensionerka-zajavila-ob-izbienii-ljudmi-nazvavshimisja-voennoi-policiey</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/4/0/a/f/7/40af76ec2de20ab73b9c86c04580aed9.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 14 Oct 2026 08:55:00 +0000</pubDate>
     </item>
     <item>
       <title>Почему французская полиция жестоко подавляет уличный протест лицеистов? Объясняет социолог Александр Бикбов</title>
