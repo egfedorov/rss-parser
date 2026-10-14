@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 14 Oct 2026 11:39:39 +0000</lastBuildDate>
-    <item>
-      <title>В Россию за деньгами. Танцевавшая с Путиным экс-глава МИД Австрии живет на миллионные гонорары от RT</title>
-      <link>https://theins.ru/inv/289262</link>
-      <guid isPermaLink="false">https://theins.ru/inv/289262</guid>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Insider нашел более 6000 экспортеров, торгующих с подсанкционными российскими фирмами и поставщиками ВПК, 4000 из них — из Китая</title>
-      <link>https://theins.ru/inv/289355</link>
-      <guid isPermaLink="false">https://theins.ru/inv/289355</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Oct 2026 15:57:56 +0000</lastBuildDate>
     <item>
       <title>Центр 795: The Insider разоблачил новое сверхсекретное подразделение спецслужб, связанное с политическими убийствами за рубежом</title>
       <link>https://theins.ru/inv/290209</link>
@@ -223,6 +211,18 @@
       <link>https://theins.ru/inv/293471</link>
       <guid isPermaLink="false">https://theins.ru/inv/293471</guid>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ход конем. Как в Россию ввозят элитных лошадей в обход санкций и при чем тут жена Сечина, дочь Грефа и дочь Пригожина</title>
+      <link>https://theins.ru/inv/298033</link>
+      <guid isPermaLink="false">https://theins.ru/inv/298033</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Модемобилизация: как КНР поставляет mesh-модемы для беспилотников, позволяющие им проникать вглубь Украины</title>
+      <link>https://theins.ru/inv/298218</link>
+      <guid isPermaLink="false">https://theins.ru/inv/298218</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
