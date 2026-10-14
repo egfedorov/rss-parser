@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 13 Oct 2026 21:47:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 00:56:32 +0000</lastBuildDate>
     <item>
       <title>Битва за прошлое. В Тбилиси сносят символ эпохи Саакашвили</title>
       <link>https://www.bbc.com/russian/articles/c9356k4vlrpo</link>
@@ -147,16 +147,8 @@
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Наследники Золотой Орды. Как и зачем Казахстан при президенте Токаеве проводит «ребрендинг» своей истории</title>
-      <link>https://www.bbc.com/russian/articles/c68xzje78xk8o</link>
-      <description>Казахстан при президенте Касым-Жомарте Токаеве начал кампанию самостоятельного переосмысления и «ребрендинга» своей истории. Казахское государство теперь преподносится и внутри страны, и на международной арене как наследник Золотой Орды.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c68xzje78xk8o</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Алиев: «Нам никто не помог». Может ли Израиль разлучить Баку и Анкару?</title>
       <link>https://www.bbc.com/russian/articles/cmy4xpdk4153o</link>
-      <description>«Две страны — один народ». С таким лозунгом в Азербайджане жили с 90-х, видя в Турции военного и политического союзника. Президент Ильхам Алиев много раз благодарил Турцию за поддержку в войне в Карабахе, а в Баку развевались флаги Турции. Но война Израиля в Газе показала, насколько разнятся интересы Баку и Анкары. Почему так получилось?</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmy4xpdk4153o</guid>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -171,13 +163,13 @@
       <title>Видео,Как Трамп заключил «перемирие» между Путиным и Зеленским без них | Видеоподкаст «Что это было?», Продолжительность 35,54</title>
       <link>https://www.bbc.com/russian/articles/cmly0jwpqd2no</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmly0jwpqd2no</guid>
-      <pubDate>Tue, 13 Oct 2026 21:47:40 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 00:56:32 +0000</pubDate>
     </item>
     <item>
       <title>Видео,Русофобия в Грузии – реальность или пропаганда? | Большой репортаж Би-би-си, Продолжительность 42,23</title>
       <link>https://www.bbc.com/russian/articles/c9j34nd7drn7o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c9j34nd7drn7o</guid>
-      <pubDate>Tue, 13 Oct 2026 21:47:40 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 00:56:32 +0000</pubDate>
     </item>
     <item>
       <title>«Воспитанные и образованные». Почему президент Казахстана продвигает по службе своих телохранителей?</title>
@@ -192,6 +184,19 @@
       <description>С 8 по 11 октября украинские дроны атаковали три дата-центра «Яндекса», вызвав перебои в работе его сервисов. Защиту от таких атак в отрасли искали заранее: еще с конца лета рос спрос на мобильные центры обработки данных. «Новостной фон благоприятный для новых продаж, — говорит собеседник Би-би-си на этом рынке, — даже чересчур».</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwn8drkez9vpo</guid>
       <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Он считал, что лучше знает наши потребности». Экс-главком ВСУ Сырский — о разногласиях с бывшим министром обороны Федоровым</title>
+      <link>https://www.bbc.com/russian/articles/c6rryzzne14go</link>
+      <description>Причиной конфронтации с бывшим министром обороны Украины Михаилом Федоровым стали разногласия по поводу финансирования потребностей армии и военных закупок, заявил в интервью Би-би-си бывший главнокомандующий ВСУ Александр Сырский.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6rryzzne14go</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Видео,Сможет ли Россия построить спутниковый интернет? | Военное время, Продолжительность 13,27</title>
+      <link>https://www.bbc.com/russian/articles/cvglwx1px7n5o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvglwx1px7n5o</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
