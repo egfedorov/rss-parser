@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 14 Oct 2026 05:57:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:39:35 +0000</lastBuildDate>
     <item>
       <title>Битва за прошлое. В Тбилиси сносят символ эпохи Саакашвили</title>
       <link>https://www.bbc.com/russian/articles/c9356k4vlrpo</link>
@@ -153,23 +153,10 @@
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Агент «Редвуд». История офицера КГБ, сдавшего властям Ирана коммунистов-подпольщиков</title>
-      <link>https://www.bbc.com/russian/articles/cm1exz535zv3o</link>
-      <description>Двое, уединившись в ванной, открыли краны и включили радио. Они боялись, что их будут подслушивать спецслужбы революционного исламского Ирана. Это была вторая встреча сотрудника британской разведки и его гостя в квартире на территории посольства Великобритании.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm1exz535zv3o</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Видео,Как Трамп заключил «перемирие» между Путиным и Зеленским без них | Видеоподкаст «Что это было?», Продолжительность 35,54</title>
-      <link>https://www.bbc.com/russian/articles/cmly0jwpqd2no</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmly0jwpqd2no</guid>
-      <pubDate>Wed, 14 Oct 2026 05:57:58 +0000</pubDate>
-    </item>
-    <item>
       <title>Видео,Русофобия в Грузии – реальность или пропаганда? | Большой репортаж Би-би-си, Продолжительность 42,23</title>
       <link>https://www.bbc.com/russian/articles/c9j34nd7drn7o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c9j34nd7drn7o</guid>
-      <pubDate>Wed, 14 Oct 2026 05:57:58 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 11:39:35 +0000</pubDate>
     </item>
     <item>
       <title>«Воспитанные и образованные». Почему президент Казахстана продвигает по службе своих телохранителей?</title>
@@ -177,6 +164,12 @@
       <description>Президент Касым-Жомарт Токаев произвел перестановки в Министерстве обороны Казахстана, заменив кадровых генералов на руководящих постах офицерами Службы государственной охраны. Новый министр обороны Айдос Мырзахметов и его заместитель Айткурман Омарбеков стали очередными выходцами из СГО — элитного ведомства, отвечающего за безопасность президента, — которые заняли высокие государственные посты.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c64g1919r0dvo</guid>
       <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Видео,Сможет ли Россия построить спутниковый интернет? | Военное время, Продолжительность 13,27</title>
+      <link>https://www.bbc.com/russian/articles/cvglwx1px7n5o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvglwx1px7n5o</guid>
+      <pubDate>Wed, 14 Oct 2026 11:39:35 +0000</pubDate>
     </item>
     <item>
       <title>«Они большие, хорошо горят». Что происходит с дата-центрами российских компаний и почему на их защите может заработать сын генерала ФСБ</title>
@@ -190,12 +183,6 @@
       <link>https://www.bbc.com/russian/articles/c6rryzzne14go</link>
       <description>Причиной конфронтации с бывшим министром обороны Украины Михаилом Федоровым стали разногласия по поводу финансирования потребностей армии и военных закупок, заявил в интервью Би-би-си бывший главнокомандующий ВСУ Александр Сырский.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6rryzzne14go</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Видео,Сможет ли Россия построить спутниковый интернет? | Военное время, Продолжительность 13,27</title>
-      <link>https://www.bbc.com/russian/articles/cvglwx1px7n5o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cvglwx1px7n5o</guid>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

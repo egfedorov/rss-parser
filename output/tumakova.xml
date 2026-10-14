@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 14 Oct 2026 05:58:07 +0000</lastBuildDate>
-    <item>
-      <title>Почему в России не хватает врачей, как с этим живут пациенты? — Смотрите разговор с автором статьи Ириной Тумаковой*</title>
-      <link>https://novayagazeta.ru/videos/2025/08/14/pochemu-v-rossii-ne-khvataet-vrachei-kak-s-etim-zhivut-patsienty</link>
-      <description>Смотрите разговор с автором статьи Ириной Тумаковой*</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/videos/2025/08/14/pochemu-v-rossii-ne-khvataet-vrachei-kak-s-etim-zhivut-patsienty</guid>
-      <pubDate>Thu, 14 Aug 2025 13:24:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Oct 2026 11:39:45 +0000</lastBuildDate>
     <item>
       <title>«Трамп дал Путину аванс» — Чего ждать после саммита на Аляске? Объясняет американист Ян Веселов</title>
       <link>https://novayagazeta.ru/articles/2025/08/18/tramp-dal-putinu-avans</link>
@@ -287,6 +280,13 @@
       <description>Как Трамп обобрал пенсионеров, упадут ли в США цены на солярку и при чем здесь активы ЛУКОЙЛа</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/12/dukh-ankoridzha-pakhnet-dizelem</guid>
       <pubDate>Mon, 12 Oct 2026 11:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ничего личного, просто дизель — Трамп бросился на защиту своей сделки с Путиным по поводу поставок в США российского топлива</title>
+      <link>https://novayagazeta.ru/articles/2026/10/14/nichego-lichnogo-prosto-dizel</link>
+      <description>Трамп бросился на защиту своей сделки с Путиным по поводу поставок в США российского топлива</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/14/nichego-lichnogo-prosto-dizel</guid>
+      <pubDate>Wed, 14 Oct 2026 08:28:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
