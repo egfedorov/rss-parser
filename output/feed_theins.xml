@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 16 Oct 2026 11:41:31 +0000</lastBuildDate>
-    <item>
-      <title>Центр 795: The Insider разоблачил новое сверхсекретное подразделение спецслужб, связанное с политическими убийствами за рубежом</title>
-      <link>https://theins.ru/inv/290209</link>
-      <guid isPermaLink="false">https://theins.ru/inv/290209</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Oct 2026 16:17:31 +0000</lastBuildDate>
     <item>
       <title>Секретная жизнь насекомых: проваливший защиту Ирана от ракет подполковник ГРУ Дерябин лишился колонии редких муравьев</title>
       <link>https://theins.ru/inv/290361</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/inv/298218</link>
       <guid isPermaLink="false">https://theins.ru/inv/298218</guid>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Химический брат. Как российское производство боеприпасов и взрывчатки зависит от поставок химикатов из КНР</title>
+      <link>https://theins.ru/inv/295790</link>
+      <guid isPermaLink="false">https://theins.ru/inv/295790</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

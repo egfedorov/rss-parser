@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 16 Oct 2026 11:41:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 16:17:26 +0000</lastBuildDate>
     <item>
       <title>Битва за прошлое. В Тбилиси сносят символ эпохи Саакашвили</title>
       <link>https://www.bbc.com/russian/articles/c9356k4vlrpo</link>
@@ -153,20 +153,6 @@
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Воспитанные и образованные». Почему президент Казахстана продвигает по службе своих телохранителей?</title>
-      <link>https://www.bbc.com/russian/articles/c64g1919r0dvo</link>
-      <description>Президент Касым-Жомарт Токаев произвел перестановки в Министерстве обороны Казахстана, заменив кадровых генералов на руководящих постах офицерами Службы государственной охраны. Новый министр обороны Айдос Мырзахметов и его заместитель Айткурман Омарбеков стали очередными выходцами из СГО — элитного ведомства, отвечающего за безопасность президента, — которые заняли высокие государственные посты.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c64g1919r0dvo</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Они большие, хорошо горят». Что происходит с дата-центрами российских компаний и почему на их защите может заработать сын генерала ФСБ</title>
-      <link>https://www.bbc.com/russian/articles/cwn8drkez9vpo</link>
-      <description>С 8 по 11 октября украинские дроны атаковали три дата-центра «Яндекса», вызвав перебои в работе его сервисов. Защиту от таких атак в отрасли искали заранее: еще с конца лета рос спрос на мобильные центры обработки данных. «Новостной фон благоприятный для новых продаж, — говорит собеседник Би-би-си на этом рынке, — даже чересчур».</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwn8drkez9vpo</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Он считал, что лучше знает наши потребности». Экс-главком ВСУ Сырский — о разногласиях с бывшим министром обороны Федоровым</title>
       <link>https://www.bbc.com/russian/articles/c6rryzzne14go</link>
       <description>Причиной конфронтации с бывшим министром обороны Украины Михаилом Федоровым стали разногласия по поводу финансирования потребностей армии и военных закупок, заявил в интервью Би-би-си бывший главнокомандующий ВСУ Александр Сырский.</description>
@@ -184,7 +170,7 @@
       <title>Видео,К чему приведут протесты в Азербайджане? | Видеоподкаст «Что это было?», Продолжительность 39,04</title>
       <link>https://www.bbc.com/russian/articles/c674pn8k4429o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c674pn8k4429o</guid>
-      <pubDate>Fri, 16 Oct 2026 11:41:26 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:17:26 +0000</pubDate>
     </item>
     <item>
       <title>Слоновье горе: снимки победителя конкурса Wildlife Photographer Of The Year 2026 рассказывают, как скорбят слоны</title>
@@ -201,10 +187,24 @@
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>BBC Verify: результаты сотен расследований ЦАХАЛ по фактам убийств до сих пор не обнародованы</title>
+      <link>https://www.bbc.com/russian/articles/cr4g1e91qlp3o</link>
+      <description>Служба верификации данных BBC Verify выявила 254 случая за последние три года, когда израильским военным были предъявлены обвинения в нанесении ущерба, которые, как заявляет ЦАХАЛ, находятся на рассмотрении.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cr4g1e91qlp3o</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Мне не пришел в голову никто годный». Как россиянки рожают от доноров спермы</title>
       <link>https://www.bbc.com/russian/articles/cmj478vr7w81o</link>
+      <description>В России растет число женщин, которым не нужны мужья и партнеры даже для зачатия. Би-би-си рассказывает истории соло-мам — как они выбирают доноров, делают ЭКО и дают детям матчества вместо отчеств.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmj478vr7w81o</guid>
-      <pubDate>Fri, 16 Oct 2026 11:41:26 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Теория победы». Пять главных вопросов о том, как НАТО собирается ответить в случае нападения России</title>
+      <link>https://www.bbc.com/russian/articles/c3zxj07l5dkqo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3zxj07l5dkqo</guid>
+      <pubDate>Fri, 16 Oct 2026 16:17:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
