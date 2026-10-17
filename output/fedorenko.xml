@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 17 Oct 2026 09:10:36 +0000</lastBuildDate>
-    <item>
-      <title>Люцифер и причинное место — Во Владивостоке после доноса из епархии и звонка из Минкульта с выставки изъяли картину известного приморского художника</title>
-      <link>https://novayagazeta.ru/articles/2026/04/30/liutsifer-i-prichinnoe-mesto</link>
-      <description>Во Владивостоке после доноса из епархии и звонка из Минкульта с выставки изъяли картину известного приморского художника</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/04/30/liutsifer-i-prichinnoe-mesto</guid>
-      <pubDate>Thu, 30 Apr 2026 14:28:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Oct 2026 13:01:44 +0000</lastBuildDate>
     <item>
       <title>«В Туапсе теперь нужен десант ученых» — Как волонтеры и власти справлялись с последствиями локальной экокатастрофы и какой вред нанесен здравнице перед началом курортного сезона. Монолог экоактивиста</title>
       <link>https://novayagazeta.ru/articles/2026/05/04/v-tuapse-teper-nuzhen-desant-uchenykh</link>
@@ -287,6 +280,13 @@
       <description>Популярному блогеру-коммунисту из Приморья искусственно перекрыли путь на выборы. Посмотреть на спектакль в суд пришли даже сотрудники центра «Э»</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/16/kak-ni-otkroiu-novosti-vezde-vy</guid>
       <pubDate>Fri, 16 Oct 2026 11:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Каток наехал — Пресс-секретарь крупнейшего дальневосточного музея и бывший главред «Новой газеты во Владивостоке» попал под «оперативные мероприятия»</title>
+      <link>https://novayagazeta.ru/articles/2026/10/17/katok-naekhal</link>
+      <description>Пресс-секретарь крупнейшего дальневосточного музея и бывший главред «Новой газеты во Владивостоке» попал под «оперативные мероприятия»</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/17/katok-naekhal</guid>
+      <pubDate>Sat, 17 Oct 2026 09:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
