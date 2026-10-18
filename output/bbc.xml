@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 17 Oct 2026 23:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 01:11:03 +0000</lastBuildDate>
     <item>
       <title>Битва за прошлое. В Тбилиси сносят символ эпохи Саакашвили</title>
       <link>https://www.bbc.com/russian/articles/c9356k4vlrpo</link>
@@ -160,31 +160,11 @@
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Видео,К чему приведут протесты в Азербайджане? | Видеоподкаст «Что это было?», Продолжительность 39,04</title>
-      <link>https://www.bbc.com/russian/articles/c674pn8k4429o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c674pn8k4429o</guid>
-      <pubDate>Sat, 17 Oct 2026 23:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Слоновье горе: снимки победителя конкурса Wildlife Photographer Of The Year 2026 рассказывают, как скорбят слоны</title>
-      <link>https://www.bbc.com/russian/articles/cm5ynry242d8o</link>
-      <description>Победитель конкурса Wildlife Photographer Of The Year 2026 года Федерико Веронези запечатлел редко встречающееся поведение слонов, показав в деталях некоторые особенности их эмоций, связанных с утратой детенышей.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm5ynry242d8o</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Время дронов-перехватчиков подходит к концу: почему так произошло и что будет вместо них</title>
       <link>https://www.bbc.com/russian/articles/cw0731np20peo</link>
       <description>Украинское ноу-хау последних лет, мультироторные дроны-перехватчики, постепенно теряет актуальность. Им еще удается иногда сбивать российские реактивные БПЛА, но эта технология, похоже, уже достигла предела своих возможностей, заставив Киев искать новое решение.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cw0731np20peo</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BBC Verify: результаты сотен расследований ЦАХАЛ по фактам убийств до сих пор не обнародованы</title>
-      <link>https://www.bbc.com/russian/articles/cr4g1e91qlp3o</link>
-      <description>Служба верификации данных BBC Verify выявила 254 случая за последние три года, когда израильским военным были предъявлены обвинения в нанесении ущерба, которые, как заявляет ЦАХАЛ, находятся на рассмотрении.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cr4g1e91qlp3o</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>«Мне не пришел в голову никто годный». Как россиянки рожают от доноров спермы</title>
@@ -203,8 +183,9 @@
     <item>
       <title>Элитные части в непрерывных боях. Что известно о потерях России в Украине</title>
       <link>https://www.bbc.com/russian/articles/c977p1m2xxr1o</link>
+      <description>В число российских подразделений, понесших наибольшие потери в ходе вторжения в Украину, входят сразу три части, которые относятся к элите российской армии. Это следует из анализа поименного списка погибших, который Би-би-си ведет совместно с «Медиазоной»* и командой волонтеров.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c977p1m2xxr1o</guid>
-      <pubDate>Sat, 17 Oct 2026 23:13:00 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
