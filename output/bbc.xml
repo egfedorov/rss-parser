@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 19 Oct 2026 10:57:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 17:24:42 +0000</lastBuildDate>
     <item>
       <title>Битва за прошлое. В Тбилиси сносят символ эпохи Саакашвили</title>
       <link>https://www.bbc.com/russian/articles/c9356k4vlrpo</link>
@@ -181,6 +181,13 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Как менялся рост человека по ходу истории и какие моменты оказали наибольшее влияние?</title>
+      <link>https://www.bbc.com/russian/articles/cmx2d69ve8e2o</link>
+      <description>Сегодня мы примерно на 10 см выше, чем 100 лет назад, но этот рост не всегда происходил плавно.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmx2d69ve8e2o</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Элитные части в непрерывных боях. Что известно о потерях России в Украине</title>
       <link>https://www.bbc.com/russian/articles/c977p1m2xxr1o</link>
       <description>В число российских подразделений, понесших наибольшие потери в ходе вторжения в Украину, входят сразу три части, которые относятся к элите российской армии. Это следует из анализа поименного списка погибших, который Би-би-си ведет совместно с «Медиазоной»* и командой волонтеров.</description>
@@ -191,7 +198,7 @@
       <title>«Привет, воробьиха!» Как интернет-сообщество женоненавистников «Не сущий свет» зарабатывает на мизогинии</title>
       <link>https://www.bbc.com/russian/articles/ck0e0qj1vde5o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/ck0e0qj1vde5o</guid>
-      <pubDate>Mon, 19 Oct 2026 10:57:26 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 17:24:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
