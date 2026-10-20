@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 20 Oct 2026 05:49:23 +0000</lastBuildDate>
-    <item>
-      <title>Книга художника. Каждый день создавать «нетленку»</title>
-      <link>https://polezrenia.info/2026/08/28/kniga-hudozhnika-kazhdyj-den-sozdavat-netlenku/</link>
-      <description>Михаил Погарский — о книге художника, футуристах и разговоре с вечностью, который не отменяет ни один режим</description>
-      <guid isPermaLink="false">https://polezrenia.info/2026/08/28/kniga-hudozhnika-kazhdyj-den-sozdavat-netlenku/</guid>
-      <enclosure url="https://polezrenia.info/wp-content/uploads/2026/08/mir_bolshoj-e1787909289614.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Oct 2026 11:06:34 +0000</lastBuildDate>
     <item>
       <title>Подопытные</title>
       <link>https://polezrenia.info/2026/08/31/podopytnye/</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://polezrenia.info/2026/10/16/tebya-russkij-akcent-ne-razgovarivaj-na-nashem-yazyke/</guid>
       <enclosure url="https://polezrenia.info/wp-content/uploads/2026/10/udmurt-09.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сказительница из Долганово</title>
+      <link>https://polezrenia.info/2026/10/20/skazitelnitsa-iz-dolganovo/</link>
+      <description>Елена Тарасова живет в деревне, где почти не осталось людей, и развлекает туристов «бытовым фэнтези». История тверской карелки, которая заплатила…</description>
+      <guid isPermaLink="false">https://polezrenia.info/2026/10/20/skazitelnitsa-iz-dolganovo/</guid>
+      <enclosure url="https://polezrenia.info/wp-content/uploads/2026/10/image19-e1792492543736.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
