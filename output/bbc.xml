@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 20 Oct 2026 00:56:49 +0000</lastBuildDate>
-    <item>
-      <title>Битва за прошлое. В Тбилиси сносят символ эпохи Саакашвили</title>
-      <link>https://www.bbc.com/russian/articles/c9356k4vlrpo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c9356k4vlrpo</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Oct 2026 05:49:16 +0000</lastBuildDate>
     <item>
       <title>Черноморскому флоту России стало опасно в бухте Новороссийска. Но уходить некуда</title>
       <link>https://www.bbc.com/russian/articles/c330grly764o</link>
@@ -153,6 +147,12 @@
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Убить в зародыше». Почему грузинские власти заговорили о русофобии</title>
+      <link>https://www.bbc.com/russian/articles/cr1ex07wpgx6o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cr1ex07wpgx6o</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Дело археологов: новый фронт российско-украинской войны?</title>
       <link>https://www.bbc.com/russian/articles/ckly02022p6go</link>
       <description>Впервые в истории археологи обвиняются в военных преступлениях за раскопки на оккупированной территории.</description>
@@ -197,8 +197,9 @@
     <item>
       <title>«Привет, воробьиха!» Как интернет-сообщество женоненавистников «Не сущий свет» зарабатывает на мизогинии</title>
       <link>https://www.bbc.com/russian/articles/ck0e0qj1vde5o</link>
+      <description>В рунете уже несколько лет действует женоненавистническое сообщество «Не сущий свет». Недавно оно попало в поле зрения российских правоохранителей. Его основатели расчеловечивают женщин в публикациях и зарабатывают сотни миллионов рублей на курсах, где учат приемам соблазнения и насилия, на самиздате о «падшем сознании» и продаже БАДов по завышенным ценам. Русская служба Би-би-си рассказывает, что известно об этом сообществе и его создателях.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/ck0e0qj1vde5o</guid>
-      <pubDate>Tue, 20 Oct 2026 00:56:49 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
