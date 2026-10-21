@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 21 Oct 2026 06:33:14 +0000</lastBuildDate>
-    <item>
-      <title>Секретная жизнь насекомых: проваливший защиту Ирана от ракет подполковник ГРУ Дерябин лишился колонии редких муравьев</title>
-      <link>https://theins.ru/inv/290361</link>
-      <guid isPermaLink="false">https://theins.ru/inv/290361</guid>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Oct 2026 12:22:51 +0000</lastBuildDate>
     <item>
       <title>«Почем катушки для дронов?» The Insider и Nordsint под видом поставщиков ВПК РФ выяснили у китайских экспортеров, как они нарушают закон</title>
       <link>https://theins.ru/inv/290337</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/inv/295790</link>
       <guid isPermaLink="false">https://theins.ru/inv/295790</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Двойники» Путина: кто стоит за кремлевской сетью дезинформации Doppelgаnger и чем они занимаются</title>
+      <link>https://theins.ru/inv/298284</link>
+      <guid isPermaLink="false">https://theins.ru/inv/298284</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

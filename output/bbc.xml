@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 21 Oct 2026 06:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 12:22:46 +0000</lastBuildDate>
     <item>
       <title>Допросы в клетке и угрозы смертной казнью. Что происходит со студентами ЕГУ — белорусского вуза в изгнании</title>
       <link>https://www.bbc.com/russian/articles/cvgwqzqgl2zo</link>
@@ -147,24 +147,11 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Под тебя копают менты». Как журналистка Дарья Шипачева получила 12 лет за помощь ВСУ</title>
-      <link>https://www.bbc.com/russian/articles/c5n4934vzxxlo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c5n4934vzxxlo</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Мне не пришел в голову никто годный». Как россиянки рожают от доноров спермы</title>
       <link>https://www.bbc.com/russian/articles/cmj478vr7w81o</link>
       <description>В России растет число женщин, которым не нужны мужья и партнеры даже для зачатия. Би-би-си рассказывает истории соло-мам — как они выбирают доноров, делают ЭКО и дают детям матчества вместо отчеств.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmj478vr7w81o</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Теория победы». Пять главных вопросов о том, как НАТО собирается ответить в случае нападения России</title>
-      <link>https://www.bbc.com/russian/articles/c3zxj07l5dkqo</link>
-      <description>В случае нападения России НАТО собирается останавливать ее у самых границ, не позволяя проникать вглубь. Эту концепцию в начале недели представил верховный главнокомандующий Объединенными вооруженными силами НАТО в Европе генерал Алексус Гринкевич, назвав ее «теорией победы». Русская служба Би-би-си рассказывает, к какой войне готовится альянс.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3zxj07l5dkqo</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Элитные части в непрерывных боях. Что известно о потерях России в Украине</title>
@@ -174,6 +161,19 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Теория победы». Пять главных вопросов о том, как НАТО собирается ответить в случае нападения России</title>
+      <link>https://www.bbc.com/russian/articles/c3zxj07l5dkqo</link>
+      <description>В случае нападения России НАТО собирается останавливать ее у самых границ, не позволяя проникать вглубь. Эту концепцию в начале недели представил верховный главнокомандующий Объединенными вооруженными силами НАТО в Европе генерал Алексус Гринкевич, назвав ее «теорией победы». Русская служба Би-би-си рассказывает, к какой войне готовится альянс.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3zxj07l5dkqo</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Видео,Беспорядки во Франции | Видеоподкаст «Что это было?», Продолжительность 29,20</title>
+      <link>https://www.bbc.com/russian/articles/cwj34y5121x3o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwj34y5121x3o</guid>
+      <pubDate>Wed, 21 Oct 2026 12:22:46 +0000</pubDate>
+    </item>
+    <item>
       <title>«Привет, воробьиха!» Как интернет-сообщество женоненавистников «Не сущий свет» зарабатывает на мизогинии</title>
       <link>https://www.bbc.com/russian/articles/ck0e0qj1vde5o</link>
       <description>В рунете уже несколько лет действует женоненавистническое сообщество «Не сущий свет». Недавно оно попало в поле зрения российских правоохранителей. Его основатели расчеловечивают женщин в публикациях и зарабатывают сотни миллионов рублей на курсах, где учат приемам соблазнения и насилия, на самиздате о «падшем сознании» и продаже БАДов по завышенным ценам. Русская служба Би-би-си рассказывает, что известно об этом сообществе и его создателях.</description>
@@ -181,10 +181,16 @@
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Видео,Беспорядки во Франции | Видеоподкаст «Что это было?», Продолжительность 29,20</title>
-      <link>https://www.bbc.com/russian/articles/cwj34y5121x3o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwj34y5121x3o</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Видео,Зачем Путину встреча с Трампом и Си? И какой план у Трампа? | Видеоподкаст «Что это было?», Продолжительность 33,20</title>
+      <link>https://www.bbc.com/russian/articles/cqj6jxw1px1no</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqj6jxw1px1no</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Под тебя копают менты». Как журналистка Дарья Шипачева получила 12 лет за помощь ВСУ</title>
+      <link>https://www.bbc.com/russian/articles/c5n4934vzxxlo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c5n4934vzxxlo</guid>
+      <pubDate>Wed, 21 Oct 2026 12:22:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
