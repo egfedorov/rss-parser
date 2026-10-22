@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 22 Oct 2026 14:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 18:47:06 +0000</lastBuildDate>
     <item>
       <title>Убежище в ЕС или ловушка? Работает ли для россиян «балканский путь» в Европу</title>
       <link>https://www.bbc.com/russian/articles/c79034j78yyo</link>
@@ -129,12 +129,6 @@
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Видео,Беспорядки во Франции | Видеоподкаст «Что это было?», Продолжительность 29,20</title>
-      <link>https://www.bbc.com/russian/articles/cwj34y5121x3o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwj34y5121x3o</guid>
-      <pubDate>Thu, 22 Oct 2026 14:33:34 +0000</pubDate>
-    </item>
-    <item>
       <title>«Привет, воробьиха!» Как интернет-сообщество женоненавистников «Не сущий свет» зарабатывает на мизогинии</title>
       <link>https://www.bbc.com/russian/articles/ck0e0qj1vde5o</link>
       <description>В рунете уже несколько лет действует женоненавистническое сообщество «Не сущий свет». Недавно оно попало в поле зрения российских правоохранителей. Его основатели расчеловечивают женщин в публикациях и зарабатывают сотни миллионов рублей на курсах, где учат приемам соблазнения и насилия, на самиздате о «падшем сознании» и продаже БАДов по завышенным ценам. Русская служба Би-би-си рассказывает, что известно об этом сообществе и его создателях.</description>
@@ -145,7 +139,7 @@
       <title>Видео,Зачем Путину встреча с Трампом и Си? И какой план у Трампа? | Видеоподкаст «Что это было?», Продолжительность 33,20</title>
       <link>https://www.bbc.com/russian/articles/cqj6jxw1px1no</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqj6jxw1px1no</guid>
-      <pubDate>Thu, 22 Oct 2026 14:33:34 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 18:47:06 +0000</pubDate>
     </item>
     <item>
       <title>«Убить в зародыше». Почему грузинские власти заговорили о русофобии</title>
@@ -169,10 +163,16 @@
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Видео,Как устроен «Вагнер» Пригожина-младшего? | Видеоподкаст «Что это было?», Продолжительность 32,42</title>
+      <link>https://www.bbc.com/russian/articles/cmy56q36wk6lo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmy56q36wk6lo</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Все ж русские, все всё понимают». Как сибирский поселок выживает без продуктов</title>
       <link>https://www.bbc.com/russian/articles/cj62y0679enko</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cj62y0679enko</guid>
-      <pubDate>Thu, 22 Oct 2026 14:33:34 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 18:47:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
