@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 22 Oct 2026 09:14:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:33:34 +0000</lastBuildDate>
     <item>
       <title>Убежище в ЕС или ловушка? Работает ли для россиян «балканский путь» в Европу</title>
       <link>https://www.bbc.com/russian/articles/c79034j78yyo</link>
@@ -123,18 +123,6 @@
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Почему российское ТВ опять заговорило о сепаратистах в Европе? Анализ Службы мониторинга Би-би-си</title>
-      <link>https://www.bbc.com/russian/articles/cr0j0d812jj9o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cr0j0d812jj9o</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Все ж русские, все всё понимают». Как сибирский поселок выживает без продуктов</title>
-      <link>https://www.bbc.com/russian/articles/cj62y0679enko</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cj62y0679enko</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Пытаются ему сделать репутацию обычного наркопотребителя». В Ижевске левого активиста арестовали по делу о наркотиках</title>
       <link>https://www.bbc.com/russian/articles/ck4g1jz75wqeo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/ck4g1jz75wqeo</guid>
@@ -144,7 +132,7 @@
       <title>Видео,Беспорядки во Франции | Видеоподкаст «Что это было?», Продолжительность 29,20</title>
       <link>https://www.bbc.com/russian/articles/cwj34y5121x3o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwj34y5121x3o</guid>
-      <pubDate>Thu, 22 Oct 2026 09:14:28 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 14:33:34 +0000</pubDate>
     </item>
     <item>
       <title>«Привет, воробьиха!» Как интернет-сообщество женоненавистников «Не сущий свет» зарабатывает на мизогинии</title>
@@ -157,7 +145,7 @@
       <title>Видео,Зачем Путину встреча с Трампом и Си? И какой план у Трампа? | Видеоподкаст «Что это было?», Продолжительность 33,20</title>
       <link>https://www.bbc.com/russian/articles/cqj6jxw1px1no</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqj6jxw1px1no</guid>
-      <pubDate>Thu, 22 Oct 2026 09:14:28 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 14:33:34 +0000</pubDate>
     </item>
     <item>
       <title>«Убить в зародыше». Почему грузинские власти заговорили о русофобии</title>
@@ -167,17 +155,24 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Россия заявляет о взятии Доброполья. Кто на самом деле контролирует город и какова ситуация на других участках фронта</title>
-      <link>https://www.bbc.com/russian/articles/cj4g1ql99ex1o</link>
-      <description>Заявления российского военного командования становятся всё более «фантастическими», говорят украинские бойцы. Что на самом деле происходит под Добропольем?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cj4g1ql99ex1o</guid>
+      <title>Почему российское ТВ опять заговорило о сепаратистах в Европе? Анализ Службы мониторинга Би-би-си</title>
+      <link>https://www.bbc.com/russian/articles/cr0j0d812jj9o</link>
+      <description>Российское телевидение все больше внимания уделяет сепаратистским настроениям на Западе: от акции в поддержку независимости Уэльса до референдума в канадской Альберте. Зачем это нужно Кремлю, разбирается Служба мониторинга Би-би-си.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cr0j0d812jj9o</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>«Под тебя копают менты». Как журналистка Дарья Шипачева получила 12 лет за помощь ВСУ</title>
       <link>https://www.bbc.com/russian/articles/c5n4934vzxxlo</link>
+      <description>В конце лета автора книги о здоровом образе жизни, медицинскую журналистку Дарью Шипачеву приговорили к 12 годам колонии по статье о госизмене. В письмах Би-би-си она описывает свою жизнь в следственном изоляторе, объясняет, как помогала Украине через популярного блогера-психолога, и просит включить ее в списки на обмен.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c5n4934vzxxlo</guid>
-      <pubDate>Thu, 22 Oct 2026 09:14:28 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Все ж русские, все всё понимают». Как сибирский поселок выживает без продуктов</title>
+      <link>https://www.bbc.com/russian/articles/cj62y0679enko</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cj62y0679enko</guid>
+      <pubDate>Thu, 22 Oct 2026 14:33:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
