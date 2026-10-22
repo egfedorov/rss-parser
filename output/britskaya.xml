@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 22 Oct 2026 03:55:24 +0000</lastBuildDate>
-    <item>
-      <title>Севернее Кореи — В этом году в России нагородили немало дури. Мы собрали топ-10</title>
-      <link>https://novayagazeta.ru/articles/2026/01/05/severnee-korei</link>
-      <description>В этом году в России нагородили немало дури. Мы собрали топ-10</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/01/05/severnee-korei</guid>
-      <pubDate>Mon, 05 Jan 2026 08:07:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Oct 2026 09:14:32 +0000</lastBuildDate>
     <item>
       <title>Здесь снимают маски с палачей — Репортаж из средневекового центра «Э», где по доносам жгли ведьм, а сейчас раскрыли имена тех, кто это делал</title>
       <link>https://novayagazeta.ru/articles/2026/01/08/zdes-snimaiut-maski-s-palachei</link>
@@ -287,6 +280,13 @@
       <description>Топ-10 сентябрьской дури</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/03/mogilshchiki-chempiony-vedro-orudie-proletariata-i-porno-s-traditsionnymi-tsennostiami</guid>
       <pubDate>Sat, 03 Oct 2026 11:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Памятники убийцам на могилах жертв — Как поклонники палачей спустя 90 лет прячут их преступление. Репортаж из Тверской области</title>
+      <link>https://novayagazeta.ru/articles/2026/10/22/pamiatniki-ubiitsam-na-mogilakh-zhertv</link>
+      <description>Как поклонники палачей спустя 90 лет прячут их преступление. Репортаж из Тверской области</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/22/pamiatniki-ubiitsam-na-mogilakh-zhertv</guid>
+      <pubDate>Thu, 22 Oct 2026 07:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 22 Oct 2026 03:55:22 +0000</lastBuildDate>
-    <item>
-      <title>«Почем катушки для дронов?» The Insider и Nordsint под видом поставщиков ВПК РФ выяснили у китайских экспортеров, как они нарушают закон</title>
-      <link>https://theins.ru/inv/290337</link>
-      <guid isPermaLink="false">https://theins.ru/inv/290337</guid>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Oct 2026 09:14:31 +0000</lastBuildDate>
     <item>
       <title>«Я звоню по просьбе Алишера». Как Лавров лоббировал снятие санкций с семьи Усманова</title>
       <link>https://theins.ru/inv/290910</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/inv/298284</link>
       <guid isPermaLink="false">https://theins.ru/inv/298284</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Написать от лица израильтянки, что страна перегружена военными расходами»: как Кремль распространяет дезинформацию в Израиле</title>
+      <link>https://theins.ru/inv/298578</link>
+      <guid isPermaLink="false">https://theins.ru/inv/298578</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
