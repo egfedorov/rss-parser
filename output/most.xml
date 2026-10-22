@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 22 Oct 2026 18:47:11 +0000</lastBuildDate>
-    <item>
-      <title>В Москве задержали бывшего депутата Госдумы от КПРФ Олега Михайлова по делу об оправдании терроризма</title>
-      <link>https://mostmedia.org/ru/posts/v-moskve-zaderzhali-byvshego-deputata-gosdumy-ot-kprf-olega-mihailova-po-delu-ob-opravdanii-terrorizma</link>
-      <description>21 октября в Москве задержали бывшего депутата Госдумы от КПРФ Олега Михайлова. В КПРФ сообщили, что ему вменяют ч. 2 ст. 205.2 УК РФ — публичное оправдание терроризма с использованием интернета.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/v-moskve-zaderzhali-byvshego-deputata-gosdumy-ot-kprf-olega-mihailova-po-delu-ob-opravdanii-terrorizma</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/6/3/7/4/2/63742dd9b0fdda1310eccc4c4b594fb2.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 22 Oct 2026 14:42:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 Oct 2026 22:11:41 +0000</lastBuildDate>
     <item>
       <title>Путин подписал указы о новых назначениях в правительстве и администрации президента</title>
       <link>https://mostmedia.org/ru/posts/putin-podpisal-ukazy-o-novyh-naznacheniah-v-pravitelstve-i-administracii-prezidenta</link>
@@ -89,6 +81,14 @@
       <pubDate>Thu, 22 Oct 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Как студенты в Сербии стали политической силой</title>
+      <link>https://mostmedia.org/ru/posts/kak-studenty-v-serbii-stali-politicheskoi-siloi</link>
+      <description>В воскресенье в Сербии состоятся очередные внеочередные (нет, это не ошибка) выборы в парламент – Владу. Впервые главным оппонентом правящей партии стали студенты. Удастся ли им победить партийно-государственную машину? И чего ожидать – в том числе, многочисленным русским эмигрантам, – от этой победы?</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/kak-studenty-v-serbii-stali-politicheskoi-siloi</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/7/a/a/e/d/7aaed08a11b935092f73668f2969d013.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 23 Oct 2026 01:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Я засмеялась над полицейским — и они бросились на меня». Разговор с 16-летней лицеисткой, впервые вышедшей на манифестацию</title>
       <link>https://mostmedia.org/ru/posts/ja-zasmejalas-nad-policeyskim-i-oni-brosilis-na-menja-razgovor-s-16-letney-liceistkoi-vpervye-vyshedshey-na-manifestaciju</link>
       <description>В интервью с социологом Александром Бикбовым парижская старшеклассница рассказывает об опыте протеста, самочувствии в школе, а также о взглядах на старшее поколение, сексуальность, этику и политику</description>
@@ -101,7 +101,7 @@
       <link>https://mostmedia.org/ru/posts/andquoteto-bylo-prosto-chudo-nevozmozhnoe-bez-postoronney-pomoshiandquot-kak-rebenok-s-dcp-iz-semi-rossyskih-politemigrantov-popal-k-luchshim-vracham-ssha-blagodarja-neznakomcu</link>
       <description>Эта история произошла в Калифорнии с Максимом и Екатериной Новичковыми: благодаря вмешательству неизвестного их сыну Давиду в калифорнийской клинике была бесплатно сделана сложная нейрохирургическая операция, которая даёт ему шанс передвигаться самостоятельно. Имени человека, которые им помог, семья так и не узнала</description>
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/andquoteto-bylo-prosto-chudo-nevozmozhnoe-bez-postoronney-pomoshiandquot-kak-rebenok-s-dcp-iz-semi-rossyskih-politemigrantov-popal-k-luchshim-vracham-ssha-blagodarja-neznakomcu</guid>
-      <enclosure url="https://mostmedia.org/uploads/files/8/e/f/9/1/8ef911afdec8136730f3521319b74a24.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://mostmedia.org/uploads/files/6/6/1/b/c/661bcdab818fbd1ccafefb8ae7b5b982.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 20 Oct 2026 01:00:00 +0000</pubDate>
     </item>
   </channel>
