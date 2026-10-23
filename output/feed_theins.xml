@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 23 Oct 2026 11:13:01 +0000</lastBuildDate>
-    <item>
-      <title>Ученые-убийцы: кто варил яд для Навального и при чем здесь немецкая компания</title>
-      <link>https://theins.ru/inv/290836</link>
-      <guid isPermaLink="false">https://theins.ru/inv/290836</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Медаль за город Будапешт. Кто в российском посольстве в Венгрии помогает «другу Кремля» Виктору Орбану на парламентских выборах</title>
-      <link>https://theins.ru/inv/291133</link>
-      <guid isPermaLink="false">https://theins.ru/inv/291133</guid>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Oct 2026 15:46:39 +0000</lastBuildDate>
     <item>
       <title>«Матрешка» вступает в бой: как АП и ГРУ распространяют дезинформацию в Венгрии</title>
       <link>https://theins.ru/inv/291343</link>
@@ -223,6 +211,18 @@
       <link>https://theins.ru/inv/297956</link>
       <guid isPermaLink="false">https://theins.ru/inv/297956</guid>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Гость в погонах. The Insider установил шпиона, вломившегося в резиденцию Африканского союза в Эфиопии: это ГРУ-шник, связанный с хакерами</title>
+      <link>https://theins.ru/inv/298628</link>
+      <guid isPermaLink="false">https://theins.ru/inv/298628</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>А нефть и ныне там. Как Россия ушла от ответственности за экологическую катастрофу в Черном море</title>
+      <link>https://theins.ru/inv/298492</link>
+      <guid isPermaLink="false">https://theins.ru/inv/298492</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
