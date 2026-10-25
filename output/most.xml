@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 25 Oct 2026 10:57:51 +0000</lastBuildDate>
-    <item>
-      <title>«Я засмеялась над полицейским — и они бросились на меня». Разговор с 16-летней лицеисткой, впервые вышедшей на манифестацию</title>
-      <link>https://mostmedia.org/ru/posts/ja-zasmejalas-nad-policeyskim-i-oni-brosilis-na-menja-razgovor-s-16-letney-liceistkoi-vpervye-vyshedshey-na-manifestaciju</link>
-      <description>В интервью с социологом Александром Бикбовым парижская старшеклассница рассказывает об опыте протеста, самочувствии в школе, а также о взглядах на старшее поколение, сексуальность, этику и политику</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/ja-zasmejalas-nad-policeyskim-i-oni-brosilis-na-menja-razgovor-s-16-letney-liceistkoi-vpervye-vyshedshey-na-manifestaciju</guid>
-      <enclosure url="https://mostmedia.org/uploads/files/7/d/7/f/6/7d7f63e4576f40d44cb3a1215e07e600.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 19 Oct 2026 17:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 25 Oct 2026 14:55:37 +0000</lastBuildDate>
     <item>
       <title>Индия направит в Россию необходимое число квалифицированных трудовых мигрантов</title>
       <link>https://mostmedia.org/ru/posts/india-napravit-v-rossiju-neobhodimoe-chislo-kvalificirovannyh-trudovyh-migrantov</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/kak-studenty-v-serbii-stali-politicheskoi-siloi</guid>
       <enclosure url="https://mostmedia.org/uploads/files/7/a/a/e/d/7aaed08a11b935092f73668f2969d013.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 23 Oct 2026 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Литовский Иерусалим. Как жил и исчез еврейский квартал Вильнюса</title>
+      <link>https://mostmedia.org/ru/posts/litovsky-ierusalim-kak-zhil-i-ischez-evreysky-kvartal-vilnjusa</link>
+      <description>Рассказываем, почему Вильнюс называли Литовским Иерусалимом — и как город потерял одну из важнейших частей своей истории</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/litovsky-ierusalim-kak-zhil-i-ischez-evreysky-kvartal-vilnjusa</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/9/3/5/3/1/935312dbea12009ec0af6f30c6e820ed.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 24 Oct 2026 22:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
