@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 25 Oct 2026 14:55:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:14:12 +0000</lastBuildDate>
     <item>
       <title>Лик со «шрамом». Что происходит с «Троицей» Андрея Рублева</title>
       <link>https://www.bbc.com/russian/articles/cmz7zyed8pe1o</link>
@@ -123,16 +123,10 @@
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Парламентские выборы в Сербии: сохранит ли Белград нейтралитет и закончится ли эра Вучича?</title>
-      <link>https://www.bbc.com/russian/articles/ck20w3y0pz57o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ck20w3y0pz57o</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Видео,Как устроен «Вагнер» Пригожина-младшего? | Видеоподкаст «Что это было?», Продолжительность 32,42</title>
       <link>https://www.bbc.com/russian/articles/cmy56q36wk6lo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmy56q36wk6lo</guid>
-      <pubDate>Sun, 25 Oct 2026 14:55:32 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 18:14:12 +0000</pubDate>
     </item>
     <item>
       <title>«Все ж русские, все всё понимают». Как сибирский поселок выживает без продуктов</title>
@@ -147,7 +141,7 @@
       <link>https://www.bbc.com/russian/articles/cm74p0y5glnjo</link>
       <description>Зумеры в России вне политики? | При участии Екатерины Шульман</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm74p0y5glnjo</guid>
-      <pubDate>Sun, 25 Oct 2026 14:55:32 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 18:14:12 +0000</pubDate>
     </item>
     <item>
       <title>Рубио напомнил, что в Узбекистане русский язык  не имеет официального статуса. Это вызвало бурную дискуссию</title>
@@ -167,13 +161,20 @@
       <title>Видео,Как западные дипломаты живут и работают в России? | Видеоподкаст «Что это было?», Продолжительность 31,35</title>
       <link>https://www.bbc.com/russian/articles/cmkg7zqvjx7xo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmkg7zqvjx7xo</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 18:14:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Парламентские выборы в Сербии: сохранит ли Белград нейтралитет и закончится ли эра Вучича?</title>
+      <link>https://www.bbc.com/russian/articles/ck20w3y0pz57o</link>
+      <description>Предстоящие 25 октября выборы в парламент Сербии станут серьезным тестом для правящей партии и лично Александра Вучича и могут радикально изменить сербскую политику. Противостояние между Россией и Западом и место Белграда в нем — одна из главных тем предвыборной кампании.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ck20w3y0pz57o</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Недружественные. Как западные дипломаты живут и работают в России во время войны</title>
       <link>https://www.bbc.com/russian/articles/cmdxw4j11gz5o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmdxw4j11gz5o</guid>
-      <pubDate>Sun, 25 Oct 2026 14:55:32 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 18:14:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
