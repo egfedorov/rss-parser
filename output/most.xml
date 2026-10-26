@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 25 Oct 2026 23:09:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 01:19:29 +0000</lastBuildDate>
     <item>
       <title>ВСУ нанесли ракетный удар по промзоне Ельца, погиб охранник</title>
       <link>https://mostmedia.org/ru/posts/vsu-nanesli-raketnyi-udar-po-promzone-elca-pogib-ohrannik</link>
@@ -89,20 +89,20 @@
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Как студенты в Сербии стали политической силой</title>
-      <link>https://mostmedia.org/ru/posts/kak-studenty-v-serbii-stali-politicheskoi-siloi</link>
-      <description>В воскресенье в Сербии состоятся очередные внеочередные (нет, это не ошибка) выборы в парламент – Владу. Впервые главным оппонентом правящей партии стали студенты. Удастся ли им победить партийно-государственную машину? И чего ожидать – в том числе, многочисленным русским эмигрантам, – от этой победы?</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/kak-studenty-v-serbii-stali-politicheskoi-siloi</guid>
-      <enclosure url="https://mostmedia.org/uploads/files/7/a/a/e/d/7aaed08a11b935092f73668f2969d013.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 23 Oct 2026 01:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Литовский Иерусалим. Как жил и исчез еврейский квартал Вильнюса</title>
       <link>https://mostmedia.org/ru/posts/litovsky-ierusalim-kak-zhil-i-ischez-evreysky-kvartal-vilnjusa</link>
       <description>Рассказываем, почему Вильнюс называли Литовским Иерусалимом — и как город потерял одну из важнейших частей своей истории</description>
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/litovsky-ierusalim-kak-zhil-i-ischez-evreysky-kvartal-vilnjusa</guid>
       <enclosure url="https://mostmedia.org/uploads/files/9/3/5/3/1/935312dbea12009ec0af6f30c6e820ed.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 24 Oct 2026 22:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Уроки сербского. Студенты в Сербии празднуют победу над режимом Вучича</title>
+      <link>https://mostmedia.org/ru/posts/uroki-serbskogo-studenty-v-serbii-prazdnujut-pobedu-nad-rezhimom-vuchicha</link>
+      <description>Прогрессивная партия Александра Вучича SNS проиграла внеочередные парламентские выборы. Какие уроки из этого можно извлечь?</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/uroki-serbskogo-studenty-v-serbii-prazdnujut-pobedu-nad-rezhimom-vuchicha</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/4/a/b/0/b/4ab0bb8c64b093969499fb365a8fd24a.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 26 Oct 2026 02:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
