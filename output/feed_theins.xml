@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 26 Oct 2026 13:32:21 +0000</lastBuildDate>
-    <item>
-      <title>«Матрешка» вступает в бой: как АП и ГРУ распространяют дезинформацию в Венгрии</title>
-      <link>https://theins.ru/inv/291343</link>
-      <guid isPermaLink="false">https://theins.ru/inv/291343</guid>
-      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Oct 2026 19:32:43 +0000</lastBuildDate>
     <item>
       <title>Коктейль Бортникова. Как отравители из Второй службы ФСБ связаны с российской допинговой программой</title>
       <link>https://theins.ru/inv/291688</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/inv/298492</link>
       <guid isPermaLink="false">https://theins.ru/inv/298492</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Брюссельская копипаста: новый пакет санкций ЕС был сделан с помощью LLM, он пестрит ошибками и полностью игнорирует Китай</title>
+      <link>https://theins.ru/inv/298680</link>
+      <guid isPermaLink="false">https://theins.ru/inv/298680</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
