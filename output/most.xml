@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 26 Oct 2026 23:19:30 +0000</lastBuildDate>
-    <item>
-      <title>Десять европейских стран присоединились к французской инициативе по ядерному сдерживанию России</title>
-      <link>https://mostmedia.org/ru/posts/desjat-evropeyskih-stran-prisoedinilis-k-francuzskoi-iniciative-po-jadernomu-sderzhivaniju-rossii</link>
-      <description>По данным The Wall Street Journal, десять европейских стран присоединились к французской инициативе по ядерному сдерживанию России на фоне опасений по поводу надежности американских гарантий безопасности. План Эммануэля Макрона предусматривает размещение французских истребителей Rafale, способных нести ядерное оружие, в разных европейских странах, а также обмен разведданными и общую инфраструктуру раннего предупреждения.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/desjat-evropeyskih-stran-prisoedinilis-k-francuzskoi-iniciative-po-jadernomu-sderzhivaniju-rossii</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/5/8/e/4/3/58e438ad26e03d63baf582aabb94bad4.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 27 Oct 2026 01:32:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Oct 2026 02:10:25 +0000</lastBuildDate>
     <item>
       <title>В 27 регионах России ВИЧ вышел на генерализованную стадию, в больницах зафиксировали 15-летний максимум очагов инфекций</title>
       <link>https://mostmedia.org/ru/posts/v-27-regionah-rossii-vich-vyshel-na-generalizovannuju-stadiju-v-bolnicah-zafixirovali-15-letny-maximum-ochagov-infekcy</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/uroki-serbskogo-studenty-v-serbii-prazdnujut-pobedu-nad-rezhimom-vuchicha</guid>
       <enclosure url="https://mostmedia.org/uploads/files/9/1/0/1/7/910175b158f191a8314829177ad8c613.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 26 Oct 2026 02:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Медуза в мутной воде, или Операция «Японский заложник»</title>
+      <link>https://mostmedia.org/ru/posts/meduza-v-mutnoi-vode-ili-operacia-japonsky-zalozhnik</link>
+      <description>Отношения между Россией и Японией напряжены до предела: две недели назад ФСБ задержала на Сахалине японского журналиста по обвинению в шпионаже и допустила к нему консульских работников только вчера. Заметную роль во всём происходящем играет Китай</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/meduza-v-mutnoi-vode-ili-operacia-japonsky-zalozhnik</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/c/2/7/d/4/c27d433e2444eb3140f4fc211e0cc215.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 27 Oct 2026 02:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
