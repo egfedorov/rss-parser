@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 28 Oct 2026 02:22:56 +0000</lastBuildDate>
-    <item>
-      <title>Земля и дума — В Приморье жена председателя местного парламента купила у города здание на берегу моря по цене старенькой иномарки</title>
-      <link>https://novayagazeta.ru/articles/2026/05/18/zemlia-i-duma</link>
-      <description>В Приморье жена председателя местного парламента купила у города здание на берегу моря по цене старенькой иномарки</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/05/18/zemlia-i-duma</guid>
-      <pubDate>Mon, 18 May 2026 07:10:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Oct 2026 08:58:20 +0000</lastBuildDate>
     <item>
       <title>Загнанные в уголь — На Сахалине ПГТ Шахтерск погрузился во тьму египетскую. Но угольщики рапортуют «о другом»</title>
       <link>https://novayagazeta.ru/articles/2026/05/20/zagnannye-v-ugol</link>
@@ -287,6 +280,13 @@
       <description>Памятник писателю-нобелиату скитается по Владивостоку в поисках нового места</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/21/solzhenitsyn-vnov-poshel-po-etapu</guid>
       <pubDate>Wed, 21 Oct 2026 12:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Утиль-побор — Наш корреспондент попыталась сделать «то, не знаю, что»: утилизировать автомобиль</title>
+      <link>https://novayagazeta.ru/articles/2026/10/28/util-pobor</link>
+      <description>Наш корреспондент попыталась сделать «то, не знаю, что»: утилизировать автомобиль</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/28/util-pobor</guid>
+      <pubDate>Wed, 28 Oct 2026 07:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
