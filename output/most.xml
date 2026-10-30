@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 29 Oct 2026 23:34:23 +0000</lastBuildDate>
-    <item>
-      <title>Михаила Светова заочно приговорили к году колонии</title>
-      <link>https://mostmedia.org/ru/posts/mihaila-svetova-zaochno-prigovorili-k-godu-kolonii</link>
-      <description>Мировой суд в Северном административном округе Москвы заочно приговорил либертарианца и основателя SVTV News Михаила Светова по делу об уклонении от обязанностей «иностранного агента». Ему назначили один год колонии общего режима и запрет на размещение информации и администрирование сайтов на три года.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/mihaila-svetova-zaochno-prigovorili-k-godu-kolonii</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/4/4/5/e/d/445ed3c0f1a70b03a8c17c3643cbd7f3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 29 Oct 2026 21:20:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Oct 2026 02:56:14 +0000</lastBuildDate>
     <item>
       <title>Госкомпании России потратили более 17 млрд рублей на защиту от беспилотников</title>
       <link>https://mostmedia.org/ru/posts/goskompanii-rossii-potratili-bolee-17-mlrd-rubley-na-zashitu-ot-bespilotnikov</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/meduza-v-mutnoi-vode-ili-operacia-japonsky-zalozhnik</guid>
       <enclosure url="https://mostmedia.org/uploads/files/c/2/7/d/4/c27d433e2444eb3140f4fc211e0cc215.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 27 Oct 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Знакомьтесь: Джей Ди Вэнс, будущий президент Америки</title>
+      <link>https://mostmedia.org/ru/posts/znakomtes-dzhey-di-vens-budushy-prezident-ameriki</link>
+      <description>Вэнс — самый вероятный кандидат в президенты от Республиканской партии. А главное – фаворит техноолигархии, сделавшей ставку именно на него.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/znakomtes-dzhey-di-vens-budushy-prezident-ameriki</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/d/e/6/5/0/de6509990818d05413d77abd411928bd.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 30 Oct 2026 02:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
