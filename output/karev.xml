@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 02 Nov 2026 09:00:32 +0000</lastBuildDate>
-    <item>
-      <title>Бывших активистов «Весны»* отправили в колонию на сроки от 6 до 12 лет. Больше всех получила экс-сотрудница медиаотдела Анна Архипова</title>
-      <link>https://novayagazeta.ru/news/2026/04/08/byvshikh-aktivistov-vesny-otpravili-v-koloniiu-na-sroki-ot-6-do-12-let-news</link>
-      <description>Бывших активистов «Весны»* отправили в колонию на сроки от 6 до 12 лет. Больше всех получила экс-сотрудница медиаотдела Анна Архипова</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/news/2026/04/08/byvshikh-aktivistov-vesny-otpravili-v-koloniiu-na-sroki-ot-6-do-12-let-news</guid>
-      <pubDate>Wed, 08 Apr 2026 09:44:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Nov 2026 19:35:19 +0000</lastBuildDate>
     <item>
       <title>Колониальная весна — «Одинаково ждешь, одинаково молчишь, одинаково живешь» — письма Антонины Фаворской о системе, где всех выравнивают до одного состояния</title>
       <link>https://novayagazeta.ru/articles/2026/04/10/kolonialnaia-vesna</link>
@@ -287,6 +280,13 @@
       <description>Семиэль Ведель, осужденный за три телефонных разговора, — о годах за решеткой, разрушенном здоровье и о жизни семьи без него</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/19/teper-mozhno-govorit-pro-ukradennuiu-piatiletku</guid>
       <pubDate>Mon, 19 Oct 2026 13:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Мое перевоспитание в тюрьме идет полным ходом» — Письмо политзаключенной Антонины Фаворской, которая провела 100 дней в ШИЗО</title>
+      <link>https://novayagazeta.ru/articles/2026/11/02/moe-perevospitanie-v-tiurme-idet-polnym-khodom</link>
+      <description>Письмо политзаключенной Антонины Фаворской, которая провела 100 дней в ШИЗО</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/11/02/moe-perevospitanie-v-tiurme-idet-polnym-khodom</guid>
+      <pubDate>Mon, 02 Nov 2026 10:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
