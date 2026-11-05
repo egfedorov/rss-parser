@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 05 Nov 2026 14:15:28 +0000</lastBuildDate>
-    <item>
-      <title>Суд арестовал экс-главу крупнейшего российского патронного завода Сергея Лукина</title>
-      <link>https://mostmedia.org/ru/posts/sud-arestoval-ex-glavu-krupneyshego-rossyskogo-patronnogo-zavoda-sergeja-lukina</link>
-      <description>235-й гарнизонный военный суд 14 октября арестовал Сергея Лукина, бывшего гендиректора крупнейшего в России производителя патронов, объединяющего Тульский и Ульяновский патронные заводы. По информации источника ТАСС среди силовиков, ему вменяют контрабанду по ст. 226.1 УК РФ, а с 29-го числа гендиректором объединения назначили Алексея Рыбакова.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/sud-arestoval-ex-glavu-krupneyshego-rossyskogo-patronnogo-zavoda-sergeja-lukina</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/8/b/d/f/f/8bdffc4edd1c29a71c48a52950da4c00.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 05 Nov 2026 15:07:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Nov 2026 21:07:25 +0000</lastBuildDate>
     <item>
       <title>Госдума одобрила в первом чтении дефицитный бюджет ФОМС на три года</title>
       <link>https://mostmedia.org/ru/posts/gosduma-odobrila-v-pervom-chtenii-deficitnyi-bjudzhet-foms-na-tri-goda</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/spektakl-kotoryi-nikto-ne-videl-celikom-kak-ustroena-novaja-postanovka-rimini-protokoll-o-politicheskom-proteste</guid>
       <enclosure url="https://mostmedia.org/uploads/files/6/4/2/b/4/642b4ed73ca473d836cf321f4bff579f.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 05 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пейзаж после битвы. Как американские демократы нанесли поражение Трампу</title>
+      <link>https://mostmedia.org/ru/posts/peyzazh-posle-bitvy-kak-amerikanskie-demokraty-nanesli-porazhenie-trampu</link>
+      <description>Классический спор холодильника с телевизором выиграл холодильник, а миллениалы и зумеры впервые потеснили бумеров</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/peyzazh-posle-bitvy-kak-amerikanskie-demokraty-nanesli-porazhenie-trampu</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/1/e/a/5/3/1ea531d68b2b0b5968932d151d882aaa.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 05 Nov 2026 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 05 Nov 2026 14:15:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 21:07:18 +0000</lastBuildDate>
     <item>
       <title>Выборы в Госдуму: у «Единой России» снова будет конституционное большинство, а «Справедливая Россия» может не попасть в парламент</title>
       <link>https://www.bbc.com/russian/articles/ckq63p2m3m5do</link>
@@ -102,7 +102,7 @@
       <title>Видео,Поколение Z военного времени. Почему российская молодежь не протестует? | При участии Екатерины Шульман, Продолжительность 1,03,25</title>
       <link>https://www.bbc.com/russian/articles/cm74p0y5glnjo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm74p0y5glnjo</guid>
-      <pubDate>Thu, 05 Nov 2026 14:15:21 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 21:07:18 +0000</pubDate>
     </item>
     <item>
       <title>Недружественные. Как западные дипломаты живут и работают в России во время войны</title>
@@ -147,13 +147,6 @@
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Сгорающая пехота. Что известно о потерях России в Украине</title>
-      <link>https://www.bbc.com/russian/articles/cqy4313ek09no</link>
-      <description>Из всех подразделений российской армии больше всего потерь понесли мотострелковые бригады. Со второй половины 2023 года именно этот род войск взял на себя основную нагрузку при наступательных операциях</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cqy4313ek09no</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Поколение, лишенное будущего? Как и почему молодежь по всей Европе выходит на улицы и требует перемен</title>
       <link>https://www.bbc.com/russian/articles/c6y431227v97o</link>
       <description>Что же именно вызвало столь массовое недовольство европейской молодежи и почему оно распространилось так быстро? Связаны ли все эти демонстрации между собой? И как на них будут отвечать власти — с учетом того, что на континенте вскоре пройдет целая серия важнейших выборов?</description>
@@ -178,7 +171,7 @@
       <title>Видео,Как хакеры украли шесть миллиардов долларов у биржи Binance | Видеоподкаст «Что это было?», Продолжительность 30,33</title>
       <link>https://www.bbc.com/russian/watch/cqx28550ykejo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/watch/cqx28550ykejo</guid>
-      <pubDate>Thu, 05 Nov 2026 14:15:21 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 21:07:18 +0000</pubDate>
     </item>
     <item>
       <title>Каково военное значение Камышевахи и почему российская армия постоянно наносит по ней удары?</title>
@@ -198,6 +191,13 @@
       <title>Видео,Как Трамп потерял Конгресс | Видеоподкаст «Что это было?», Продолжительность 30,43</title>
       <link>https://www.bbc.com/russian/watch/c9kgjv471ekdo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/watch/c9kgjv471ekdo</guid>
+      <pubDate>Thu, 05 Nov 2026 21:07:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Политическая катастрофа Трампа. Как и почему демократы отобрали у республиканцев контроль над Конгрессом</title>
+      <link>https://www.bbc.com/russian/articles/cwx29zkkyz2po</link>
+      <description>Демократы уверенно победили на промежуточных выборах в США, получив контроль над обеими палатами Конгресса. Объясняем, почему республиканцы потерпели поражение на фоне роста цен и войны в Иране и как последствия выборов изменят оставшиеся два года президентства Трампа.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwx29zkkyz2po</guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
