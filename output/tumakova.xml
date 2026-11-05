@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 05 Nov 2026 05:44:13 +0000</lastBuildDate>
-    <item>
-      <title>Боль измеряется в «квадратах» — В сентябре нынешнего года очередная судебная инстанция лишила «детей ГУЛАГа» возможности вернуться домой</title>
-      <link>https://novayagazeta.ru/articles/2025/10/02/bol-izmeriaetsia-v-kvadratakh</link>
-      <description>В сентябре нынешнего года очередная судебная инстанция лишила «детей ГУЛАГа» возможности вернуться домой</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/10/02/bol-izmeriaetsia-v-kvadratakh</guid>
-      <pubDate>Thu, 02 Oct 2025 07:10:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Nov 2026 14:15:22 +0000</lastBuildDate>
     <item>
       <title>Выход есть. Но до него далеко идти — Мирный «план Трампа» и обустройство сектора Газа комментирует израильский политический аналитик Дмитрий Дубов</title>
       <link>https://novayagazeta.ru/articles/2025/10/03/vykhod-est-no-do-nego-daleko-idti</link>
@@ -287,6 +280,13 @@
       <description>Израиль: выборы закончились, пора объявлять новые выборы?</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/11/04/netaniakhu-proigral-oppozitsiia-ne-vyigrala</guid>
       <pubDate>Wed, 04 Nov 2026 12:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Готовьтесь, счетчик в России выкрутят на максимум — Экономист Липсиц*: Тарифы ЖКХ, налоги и другие поборы теперь будут расти постоянно. А мы вернемся к очередям за водой</title>
+      <link>https://novayagazeta.ru/articles/2026/11/05/gotovtes-schetchik-v-rossii-vykrutiat-na-maksimum</link>
+      <description>Экономист Липсиц*: Тарифы ЖКХ, налоги и другие поборы теперь будут расти постоянно. А мы вернемся к очередям за водой</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/11/05/gotovtes-schetchik-v-rossii-vykrutiat-na-maksimum</guid>
+      <pubDate>Thu, 05 Nov 2026 07:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
