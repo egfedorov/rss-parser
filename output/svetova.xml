@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Nov 2026 16:14:31 +0000</lastBuildDate>
-    <item>
-      <title>«Мои дети не понимают, почему их бабушка оказалась в тюрьме» — В военном суде начался суд над журналисткой Надеждой Кеворковой</title>
-      <link>https://novayagazeta.ru/articles/2025/03/11/moi-deti-ne-ponimaiut-pochemu-babushka-okazalas-v-tiurme</link>
-      <description>В военном суде начался суд над журналисткой Надеждой Кеворковой</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/03/11/moi-deti-ne-ponimaiut-pochemu-babushka-okazalas-v-tiurme</guid>
-      <pubDate>Tue, 11 Mar 2025 09:20:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 21:36:26 +0000</lastBuildDate>
     <item>
       <title>«Самое главное в тюрьме — письма с воли» — После 10 месяцев СИЗО журналистку Надежду Кеворкову освободили в зале суда</title>
       <link>https://novayagazeta.ru/articles/2025/03/13/samoe-glavnoe-v-tiurme-pisma-s-voli</link>
@@ -287,6 +280,13 @@
       <description>Леонид Кац, 23 года, обвиняемый в госизмене, из СИЗО на Красной Пресне</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/11/04/samoe-pechalnoe-v-zakliuchenii-poteriannoe-vremia</guid>
       <pubDate>Wed, 04 Nov 2026 13:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«В коридоре, к своему ужасу, она увидела целую толпу кагэбэшников, окруживших А.И.» — Вышли «Воспоминания» Елены Муриной — очерки о Сарабьянове, Костаки, Мандельштамах, Волконском, Солженицыне и других</title>
+      <link>https://novayagazeta.ru/articles/2026/11/06/v-koridore-k-svoemu-uzhasu-ona-uvidela-tseluiu-tolpu-kagebeshnikov-okruzhivshikh-a-i</link>
+      <description>Вышли «Воспоминания» Елены Муриной — очерки о Сарабьянове, Костаки, Мандельштамах, Волконском, Солженицыне и других</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/11/06/v-koridore-k-svoemu-uzhasu-ona-uvidela-tseluiu-tolpu-kagebeshnikov-okruzhivshikh-a-i</guid>
+      <pubDate>Fri, 06 Nov 2026 16:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
