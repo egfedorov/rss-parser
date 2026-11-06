@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Nov 2026 01:37:48 +0000</lastBuildDate>
-    <item>
-      <title>«Они конкретно взялись» — Никите Уварову теперь предъявляют распространение идей АУЕ*</title>
-      <link>https://novayagazeta.ru/articles/2026/02/18/oni-konkretno-vzialis</link>
-      <description>Никите Уварову теперь предъявляют распространение идей АУЕ*</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/18/oni-konkretno-vzialis</guid>
-      <pubDate>Wed, 18 Feb 2026 09:33:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 08:30:11 +0000</lastBuildDate>
     <item>
       <title>«Мне сейчас плохо, но я держусь» — Никита Уваров пишет из красноярского СИЗО — первое письмо после возбуждения нового дела</title>
       <link>https://novayagazeta.ru/articles/2026/02/20/mne-seichas-plokho-no-ia-derzhus</link>
@@ -287,6 +280,13 @@
       <description>Октябрь в Эвенкии: дикие тарифы и цены. Над людьми ставят эксперимент?</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/14/razzhirovka</guid>
       <pubDate>Wed, 14 Oct 2026 09:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Не забывайте Никиту! — Конвейер продления тюрьмы в деле Никиты Уварова споткнулся. Заело</title>
+      <link>https://novayagazeta.ru/articles/2026/11/06/ne-zabyvaite-nikitu</link>
+      <description>Конвейер продления тюрьмы в деле Никиты Уварова споткнулся. Заело</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/11/06/ne-zabyvaite-nikitu</guid>
+      <pubDate>Fri, 06 Nov 2026 08:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
