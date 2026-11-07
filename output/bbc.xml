@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 07 Nov 2026 01:11:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 07:17:37 +0000</lastBuildDate>
     <item>
       <title>«Объект стратегический», оплата наличкой. Путину построили новую резиденцию в Сочи</title>
       <link>https://www.bbc.com/russian/articles/cm1dlyy6zl34o</link>
@@ -96,7 +96,7 @@
       <title>Видео,Поколение Z военного времени. Почему российская молодежь не протестует? | При участии Екатерины Шульман, Продолжительность 1,03,25</title>
       <link>https://www.bbc.com/russian/articles/cm74p0y5glnjo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm74p0y5glnjo</guid>
-      <pubDate>Sat, 07 Nov 2026 01:11:30 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 07:17:37 +0000</pubDate>
     </item>
     <item>
       <title>Недружественные. Как западные дипломаты живут и работают в России во время войны</title>
@@ -147,12 +147,6 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Видео,Как Трамп потерял Конгресс | Видеоподкаст «Что это было?», Продолжительность 30,43</title>
-      <link>https://www.bbc.com/russian/watch/c9kgjv471ekdo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/watch/c9kgjv471ekdo</guid>
-      <pubDate>Sat, 07 Nov 2026 01:11:30 +0000</pubDate>
-    </item>
-    <item>
       <title>Само не рассосется, историки не договорятся. Как Украине и Польше преодолеть Волынь</title>
       <link>https://www.bbc.com/russian/articles/cq9vz20w9v8yo</link>
       <description>Только за последние несколько месяцев события 80-летней давности и их интерпретация стали причиной как минимум двух кризисов в отношениях между Украиной и Польшей.</description>
@@ -179,6 +173,13 @@
       <description>Этой осенью российские регионы начали сокращать расходы. Это стало прямым следствием войны. Экономика замедляется, поступления от налогов сокращаются, как и поддержка регионов из федерального бюджета.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6vg0yyx1k3po</guid>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зачем Токаев зовет Россию в тюркский союз и почему ей там не рады</title>
+      <link>https://www.bbc.com/russian/articles/c3lylryjezrro</link>
+      <description>Турецкие и азербайджанские комментаторы критикуют предложение Казахстана пригласить Россию к работе Организации тюркских государств: они опасаются, что Москва ограничит самостоятельность объединения. Между тем желание Астаны может объясняться стремлением получить противовес Турции, отмечают эксперты.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3lylryjezrro</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
