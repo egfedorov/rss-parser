@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Nov 2026 21:36:33 +0000</lastBuildDate>
-    <item>
-      <title>Euronews: Украина передала ЕС данные о более чем 500 тыс. российских военных</title>
-      <link>https://mostmedia.org/ru/posts/euronews-ukraina-peredala-es-dannye-o-bolee-chem-500-tys-rossyskih-voennyh</link>
-      <description>Украина передала властям ЕС данные более чем о 500 тыс. российских военнослужащих, чтобы не допустить их въезда в Шенгенскую зону, сообщил Euronews. При этом в базу Шенгенской информационной системы (SIS) внесли менее 1% этих имен.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/euronews-ukraina-peredala-es-dannye-o-bolee-chem-500-tys-rossyskih-voennyh</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/b/b/e/f/0/bbef07732951d902fefa136e5eda12f1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 06 Nov 2026 23:20:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Nov 2026 01:11:35 +0000</lastBuildDate>
     <item>
       <title>Beget сообщил об уничтожении облачной инфраструктуры после кибератаки</title>
       <link>https://mostmedia.org/ru/posts/beget-soobshil-ob-unichtozhenii-oblachnoi-infrastruktury-posle-kiberataki</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/peyzazh-posle-bitvy-kak-amerikanskie-demokraty-nanesli-porazhenie-trampu</guid>
       <enclosure url="https://mostmedia.org/uploads/files/1/e/a/5/3/1ea531d68b2b0b5968932d151d882aaa.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 05 Nov 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Семь мифов про 7 ноября: что мы знаем об  Октябрьской революции</title>
+      <link>https://mostmedia.org/ru/posts/sem-mifov-pro-7-nojabrja-chto-my-znaem-ob-oktjabrskoi-revoljucii</link>
+      <description>Создателям Советского Союза досталась странная ситуация, когда главный праздник, названный Октябрьским, приходилось отмечать в ноябре. Но большевики справились с этим недоразумением. И за семь с лишним десятилетий своей диктатуры прочно внедрили в общественное сознание целый ряд мифов о Великой революции</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/sem-mifov-pro-7-nojabrja-chto-my-znaem-ob-oktjabrskoi-revoljucii</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/2/b/c/d/9/2bcd9894b72e64a1c70cb9a2b40e20db.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 07 Nov 2026 02:17:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
