@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 07 Nov 2026 14:10:43 +0000</lastBuildDate>
-    <item>
-      <title>«Мне сейчас плохо, но я держусь» — Никита Уваров пишет из красноярского СИЗО — первое письмо после возбуждения нового дела</title>
-      <link>https://novayagazeta.ru/articles/2026/02/20/mne-seichas-plokho-no-ia-derzhus</link>
-      <description>Никита Уваров пишет из красноярского СИЗО — первое письмо после возбуждения нового дела</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/02/20/mne-seichas-plokho-no-ia-derzhus</guid>
-      <pubDate>Fri, 20 Feb 2026 14:59:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Nov 2026 18:51:24 +0000</lastBuildDate>
     <item>
       <title>«Пронзительно кричит младенец в распашонке» — Подтверждения, что мы живы, приходят теперь из тюрьмы: продолжаем переписку с узником Абакана Михаилом Афанасьевым</title>
       <link>https://novayagazeta.ru/articles/2026/02/28/pronzitelno-krichit-mladenets-v-raspashonke</link>
@@ -287,6 +280,13 @@
       <description>Конвейер продления тюрьмы в деле Никиты Уварова споткнулся. Заело</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/11/06/ne-zabyvaite-nikitu</guid>
       <pubDate>Fri, 06 Nov 2026 08:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вовчика больше нет — Забракованного ребенка чудом вытащили из дурдома к жизни, нашли ему дом и семью. Мальчик вырос, ушел на СВО и тут же погиб</title>
+      <link>https://novayagazeta.ru/articles/2026/11/07/vovchika-bolshe-net</link>
+      <description>Забракованного ребенка чудом вытащили из дурдома к жизни, нашли ему дом и семью. Мальчик вырос, ушел на СВО и тут же погиб</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/11/07/vovchika-bolshe-net</guid>
+      <pubDate>Sat, 07 Nov 2026 15:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

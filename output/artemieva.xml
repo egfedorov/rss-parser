@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 07 Nov 2026 14:10:43 +0000</lastBuildDate>
-    <item>
-      <title>Крутой маршрут по кругу — После конфуза «по Фрейду» с плакатом театра «Современник» — напоминаем о том, про что книга Евгении Гинзбург и спектакль Галины Волчек</title>
-      <link>https://novayagazeta.ru/articles/2025/09/15/krutoi-marshrut-po-krugu</link>
-      <description>После конфуза «по Фрейду» с плакатом театра «Современник» — напоминаем о том, про что книга Евгении Гинзбург и спектакль Галины Волчек</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/15/krutoi-marshrut-po-krugu</guid>
-      <pubDate>Mon, 15 Sep 2025 12:22:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Nov 2026 18:51:24 +0000</lastBuildDate>
     <item>
       <title>Белым по белому — Как работает государственная политика памяти на примере того, кого помнит и кого не помнит Ростов-на-Дону</title>
       <link>https://novayagazeta.ru/articles/2025/09/19/belym-po-belomu</link>
@@ -287,6 +280,13 @@
       <description>О том, как читатели и друзья «Новой» подарили семилетней девочке счастье</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/26/gorod-schaste-chast-2-zhit-khochetsia</guid>
       <pubDate>Mon, 26 Oct 2026 07:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Под Крестами — Город снова болтается ненужным привеском возле своих тюрем. И не только Петербург — вся страна</title>
+      <link>https://novayagazeta.ru/articles/2026/11/07/pod-krestami</link>
+      <description>Город снова болтается ненужным привеском возле своих тюрем. И не только Петербург — вся страна</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/11/07/pod-krestami</guid>
+      <pubDate>Sat, 07 Nov 2026 16:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

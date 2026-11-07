@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 07 Nov 2026 14:10:30 +0000</lastBuildDate>
-    <item>
-      <title>«Инфраструктура канала была многократно взорвана» — Эколог Евгений Симонов* — о нехватке воды в Донбассе и ее загрязненности</title>
-      <link>https://novayagazeta.ru/articles/2025/09/09/infrastruktura-kanala-byla-mnogokratno-vzorvana</link>
-      <description>Эколог Евгений Симонов* — о нехватке воды в Донбассе и ее загрязненности</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/09/infrastruktura-kanala-byla-mnogokratno-vzorvana</guid>
-      <pubDate>Tue, 09 Sep 2025 08:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Путы — Дроны на оптоволокне — новая угроза для животных и новый загрязнитель</title>
-      <link>https://novayagazeta.ru/articles/2025/09/16/puty</link>
-      <description>Дроны на оптоволокне — новая угроза для животных и новый загрязнитель</description>
-      <guid isPermaLink="true">https://novayagazeta.ru/articles/2025/09/16/puty</guid>
-      <pubDate>Tue, 16 Sep 2025 13:16:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Nov 2026 18:51:06 +0000</lastBuildDate>
     <item>
       <title>Игры Ura-патриотов — На Урале приступили к изъятию бизнеса у владельцев официозного издания Ura.ru</title>
       <link>https://novayagazeta.ru/articles/2025/09/23/igry-ura-patriotov</link>
@@ -287,6 +273,20 @@
       <description>Экс-кандидат в Госдуму от «Яблока» Илья Костюков — о работе военным юристом, угрозах и отъезде из страны</description>
       <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/10/12/mne-pisali-vy-iablochniki-ne-dostoiny-zhit</guid>
       <pubDate>Mon, 12 Oct 2026 07:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Так жить нельзя». Документальный фильм — Четыре истории о настоящей России</title>
+      <link>https://novayagazeta.ru/videos/2026/11/07/tak-zhit-nelzia-dokumentalnyi-film</link>
+      <description>Четыре истории о настоящей России</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/videos/2026/11/07/tak-zhit-nelzia-dokumentalnyi-film</guid>
+      <pubDate>Sat, 07 Nov 2026 14:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Что оставим мы после себя — Как мы сдавали свой город — последние дни «Новой газеты»* изнутри редакции</title>
+      <link>https://novayagazeta.ru/articles/2026/11/07/chto-ostavim-my-posle-sebia</link>
+      <description>Как мы сдавали свой город — последние дни «Новой газеты»* изнутри редакции</description>
+      <guid isPermaLink="true">https://novayagazeta.ru/articles/2026/11/07/chto-ostavim-my-posle-sebia</guid>
+      <pubDate>Sat, 07 Nov 2026 17:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
