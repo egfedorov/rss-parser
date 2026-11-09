@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 09 Nov 2026 05:17:21 +0000</lastBuildDate>
-    <item>
-      <title>Зачем голосовать? Кого амнистировать? Как начинать мирные переговоры? Члены и сторонники партии «Яблоко» встретились в Петербурге</title>
-      <link>https://mr-7.ru/articles/2026/09/16/zachem-golosovat-kogo-amnistirovat-kak-nachinat-mirnye-peregovory-chleny-i-storonniki-partii-iabloko-vstretilis-v-peterburge</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/16/zachem-golosovat-kogo-amnistirovat-kak-nachinat-mirnye-peregovory-chleny-i-storonniki-partii-iabloko-vstretilis-v-peterburge</guid>
-      <enclosure url="https://mr-7.ru/static/records/453d5cb385174157be257ea222acd541.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 16 Sep 2026 07:21:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Nov 2026 14:03:08 +0000</lastBuildDate>
     <item>
       <title>Бензин найти сложнее человека. Как новую волну топливного кризиса переживают петербургские поисковики</title>
       <link>https://mr-7.ru/articles/2026/09/17/benzin-naiti-slozhnee-cheloveka-kak-novuiu-volnu-toplivnogo-krizisa-perezhivaiut-peterburgskie-poiskoviki</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/11/06/7-povodov-vyiti-iz-doma-7-8-noiabria</guid>
       <enclosure url="https://mr-7.ru/static/records/1693face8d814ac196738fe034f9db23.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 06 Nov 2026 12:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Новости про корюшку и ущерб телеканалу «Санкт-Петербург» обсудили в суде по делу о хищениях бюджетных средств</title>
+      <link>https://mr-7.ru/articles/2026/11/09/novosti-pro-koriushku-i-ushcherb-telekanalu-sankt-peterburg-obsudili-v-sude-po-delu-o-khishcheniiakh-biudzhetnykh-sredstv</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/11/09/novosti-pro-koriushku-i-ushcherb-telekanalu-sankt-peterburg-obsudili-v-sude-po-delu-o-khishcheniiakh-biudzhetnykh-sredstv</guid>
+      <enclosure url="https://mr-7.ru/static/records/79cddb2b2bae42b599e00c2ee5e76825.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 09 Nov 2026 11:19:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

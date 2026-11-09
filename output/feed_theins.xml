@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 09 Nov 2026 05:17:12 +0000</lastBuildDate>
-    <item>
-      <title>Кафедра военных преступлений. Как ГРУ готовит в МГТУ им. Баумана хакеров и бойцов «информационной войны»</title>
-      <link>https://theins.ru/inv/292287</link>
-      <guid isPermaLink="false">https://theins.ru/inv/292287</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Nov 2026 14:03:01 +0000</lastBuildDate>
     <item>
       <title>«Напишем, что это для комбайнов»: The Insider и Nordsint разоблачили китайскую компанию, продающую России антенны для дронов</title>
       <link>https://theins.ru/inv/291884</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/inv/298091</link>
       <guid isPermaLink="false">https://theins.ru/inv/298091</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Операция «мигрант»: как ФСБ организует нелегальный трафик людей через страны Балтии в ЕС</title>
+      <link>https://theins.ru/inv/298617</link>
+      <guid isPermaLink="false">https://theins.ru/inv/298617</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
