@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 10 Nov 2026 13:18:27 +0000</lastBuildDate>
-    <item>
-      <title>«Ветбиохим» подтвердил гибель 128 собак после вакцинации «Мультиканом-8»</title>
-      <link>https://mostmedia.org/ru/posts/vetbiohim-podtverdil-gibel-128-sobak-posle-vakcinacii-multikanom-8</link>
-      <description>Компания «Ветбиохим» подтвердила гибель 128 собак после вакцинации препаратом «Мультикан-8», в котором ранее обнаружили вирус болезни Ауески. Всего производитель получил 177 обращений от владельцев животных, а 104 владельцам уже выплатили компенсации.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/vetbiohim-podtverdil-gibel-128-sobak-posle-vakcinacii-multikanom-8</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/a/1/a/7/9/a1a7959cfc026d157c0ab0b3713ce4b9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 10 Nov 2026 13:04:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Nov 2026 20:30:21 +0000</lastBuildDate>
     <item>
       <title>В Абу-Даби 10 ноября начинаются переговоры России, Украины и США</title>
       <link>https://mostmedia.org/ru/posts/v-abu-dabi-10-nojabrja-nachinajutsja-peregovory-rossii-ukrainy-i-ssha</link>
@@ -81,20 +73,28 @@
       <pubDate>Thu, 05 Nov 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Яндекс» сообщил, что не может восстановить 2,84% клиентских данных в Yandex Cloud после атак на дата-центры</title>
+      <link>https://mostmedia.org/ru/posts/jandex-soobshil-chto-ne-mozhet-vosstanovit-284-klientskih-dannyh-v-yandex-cloud-posle-atak-na-data-centry</link>
+      <description>«Яндекс» сообщил, что после атак на его дата-центры не может восстановить 2,84% клиентских данных в Yandex Cloud. Компания заявила, что доступ удалось вернуть к 97,16% данных, а у клиентов, которые использовали резервное копирование, потерь не было.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/jandex-soobshil-chto-ne-mozhet-vosstanovit-284-klientskih-dannyh-v-yandex-cloud-posle-atak-na-data-centry</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/7/5/2/c/f/752cf89454e508f2d75e0a3d23b6fe70.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Nov 2026 16:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Лесные пожары в России с начала года охватили 5,38 млн гектаров</title>
+      <link>https://mostmedia.org/ru/posts/lesnye-pozhary-v-rossii-s-nachala-goda-ohvatili-538-mln-gektarov</link>
+      <description>С 1 января по 9 ноября 2026 года лесные пожары в России охватили 5,38 млн гектаров, или 53,8 тыс. кв. км, следует из отчета Авиалесоохраны. Это на 16,7% больше, чем за тот же период 2025 года, и сопоставимо с территорией Хорватии.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/lesnye-pozhary-v-rossii-s-nachala-goda-ohvatili-538-mln-gektarov</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/2/e/2/a/a/2e2aab6deb5ed6684f642976982e705f.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Nov 2026 16:43:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Пейзаж после битвы. Как американские демократы нанесли поражение Трампу</title>
       <link>https://mostmedia.org/ru/posts/peyzazh-posle-bitvy-kak-amerikanskie-demokraty-nanesli-porazhenie-trampu</link>
       <description>Классический спор холодильника с телевизором выиграл холодильник, а миллениалы и зумеры впервые потеснили бумеров</description>
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/peyzazh-posle-bitvy-kak-amerikanskie-demokraty-nanesli-porazhenie-trampu</guid>
       <enclosure url="https://mostmedia.org/uploads/files/1/e/a/5/3/1ea531d68b2b0b5968932d151d882aaa.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 05 Nov 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Семь мифов про 7 ноября: что мы знаем об  Октябрьской революции</title>
-      <link>https://mostmedia.org/ru/posts/sem-mifov-pro-7-nojabrja-chto-my-znaem-ob-oktjabrskoi-revoljucii</link>
-      <description>Создателям Советского Союза досталась странная ситуация, когда главный праздник, названный Октябрьским, приходилось отмечать в ноябре. Но большевики справились с этим недоразумением. И за семь с лишним десятилетий своей диктатуры прочно внедрили в общественное сознание целый ряд мифов о Великой революции</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/sem-mifov-pro-7-nojabrja-chto-my-znaem-ob-oktjabrskoi-revoljucii</guid>
-      <enclosure url="https://mostmedia.org/uploads/files/2/b/c/d/9/2bcd9894b72e64a1c70cb9a2b40e20db.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 07 Nov 2026 02:17:00 +0000</pubDate>
     </item>
     <item>
       <title>Бороться с инфляцией до последнего россиянина</title>

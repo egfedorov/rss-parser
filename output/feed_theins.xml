@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 10 Nov 2026 13:18:18 +0000</lastBuildDate>
-    <item>
-      <title>«Напишем, что это для комбайнов»: The Insider и Nordsint разоблачили китайскую компанию, продающую России антенны для дронов</title>
-      <link>https://theins.ru/inv/291884</link>
-      <guid isPermaLink="false">https://theins.ru/inv/291884</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Nov 2026 20:30:12 +0000</lastBuildDate>
     <item>
       <title>Схватить за «Бороду». Какие агенты ФСБ, ГРУ и СВР направлены в Армению для борьбы с Пашиняном</title>
       <link>https://theins.ru/inv/292503</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/inv/298617</link>
       <guid isPermaLink="false">https://theins.ru/inv/298617</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Неуловимый Джо: что мы узнали из взлома морпеха-перебежчика Джона Дугана, использованного и брошенного российскими спецслужбами</title>
+      <link>https://theins.ru/inv/299369</link>
+      <guid isPermaLink="false">https://theins.ru/inv/299369</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
