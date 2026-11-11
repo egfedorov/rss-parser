@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 11 Nov 2026 07:33:58 +0000</lastBuildDate>
-    <item>
-      <title>Генерал ИИ: как искусственный интеллект стал ключевым инструментом украинских военных</title>
-      <link>https://theins.ru/politika/295796</link>
-      <guid isPermaLink="false">https://theins.ru/politika/295796</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Nov 2026 15:36:29 +0000</lastBuildDate>
     <item>
       <title>Непопулярный популист: почему партия Фараджа Reform UK теряет поддержку</title>
       <link>https://theins.ru/politika/296026</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/politika/299208</link>
       <guid isPermaLink="false">https://theins.ru/politika/299208</guid>
       <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>От инцелов до погромщиков. Как экономическая необустроенность и психологическое отчуждение привели к всплеску подросткового экстремизма</title>
+      <link>https://theins.ru/politika/294948</link>
+      <guid isPermaLink="false">https://theins.ru/politika/294948</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

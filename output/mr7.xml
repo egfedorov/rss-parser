@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 11 Nov 2026 07:34:05 +0000</lastBuildDate>
-    <item>
-      <title>Бензин найти сложнее человека. Как новую волну топливного кризиса переживают петербургские поисковики</title>
-      <link>https://mr-7.ru/articles/2026/09/17/benzin-naiti-slozhnee-cheloveka-kak-novuiu-volnu-toplivnogo-krizisa-perezhivaiut-peterburgskie-poiskoviki</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/17/benzin-naiti-slozhnee-cheloveka-kak-novuiu-volnu-toplivnogo-krizisa-perezhivaiut-peterburgskie-poiskoviki</guid>
-      <enclosure url="https://mr-7.ru/static/records/b224a2a7e3754e08971b4ea7728ad357.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 17 Sep 2026 17:09:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Nov 2026 15:36:37 +0000</lastBuildDate>
     <item>
       <title>УИКи длинных бюллетеней: как в Петербурге голосуют на участках, где проходят выборы трёх уровней</title>
       <link>https://mr-7.ru/articles/2026/09/18/uiki-dlinnykh-biulletenei-kak-v-peterburge-golosuiut-na-uchastkakh-gde-prokhodiat-vybory-trekh-urovnei</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/11/09/novosti-pro-koriushku-i-ushcherb-telekanalu-sankt-peterburg-obsudili-v-sude-po-delu-o-khishcheniiakh-biudzhetnykh-sredstv</guid>
       <enclosure url="https://mr-7.ru/static/records/79cddb2b2bae42b599e00c2ee5e76825.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 09 Nov 2026 11:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Баночки, которыми пользовались прабабушки: производитель косметики открыл в Петербурге музей ретрокосметики</title>
+      <link>https://mr-7.ru/articles/2026/11/11/banochki-kotorymi-polzovalis-prababushki-proizvoditel-kosmetiki-otkryl-v-peterburge-muzei-retro-kosmetiki</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/11/11/banochki-kotorymi-polzovalis-prababushki-proizvoditel-kosmetiki-otkryl-v-peterburge-muzei-retro-kosmetiki</guid>
+      <enclosure url="https://mr-7.ru/static/records/8dc74a00440f433986522812eae0108c.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 11 Nov 2026 10:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
