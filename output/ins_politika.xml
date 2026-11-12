@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 12 Nov 2026 11:29:15 +0000</lastBuildDate>
-    <item>
-      <title>Возвращение блудного кандидата. Как Марин Ле Пен удалось вернуться из небытия и с кем ей придется сразиться в 2027 году</title>
-      <link>https://theins.ru/politika/295975</link>
-      <guid isPermaLink="false">https://theins.ru/politika/295975</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Дракон расправил крылья. Как Китай балансирует между конфликтующими державами для продвижения своего влияния</title>
-      <link>https://theins.ru/politika/295994</link>
-      <guid isPermaLink="false">https://theins.ru/politika/295994</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Nov 2026 19:07:07 +0000</lastBuildDate>
     <item>
       <title>Развод по-евразийски: как Москва и Ереван меняют союзничество на взаимные санкции</title>
       <link>https://theins.ru/politika/296153</link>
@@ -222,6 +210,18 @@
       <title>Ненаучный антидарвинизм. Как в США строят параллельную систему образования и чему в ней учат детей</title>
       <link>https://theins.ru/politika/299349</link>
       <guid isPermaLink="false">https://theins.ru/politika/299349</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Связанные одной сетью: насколько Украина зависима от Starlink  в ударах по российским тылам и чем его можно заменить</title>
+      <link>https://theins.ru/politika/299324</link>
+      <guid isPermaLink="false">https://theins.ru/politika/299324</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Учитель ненависти. Кто такой Стивен Миллер, новый глава аппарата Трампа</title>
+      <link>https://theins.ru/politika/299479</link>
+      <guid isPermaLink="false">https://theins.ru/politika/299479</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
