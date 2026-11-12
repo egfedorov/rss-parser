@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 11 Nov 2026 22:15:56 +0000</lastBuildDate>
-    <item>
-      <title>Зарево от пожара в порту Усть-Луга было видно в Эстонии</title>
-      <link>https://mostmedia.org/ru/posts/zarevo-ot-pozhara-v-portu-ust-luga-bylo-vidno-v-estonii</link>
-      <description>В российском порту Усть-Луга минувшей ночью произошел пожар, зарево от него было видно в Эстонии. Жители уезда Ида-Вирумаа на северо-востоке страны наблюдали свет над портом, который находится примерно в 35 километрах по прямой от Нарвы.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/zarevo-ot-pozhara-v-portu-ust-luga-bylo-vidno-v-estonii</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/0/1/c/2/d/01c2db4a56b6ac0453136407fb8da667.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 11 Nov 2026 16:13:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Nov 2026 03:08:40 +0000</lastBuildDate>
     <item>
       <title>ФСБ начала отказывать гражданам Таджикистана и Узбекистана во въезде после проверки телефонов</title>
       <link>https://mostmedia.org/ru/posts/fsb-nachala-otkazyvat-grazhdanam-tadzhikistana-i-uzbekistana-vo-vezde-posle-proverki-telefonov</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/nevyuchennye-uroki-pervoi-mirovoi</guid>
       <enclosure url="https://mostmedia.org/uploads/files/7/c/f/a/c/7cfacea8bf845d5e351ba1176160cfd9.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 11 Nov 2026 11:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Фильм-госуслуга. Как российская власть объясняет себя в историческом блокбастере «Рождение империи»</title>
+      <link>https://mostmedia.org/ru/posts/film-gosusluga-kak-rossyskaja-vlast-objasnjaet-sebja-v-istoricheskom-blokbastere-rozhdenie-imperii</link>
+      <description>Картину про Петра Первого уже лично одобрил Владимир Путин. И тут, казалось бы, должен был сработать «эффект выставки Серова», когда после президентского посещения выставки в Новой Третьяковке народ выстроился к ней в очередь как к Мавзолею в советские времена. Но нет.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/film-gosusluga-kak-rossyskaja-vlast-objasnjaet-sebja-v-istoricheskom-blokbastere-rozhdenie-imperii</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/8/b/d/6/7/8bd67a0dad4d8c7b5635825a7bfd97be.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 12 Nov 2026 00:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
