@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 14 Nov 2026 08:44:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 15:38:43 +0000</lastBuildDate>
     <item>
       <title>«Русский Старлинк». Кто его создает и зачем он нужен?</title>
       <link>https://www.bbc.com/russian/articles/cm3eqglvg8n4o</link>
@@ -78,7 +78,7 @@
       <title>Видео,Поколение Z военного времени. Почему российская молодежь не протестует? | При участии Екатерины Шульман, Продолжительность 1,03,25</title>
       <link>https://www.bbc.com/russian/articles/cm74p0y5glnjo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm74p0y5glnjo</guid>
-      <pubDate>Sat, 14 Nov 2026 08:44:00 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 15:38:43 +0000</pubDate>
     </item>
     <item>
       <title>Недружественные. Как западные дипломаты живут и работают в России во время войны</title>
@@ -141,17 +141,10 @@
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Азербайджан и Турция: хиджабы, деньги и вопрос «младшего брата»</title>
-      <link>https://www.bbc.com/russian/articles/ckregdvyp0x9o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckregdvyp0x9o</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Кто такой Гади Айзенкот — главный соперник Нетаньяху, которому поручено сформировать правительство Израиля</title>
-      <link>https://www.bbc.com/russian/articles/cr3wvwew41ywo</link>
-      <description>Президент Израиля Ицхак Херцог поручил Гади Айзенкоту, главному сопернику премьер-министра Беньямина Нетаньяху, сформировать новое правительство после выборов, которые завели страну в политический тупик: ни у одного из партий нет большинства и не осталось очевидного пути к власти. Что о нем известно?</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cr3wvwew41ywo</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Видео,Как НАТО собирается победить Россию? | Военное время, Продолжительность 13,01</title>
+      <link>https://www.bbc.com/russian/watch/c58jzjd74yn4o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/watch/c58jzjd74yn4o</guid>
+      <pubDate>Sat, 14 Nov 2026 15:38:43 +0000</pubDate>
     </item>
     <item>
       <title>Как французские наркобанды вербуют детей для заказных убийств</title>
@@ -159,12 +152,6 @@
       <description>Би-би-си удалось проникнуть в опасный преступный мир Марселя, где молодых людей удерживают против их воли, подвергают жестокому обращению и эксплуатируют.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq62y24171ggo</guid>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Видео,Как НАТО собирается победить Россию? | Военное время, Продолжительность 13,01</title>
-      <link>https://www.bbc.com/russian/watch/c58jzjd74yn4o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/watch/c58jzjd74yn4o</guid>
-      <pubDate>Sat, 14 Nov 2026 08:44:00 +0000</pubDate>
     </item>
     <item>
       <title>Дело Эпштейна: одна из жертв рассказала Би-би-си, как модельное агентство отправило ее к насильнику</title>
@@ -181,10 +168,11 @@
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Видео,Мирное соглашение по Украине близко? | Видеоподкаст «Что это было?», Продолжительность 34,19</title>
-      <link>https://www.bbc.com/russian/watch/cq702w3k9652o</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/watch/cq702w3k9652o</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Азербайджан и Турция: хиджабы, деньги и вопрос «младшего брата»</title>
+      <link>https://www.bbc.com/russian/articles/ckregdvyp0x9o</link>
+      <description>Разлад в отношениях Азербайджана и Турции, традиционно считающихся братскими, оказался глубже темы хиджабов, которые запретили носить в азербайджанских школах и чему возмущались в Турции. Очевидно, Баку стремится выйти из позиции опекаемого «младшего брата». А еще дело может быть в деньгах.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckregdvyp0x9o</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
