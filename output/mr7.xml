@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 16 Nov 2026 05:27:45 +0000</lastBuildDate>
-    <item>
-      <title>Второй день выборов в Петербурге. Итоги</title>
-      <link>https://mr-7.ru/articles/2026/09/19/vtoroi-den-vyborov-v-peterburge-itogi</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/19/vtoroi-den-vyborov-v-peterburge-itogi</guid>
-      <enclosure url="https://mr-7.ru/static/records/91dd071ab68e468e922d372101f10205.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 19 Sep 2026 19:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Nov 2026 13:58:58 +0000</lastBuildDate>
     <item>
       <title>«Даже нечего показать, когда просят нарушение»: как в Петербурге работает Центр общественного наблюдения за выборами</title>
       <link>https://mr-7.ru/articles/2026/09/20/dazhe-nechego-pokazat-kogda-prosiat-narushenie-kak-v-peterburge-rabotaet-tsentr-obshchestvennogo-nabliudeniia-za-vyborami</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/11/13/sredi-iablon-i-oblomkov-chto-proiskhodit-v-sadovodstve-pulkovo-2</guid>
       <enclosure url="https://mr-7.ru/static/records/20c3e6fcdc8b49a79e82e8122f0448aa.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 13 Nov 2026 15:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>35 лет в чужих квартирах и парадных: как в Петербурге существует Классический театр без сцены и постоянной труппы</title>
+      <link>https://mr-7.ru/articles/2026/11/16/35-let-v-chuzhikh-kvartirakh-i-paradnykh-kak-v-peterburge-sushchestvuet-klassicheskii-teatr-bez-stseny-i-postoiannoi-truppy</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/11/16/35-let-v-chuzhikh-kvartirakh-i-paradnykh-kak-v-peterburge-sushchestvuet-klassicheskii-teatr-bez-stseny-i-postoiannoi-truppy</guid>
+      <enclosure url="https://mr-7.ru/static/records/44f1772546e14b0bbc77abe1bb6e57c1.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Nov 2026 12:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
