@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 18 Nov 2026 12:45:26 +0000</lastBuildDate>
-    <item>
-      <title>Выборы в Петербурге — всё. Итоги третьего дня голосования</title>
-      <link>https://mr-7.ru/articles/2026/09/20/vybory-v-peterburge-vse-itogi-tretego-dnia-golosovaniia</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/20/vybory-v-peterburge-vse-itogi-tretego-dnia-golosovaniia</guid>
-      <enclosure url="https://mr-7.ru/static/records/6a50a57a9f6e49c4a657b1d10021a959.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 20 Sep 2026 18:25:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 21:09:27 +0000</lastBuildDate>
     <item>
       <title>В суде по делу о «фейках об армии» выяснилось, что ни ВК, ни Роскомнадзор не знают, кто смотрит посты заблокированного в РФ пользователя</title>
       <link>https://mr-7.ru/articles/2026/09/22/v-sude-po-delu-o-feikakh-ob-armii-vyiasnilos-chto-ni-vk-ni-roskomnadzor-ne-znaiut-kto-smotrit-posty-zablokirovannogo-v-rf-polzovatelia</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/11/17/malenkii-prints-priletal-i-v-peterburg-v-novoi-versii-skazki-v-samom-biudzhetnom-kino</guid>
       <enclosure url="https://mr-7.ru/static/records/98eb1f6bf9824edfbe6563a5dcba6b0a.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 17 Nov 2026 10:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Повторную экспертизу по делу бывшего врача, обвиняемого в «фейках об армии» и «призывах против безопасности страны», назначать не стали</title>
+      <link>https://mr-7.ru/articles/2026/11/18/povtornuiu-ekspertizu-po-delu-byvshego-vracha-obviniaemogo-v-feikakh-ob-armii-i-prizyvakh-protiv-bezopasnosti-strany-naznachat-ne-stali</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/11/18/povtornuiu-ekspertizu-po-delu-byvshego-vracha-obviniaemogo-v-feikakh-ob-armii-i-prizyvakh-protiv-bezopasnosti-strany-naznachat-ne-stali</guid>
+      <enclosure url="https://mr-7.ru/static/records/b3265620fc454c00b43d2d3c377fba8d.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 18 Nov 2026 14:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
