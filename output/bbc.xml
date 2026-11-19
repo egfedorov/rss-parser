@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 19 Nov 2026 10:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:23:34 +0000</lastBuildDate>
     <item>
       <title>«Как в фильме-катастрофе». Чем грозит побережью и жителям Сочи пожар на атакованном танкере</title>
       <link>https://www.bbc.com/russian/articles/cwd09g04yky0o</link>
@@ -60,7 +60,7 @@
       <title>Видео,Поколение Z военного времени. Почему российская молодежь не протестует? | При участии Екатерины Шульман, Продолжительность 1,03,25</title>
       <link>https://www.bbc.com/russian/articles/cm74p0y5glnjo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm74p0y5glnjo</guid>
-      <pubDate>Thu, 19 Nov 2026 10:45:31 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 19:23:34 +0000</pubDate>
     </item>
     <item>
       <title>Недружественные. Как западные дипломаты живут и работают в России во время войны</title>
@@ -141,12 +141,6 @@
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Правильная регистрация ChatGPT из России». Как госструктуры ищут доступ к западному ИИ</title>
-      <link>https://www.bbc.com/russian/articles/cmn4kxk970yvo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmn4kxk970yvo</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«За неповиновение отрубали пальцы». Что такое «Химпром» и как он укоренился в Украине</title>
       <link>https://www.bbc.com/russian/articles/crx20k5j94x5o</link>
       <description>Антикоррупционные органы Украины в громком деле под названием «Карфаген» постоянно упоминают группировку «Химпром», с которой, как утверждают детективы, были связаны должностные лица правоохранительных органов Украины. Им инкриминируют крышевание колл-центров, продажу наркотиков, фальшивомонетничество и другие преступления.</description>
@@ -161,20 +155,6 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Видео,Есть ли у человека свобода воли? Отвечает Александр Панчин | Научкаст «Что это будет?», Продолжительность 48,33</title>
-      <link>https://www.bbc.com/russian/watch/cmq5ve0xped9o</link>
-      <description>Александр Панчин о том, как возникают ложные воспоминания, почему мы видим закономерности в случайных совпадениях и что эксперименты с нашим мозгом говорят о свободе воли.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/watch/cmq5ve0xped9o</guid>
-      <pubDate>Thu, 19 Nov 2026 10:45:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Главная загадка «Формулы-1». Куда пропал бриллиант с капота разбившегося 22 года назад болида?</title>
-      <link>https://www.bbc.com/russian/articles/c6930qk70wk8o</link>
-      <description>Где вы были с часу до трех дня 23 мая 2004 года? Если в Монако, то можете считать себя подозреваемым, ну или хотя бы свидетелем в самой загадочной истории «Формулы-1».</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6930qk70wk8o</guid>
-      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Как Москва украинизировала Россию</title>
       <link>https://www.bbc.com/russian/articles/cmdx1vzppngro</link>
       <description>В 20-е годы XX века Россия не преследовала на своей территории украинскую культуру и язык и не утверждала, будто россияне и украинцы — один народ. Напротив, она способствовала открытию украинских школ, библиотек и техникумов в тех регионах РСФСР, где проживали украинские общины.</description>
@@ -182,10 +162,31 @@
       <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Правильная регистрация ChatGPT из России». Как госструктуры ищут доступ к западному ИИ</title>
+      <link>https://www.bbc.com/russian/articles/cmn4kxk970yvo</link>
+      <description>Би-би-си нашла около ста заявок на доступ к зарубежным нейросетям. Среди заказчиков — организатор закупок президентских проектов и институт под санкциями США.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmn4kxk970yvo</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IPO Anthropic. Как создатель Claude продает билеты в страну чудес и страховки от ИИ-апокалипсиса</title>
+      <link>https://www.bbc.com/russian/articles/c3ewv54v5yk2o</link>
+      <description>Впервые обещания визионеров и мечтателей пройдут проверку реальностью и покажут, насколько широкая публика готова поверить в революционную технологию ИИ.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3ewv54v5yk2o</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Видео,Как ФСБ вербует активистов? | Интервью с Ритой Флорес из Pussy Riot, Продолжительность 1,23,16</title>
+      <link>https://www.bbc.com/russian/watch/c5rmg7l9dlgmo</link>
+      <description>Недавно стало известно, что из России бежала активистка из Pussy Riot* Рита Флорес. Она рассказала, что больше трех лет сотрудничала с ФСБ России.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/watch/c5rmg7l9dlgmo</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>«Никто не знает, как сделать лучше». Почему в России массово закрывают роддома</title>
       <link>https://www.bbc.com/russian/articles/cm7826p12q18o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm7826p12q18o</guid>
-      <pubDate>Thu, 19 Nov 2026 10:45:31 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 19:23:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
