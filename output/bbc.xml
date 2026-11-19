@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 19 Nov 2026 02:39:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:45:31 +0000</lastBuildDate>
     <item>
       <title>«Как в фильме-катастрофе». Чем грозит побережью и жителям Сочи пожар на атакованном танкере</title>
       <link>https://www.bbc.com/russian/articles/cwd09g04yky0o</link>
@@ -60,7 +60,7 @@
       <title>Видео,Поколение Z военного времени. Почему российская молодежь не протестует? | При участии Екатерины Шульман, Продолжительность 1,03,25</title>
       <link>https://www.bbc.com/russian/articles/cm74p0y5glnjo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm74p0y5glnjo</guid>
-      <pubDate>Thu, 19 Nov 2026 02:39:17 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 10:45:31 +0000</pubDate>
     </item>
     <item>
       <title>Недружественные. Как западные дипломаты живут и работают в России во время войны</title>
@@ -129,6 +129,12 @@
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Азербайджан и Турция: хиджабы, деньги и вопрос «младшего брата»</title>
+      <link>https://www.bbc.com/russian/articles/ckregdvyp0x9o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckregdvyp0x9o</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Роберт Паттинсон: как звезда «Сумерек» стал агентом 007</title>
       <link>https://www.bbc.com/russian/articles/c3y0xne07exeo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3y0xne07exeo</guid>
@@ -141,18 +147,25 @@
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Азербайджан и Турция: хиджабы, деньги и вопрос «младшего брата»</title>
-      <link>https://www.bbc.com/russian/articles/ckregdvyp0x9o</link>
-      <description>Разлад в отношениях Азербайджана и Турции, традиционно считающихся братскими, оказался глубже темы хиджабов, которые запретили носить в азербайджанских школах и чему возмущались в Турции. Очевидно, Баку стремится выйти из позиции опекаемого «младшего брата». А еще дело может быть в деньгах.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/ckregdvyp0x9o</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«За неповиновение отрубали пальцы». Что такое «Химпром» и как он укоренился в Украине</title>
       <link>https://www.bbc.com/russian/articles/crx20k5j94x5o</link>
       <description>Антикоррупционные органы Украины в громком деле под названием «Карфаген» постоянно упоминают группировку «Химпром», с которой, как утверждают детективы, были связаны должностные лица правоохранительных органов Украины. Им инкриминируют крышевание колл-центров, продажу наркотиков, фальшивомонетничество и другие преступления.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/crx20k5j94x5o</guid>
       <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Что мы знаем о потерях России в Украине к ноябрю</title>
+      <link>https://www.bbc.com/russian/articles/c8r4gx693qe4o</link>
+      <description>Би-би-си совместно с «Медиазоной» и командой волонтеров установили имена 287 831 российских военных, погибших в ходе полномасштабного вторжения в Украину. 52% всех погибших — это добровольцы, мобилизованные и осужденные, уехавшие воевать из исправительных колоний, то есть люди, никак не связанные с армией на момент начала войны.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8r4gx693qe4o</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Видео,Есть ли у человека свобода воли? Отвечает Александр Панчин | Научкаст «Что это будет?», Продолжительность 48,33</title>
+      <link>https://www.bbc.com/russian/watch/cmq5ve0xped9o</link>
+      <description>Александр Панчин о том, как возникают ложные воспоминания, почему мы видим закономерности в случайных совпадениях и что эксперименты с нашим мозгом говорят о свободе воли.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/watch/cmq5ve0xped9o</guid>
+      <pubDate>Thu, 19 Nov 2026 10:45:31 +0000</pubDate>
     </item>
     <item>
       <title>Главная загадка «Формулы-1». Куда пропал бриллиант с капота разбившегося 22 года назад болида?</title>
@@ -169,24 +182,10 @@
       <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Видео,Есть ли у человека свобода воли? Отвечает Александр Панчин | Научкаст «Что это будет?», Продолжительность 48,33</title>
-      <link>https://www.bbc.com/russian/watch/cmq5ve0xped9o</link>
-      <description>Александр Панчин о том, как возникают ложные воспоминания, почему мы видим закономерности в случайных совпадениях и что эксперименты с нашим мозгом говорят о свободе воли.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/watch/cmq5ve0xped9o</guid>
-      <pubDate>Thu, 19 Nov 2026 02:39:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Что мы знаем о потерях России в Украине к ноябрю</title>
-      <link>https://www.bbc.com/russian/articles/c8r4gx693qe4o</link>
-      <description>Би-би-си совместно с «Медиазоной» и командой волонтеров установили имена 287 831 российских военных, погибших в ходе полномасштабного вторжения в Украину. 52% всех погибших — это добровольцы, мобилизованные и осужденные, уехавшие воевать из исправительных колоний, то есть люди, никак не связанные с армией на момент начала войны.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8r4gx693qe4o</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Никто не знает, как сделать лучше». Почему в России массово закрывают роддома</title>
       <link>https://www.bbc.com/russian/articles/cm7826p12q18o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm7826p12q18o</guid>
-      <pubDate>Thu, 19 Nov 2026 02:39:17 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 10:45:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
