@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 19 Nov 2026 19:23:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 01:26:13 +0000</lastBuildDate>
     <item>
       <title>«Как в фильме-катастрофе». Чем грозит побережью и жителям Сочи пожар на атакованном танкере</title>
       <link>https://www.bbc.com/russian/articles/cwd09g04yky0o</link>
@@ -60,7 +60,7 @@
       <title>Видео,Поколение Z военного времени. Почему российская молодежь не протестует? | При участии Екатерины Шульман, Продолжительность 1,03,25</title>
       <link>https://www.bbc.com/russian/articles/cm74p0y5glnjo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm74p0y5glnjo</guid>
-      <pubDate>Thu, 19 Nov 2026 19:23:34 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 01:26:13 +0000</pubDate>
     </item>
     <item>
       <title>Недружественные. Как западные дипломаты живут и работают в России во время войны</title>
@@ -148,13 +148,6 @@
       <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Что мы знаем о потерях России в Украине к ноябрю</title>
-      <link>https://www.bbc.com/russian/articles/c8r4gx693qe4o</link>
-      <description>Би-би-си совместно с «Медиазоной» и командой волонтеров установили имена 287 831 российских военных, погибших в ходе полномасштабного вторжения в Украину. 52% всех погибших — это добровольцы, мобилизованные и осужденные, уехавшие воевать из исправительных колоний, то есть люди, никак не связанные с армией на момент начала войны.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8r4gx693qe4o</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Как Москва украинизировала Россию</title>
       <link>https://www.bbc.com/russian/articles/cmdx1vzppngro</link>
       <description>В 20-е годы XX века Россия не преследовала на своей территории украинскую культуру и язык и не утверждала, будто россияне и украинцы — один народ. Напротив, она способствовала открытию украинских школ, библиотек и техникумов в тех регионах РСФСР, где проживали украинские общины.</description>
@@ -180,13 +173,20 @@
       <link>https://www.bbc.com/russian/watch/c5rmg7l9dlgmo</link>
       <description>Недавно стало известно, что из России бежала активистка из Pussy Riot* Рита Флорес. Она рассказала, что больше трех лет сотрудничала с ФСБ России.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/watch/c5rmg7l9dlgmo</guid>
+      <pubDate>Fri, 20 Nov 2026 01:26:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Здесь можно воевать только лоб в лоб». Репортаж Би-би-си из газопровода, в котором ВСУ ведут подземную войну</title>
+      <link>https://www.bbc.com/russian/articles/cwg7lzyeng8jo</link>
+      <description>Корреспондент Би-би-си увидел, как украинские военные воюют под Купянском в построенном в советские времена газопроводе.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cwg7lzyeng8jo</guid>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>«Никто не знает, как сделать лучше». Почему в России массово закрывают роддома</title>
       <link>https://www.bbc.com/russian/articles/cm7826p12q18o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm7826p12q18o</guid>
-      <pubDate>Thu, 19 Nov 2026 19:23:34 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 01:26:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
