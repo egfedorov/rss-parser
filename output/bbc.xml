@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 20 Nov 2026 01:26:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:09:30 +0000</lastBuildDate>
     <item>
       <title>«Как в фильме-катастрофе». Чем грозит побережью и жителям Сочи пожар на атакованном танкере</title>
       <link>https://www.bbc.com/russian/articles/cwd09g04yky0o</link>
@@ -60,7 +60,7 @@
       <title>Видео,Поколение Z военного времени. Почему российская молодежь не протестует? | При участии Екатерины Шульман, Продолжительность 1,03,25</title>
       <link>https://www.bbc.com/russian/articles/cm74p0y5glnjo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm74p0y5glnjo</guid>
-      <pubDate>Fri, 20 Nov 2026 01:26:13 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 09:09:30 +0000</pubDate>
     </item>
     <item>
       <title>Недружественные. Как западные дипломаты живут и работают в России во время войны</title>
@@ -141,20 +141,6 @@
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«За неповиновение отрубали пальцы». Что такое «Химпром» и как он укоренился в Украине</title>
-      <link>https://www.bbc.com/russian/articles/crx20k5j94x5o</link>
-      <description>Антикоррупционные органы Украины в громком деле под названием «Карфаген» постоянно упоминают группировку «Химпром», с которой, как утверждают детективы, были связаны должностные лица правоохранительных органов Украины. Им инкриминируют крышевание колл-центров, продажу наркотиков, фальшивомонетничество и другие преступления.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/crx20k5j94x5o</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Как Москва украинизировала Россию</title>
-      <link>https://www.bbc.com/russian/articles/cmdx1vzppngro</link>
-      <description>В 20-е годы XX века Россия не преследовала на своей территории украинскую культуру и язык и не утверждала, будто россияне и украинцы — один народ. Напротив, она способствовала открытию украинских школ, библиотек и техникумов в тех регионах РСФСР, где проживали украинские общины.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmdx1vzppngro</guid>
-      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>«Правильная регистрация ChatGPT из России». Как госструктуры ищут доступ к западному ИИ</title>
       <link>https://www.bbc.com/russian/articles/cmn4kxk970yvo</link>
       <description>Би-би-си нашла около ста заявок на доступ к зарубежным нейросетям. Среди заказчиков — организатор закупок президентских проектов и институт под санкциями США.</description>
@@ -173,7 +159,7 @@
       <link>https://www.bbc.com/russian/watch/c5rmg7l9dlgmo</link>
       <description>Недавно стало известно, что из России бежала активистка из Pussy Riot* Рита Флорес. Она рассказала, что больше трех лет сотрудничала с ФСБ России.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/watch/c5rmg7l9dlgmo</guid>
-      <pubDate>Fri, 20 Nov 2026 01:26:13 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 09:09:30 +0000</pubDate>
     </item>
     <item>
       <title>«Здесь можно воевать только лоб в лоб». Репортаж Би-би-си из газопровода, в котором ВСУ ведут подземную войну</title>
@@ -185,8 +171,9 @@
     <item>
       <title>«Никто не знает, как сделать лучше». Почему в России массово закрывают роддома</title>
       <link>https://www.bbc.com/russian/articles/cm7826p12q18o</link>
+      <description>С 2020 года в России закрылось каждое шестое родильное отделение, подсчитала Би-би-си. Это связано с реформированием медицинской помощи беременным — ее переводят в перинатальные центры, расположенные в крупных городах. Теперь беременным из отдаленных городов или поселков приходится ездить в региональные центры на плановые обследования и роды. Русская служба Би-би-си рассказывает, как сейчас устроена в России медицинская помощь беременным.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm7826p12q18o</guid>
-      <pubDate>Fri, 20 Nov 2026 01:26:13 +0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
