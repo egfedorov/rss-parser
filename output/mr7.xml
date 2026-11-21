@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 21 Nov 2026 14:46:50 +0000</lastBuildDate>
-    <item>
-      <title>«Россия без Голливуда»: как выпускать 52 «Чебурашки» в год и бороться с нелегальным прокатом кино, обсудили на «культурном форуме»</title>
-      <link>https://mr-7.ru/articles/2026/09/25/rossiia-bez-gollivuda-kak-vypuskat-52-cheburashki-v-god-i-borotsia-s-nelegalnym-prokatom-kino-obsudili-na-kulturnom-forume</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/25/rossiia-bez-gollivuda-kak-vypuskat-52-cheburashki-v-god-i-borotsia-s-nelegalnym-prokatom-kino-obsudili-na-kulturnom-forume</guid>
-      <enclosure url="https://mr-7.ru/static/records/84f38504a9a646b8b168a768b9723264.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 25 Sep 2026 15:10:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Nov 2026 20:48:37 +0000</lastBuildDate>
     <item>
       <title>А это точно искусство? Что происходит с Петербургом, когда город превращают в экран</title>
       <link>https://mr-7.ru/articles/2026/09/25/a-eto-tochno-iskusstvo-chto-proiskhodit-s-peterburgom-kogda-gorod-prevrashchaiut-v-ekran</link>
@@ -357,6 +350,13 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/11/20/prazdnichnyi-obval-k-novomu-godu-i-rozhdestvu-peterburg-ukrasiat-za-770-millionov-eto-v-dva-raz-deshevle-chem-v-2025-m</guid>
       <enclosure url="https://mr-7.ru/static/records/c54d863af8164885924431e2bac508ae.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 20 Nov 2026 13:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Это тоже Петербург: Купчино между парками</title>
+      <link>https://mr-7.ru/articles/2026/11/21/eto-tozhe-peterburg-kupchino-mezhdu-parkami-news</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/11/21/eto-tozhe-peterburg-kupchino-mezhdu-parkami-news</guid>
+      <enclosure url="https://mr-7.ru/static/records/48ce2e21ac2047f5bb950d5e1019276e.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 21 Nov 2026 14:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
