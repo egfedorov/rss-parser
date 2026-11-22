@@ -7,39 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 22 Nov 2026 08:09:17 +0000</lastBuildDate>
-    <item>
-      <title>СМИ: Маколей Калкин снова сыграет Кевина Маккаллистера в продолжении «Один дома»</title>
-      <link>https://mostmedia.org/ru/posts/smi-makoley-kalkin-snova-sygraet-kevina-makkallistera-v-prodolzhenii-odin-doma</link>
-      <description>20th Century Studios работает над продолжением франшизы «Один дома», и в нем Маколей Калкин снова сыграет Кевина Маккаллистера. Сценарий пишут Сет Роген и Эван Голдберг по идее Калкина; проект пока находится на ранней стадии разработки.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/smi-makoley-kalkin-snova-sygraet-kevina-makkallistera-v-prodolzhenii-odin-doma</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/2/f/4/6/5/2f46516e649a6d8980ca18c3d0b8ef39.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 22 Nov 2026 03:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Татьяна Ким покинула пост гендиректора Wildberries, компанию возглавил Алексей Куликов</title>
-      <link>https://mostmedia.org/ru/posts/tatjana-kim-pokinula-post-gendirektora-wildberries-kompaniju-vozglavil-alexey-kulikov</link>
-      <description>Татьяна Ким покинула должность гендиректора маркетплейса Wildberries. По данным ЕГРЮЛ, этот пост занял топ-менеджер компании Алексей Куликов.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/tatjana-kim-pokinula-post-gendirektora-wildberries-kompaniju-vozglavil-alexey-kulikov</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/5/b/9/9/1/5b991b3131742e386b89519453ab6377.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 22 Nov 2026 03:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Суд в Москве оштрафовал «Медузу» на 250 тысяч рублей за анонс книги «Неудобное место»</title>
-      <link>https://mostmedia.org/ru/posts/sud-v-moskve-oshtrafoval-meduzu-na-250-tysjach-rubley-za-anons-knigi-neudobnoe-mesto</link>
-      <description>18 ноября мировая судья участка № 374 в Москве Александра Михалева оштрафовала «Медузу» на 250 тысяч рублей по статье 13.15 КоАП о злоупотреблении свободой СМИ. Поводом стал анонс книги «Неудобное место» в телеграм-канале «Медуза — Books» от 25 мая.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/sud-v-moskve-oshtrafoval-meduzu-na-250-tysjach-rubley-za-anons-knigi-neudobnoe-mesto</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/8/8/9/7/6/88976b9da6e8b8356c074ac8783c597b.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 22 Nov 2026 03:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Дрозденко сообщил об атаке двух беспилотников на сухогруз в Финском заливе</title>
-      <link>https://mostmedia.org/ru/posts/drozdenko-soobshil-ob-atake-dvuh-bespilotnikov-na-suhogruz-v-finskom-zalive</link>
-      <description>Губернатор Ленинградской области Александр Дрозденко сообщил, что в нейтральных водах Финского залива два украинских беспилотника атаковали грузовое судно, шедшее в Калининград. По его словам, последствия уточняются, а эвакуация экипажа не потребовалась.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/drozdenko-soobshil-ob-atake-dvuh-bespilotnikov-na-suhogruz-v-finskom-zalive</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/8/2/4/0/e/8240e9931d4b5d5afbf24fa0f21a12b3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 22 Nov 2026 03:14:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Nov 2026 16:25:16 +0000</lastBuildDate>
     <item>
       <title>ФБР расследует возможный взлом базы NCIC, которой пользуются правоохранители США</title>
       <link>https://mostmedia.org/ru/posts/fbr-rassleduet-vozmozhnyi-vzlom-bazy-ncic-kotoroi-polzujutsja-pravoohraniteli-ssha</link>
@@ -81,12 +49,44 @@
       <pubDate>Sun, 22 Nov 2026 10:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>На лайнере Villa Vie Odyssey у берегов Сингапура остаются более 60 членов экипажа</title>
+      <title>Лайнер из «бесконечного круиза» застрял у берегов Сингапура</title>
       <link>https://mostmedia.org/ru/posts/na-lainere-villa-vie-odyssey-u-beregov-singapura-ostajutsja-bolee-60-chlenov-ekipazha</link>
       <description>Более 60 членов экипажа круизного лайнера Villa Vie Odyssey остаются на борту судна у берегов Сингапура спустя более трех недель после того, как пассажиры сошли на берег. Судно арестовано по решению суда, а для схода экипажа на берег, по словам соучредителя Villa Vie, нужно одобрение шерифа Сингапура.</description>
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/na-lainere-villa-vie-odyssey-u-beregov-singapura-ostajutsja-bolee-60-chlenov-ekipazha</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/7/0/2/b/3/702b3f66bab395db00bd6f0391499321.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/0/5/5/c/7/055c7f34d09a10ca53516f2df5f8c3ed.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 22 Nov 2026 10:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Президент Южной Кореи принял отставку министра образования после скандала с правилами CSAT</title>
+      <link>https://mostmedia.org/ru/posts/prezident-juzhnoi-korei-prinjal-otstavku-ministra-obrazovania-posle-skandala-s-pravilami-csat</link>
+      <description>Президент Южной Кореи Ли Чжэ Мен принял отставку министра образования Чхве Ге Джин после скандала вокруг новых правил для общенационального вступительного экзамена в вузы (CSAT). По данным Yonhap, правила меняли в последний момент, что вызвало неразбериху среди экзаменуемых и учителей.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/prezident-juzhnoi-korei-prinjal-otstavku-ministra-obrazovania-posle-skandala-s-pravilami-csat</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/9/b/e/b/d/9bebdfe3681f024ebbc93a99bca828fe.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 22 Nov 2026 11:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Астероид 2026 QQ8 временно стал спутником Земли</title>
+      <link>https://mostmedia.org/ru/posts/asteroid-2026-qq8-vremenno-stal-sputnikom-zemli</link>
+      <description>Астероид 2026 QQ8 временно оказался под влиянием гравитации Земли. Небольшое небесное тело диаметром около двух метров, по оценке астрономов, останется рядом с планетой до начала декабря, после чего покинет сферу ее гравитационного влияния и продолжит движение вокруг Солнца.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/asteroid-2026-qq8-vremenno-stal-sputnikom-zemli</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/4/a/8/7/d/4a87dbb7417de08e2c51609eb8ab3de9.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 22 Nov 2026 11:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Никитин рассказал о постоянном оседании вирусов и бактерий из атмосферы на Землю</title>
+      <link>https://mostmedia.org/ru/posts/nikitin-rasskazal-o-postojannom-osedanii-virusov-i-baktery-iz-atmosfery-na-zemlju</link>
+      <description>Профессор МГУ Николай Никитин сообщил, что в пограничном слое атмосферы Земли постоянно идет перенос вирусных и бактериальных частиц, которые оседают на поверхность планеты. По его словам, за сутки на квадратный метр может выпадать несколько миллиардов таких частиц.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/nikitin-rasskazal-o-postojannom-osedanii-virusov-i-baktery-iz-atmosfery-na-zemlju</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/c/f/7/5/c/cf75caad0e4355c9a8f24b02aee67bd1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 22 Nov 2026 12:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Шереметьеве возбудили дело о незаконном производстве алкоголя для рейсов бизнес-класса</title>
+      <link>https://mostmedia.org/ru/posts/v-sheremeteve-vozbudili-delo-o-nezakonnom-proizvodstve-alkogolja-dlja-reysov-biznes-klassa</link>
+      <description>Вблизи аэропорта Шереметьево возбудили уголовное дело о незаконном производстве алкоголя после обнаружения подпольного цеха с напитком под этикеткой «Лимончелло». По данным правоохранительных органов, его предлагали пассажирам рейсов бизнес-класса.</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/v-sheremeteve-vozbudili-delo-o-nezakonnom-proizvodstve-alkogolja-dlja-reysov-biznes-klassa</guid>
+      <enclosure url="https://mostmedia.org/uploads/ogimages/1/5/e/6/e/15e6e97e86e58f8ac99998e5c6f9198a.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 22 Nov 2026 12:21:00 +0000</pubDate>
     </item>
     <item>
       <title>Роковое письмо Веры Засулич. Почему советская модель социализма потерпела крах</title>
