@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 23 Nov 2026 11:15:03 +0000</lastBuildDate>
-    <item>
-      <title>Лидер партии «Сильная Армения» Карапетян — номинальный владелец виллы в Ницце, где жила Алина Кабаева. Вилла куплена на деньги Газпромбанка</title>
-      <link>https://theins.ru/inv/292939</link>
-      <guid isPermaLink="false">https://theins.ru/inv/292939</guid>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Nov 2026 22:44:15 +0000</lastBuildDate>
     <item>
       <title>«Болезнь Пашиняна», «грядущая война с Россией» и «газовые камеры на Арарате». Как Кремль наводнил Армению фейками накануне выборов</title>
       <link>https://theins.ru/inv/292894</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/inv/299274</link>
       <guid isPermaLink="false">https://theins.ru/inv/299274</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Полмиллиона погибших в войне с российской стороны — это следует из взломанных данных Росстата. The Insider установил имена большинства</title>
+      <link>https://theins.ru/inv/299893</link>
+      <guid isPermaLink="false">https://theins.ru/inv/299893</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
