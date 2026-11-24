@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 24 Nov 2026 06:49:42 +0000</lastBuildDate>
-    <item>
-      <title>«Под тебя копают менты». Как журналистка Дарья Шипачева получила 12 лет за помощь ВСУ</title>
-      <link>https://www.bbc.com/russian/articles/c5n4934vzxxlo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c5n4934vzxxlo</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Nov 2026 18:43:10 +0000</lastBuildDate>
     <item>
       <title>«Этот очень глупый генерал — сомневаюсь, что он еще жив». Кого Трамп обвинил в провале российского наступления на Киев</title>
       <link>https://www.bbc.com/russian/articles/cwp8g5xg6gm0o</link>
@@ -42,7 +36,7 @@
       <title>Видео,Поколение Z военного времени. Почему российская молодежь не протестует? | При участии Екатерины Шульман, Продолжительность 1,03,25</title>
       <link>https://www.bbc.com/russian/articles/cm74p0y5glnjo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm74p0y5glnjo</guid>
-      <pubDate>Tue, 24 Nov 2026 06:49:43 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 18:43:11 +0000</pubDate>
     </item>
     <item>
       <title>Недружественные. Как западные дипломаты живут и работают в России во время войны</title>
@@ -117,6 +111,12 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>«Никто не знает, как сделать лучше». Почему в России массово закрывают роддома</title>
+      <link>https://www.bbc.com/russian/articles/cm7826p12q18o</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm7826p12q18o</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Роберт Паттинсон: как звезда «Сумерек» стал агентом 007</title>
       <link>https://www.bbc.com/russian/articles/c3y0xne07exeo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3y0xne07exeo</guid>
@@ -135,37 +135,16 @@
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Полмиллиона погибших. Что утечка Росстата рассказала о потерях России в Украине</title>
-      <link>https://www.bbc.com/russian/articles/cm20qnwdlr6do</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm20qnwdlr6do</guid>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Гибель журналистки Рощиной после пыток в российском плену объяснили «заболеванием». Би-би-си нашла запись в утечке Росстата</title>
       <link>https://www.bbc.com/russian/articles/c8g46vykr0ndo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8g46vykr0ndo</guid>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Никто не знает, как сделать лучше». Почему в России массово закрывают роддома</title>
-      <link>https://www.bbc.com/russian/articles/cm7826p12q18o</link>
-      <description>С 2020 года в России закрылось каждое шестое родильное отделение, подсчитала Би-би-си. Это связано с реформированием медицинской помощи беременным — ее переводят в перинатальные центры, расположенные в крупных городах. Теперь беременным из отдаленных городов или поселков приходится ездить в региональные центры на плановые обследования и роды. Русская служба Би-би-си рассказывает, как сейчас устроена в России медицинская помощь беременным.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm7826p12q18o</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IPO Anthropic. Как создатель Claude продает билеты в страну чудес и страховки от ИИ-апокалипсиса</title>
-      <link>https://www.bbc.com/russian/articles/c3ewv54v5yk2o</link>
-      <description>Впервые обещания визионеров и мечтателей пройдут проверку реальностью и покажут, насколько широкая публика готова поверить в революционную технологию ИИ.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c3ewv54v5yk2o</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>История первого интервью Литвиненко после отравления, которое 20 лет назад изменило отношения России с Западом</title>
-      <link>https://www.bbc.com/russian/articles/c893ryyqw9weo</link>
-      <description>За 12 дней до смерти Александр Литвиненко дал короткое интервью корреспонденту Би-би-си, которое стало первым после отравления — и оказалось последней обнародованной записью его разговора с журналистами.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c893ryyqw9weo</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Тысячи смертей за «избушку лесника». Сколько Россия потеряла в боях за небольшие украинские села</title>
+      <link>https://www.bbc.com/russian/articles/cq143k44pe7xo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq143k44pe7xo</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Почему Британия не вернется в ЕС в обозримом будущем, а возможно, и никогда</title>
@@ -175,11 +154,11 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Война пленок и «Мексиканец» без лица. Как развивается дело «Карфаген-2»</title>
-      <link>https://www.bbc.com/russian/articles/c8vg2pp5er0do</link>
-      <description>Би-би-си рассказывает о развитии главных сюжетных линий «Карфагена-2» — пожалуй, самого резонансного уголовного дела, расследующегося сейчас в Украине.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8vg2pp5er0do</guid>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <title>История первого интервью Литвиненко после отравления, которое 20 лет назад изменило отношения России с Западом</title>
+      <link>https://www.bbc.com/russian/articles/c893ryyqw9weo</link>
+      <description>За 12 дней до смерти Александр Литвиненко дал короткое интервью корреспонденту Би-би-си, которое стало первым после отравления — и оказалось последней обнародованной записью его разговора с журналистами.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c893ryyqw9weo</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>«Возможность раскрыть тайны». В Азербайджане молодые журналистки превратили СИЗО в выездную редакцию</title>
@@ -189,6 +168,27 @@
       <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Война пленок и «Мексиканец» без лица. Как развивается дело «Карфаген-2»</title>
+      <link>https://www.bbc.com/russian/articles/c8vg2pp5er0do</link>
+      <description>Би-би-си рассказывает о развитии главных сюжетных линий «Карфагена-2» — пожалуй, самого резонансного уголовного дела, расследующегося сейчас в Украине.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8vg2pp5er0do</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пашинян предложил проект конституции Армении, закрепляющий отказ от Карабаха. Азербайджан доволен, но для его принятия нужен референдум</title>
+      <link>https://www.bbc.com/russian/articles/crwy47l5q5w0o</link>
+      <description>Пашинян представил проект новой конституции Армении, но для проведения референдума ему могут понадобиться досрочные выборы.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/crwy47l5q5w0o</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Видео,Каковы реальные потери России на войне?, Продолжительность 28,14</title>
+      <link>https://www.bbc.com/russian/watch/cmeq4g1j248xo</link>
+      <description>Что утекшие данные Росстата говорят о погибших на войне россиянах</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/watch/cmeq4g1j248xo</guid>
+      <pubDate>Tue, 24 Nov 2026 18:43:11 +0000</pubDate>
+    </item>
+    <item>
       <title>«Безвизовых альтернатив больше нет». Действительно ли трудовые мигранты уезжают из России в Европу?</title>
       <link>https://www.bbc.com/russian/articles/c6wy4g2v8792o</link>
       <description>На фоне последовательного ужесточения законов и правил для иностранцев в России, все больше граждан Центральной Азии выбирают ехать в Европу. Можно ли говорить о смене трендов? Русская служба Би-би-си попробовала разобраться в меняющихся потоках и маршрутах.</description>
@@ -196,10 +196,10 @@
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Каковы реальные потери России на войне?</title>
-      <link>https://www.bbc.com/russian/watch/cmeq4g1j248xo</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/watch/cmeq4g1j248xo</guid>
-      <pubDate>Tue, 24 Nov 2026 06:49:43 +0000</pubDate>
+      <title>Полмиллиона погибших. Что утечка Росстата рассказала о потерях России в Украине</title>
+      <link>https://www.bbc.com/russian/articles/cm20qnwdlr6do</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm20qnwdlr6do</guid>
+      <pubDate>Tue, 24 Nov 2026 18:43:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
