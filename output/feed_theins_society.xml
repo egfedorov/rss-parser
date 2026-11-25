@@ -6,13 +6,7 @@
     <description>RSS-лента с раздела "Общество" сайта The Insider</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 12:33:10 +0000</lastBuildDate>
-    <item>
-      <title>Картонные гробы и памятники из столешниц: как хоронят россиян на пятый год войны</title>
-      <link>https://theins.ru/obshestvo/289410</link>
-      <guid isPermaLink="false">https://theins.ru/obshestvo/289410</guid>
-      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Nov 2026 21:58:24 +0000</lastBuildDate>
     <item>
       <title>Снято! ... с проката. Почему все больше российских фильмов кладут на полку без перспективы показа</title>
       <link>https://theins.ru/obshestvo/289405</link>
@@ -222,6 +216,12 @@
       <link>https://theins.ru/obshestvo/299084</link>
       <guid isPermaLink="false">https://theins.ru/obshestvo/299084</guid>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Русь не играет в хоккей. Решение суда о возвращении сборной РФ на турниры лишь ухудшило положение российских спортсменов</title>
+      <link>https://theins.ru/obshestvo/299931</link>
+      <guid isPermaLink="false">https://theins.ru/obshestvo/299931</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
