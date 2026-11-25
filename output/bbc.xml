@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 25 Nov 2026 02:57:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:33:09 +0000</lastBuildDate>
     <item>
       <title>«Этот очень глупый генерал — сомневаюсь, что он еще жив». Кого Трамп обвинил в провале российского наступления на Киев</title>
       <link>https://www.bbc.com/russian/articles/cwp8g5xg6gm0o</link>
@@ -36,7 +36,7 @@
       <title>Видео,Поколение Z военного времени. Почему российская молодежь не протестует? | При участии Екатерины Шульман, Продолжительность 1,03,25</title>
       <link>https://www.bbc.com/russian/articles/cm74p0y5glnjo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm74p0y5glnjo</guid>
-      <pubDate>Wed, 25 Nov 2026 02:57:42 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 12:33:09 +0000</pubDate>
     </item>
     <item>
       <title>Недружественные. Как западные дипломаты живут и работают в России во время войны</title>
@@ -135,6 +135,12 @@
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Полмиллиона погибших. Что утечка Росстата рассказала о потерях России в Украине</title>
+      <link>https://www.bbc.com/russian/articles/cm20qnwdlr6do</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm20qnwdlr6do</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Тысячи смертей за «избушку лесника». Сколько Россия потеряла в боях за небольшие украинские села</title>
       <link>https://www.bbc.com/russian/articles/cq143k44pe7xo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq143k44pe7xo</guid>
@@ -173,7 +179,7 @@
       <link>https://www.bbc.com/russian/watch/cmeq4g1j248xo</link>
       <description>Что утекшие данные Росстата говорят о погибших на войне россиянах</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/watch/cmeq4g1j248xo</guid>
-      <pubDate>Wed, 25 Nov 2026 02:57:42 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 12:33:09 +0000</pubDate>
     </item>
     <item>
       <title>Гибель журналистки Рощиной после пыток в российском плену объяснили «заболеванием». Би-би-си нашла запись в утечке Росстата</title>
@@ -188,12 +194,6 @@
       <description>На фоне последовательного ужесточения законов и правил для иностранцев в России, все больше граждан Центральной Азии выбирают ехать в Европу. Можно ли говорить о смене трендов? Русская служба Би-би-си попробовала разобраться в меняющихся потоках и маршрутах.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6wy4g2v8792o</guid>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Полмиллиона погибших. Что утечка Росстата рассказала о потерях России в Украине</title>
-      <link>https://www.bbc.com/russian/articles/cm20qnwdlr6do</link>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm20qnwdlr6do</guid>
-      <pubDate>Wed, 25 Nov 2026 02:57:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

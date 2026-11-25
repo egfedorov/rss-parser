@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 25 Nov 2026 02:57:34 +0000</lastBuildDate>
-    <item>
-      <title>Лебединая песнь хромой утки. Чем опасны последние два года президентства Трампа</title>
-      <link>https://theins.ru/politika/296448</link>
-      <guid isPermaLink="false">https://theins.ru/politika/296448</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Nov 2026 12:32:57 +0000</lastBuildDate>
     <item>
       <title>Дроны-смертники. Как беспилотники позволяют террористам из «Хезболлы» удерживать позиции в Ливане, несмотря на превосходство Израиля</title>
       <link>https://theins.ru/politika/296348</link>
@@ -223,6 +217,12 @@
       <link>https://theins.ru/politika/299695</link>
       <guid isPermaLink="false">https://theins.ru/politika/299695</guid>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вулин вместо Вучича. Как Россия пытается сохранить влияние на Балканах после смены власти в Сербии</title>
+      <link>https://theins.ru/politika/299730</link>
+      <guid isPermaLink="false">https://theins.ru/politika/299730</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

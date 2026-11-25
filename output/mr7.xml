@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 25 Nov 2026 02:57:29 +0000</lastBuildDate>
-    <item>
-      <title>А это точно искусство? Что происходит с Петербургом, когда город превращают в экран</title>
-      <link>https://mr-7.ru/articles/2026/09/25/a-eto-tochno-iskusstvo-chto-proiskhodit-s-peterburgom-kogda-gorod-prevrashchaiut-v-ekran</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/25/a-eto-tochno-iskusstvo-chto-proiskhodit-s-peterburgom-kogda-gorod-prevrashchaiut-v-ekran</guid>
-      <enclosure url="https://mr-7.ru/static/records/f4134ad512d549dabc4b0c638a900758.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 25 Sep 2026 18:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Воспитывать детей через театр</title>
-      <link>https://mr-7.ru/articles/2026/09/26/vospityvat-detei-cherez-teatr</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/26/vospityvat-detei-cherez-teatr</guid>
-      <enclosure url="https://mr-7.ru/static/records/d4095893d964472d9675183478d9c9da.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 26 Sep 2026 08:07:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Nov 2026 12:32:53 +0000</lastBuildDate>
     <item>
       <title>Путь бюллетеня</title>
       <link>https://mr-7.ru/articles/2026/09/27/put-biulletenia</link>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/11/21/eto-tozhe-peterburg-kupchino-mezhdu-parkami-news</guid>
       <enclosure url="https://mr-7.ru/static/records/48ce2e21ac2047f5bb950d5e1019276e.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 21 Nov 2026 14:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Леса сняли, вопросы остались: как в Петербурге «обновили» доходный дом Белова</title>
+      <link>https://mr-7.ru/articles/2026/11/25/lesa-sniali-voprosy-ostalis-kak-v-peterburge-obnovili-dokhodnyi-dom-belova</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/11/25/lesa-sniali-voprosy-ostalis-kak-v-peterburge-obnovili-dokhodnyi-dom-belova</guid>
+      <enclosure url="https://mr-7.ru/static/records/b6229e185e4c44d582c873ca2a24e89a.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 25 Nov 2026 10:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Я могу жить только на свободе» — история бездомного петербуржца с ментальным заболеванием</title>
+      <link>https://mr-7.ru/articles/2026/11/25/ia-mogu-zhit-tolko-na-svobode-istoriia-bezdomnogo-peterburzhtsa-s-mentalnym-zabolevaniem</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/11/25/ia-mogu-zhit-tolko-na-svobode-istoriia-bezdomnogo-peterburzhtsa-s-mentalnym-zabolevaniem</guid>
+      <enclosure url="https://mr-7.ru/static/records/5e4297bd58c647c2a92e119522534d7c.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 25 Nov 2026 11:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
