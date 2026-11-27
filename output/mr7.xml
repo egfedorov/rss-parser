@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 27 Nov 2026 05:08:22 +0000</lastBuildDate>
-    <item>
-      <title>Прокурор просит приговорить обвиняемого в «фейках об армии» Егора Гуляева к 12 годам лишения свободы за три репоста</title>
-      <link>https://mr-7.ru/articles/2026/09/28/prokuror-prosit-prigovorit-obviniaemogo-v-feikakh-ob-armii-egora-guliaeva-k-12-godam-lisheniia-svobody-za-tri-reposta</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/28/prokuror-prosit-prigovorit-obviniaemogo-v-feikakh-ob-armii-egora-guliaeva-k-12-godam-lisheniia-svobody-za-tri-reposta</guid>
-      <enclosure url="https://mr-7.ru/static/records/7a5a8e17c74d4907b39aa516dee0b40f.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 28 Sep 2026 14:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ветераны СВО и чиновники Смольного: кто впервые занял депутатские места в Заксобрании Петербурга</title>
-      <link>https://mr-7.ru/articles/2026/09/29/veterany-svo-i-chinovniki-smolnogo-kto-vpervye-zanial-deputatskie-mesta-v-zaksobranii-peterburga</link>
-      <guid isPermaLink="false">https://mr-7.ru/articles/2026/09/29/veterany-svo-i-chinovniki-smolnogo-kto-vpervye-zanial-deputatskie-mesta-v-zaksobranii-peterburga</guid>
-      <enclosure url="https://mr-7.ru/static/records/29a01cc6f8c14f78a319bb7e4ed7c022.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 29 Sep 2026 13:25:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Nov 2026 15:16:38 +0000</lastBuildDate>
     <item>
       <title>Посты о СВО, экспертизы и положительные характеристики от коллег обвиняемого в «фейках об армии» петербуржца изучил суд</title>
       <link>https://mr-7.ru/articles/2026/09/29/posty-o-svo-ekspertizy-i-polozhitelnye-kharakteristiki-ot-kolleg-obviniaemogo-v-feikakh-ob-armii-peterburzhtsa-izuchil-sud</link>
@@ -345,7 +331,7 @@
       <pubDate>Wed, 25 Nov 2026 11:24:00 +0000</pubDate>
     </item>
     <item>
-      <title>175 тысяч тонн соли, немного «Бионорода» и отказ от пескосоли — как будут бороться с гололёдом этой зимой</title>
+      <title>175 тысяч тонн соли, немного «Бионорда» и отказ от пескосоли — как будут бороться с гололёдом этой зимой</title>
       <link>https://mr-7.ru/articles/2026/11/26/175-tysiach-tonn-soli-nemnogo-bionoroda-i-otkaz-ot-peskosoli-kak-budut-borotsia-s-gololedom-etoi-zimoi</link>
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/11/26/175-tysiach-tonn-soli-nemnogo-bionoroda-i-otkaz-ot-peskosoli-kak-budut-borotsia-s-gololedom-etoi-zimoi</guid>
       <enclosure url="https://mr-7.ru/static/records/59a94a78b32740559781df09e131c7cc.jpeg" length="0" type="image/jpeg"/>
@@ -357,6 +343,20 @@
       <guid isPermaLink="false">https://mr-7.ru/articles/2026/11/26/khoroshii-paren-ne-pet-ne-kurit-v-peterburge-taksista-sudiat-za-posty-o-buche-i-sdache-v-plen</guid>
       <enclosure url="https://mr-7.ru/static/records/c1a844da8f6643f197dcb4164cb7ffbe.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 26 Nov 2026 15:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 поводов выйти из дома 28-29 ноября</title>
+      <link>https://mr-7.ru/articles/2026/11/27/7-povodov-vyiti-iz-doma-28-29-noiabria</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/11/27/7-povodov-vyiti-iz-doma-28-29-noiabria</guid>
+      <enclosure url="https://mr-7.ru/static/records/d233bde379ce44f08327096827d63c00.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 27 Nov 2026 11:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Нефтяной след на годы: чем загрязнение Муринского ручья может обернуться для Петербурга</title>
+      <link>https://mr-7.ru/articles/2026/11/27/neftianoi-sled-na-gody-chem-zagriaznenie-murinskogo-ruchia-mozhet-obernutsia-dlia-peterburga</link>
+      <guid isPermaLink="false">https://mr-7.ru/articles/2026/11/27/neftianoi-sled-na-gody-chem-zagriaznenie-murinskogo-ruchia-mozhet-obernutsia-dlia-peterburga</guid>
+      <enclosure url="https://mr-7.ru/static/records/ebdc02d982d04112880d79a123d2f490.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 27 Nov 2026 12:14:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
