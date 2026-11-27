@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 26 Nov 2026 23:04:39 +0000</lastBuildDate>
-    <item>
-      <title>Суд Краснодара обратил в доход государства имущество бывшего первого вице-губернатора Кубани Игоря Галася на более чем 970 млн рублей</title>
-      <link>https://mostmedia.org/ru/posts/sud-krasnodara-obratil-v-dohod-gosudarstva-imushestvo-byvshego-pervogo-vice-gubernatora-kubani-igorja-galasja-na-bolee-chem-970-mln-rubley</link>
-      <description>Ленинский районный суд Краснодара удовлетворил иск Генпрокуратуры об изъятии имущества бывшего первого вице-губернатора Кубани Игоря Галася, его родственников и доверенных лиц на сумму более 970 млн рублей. По решению суда в доход государства обращены 63 объекта движимого и недвижимого имущества, в том числе квартиры, земельные участки и пять автомобилей.</description>
-      <guid isPermaLink="false">https://mostmedia.org/ru/posts/sud-krasnodara-obratil-v-dohod-gosudarstva-imushestvo-byvshego-pervogo-vice-gubernatora-kubani-igorja-galasja-na-bolee-chem-970-mln-rubley</guid>
-      <enclosure url="https://mostmedia.org/uploads/ogimages/7/8/b/3/c/78b3c01ff640e8b0e36e58e28aa15443.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 26 Nov 2026 14:55:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Nov 2026 05:08:26 +0000</lastBuildDate>
     <item>
       <title>Сыктывкарский университет решил убрать имя Питирима Сорокина из названия</title>
       <link>https://mostmedia.org/ru/posts/sgu-reshil-ubrat-imja-pitirima-sorokina-iz-nazvania</link>
@@ -103,6 +95,14 @@
       <guid isPermaLink="false">https://mostmedia.org/ru/posts/posledny-bastion-amerikanskaja-sudebnaja-sistema-protiv-trampizma</guid>
       <enclosure url="https://mostmedia.org/uploads/files/b/4/8/8/f/b488fba3b2b94bd616d2ac357cee6cd2.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 27 Nov 2026 01:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Страна и мир: 10 вопросов о будущем</title>
+      <link>https://mostmedia.org/ru/posts/strana-i-mir-10-voprosov-o-budushem</link>
+      <description>Настроения элит и рядовых граждан на исходе пятого года войны с Украиной, проблемы транзита власти и другие сюжеты, которые сегодня невозможно открыто обсуждать в России</description>
+      <guid isPermaLink="false">https://mostmedia.org/ru/posts/strana-i-mir-10-voprosov-o-budushem</guid>
+      <enclosure url="https://mostmedia.org/uploads/files/d/3/b/a/5/d3ba50f147207046513677aa051ed85b.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 27 Nov 2026 03:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

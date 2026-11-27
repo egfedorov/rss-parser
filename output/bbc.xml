@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 26 Nov 2026 23:04:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:08:39 +0000</lastBuildDate>
     <item>
       <title>«Пытаются ему сделать репутацию обычного наркопотребителя». В Ижевске левого активиста арестовали по делу о наркотиках</title>
       <link>https://www.bbc.com/russian/articles/ck4g1jz75wqeo</link>
@@ -18,7 +18,7 @@
       <title>Видео,Поколение Z военного времени. Почему российская молодежь не протестует? | При участии Екатерины Шульман, Продолжительность 1,03,25</title>
       <link>https://www.bbc.com/russian/articles/cm74p0y5glnjo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm74p0y5glnjo</guid>
-      <pubDate>Thu, 26 Nov 2026 23:04:53 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 05:08:39 +0000</pubDate>
     </item>
     <item>
       <title>Недружественные. Как западные дипломаты живут и работают в России во время войны</title>
@@ -117,6 +117,12 @@
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Гибель журналистки Рощиной после пыток в российском плену объяснили «заболеванием». Би-би-си нашла запись в утечке Росстата</title>
+      <link>https://www.bbc.com/russian/articles/c8g46vykr0ndo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8g46vykr0ndo</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>НАТО готовится защищаться от российского боевого ядерного спутника. О чем речь и насколько реальна угроза?</title>
       <link>https://www.bbc.com/russian/articles/c6wy4kgwmrpvo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6wy4kgwmrpvo</guid>
@@ -129,24 +135,10 @@
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Гибель журналистки Рощиной после пыток в российском плену объяснили «заболеванием». Би-би-си нашла запись в утечке Росстата</title>
-      <link>https://www.bbc.com/russian/articles/c8g46vykr0ndo</link>
-      <description>Смерть 27-летней украинской журналистки Виктории Рощиной, погибшей в российском плену, в российских документах объяснили заболеванием сердца и отеком легких. Би-би-си обнаружила эти сведения в утечке Росстата. Они появились в базе ведомства почти через пять месяцев после ее гибели — незадолго до того, как тело вернули в Украину со следами пыток и без некоторых органов.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c8g46vykr0ndo</guid>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Карточный домик рухнет». Как индустрия ИИ меняет Сан-Франциско и что будет с городом, если случится крах</title>
-      <link>https://www.bbc.com/russian/articles/cj3vgdx2009ko</link>
-      <description>Бум в сфере искусственного интеллекта помогает развивать экономику Сан-Франциско. Однако некоторые в отрасли опасаются, что этот рынок перегрет, и возможный крах приведет к тяжелым последствиям для города.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cj3vgdx2009ko</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Безвизовых альтернатив больше нет». Действительно ли трудовые мигранты уезжают из России в Европу?</title>
-      <link>https://www.bbc.com/russian/articles/c6wy4g2v8792o</link>
-      <description>На фоне последовательного ужесточения законов и правил для иностранцев в России, все больше граждан Центральной Азии выбирают ехать в Европу. Можно ли говорить о смене трендов? Русская служба Би-би-си попробовала разобраться в меняющихся потоках и маршрутах.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/c6wy4g2v8792o</guid>
+      <title>Полмиллиона погибших. Что утечка Росстата рассказала о потерях России в Украине</title>
+      <link>https://www.bbc.com/russian/articles/cm20qnwdlr6do</link>
+      <description>С начала полномасштабного вторжения в Украину погибли по меньшей мере 490 334 российских военнослужащих, следует из анализа записей о смертях в файлах системы Росстат, проведенного Би-би-си и «Медиазоной» (издание в российском реестре «иноагентов»).</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm20qnwdlr6do</guid>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -157,17 +149,10 @@
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Полмиллиона погибших. Что утечка Росстата рассказала о потерях России в Украине</title>
-      <link>https://www.bbc.com/russian/articles/cm20qnwdlr6do</link>
-      <description>С начала полномасштабного вторжения в Украину погибли по меньшей мере 490 334 российских военнослужащих, следует из анализа записей о смертях в файлах системы Росстат, проведенного Би-би-си и «Медиазоной» (издание в российском реестре «иноагентов»).</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm20qnwdlr6do</guid>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Видео,Удары по мостам: изменят ли они ход войны? | Военное время, Продолжительность 11,08</title>
       <link>https://www.bbc.com/russian/watch/crpdw1yj9dx9o</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/watch/crpdw1yj9dx9o</guid>
-      <pubDate>Thu, 26 Nov 2026 23:04:53 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 05:08:39 +0000</pubDate>
     </item>
     <item>
       <title>Украина — Венгрия: что изменила встреча Зеленского с Мадьяром?</title>
@@ -179,8 +164,9 @@
     <item>
       <title>Мои родные погибли на Донбассе. Мама винила в их гибели армию Зеленского, но правда оказалась сложнее</title>
       <link>https://www.bbc.com/russian/articles/cmzxveplrxe7o</link>
+      <description>Журналистка Би-би-си Анастасия Грибанова попыталась в ходе собственного расследования выяснить, кто убил ее отца, бабушку и дедушку в ее родном селе на Донбассе.</description>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cmzxveplrxe7o</guid>
-      <pubDate>Thu, 26 Nov 2026 23:04:53 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
