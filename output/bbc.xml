@@ -7,12 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:57:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:59:59 +0000</lastBuildDate>
     <item>
       <title>Видео,Поколение Z военного времени. Почему российская молодежь не протестует? | При участии Екатерины Шульман, Продолжительность 1,03,25</title>
       <link>https://www.bbc.com/russian/articles/cm74p0y5glnjo</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/cm74p0y5glnjo</guid>
-      <pubDate>Sat, 28 Nov 2026 04:57:04 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 13:59:59 +0000</pubDate>
     </item>
     <item>
       <title>Недружественные. Как западные дипломаты живут и работают в России во время войны</title>
@@ -123,17 +123,16 @@
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Тысячи смертей за «избушку лесника». Сколько Россия потеряла в боях за небольшие украинские села</title>
+      <link>https://www.bbc.com/russian/articles/cq143k44pe7xo</link>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq143k44pe7xo</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>США предлагают Украине гарантии «как в НАТО». Поможет ли это обеспечить мир с Россией?</title>
       <link>https://www.bbc.com/russian/articles/c81dvx2ngx9no</link>
       <guid isPermaLink="false">https://www.bbc.com/russian/articles/c81dvx2ngx9no</guid>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Тысячи смертей за «избушку лесника». Сколько Россия потеряла в боях за небольшие украинские села</title>
-      <link>https://www.bbc.com/russian/articles/cq143k44pe7xo</link>
-      <description>Российская армия месяцами штурмует украинские села, где до войны жили несколько сотен человек, и теряет при этом тысячи солдат. Утечка данных Росстата позволила Русской службе Би-би-си посчитать, во что обходятся такие штурмы.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cq143k44pe7xo</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Украина — Венгрия: что изменила встреча Зеленского с Мадьяром?</title>
@@ -150,6 +149,13 @@
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Переписанные смерти. Как в России манипулируют данными об умерших</title>
+      <link>https://www.bbc.com/russian/articles/cx24ezpydnzeo</link>
+      <description>В России скрывают не только статистику по погибшим на войне с Украиной, но и гражданскую смертность, связанную с социально неодобряемыми причинами, например, с употреблением алкоголя или наркотиков, а также самоубийства. По данным из утечки Росстата видно, как количество таких смертей занижается. Россия остается в числе стран с высокой долей «неуточненных» причин смерти.</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx24ezpydnzeo</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>НАТО готовится защищаться от российского боевого ядерного спутника. О чем речь и насколько реальна угроза?</title>
       <link>https://www.bbc.com/russian/articles/c6wy4kgwmrpvo</link>
       <description>В немецкой прессе появились сообщения о готовности России запустить в космос спутник с ядерной боевой частью. Это оружие, как считают на Западе, Россия разрабатывает уже довольно давно. Однако в каком состоянии этот проект, неизвестно, а его эффективность вызывает сомнения.</description>
@@ -157,11 +163,12 @@
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Переписанные смерти. Как в России манипулируют данными об умерших</title>
-      <link>https://www.bbc.com/russian/articles/cx24ezpydnzeo</link>
-      <description>В России скрывают не только статистику по погибшим на войне с Украиной, но и гражданскую смертность, связанную с социально неодобряемыми причинами, например, с употреблением алкоголя или наркотиков, а также самоубийства. По данным из утечки Росстата видно, как количество таких смертей занижается. Россия остается в числе стран с высокой долей «неуточненных» причин смерти.</description>
-      <guid isPermaLink="false">https://www.bbc.com/russian/articles/cx24ezpydnzeo</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Видео,Есть ли у ИИ сознание? Отвечает Иван Ямщиков | Научкаст «Что это будет?», Продолжительность 1,06,46</title>
+      <link>https://www.bbc.com/russian/watch/c8r4ge1kd304o</link>
+      <description>Есть ли у ИИ сознание – и почему мы очеловечиваем нейросети. Разговор с Иваном Ямщиковым</description>
+      <guid isPermaLink="false">https://www.bbc.com/russian/watch/c8r4ge1kd304o</guid>
+      <enclosure url="https://static.files.bbci.co.uk/ws/simorgh-assets/public/images/icons/media-video.svg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
